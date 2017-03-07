@@ -16,57 +16,69 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:baselineAligned="false">
+        android:baselineAligned="false"
+        android:orientation="vertical">
 
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:id="@+id/appCompatButton3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Info"
+            android:textColor="#1A237E"
+            android:background="#C5E1A5"
             />
+
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:id="@+id/appCompatButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:text="Mappa"
+            android:textColor="#283593"
+            android:background="#AED581"
             />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:baselineAligned="false">
 
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Elenco facoltà"
+            android:textColor="#303F9F"
+            android:background="#9CCC65"
             />
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Perchè scegliere unibo"
+            android:textColor="#3949AB"
+            android:background="#8BC34A"
             />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:orientation="vertical"
         android:baselineAligned="false">
 
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Recensioni"
+            android:textColor="#3F51B5"
+            android:background="#7CB342"
             />
+
         <android.support.v7.widget.AppCompatButton
-            android:layout_width="0dp"
-            android:layout_height="100dp"
-            android:layout_weight="1"
+            android:id="@+id/appCompatButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="altro"
+            android:textColor="#5C6BC0"
+            android:background="#689F38"
             />
     </LinearLayout>
 
