@@ -73,13 +73,12 @@
             />
 
         <android.support.v7.widget.AppCompatButton
-            android:id="@+id/appCompatButton2"
+            android:id="@+id/sistemauniv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="altro"
-            android:textColor="#5C6BC0"
             android:background="#689F38"
-            />
+            android:text="altro"
+            android:textColor="#5C6BC0" />
     </LinearLayout>
 
 </LinearLayout>
