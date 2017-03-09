@@ -51,6 +51,15 @@ public class MainActivity extends AppCompatActivity
                 startActivity(i);
             }
         });
+
+        AppCompatButton sistemaunivButton = (AppCompatButton) findViewById(R.id.sistemauniv);
+        sistemaunivButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, SistemaUniversitarioActivity.class);
+                startActivity(i);
+            }
+        });
     }
 
     @Override

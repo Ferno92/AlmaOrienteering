@@ -1,16 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
     tools:context="com.almaorient.ferno92.almaorienteering.SistemaUniversitarioActivity">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="E' una cazzo di prova"
-        tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="70dp" />
-</android.support.constraint.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:layout_weight="0.19"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="0.19"
+                android:gravity="start"
+                android:text="L'organizzazione degli studi universitari si articola in tre cicli:"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:theme="@style/AppTheme" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.19"
+                android:text="-  Corsi di Studio di primo ciclo e ciclo unico: Laurea, Laurea Magistrale a ciclo unico." />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.19"
+                android:text="-  Corsi di studio di secondo ciclo: Laurea Magistrale." />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.19"
+                android:text="-  Corsi di Studio di terzo ciclo: Dottorati di Ricerca e Scuole di Specializzazione." />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="208dp"
+                android:src="@drawable/schema" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.19"
+                android:text="Laurea-180 CFU  Laurea Magistrale-120 CFU"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="0dp"
+                android:layout_weight="0.19"
+                android:text="Cosa sono i Crediti formativi universitari - CFU"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="0.19"
+                android:text="Un credito (CFU) corrisponde di norma a 25 ore di lavoro che comprendono lezioni, esercitazioni, etc., ma anche lo studio a casa. Per ogni anno accademico, ad uno studente impegnato a tempo pieno nello studio è richiesta una quantità media di lavoro fissata in 60 crediti, ossia 1500 ore."
+                android:textAlignment="textStart" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.19"
+                android:text="I CFU si acquisiscono con il superamento dell’esame o altra prova di verifica." />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.19"
+                android:text="I crediti sono un elemento che consente di comparare diversi corsi di studio delle università italiane ed europee attraverso una valutazione del carico di lavoro richiesto allo studente." />
+
+            <Button
+                android:id="@+id/urlsistema"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.19"
+                android:text="Ulteriori informazioni" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
