@@ -24,4 +24,26 @@ public class AulaModel {
         this.mLatitudine = latitudine;
         this.mLongitudine = longitudine;
     }
+
+    public String getCodice(){
+        return this.mCodice;
+    }
+
+    public String getNome(){
+        return this.mNome;
+    }
+
+    public String getIndirizzo(){
+        return this.mIndirizzo;
+    }
+
+    public String getPiano(){
+        return this.mPiano;
+    }
+    public String getLatitudine(){
+        return this.mLatitudine;
+    }
+    public String getLongitudine(){
+        return this.mLongitudine;
+    }
 }
