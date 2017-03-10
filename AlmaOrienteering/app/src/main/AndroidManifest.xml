@@ -24,8 +24,12 @@
             android:label="Scegli"
             android:theme="@style/NoTitleTheme" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".login.LoginActivity"
             android:label="Login"
+            android:theme="@style/NoTitleTheme" />
+        <activity
+            android:name=".login.SignUpActivity"
+            android:label="Registrazione"
             android:theme="@style/NoTitleTheme" />
         <activity
             android:name=".MainActivity"
@@ -36,6 +40,10 @@
             android:label="Map"
             android:theme="@style/AppTheme.NoActionBar" />
 
+        <activity
+            android:name=".SistemaUniversitarioActivity"
+            android:label="Sistema Universitario"/>
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCwOyJPW8aPkSwxseUdUa1qdPYTx6xIa5c" />
@@ -43,7 +51,6 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".SistemaUniversitarioActivity" />
     </application>
 
 </manifest>
