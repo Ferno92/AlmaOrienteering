@@ -5,80 +5,72 @@
     android:id="@+id/content_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.almaorient.ferno92.almaorienteering.MainActivity"
     tools:showIn="@layout/app_bar_main">
-    <LinearLayout
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButton3"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:baselineAligned="false"
-        android:orientation="vertical">
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_orange_light"
+        android:text="Info"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
-        <android.support.v7.widget.AppCompatButton
-            android:id="@+id/appCompatButton3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Info"
-            android:textColor="#1A237E"
-            android:background="#C5E1A5"
-            />
-
-        <android.support.v7.widget.AppCompatButton
-            android:id="@+id/appCompatButton"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="Mappa"
-            android:textColor="#283593"
-            android:background="#AED581"
-            />
-    </LinearLayout>
-    <LinearLayout
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButton"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:baselineAligned="false">
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_light"
+        android:text="Mappa"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
-        <android.support.v7.widget.AppCompatButton
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Elenco facoltà"
-            android:textColor="#303F9F"
-            android:background="#9CCC65"
-            />
-        <android.support.v7.widget.AppCompatButton
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Perchè scegliere unibo"
-            android:textColor="#3949AB"
-            android:background="#8BC34A"
-            />
-    </LinearLayout>
-    <LinearLayout
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButton2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:baselineAligned="false">
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_red_light"
+        android:text="Elenco facoltà"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
-        <android.support.v7.widget.AppCompatButton
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Recensioni"
-            android:textColor="#3F51B5"
-            android:background="#7CB342"
-            />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButton4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_green_light"
+        android:text="Perchè scegliere unibo"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
-        <android.support.v7.widget.AppCompatButton
-            android:id="@+id/sistemauniv"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#689F38"
-            android:text="Sistema universitario"
-            android:textColor="#5C6BC0" />
-    </LinearLayout>
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButton5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/giallo_light"
+        android:rotation="0"
+        android:text="Recensioni"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:translationY="0dp"
+        android:translationZ="0dp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/sistemauniv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_purple"
+        android:text="Sistema universitario"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
 </LinearLayout>
