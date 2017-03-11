@@ -15,24 +15,25 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.almaorient.ferno92.almaorienteering.login.SignUpActivity;
+import com.google.firebase.auth.FirebaseAuth;
+
+import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        mAuth = FirebaseAuth.getInstance();
+
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -89,6 +90,14 @@ public class MainActivity extends AppCompatActivity
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
+        }else if(id == R.id.logout){
+            if(this.mAuth.getCurrentUser() != null){
+                this.mAuth.signOut();
+                Intent i = new Intent(MainActivity.this, ChooseActivity.class);
+                i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
+                startActivity(i);
+                finish();
+            }
         }
 
         return super.onOptionsItemSelected(item);
