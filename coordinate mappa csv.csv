@@ -1,0 +1,71 @@
+Scuola;Dipartimento;Sede;tipo corso;Corsi di laurea;latitude;longitude;indirizzo
+ingegneria;architettura;ravenna;LM;Ingegneria dei Processi e dei Sistemi Edilizi;44.414897;12.202986;Via Tombesi dell'Ova 55, Ravenna
+ingegneria;architettura;bologna;LMCU;Ingegneria Edile/Architettura;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;architettura;bologna;LMCU;Ingegneria Edile/Architettura;44.490224;11.336308;Via Saragozza 8, Bologna
+ingegneria;architettura;bologna;LT;Design del prodotto industriale;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;architettura;bologna;LT;Design del prodotto industriale;44.491839;11.330174;Via Ugo Foscolo, Bologna
+ingegneria;architettura;cesena;LMCU;Architettura;44.145417;12.240676;Via Cavalcavia 61, Cesena
+ingegneria;architettura;cesena;LMCU;Architettura;44.145215;12.242034;Viale Europa 596, Cesena
+lettere;beni culturali;ravenna;LT;Beni culturali;44.417228;12.201935;Via Mariani 5, Ravenna
+lettere;beni culturali;ravenna;LT;Beni culturali;44.418471;12.196938;Via Giuseppe Pasolini 23, Ravenna
+lettere;beni culturali;ravenna;LT;Beni culturali;44.419673;12.196863;Via S. Vitale 28, Ravenna
+lettere;beni culturali;ravenna;LM;Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali;44.417228;12.201935;Via Mariani 5, Ravenna
+lettere;beni culturali;ravenna;LM;Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali;44.418471;12.196938;Via Giuseppe Pasolini 23, Ravenna
+lettere;beni culturali;ravenna;LM;Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali;44.415986;12.195895;Piazza Duomo 4 - Ravenna
+lettere;beni culturali;ravenna;LM;Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione;44.417228;12.201935;Via Mariani 5, Ravenna
+lettere;beni culturali;ravenna;LM;Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione;44.418471;12.196938;Via Giuseppe Pasolini 23, Ravenna
+lettere;beni culturali;ravenna;LM;Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione;44.419673;12.196863;Via S. Vitale 28, Ravenna
+lettere;beni culturali;ravenna;LM;Scienze del libro e del documento;44.417228;12.201935;Via Mariani 5, Ravenna
+lettere;beni culturali;ravenna;LM;Scienze del libro e del documento;44.418471;12.196938;Via Giuseppe Pasolini 23, Ravenna
+lettere;beni culturali;ravenna;LMCU;Conservazione e restauro dei beni culturali;44.415756;12.202888;VIA Guaccimanni, 42 - Ravenna
+lettere;beni culturali;ravenna;LMCU;Conservazione e restauro dei beni culturali;44.420003;12.196164;Via S. Vitale 17, Ravenna
+lettere;beni culturali;ravenna;LMCU;Conservazione e restauro dei beni culturali;44.420781;12.195340;Via Fiandrini, Ravenna
+ingegneria;Ingegneria indutriale;forli;LT;Ingegneria Aerospaziale;44.200129;12.063314;Via Fontanelle 40, Forlì
+ingegneria;Ingegneria indutriale;forli;LT;Ingegneria Aerospaziale;44.217469;12.044429;Via Corridoni 20, Forlì
+ingegneria;Ingegneria indutriale;forli;LT;Ingegneria Meccanica (forli);44.200129;12.063314;Via Fontanelle 40, Forlì
+ingegneria;Ingegneria indutriale;forli;LT;Ingegneria Meccanica (forli);44.217469;12.044429;Via Corridoni 20, Forlì
+ingegneria;Ingegneria indutriale;forli;LM;Aerospace Engineering;44.200129;12.063314;Via Fontanelle 40, Forlì
+ingegneria;Ingegneria indutriale;forli;LM;Ingegneria Meccanica (forli);44.200129;12.063314;Via Fontanelle 40, Forlì
+ingegneria;Ingegneria indutriale;bologna;LT;Ingegneria Energetica;44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;Ingegneria indutriale;bologna;LM;Ingegneria Energetica;44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;Ingegneria indutriale;bologna;LT;Ingegneria Gestionale;44.514822;11.320071;Via Terracini 26, Bologna
+ingegneria;Ingegneria indutriale;bologna;LT;Ingegneria Gestionale;44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;Ingegneria indutriale;bologna;LM;Ingegneria Gestionale;44.514822;11.320071;Via Terracini 26, Bologna
+ingegneria;Ingegneria indutriale;bologna;LM;Ingegneria Gestionale;44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;Ingegneria indutriale;bologna;LT;Ingegneria Meccanica (bologna);44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;Ingegneria indutriale;bologna;LM;Ingegneria Meccanica (bologna);44.487829;11.328905;Viale Risorgimento 4, Bologna
+ingegneria;dicam;bologna;LM;Ingegneria Civile;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LT;Ingegneria Civile;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LT;Ingegneria Chimica e Biochimica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LT;Ingegneria Chimica e Biochimica;44.514669;11.319726;Via Terracini 28, Bologna
+ingegneria;dicam;bologna;LT;Ingegneria Per l'Ambiente e il territorio;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LT;Ingegneria Per l'Ambiente e il territorio;44.514669;11.319726;Via Terracini 28, Bologna
+ingegneria;dicam;bologna;LM;Ingegneria Per l'Ambiente e il territorio;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LM;Ingegneria Per l'Ambiente e il territorio;44.514669;11.319726;Via Terracini 28, Bologna
+ingegneria;dicam;ravenna;LT;Ingegneria Edile;44.414897;12.202986;Via Tombesi dell'Ova 55, Ravenna
+ingegneria;dicam;bologna;LM;Civil Engeneering;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LM;Ingegneria Chimica e di Processo;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dicam;bologna;LM;Ingegneria Chimica e di Processo;44.514669;11.319726;Via Terracini 28, Bologna
+ingegneria;disi;bologna;LT;Ingegneria Informatica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;disi;cesena;LT;Ingegneria e scienze informatiche;44.139776;12.243192;Via Sacchi 3, Cesena
+ingegneria;disi;cesena;LT;Ingegneria e scienze informatiche;44.138561;12.242953;Vicolo Carbonari 2, Cesena
+ingegneria;disi;cesena;LT;Ingegneria e scienze informatiche;44.151295;12.241249;Via Venezia 42, Cesena
+ingegneria;disi;cesena;LT;Ingegneria e scienze informatiche;44.151875;12.240651;Via Genova 181, Cesena
+ingegneria;disi;bologna;LM;Ingegneria Informatica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;disi;cesena;LM;Ingegneria e scienze informatiche;44.139776;12.243192;Via Sacchi 3, Cesena
+ingegneria;dei;bologna;LT;Ingegneria dell'Automazione;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;bologna;LT;Ingegneria dell'energia elettrica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;bologna;LM;Ingegneria dell'energia elettrica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;bologna;LT;Ingegneria Elettronica e Telecomunicazioni;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;bologna;LM;Ingegneria Elettronica;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;cesena;LM;Ingegneria Elettronica e Telecomunicazioni per l'Energia;44.143352;12.241587;Via Spinelli 176, Cesena
+ingegneria;dei;cesena;LT;Ingegneria elettronica per l'energia e l'informazione;44.151295;12.241249;Via Venezia 42, Cesena
+ingegneria;dei;cesena;LT;Ingegneria elettronica per l'energia e l'informazione;44.151875;12.240651;Via Genova 181, Cesena
+ingegneria;dei;cesena;LT;Ingegneria Biomedica;44.151875;12.240651;Via Genova 181, Cesena
+ingegneria;dei;cesena;LT;Ingegneria Biomedica;44.143352;12.241587;Via Spinelli 176, Cesena
+ingegneria;dei;cesena;LT;Ingegneria Biomedica;44.151295;12.241249;Via Venezia 42, Cesena
+ingegneria;dei;bologna;LM;Automation Engeneering;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;dei;cesena;LM;Ingegneria Biomedica;44.143352;12.241587;Via Spinelli 176, Cesena
+ingegneria;dei;cesena;LM;Ingegneria Biomedica;44.151295;12.241249;Via Venezia 42, Cesena
+ingegneria;dei;bologna;LM;Telecommunications Engeneering;44.488113;11.328422;Viale Risorgimento 2, Bologna
+ingegneria;architettura;bologna;LM;Advanced Design;44.490224;11.336308;Via Saragozza 8, Bologna
