@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#BB2E29</color>
+    <color name="colorPrimaryDark">#999999</color>
     <color name="colorAccent">#EE762C</color>
     <color name="giallo_light">#fffb02</color>
+    <color name="unibo_red">#BB2E29</color>
+    <color name="unibo_white">#FFFFFF</color>
 </resources>
