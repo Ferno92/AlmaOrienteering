@@ -18,6 +18,7 @@
             android:orientation="vertical">
 
             <RelativeLayout
+                android:id="@+id/relativelayout1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.11">
@@ -30,12 +31,11 @@
                     android:layout_alignParentStart="true"
                     android:layout_alignParentTop="true"
                     android:layout_column="1"
-                    android:layout_marginTop="20dp"
                     android:layout_row="0"
                     android:layout_weight="0.11"
-                    android:text="Scuole e Dipartimenti"
+                    android:text="Contatti"
                     android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="22sp" />
 
                 <ImageButton
                     android:id="@+id/plusuno"
@@ -47,7 +47,8 @@
                     android:layout_column="10"
                     android:layout_row="0"
                     android:layout_weight="0.11"
-                    app:srcCompat="@android:drawable/btn_plus" />
+                    android:background="@android:color/transparent"
+                    app:srcCompat="@drawable/piu" />
 
             </RelativeLayout>
 
@@ -63,6 +64,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/relativelayout2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.11">
@@ -74,9 +76,8 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_alignParentTop="true"
-                    android:layout_marginTop="20dp"
                     android:text="Internazionale"
-                    android:textSize="20sp" />
+                    android:textSize="22sp" />
 
                 <ImageButton
                     android:id="@+id/plusdue"
@@ -84,8 +85,9 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentRight="true"
-                    android:layout_below="@+id/webview1"
-                    app:srcCompat="@android:drawable/btn_plus" />
+                    android:layout_alignParentTop="true"
+                    android:background="@android:color/transparent"
+                    app:srcCompat="@drawable/piu" />
             </RelativeLayout>
 
             <WebView
@@ -98,7 +100,16 @@
                 android:layout_weight="0.11"
                 android:visibility="gone" />
 
+            <Button
+                android:id="@+id/ulterioriinfo2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.11"
+                android:text="Ulteriori informazioni"
+                android:visibility="gone" />
+
             <RelativeLayout
+                android:id="@+id/relativelayout3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.11">
@@ -111,18 +122,19 @@
                     android:layout_alignParentRight="true"
                     android:layout_below="@+id/webview2"
                     android:layout_weight="0.11"
-                    app:srcCompat="@android:drawable/btn_plus" />
+                    android:background="@android:color/transparent"
+                    app:srcCompat="@drawable/piu" />
 
                 <TextView
                     android:id="@+id/textView3"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
-                    android:layout_centerVertical="true"
+                    android:layout_alignParentTop="true"
                     android:layout_weight="0.11"
                     android:text="Multicampus"
-                    android:textSize="20sp" />
+                    android:textSize="22sp" />
 
             </RelativeLayout>
 
@@ -137,6 +149,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/relativelayout4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="0.11">
@@ -148,20 +161,21 @@
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentRight="true"
                     android:layout_alignParentTop="true"
-                    app:srcCompat="@android:drawable/btn_plus" />
+                    android:background="@android:color/transparent"
+                    app:srcCompat="@drawable/piu" />
 
 
                 <TextView
                     android:id="@+id/textView4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Il Sistema Universitario"
-                    android:textSize="20sp"
-                    android:layout_centerVertical="true"
                     android:layout_alignParentLeft="true"
-                    android:layout_alignParentStart="true" />
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:text="Il Sistema Universitario"
+                    android:textSize="22sp" />
 
-                </RelativeLayout>
+            </RelativeLayout>
 
 
             <WebView
@@ -188,15 +202,14 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:layout_weight="0.11"
-                android:visibility="gone" >
-            </WebView>
+                android:visibility="gone"></WebView>
 
             <Button
                 android:id="@+id/ulterioriinfo4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.11"
-                android:text="Button"
+                android:text="Ulteriori informazioni"
                 android:visibility="gone" />
 
 
