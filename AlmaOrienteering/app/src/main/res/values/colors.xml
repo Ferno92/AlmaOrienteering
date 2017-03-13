@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#BB2E29</color>
     <color name="colorPrimaryDark">#999999</color>
-    <color name="colorAccent">#EE762C</color>
+    <color name="colorAccent">#ee762c</color>
     <color name="giallo_light">#fffb02</color>
-    <color name="unibo_red">#BB2E29</color>
+    <color name="unibo_red">#bb2e29</color>
     <color name="unibo_white">#FFFFFF</color>
 </resources>
