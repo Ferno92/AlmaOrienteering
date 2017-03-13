@@ -180,6 +180,7 @@
                 android:visibility="gone"
                 app:srcCompat="@drawable/schema" />
 
+
             <WebView
                 android:id="@+id/webview44"
                 android:layout_width="match_parent"
@@ -187,7 +188,18 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:layout_weight="0.11"
+                android:visibility="gone" >
+            </WebView>
+
+            <Button
+                android:id="@+id/ulterioriinfo4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.11"
+                android:text="Button"
                 android:visibility="gone" />
+
+
         </LinearLayout>
     </ScrollView>
 

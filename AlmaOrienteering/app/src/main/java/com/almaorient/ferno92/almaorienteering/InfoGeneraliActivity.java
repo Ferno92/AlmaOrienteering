@@ -1,9 +1,11 @@
 package com.almaorient.ferno92.almaorienteering;
 
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebView;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
@@ -86,6 +88,9 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         quattroWebView.loadData(getString(R.string.sistemauniv), "text/html; charset=utf-8", "utf-8");
         final ImageView schemaImageView = (ImageView) findViewById(R.id.schema);
         final WebView quattro4WebView = (WebView) findViewById(R.id.webview44);
+        final Button ulterioriinfo4Button = (Button) findViewById(R.id.ulterioriinfo4);
+        Uri ulterioriinfo = Uri.parse("http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario/il-sistema-universitario");
+
         quattro4WebView.loadData(getString(R.string.sistemauniv2), "text/html; charset=utf-8", "utf-8");
         final ImageButton quartoplusImageButton = (ImageButton) findViewById(plusquattro);
         quartoplusImageButton.setOnClickListener(new View.OnClickListener() {
@@ -96,12 +101,15 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                     quattroWebView.setVisibility(view.VISIBLE);
                     quattro4WebView.setVisibility(view.VISIBLE);
                     schemaImageView.setVisibility(View.VISIBLE);
+                    ulterioriinfo4Button.setVisibility(view.VISIBLE);
                     quartoplusImageButton.setImageResource(btn_minus);
+
 
                 } else {
                     quattroWebView.setVisibility(view.GONE);
                     quattro4WebView.setVisibility(view.GONE);
                     schemaImageView.setVisibility(View.GONE);
+                    ulterioriinfo4Button.setVisibility(view.GONE);
                     quartoplusImageButton.setImageResource(btn_plus);
                 }
 

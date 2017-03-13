@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/agrariaplus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/agraria"
+            android:layout_weight="1"
+            android:text="+" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/agraria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@+id/agrariaplus"
+            android:layout_toStartOf="@+id/agrariaplus"
+            android:layout_weight="1"
+            android:background="@color/unibo_white"
+            android:drawableLeft="@drawable/logo_unibo"
+            android:text="Scuola di Agraria e Medicina Veterinaria"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="10sp" />
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/agrariawebview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
