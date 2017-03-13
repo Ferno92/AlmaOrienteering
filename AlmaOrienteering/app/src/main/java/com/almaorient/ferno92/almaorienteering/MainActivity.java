@@ -13,6 +13,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
 import com.google.firebase.auth.FirebaseAuth;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
@@ -73,6 +74,14 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, CalendarActivity.class);
+                startActivity(i);
+            }
+        });
+        AppCompatButton statButton = (AppCompatButton) findViewById(R.id.statistiche);
+        statButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, VersusSelectorActivity.class);
                 startActivity(i);
             }
         });

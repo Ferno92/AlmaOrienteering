@@ -43,6 +43,14 @@
             android:name=".CalendarActivity"
             android:label="Eventi AlmaOrienta"
             android:theme="@style/AppTheme" />
+        <activity
+            android:name=".versus.VersusSelectorActivity"
+            android:label="Statistiche"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".versus.VersusActivity"
+            android:label="Statistiche"
+            android:theme="@style/AppTheme" />
 
         <activity android:name=".InfoGeneraliActivity" />
         <activity android:name=".ElencoScuoleActivity" />
