@@ -50,11 +50,11 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        AppCompatButton sistemaunivButton = (AppCompatButton) findViewById(R.id.sistemauniv);
-        sistemaunivButton.setOnClickListener(new View.OnClickListener() {
+        AppCompatButton elencoscuoleButton = (AppCompatButton) findViewById(R.id.elencoscuole);
+        elencoscuoleButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, SistemaUniversitarioActivity.class);
+                Intent i = new Intent(MainActivity.this, ElencoScuoleActivity.class);
                 startActivity(i);
             }
         });

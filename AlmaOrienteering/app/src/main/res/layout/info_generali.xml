@@ -136,6 +136,58 @@
                 android:layout_weight="0.11"
                 android:visibility="gone" />
 
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.11">
+
+                <ImageButton
+                    android:id="@+id/plusquattro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    app:srcCompat="@android:drawable/btn_plus" />
+
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Il Sistema Universitario"
+                    android:textSize="20sp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                </RelativeLayout>
+
+
+            <WebView
+                android:id="@+id/webview4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.11"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/schema"
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                android:visibility="gone"
+                app:srcCompat="@drawable/schema" />
+
+            <WebView
+                android:id="@+id/webview44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.11"
+                android:visibility="gone" />
         </LinearLayout>
     </ScrollView>
 

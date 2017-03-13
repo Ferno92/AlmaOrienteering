@@ -5,10 +5,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebView;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 
 import static android.R.drawable.btn_minus;
 import static android.R.drawable.btn_plus;
 import static com.almaorient.ferno92.almaorienteering.R.id.plusdue;
+import static com.almaorient.ferno92.almaorienteering.R.id.plusquattro;
 import static com.almaorient.ferno92.almaorienteering.R.id.plustre;
 import static com.almaorient.ferno92.almaorienteering.R.id.plusuno;
 import static com.almaorient.ferno92.almaorienteering.R.id.webview2;
@@ -80,5 +82,31 @@ public class InfoGeneraliActivity extends AppCompatActivity {
 
         });
 
+        final WebView quattroWebView = (WebView) findViewById(R.id.webview4);
+        quattroWebView.loadData(getString(R.string.sistemauniv), "text/html; charset=utf-8", "utf-8");
+        final ImageView schemaImageView = (ImageView) findViewById(R.id.schema);
+        final WebView quattro4WebView = (WebView) findViewById(R.id.webview44);
+        quattro4WebView.loadData(getString(R.string.sistemauniv2), "text/html; charset=utf-8", "utf-8");
+        final ImageButton quartoplusImageButton = (ImageButton) findViewById(plusquattro);
+        quartoplusImageButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (quattroWebView.getVisibility() == View.GONE)
+                {
+                    quattroWebView.setVisibility(view.VISIBLE);
+                    quattro4WebView.setVisibility(view.VISIBLE);
+                    schemaImageView.setVisibility(View.VISIBLE);
+                    quartoplusImageButton.setImageResource(btn_minus);
+
+                } else {
+                    quattroWebView.setVisibility(view.GONE);
+                    quattro4WebView.setVisibility(view.GONE);
+                    schemaImageView.setVisibility(View.GONE);
+                    quartoplusImageButton.setImageResource(btn_plus);
+                }
+
+            }
+
+        });
     }
 }

@@ -10,10 +10,47 @@
     <![CDATA[
     <html>
         <head></head>
-        <body style="text-align:justify;color:black;font-size:16">
+        <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA;">
             Sed ut <a href="http://www.google.it">prova link</a> perspiciatis, omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.
         </body>
     </html>
     ]]>
     </string>
+
+    <string name="sistemauniv">
+    <![CDATA[
+    <html>
+        <head></head>
+        <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA">
+             <b><p>L&#8217organizzazione degli studi universitari si articola in tre cicli: </b></p>
+
+            <p> -  Corsi di Studio di primo ciclo e ciclo unico: Laurea, Laurea Magistrale a ciclo unico. </p>
+
+            <p> -  Corsi di studio di secondo ciclo: Laurea Magistrale. </p>
+
+            <p> -  Corsi di Studio di terzo ciclo: Dottorati di Ricerca e Scuole di Specializzazione. </p>
+        </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="sistemauniv2">
+    <![CDATA[
+    <html>
+        <head></head>
+        <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA">
+             <b><p>Cosa sono i Crediti formativi universitari - CFU?</b></p>
+
+            <p> Un credito (CFU) corrisponde di norma a 25 ore di lavoro che comprendono lezioni, esercitazioni, etc., ma anche lo studio a casa. Per ogni anno accademico, ad uno studente impegnato a tempo pieno nello studio è richiesta una quantità media di lavoro fissata in 60 crediti, ossia 1500 ore. </p>
+
+            <p> I CFU si acquisiscono con il superamento dell’esame o altra prova di verifica. </p>
+
+            <p> I crediti sono un elemento che consente di comparare diversi corsi di studio delle università italiane ed europee attraverso una valutazione del carico di lavoro richiesto allo studente. </p>
+
+            <p> <a href="http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario">Ulteriori informazioni</a>
+        </body>
+    </html>
+    ]]>
+    </string>
+
 </resources>
