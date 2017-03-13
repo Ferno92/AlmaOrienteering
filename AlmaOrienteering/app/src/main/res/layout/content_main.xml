@@ -16,7 +16,17 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="@android:color/holo_orange_light"
-        android:text="Info"
+        android:text="L'Unibo si presenta"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/elencoscuole"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_purple"
+        android:text="Offerta formativa"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
 
@@ -31,16 +41,6 @@
         android:textSize="24sp" />
 
     <android.support.v7.widget.AppCompatButton
-        android:id="@+id/appCompatButton2"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:background="@android:color/holo_red_light"
-        android:text="Elenco facoltà"
-        android:textColor="@android:color/black"
-        android:textSize="24sp" />
-
-    <android.support.v7.widget.AppCompatButton
         android:id="@+id/appCompatButton4"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -51,25 +51,35 @@
         android:textSize="24sp" />
 
     <android.support.v7.widget.AppCompatButton
-        android:id="@+id/appCompatButton5"
+        android:id="@+id/statistiche"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="@color/giallo_light"
         android:rotation="0"
-        android:text="Recensioni"
+        android:text="Statistiche"
         android:textColor="@android:color/black"
         android:textSize="24sp"
         android:translationY="0dp"
         android:translationZ="0dp" />
 
     <android.support.v7.widget.AppCompatButton
-        android:id="@+id/sistemauniv"
+        android:id="@+id/calendario"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:background="@android:color/holo_purple"
-        android:text="Sistema universitario"
+        android:background="@color/unibo_white"
+        android:text="calendario"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/guida"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_red_light"
+        android:text="guida applicazione"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
 
