@@ -39,6 +39,14 @@
             android:name=".MapsActivity"
             android:label="Map"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CalendarActivity"
+            android:label="Eventi AlmaOrienta"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name=".InfoGeneraliActivity" />
+        <activity android:name=".ElencoScuoleActivity" />
+        <activity android:name=".DettagliCorsoActivity"></activity>
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
@@ -47,9 +55,6 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".InfoGeneraliActivity" />
-        <activity android:name=".ElencoScuoleActivity" />
-        <activity android:name=".DettagliCorsoActivity"></activity>
     </application>
 
 </manifest>
