@@ -1,5 +1,6 @@
 package com.almaorient.ferno92.almaorienteering;
 
+import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,12 +10,16 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
+import com.almaorient.ferno92.almaorienteering.login.LoginActivity;
+
 import static android.R.drawable.btn_minus;
 import static android.R.drawable.btn_plus;
+import static com.almaorient.ferno92.almaorienteering.R.id.pin;
 import static com.almaorient.ferno92.almaorienteering.R.id.plusdue;
 import static com.almaorient.ferno92.almaorienteering.R.id.plusquattro;
 import static com.almaorient.ferno92.almaorienteering.R.id.plustre;
 import static com.almaorient.ferno92.almaorienteering.R.id.plusuno;
+import static com.almaorient.ferno92.almaorienteering.R.id.ulterioriinfo4;
 import static com.almaorient.ferno92.almaorienteering.R.id.webview2;
 
 public class InfoGeneraliActivity extends AppCompatActivity {
@@ -25,7 +30,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         setContentView(R.layout.info_generali);
 
         final WebView unoWebView = (WebView) findViewById(R.id.webview1);
-        unoWebView.loadData(getString(R.string.hello), "text/html; charset=utf-8", "utf-8");
+        unoWebView.loadData(getString(R.string.contatti), "text/html; charset=utf-8", "utf-8");
         final ImageButton primoplusImageButton = (ImageButton) findViewById(plusuno);
         primoplusImageButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,19 +38,27 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 if (unoWebView.getVisibility() == View.GONE)
                 {
                     unoWebView.setVisibility(view.VISIBLE);
-                    primoplusImageButton.setImageResource(btn_minus);
+                    primoplusImageButton.setImageResource(R.drawable.meno);
 
                 } else {
                     unoWebView.setVisibility(view.GONE);
-                    primoplusImageButton.setImageResource(btn_plus);
+                    primoplusImageButton.setImageResource(R.drawable.piu);
                 }
 
             }
 
         });
-
+        final Button ulterioriinfo2Button = (Button) findViewById(R.id.ulterioriinfo2);
+        ulterioriinfo2Button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse("http://www.unibo.it/it/internazionale/studiare-all-estero"));
+                startActivity(i);
+            }
+        });
         final WebView dueWebView = (WebView) findViewById(R.id.webview2);
-        dueWebView.loadData(getString(R.string.hello), "text/html; charset=utf-8", "utf-8");
+        dueWebView.loadData(getString(R.string.internazionale), "text/html; charset=utf-8", "utf-8");
         final ImageButton secondoplusImageButton = (ImageButton) findViewById(plusdue);
         secondoplusImageButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -53,11 +66,13 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 if (dueWebView.getVisibility() == View.GONE)
                 {
                     dueWebView.setVisibility(view.VISIBLE);
-                    secondoplusImageButton.setImageResource(btn_minus);
+                    ulterioriinfo2Button.setVisibility(view.VISIBLE);
+                    secondoplusImageButton.setImageResource(R.drawable.meno);
 
                 } else {
                     dueWebView.setVisibility(view.GONE);
-                    secondoplusImageButton.setImageResource(btn_plus);
+                    ulterioriinfo2Button.setVisibility(view.GONE);
+                    secondoplusImageButton.setImageResource(R.drawable.piu);
                 }
 
             }
@@ -65,7 +80,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         });
 
         final WebView treWebView = (WebView) findViewById(R.id.webview3);
-        treWebView.loadData(getString(R.string.hello), "text/html; charset=utf-8", "utf-8");
+        treWebView.loadData(getString(R.string.multicampus), "text/html; charset=utf-8", "utf-8");
         final ImageButton terzoplusImageButton = (ImageButton) findViewById(plustre);
         terzoplusImageButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -73,11 +88,11 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 if (treWebView.getVisibility() == View.GONE)
                 {
                     treWebView.setVisibility(view.VISIBLE);
-                    terzoplusImageButton.setImageResource(btn_minus);
+                    terzoplusImageButton.setImageResource(R.drawable.meno);
 
                 } else {
                     treWebView.setVisibility(view.GONE);
-                    terzoplusImageButton.setImageResource(btn_plus);
+                    terzoplusImageButton.setImageResource(R.drawable.piu);
                 }
 
             }
@@ -89,7 +104,14 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         final ImageView schemaImageView = (ImageView) findViewById(R.id.schema);
         final WebView quattro4WebView = (WebView) findViewById(R.id.webview44);
         final Button ulterioriinfo4Button = (Button) findViewById(R.id.ulterioriinfo4);
-        Uri ulterioriinfo = Uri.parse("http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario/il-sistema-universitario");
+        ulterioriinfo4Button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse("http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario/il-sistema-universitario"));
+                startActivity(i);
+            }
+        });
 
         quattro4WebView.loadData(getString(R.string.sistemauniv2), "text/html; charset=utf-8", "utf-8");
         final ImageButton quartoplusImageButton = (ImageButton) findViewById(plusquattro);
@@ -102,7 +124,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                     quattro4WebView.setVisibility(view.VISIBLE);
                     schemaImageView.setVisibility(View.VISIBLE);
                     ulterioriinfo4Button.setVisibility(view.VISIBLE);
-                    quartoplusImageButton.setImageResource(btn_minus);
+                    quartoplusImageButton.setImageResource(R.drawable.meno);
 
 
                 } else {
@@ -110,7 +132,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                     quattro4WebView.setVisibility(view.GONE);
                     schemaImageView.setVisibility(View.GONE);
                     ulterioriinfo4Button.setVisibility(view.GONE);
-                    quartoplusImageButton.setImageResource(btn_plus);
+                    quartoplusImageButton.setImageResource(R.drawable.piu);
                 }
 
             }

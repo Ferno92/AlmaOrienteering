@@ -6,12 +6,24 @@
 
     <string name="action_settings">Settings</string>
 
-    <string name="hello">
+    <string name="internazionale">
     <![CDATA[
     <html>
         <head></head>
         <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA;">
-            Sed ut <a href="http://www.google.it">prova link</a> perspiciatis, omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.
+            <p>L&#8217Università di Bologna è sempre più <b>internazionale</b>. Attualmente 42 corsi di laurea e laurea magistrale sono svolti parzialmente o totalmente in lingua inglese.</p>
+            <p>Numerose sono le possibilità di studio e tirocinio all&#8217estero, tramite i principali programmi internazionali quali Erasmus+ ed Overseas.</p>
+            <p><b>Erasmus+</b> è un programma di mobilità promosso dalla UE che consente di trascorrere da tre a dodici mesi presso un&#8217università europea.
+            Ti permette di frequentare i corsi, di sostenere gli esami e di ottenerne il riconoscimento.</p>
+            <p>Per aiutarti a sostenere le spese legate al soggiorno all&#8217estero, il programma Erasmus+ offre un <b>contributo finanziario</b>.</p>
+            Dove puoi andare?
+            <p>- nei 27 Stati membri dell&#8217Unione europea;</p>
+            <p>- nei 3 Paesi dello Spazio Economico Europeo: Islanda, Liechtenstein e Norvegia;</p>
+            <p>- nei Paesi candidati all&#8217adesione: Turchia, l&#8217ex Repubblica Iugoslava di Macedonia;</p>
+            <p>- in alcuni paesi extra UE partecipanti al programma Erasmus+.</p>
+            <p>Il programma <b>Overseas</b> è organizzato e finanziato interamente dall&#8217Università di Bologna e nasce da accordi di collaborazione che il nostro Ateneo ha sottoscritto con università di paesi non compresi nella Unione Europea.</p>
+            E la lingua sarà un grosso problema? Scopri i servizi offerti dal CLA (centro linguistico d’Ateneo) aprendo la voce “servizi”!
+
         </body>
     </html>
     ]]>
@@ -51,5 +63,37 @@
     </html>
     ]]>
     </string>
+    <string name="multicampus">
+    <![CDATA[
+    <html>
+        <head></head>
+        <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA">
+             Scemo chi legge :-P
+        </body>
+    </html>
+    ]]>
+    </string>
+    <string name="contatti">
+    <![CDATA[
+    <html>
+        <head></head>
+        <body style="text-align:justify;color:black;font-size:16;background-color:#FAFAFA">
+             <p><b>URP - Ufficio Relazioni con il Pubblico</b></p>
+             <p>Informazioni generali di carattere didattico e amministrativo, informazioni sui servizi offerti dall&#8217Ateneo e punto di ascolto per segnalazioni, suggerimenti e reclami.</p>
+
+                <p>Largo Trombetti, 1 40126 Bologna<br>
+                E-mail: urp@unibo.it<br>
+                Tel: +39.051.2099349<br>
+                Fax: +39.051.2086224</p>
+
+                <p>Orari</p>
+
+                Lunedì, Martedì, Mercoledì, Venerdì dalle 9:00 alle 12:30<br>
+                Martedì e Giovedì dalle 14:30 alle 16:30
+        </body>
+    </html>
+    ]]>
+    </string>
+
 
 </resources>
