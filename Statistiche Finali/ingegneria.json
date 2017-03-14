@@ -1,0 +1,434 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "25",
+   "voto_laurea": "96,5",
+   "in_corso_perc": "48,6",
+   "durata": "4,3",
+   "ritardo": "1",
+   "erasmus": "5,6",
+   
+      "stage_perc": "40,5",
+   "soddisfazione_perc": "31,2"
+},
+ {
+   "corso": "architettura e processo edilizio (L-23)",
+   "voto_esami": "26,8",
+   "voto_laurea": "105,8",
+   "in_corso_perc": "69",
+   "durata": "3,7",
+   "ritardo": "0,3",
+   "erasmus": "6,9",
+   
+      "stage_perc": "96,6",
+   "soddisfazione_perc": "31"
+},
+ {
+   "corso": "attuazione e gestione del progetto in architettura (4)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria aerospaziale (10)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria aerospaziale (L-9)",
+   "voto_esami": "24,8",
+   "voto_laurea": "95,1",
+   "in_corso_perc": "35,5",
+   "durata": "4,4",
+   "ritardo": "1,1",
+   "erasmus": "3,3",
+   
+      "stage_perc": "86,7",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "ingegneria biomedica (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria biomedica (L-8)",
+   "voto_esami": "25,5",
+   "voto_laurea": "97,9",
+   "in_corso_perc": "40,4",
+   "durata": "4",
+   "ritardo": "0,7",
+   "erasmus": "3,5",
+   
+      "stage_perc": "26,3",
+   "soddisfazione_perc": "19,3"
+},
+ {
+   "corso": "ingegneria chimica e biochimica (L-9)",
+   "voto_esami": "24,9",
+   "voto_laurea": "96,2",
+   "in_corso_perc": "61,8",
+   "durata": "3,7",
+   "ritardo": "0,5",
+   "erasmus": "3,7",
+   
+      "stage_perc": "3,7",
+   "soddisfazione_perc": "44,4"
+},
+ {
+   "corso": "ingegneria civile (8)",
+   "voto_esami": "23,1",
+   "voto_laurea": "87,7",
+   "in_corso_perc": "-",
+   "durata": "11,9",
+   "ritardo": "8,4",
+   "erasmus": "-",
+   
+      "stage_perc": "-",
+   "soddisfazione_perc": "33,3"
+},
+ {
+   "corso": "ingegneria civile (L-7)",
+   "voto_esami": "24,6",
+   "voto_laurea": "96,1",
+   "in_corso_perc": "41,6",
+   "durata": "4,1",
+   "ritardo": "0,8",
+   "erasmus": "3",
+   
+      "stage_perc": "2,3",
+   "soddisfazione_perc": "28,8"
+},
+ {
+   "corso": "ingegneria dei processi gestionali (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria dell'automazione (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria dell'automazione (L-8)",
+   "voto_esami": "25,5",
+   "voto_laurea": "98,9",
+   "in_corso_perc": "55,8",
+   "durata": "3,6",
+   "ritardo": "0,5",
+   "erasmus": "20,9",
+   
+      "stage_perc": "9,3",
+   "soddisfazione_perc": "53,5"
+},
+ {
+   "corso": "ingegneria delle telecomunicazioni - sede di Bologna (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria dell'energia elettrica (L-9)",
+   "voto_esami": "25,7",
+   "voto_laurea": "97,5",
+   "in_corso_perc": "61,3",
+   "durata": "3,5",
+   "ritardo": "0,4",
+   "erasmus": "-",
+   
+      "stage_perc": "25,8",
+   "soddisfazione_perc": "32,3"
+},
+ {
+   "corso": "ingegneria edile (4)",
+   "voto_esami": "24,2",
+   "voto_laurea": "92,6",
+   "in_corso_perc": "-",
+   "durata": "9,2",
+   "ritardo": "5,7",
+   "erasmus": "-",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "ingegneria edile (L-23)",
+   "voto_esami": "25,3",
+   "voto_laurea": "97,8",
+   "in_corso_perc": "31,5",
+   "durata": "4,3",
+   "ritardo": "0,9",
+   "erasmus": "2,8",
+   
+      "stage_perc": "95,8",
+   "soddisfazione_perc": "19,7"
+},
+ {
+   "corso": "ingegneria elettrica (10)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria elettronica (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria elettronica e delle telecomunicazioni (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria elettronica e telecomunicazioni (L-8)",
+   "voto_esami": "25",
+   "voto_laurea": "96,5",
+   "in_corso_perc": "61,5",
+   "durata": "3,6",
+   "ritardo": "0,4",
+   "erasmus": "3,8",
+   
+      "stage_perc": "3,8",
+   "soddisfazione_perc": "38,5"
+},
+ {
+   "corso": "ingegneria elettronica per l'energia e l'informazione - gi� ingegneria dei sistemi elettronici per lo sviluppo sostenibile (L-8)",
+   "voto_esami": "25,3",
+   "voto_laurea": "96,9",
+   "in_corso_perc": "36,4",
+   "durata": "4,1",
+   "ritardo": "0,7",
+   "erasmus": "2,3",
+   
+      "stage_perc": "77,3",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "ingegneria elettronica, informatica e telecomunicazioni (L-8)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria energetica (10)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria energetica (L-9)",
+   "voto_esami": "25",
+   "voto_laurea": "95,5",
+   "in_corso_perc": "58,5",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "5,5",
+   
+      "stage_perc": "58,6",
+   "soddisfazione_perc": "17,9"
+},
+ {
+   "corso": "ingegneria gestionale (10)",
+   "voto_esami": "21,3",
+   "voto_laurea": "79,8",
+   "in_corso_perc": "-",
+   "durata": "10,4",
+   "ritardo": "6,9",
+   "erasmus": "11,1",
+   
+      "stage_perc": "44,4",
+   "soddisfazione_perc": "22,2"
+},
+ {
+   "corso": "ingegneria gestionale (L-9)",
+   "voto_esami": "25,1",
+   "voto_laurea": "97,5",
+   "in_corso_perc": "75,5",
+   "durata": "3,3",
+   "ritardo": "0,3",
+   "erasmus": "10,2",
+   
+      "stage_perc": "12,1",
+   "soddisfazione_perc": "41,3"
+},
+ {
+   "corso": "ingegneria informatica - sede di Bologna (9)",
+   "voto_esami": "23,4",
+   "voto_laurea": "88,1",
+   "in_corso_perc": "-",
+   "durata": "9,8",
+   "ritardo": "6,3",
+   "erasmus": "-",
+   
+      "stage_perc": "11,1",
+   "soddisfazione_perc": "11,1"
+},
+ {
+   "corso": "ingegneria informatica - sede di Cesena (9)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria informatica (L-8)",
+   "voto_esami": "25",
+   "voto_laurea": "96,8",
+   "in_corso_perc": "44,1",
+   "durata": "4",
+   "ritardo": "0,7",
+   "erasmus": "1,7",
+   
+      "stage_perc": "37,3",
+   "soddisfazione_perc": "35,6"
+},
+ {
+   "corso": "ingegneria meccanica - sede di Bologna (10)",
+   "voto_esami": "23,2",
+   "voto_laurea": "87,8",
+   "in_corso_perc": "-",
+   "durata": "11,1",
+   "ritardo": "7,6",
+   "erasmus": "12,5",
+   
+      "stage_perc": "37,5",
+   "soddisfazione_perc": "-"
+},
+ {
+   "corso": "ingegneria meccanica - sede di Bologna (L-9)",
+   "voto_esami": "25,2",
+   "voto_laurea": "97,4",
+   "in_corso_perc": "44,5",
+   "durata": "4,1",
+   "ritardo": "0,8",
+   "erasmus": "3,7",
+   
+      "stage_perc": "90,8",
+   "soddisfazione_perc": "34,9"
+},
+ {
+   "corso": "ingegneria meccanica - sede di Forl� (10)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "ingegneria meccanica - sede di Forl� (L-9)",
+   "voto_esami": "24,8",
+   "voto_laurea": "97,1",
+   "in_corso_perc": "22,2",
+   "durata": "4,6",
+   "ritardo": "1,2",
+   "erasmus": "4,5",
+   
+      "stage_perc": "70,5",
+   "soddisfazione_perc": "34,1"
+},
+ {
+   "corso": "ingegneria per l'ambiente e il territorio (8)",
+   "voto_esami": "23,2",
+   "voto_laurea": "87,3",
+   "in_corso_perc": "-",
+   "durata": "13,1",
+   "ritardo": "9,6",
+   "erasmus": "16,7",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "33,3"
+},
+ {
+   "corso": "ingegneria per l'ambiente e il territorio (L-7)",
+   "voto_esami": "25,1",
+   "voto_laurea": "96,2",
+   "in_corso_perc": "55,3",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "7,9",
+   
+      "stage_perc": "-",
+   "soddisfazione_perc": "21,1"
+}
+]

@@ -1,0 +1,169 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "26",
+   "voto_laurea": "101,8",
+   "in_corso_perc": "60,7",
+   "durata": "3,9",
+   "ritardo": "0,7",
+   "erasmus": "11,7",
+      "stage_perc": "91,9",
+   "soddisfazione_perc": "35,7"
+},
+ {
+   "corso": "acquacoltura e igiene delle produzioni ittiche (L-38)",
+   "voto_esami": "25,6",
+   "voto_laurea": "100,5",
+   "in_corso_perc": "21,4",
+   "durata": "4,3",
+   "ritardo": "1",
+   "erasmus": "30,8",
+      "stage_perc": "100",
+   "soddisfazione_perc": "15,4"
+},
+ {
+   "corso": "acquacoltura e ittiopatologia (40)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e marketing nel sistema agro-industriale (20)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e marketing nel sistema agro-industriale (L-25)",
+   "voto_esami": "26,1",
+   "voto_laurea": "102",
+   "in_corso_perc": "65,3",
+   "durata": "3,5",
+   "ritardo": "0,3",
+   "erasmus": "35,7",
+   "Hanno svolto tirocini": {
+      "stage_perc": "90,5"
+   },
+   "soddisfazione_perc": "31"
+},
+ {
+   "corso": "produzioni animali - gi� produzioni animali e controllo della fauna selvatica (L-38)",
+   "voto_esami": "26",
+   "voto_laurea": "100,5",
+   "in_corso_perc": "42,9",
+   "durata": "4,3",
+   "ritardo": "1",
+   "erasmus": "4,9",
+      "stage_perc": "95,1",
+   "soddisfazione_perc": "24,4"
+},
+ {
+   "corso": "scienze dei consumi alimentari e della ristorazione (L-26)",
+   "voto_esami": "24,9",
+   "voto_laurea": "97,2",
+   "in_corso_perc": "-",
+   "durata": "5,2",
+   "ritardo": "1,7",
+   "erasmus": "-",
+      "stage_perc": "80",
+   "soddisfazione_perc": "80"
+},
+ {
+   "corso": "scienze del territorio e dell'ambiente agro-forestale (20)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze del territorio e dell'ambiente agro-forestale (L-25)",
+   "voto_esami": "26,2",
+   "voto_laurea": "102,2",
+   "in_corso_perc": "67,5",
+   "durata": "3,7",
+   "ritardo": "0,5",
+   "erasmus": "7,9",
+      "stage_perc": "86,8",
+   "soddisfazione_perc": "31,6"
+},
+ {
+   "corso": "scienze e tecnologie delle produzioni animali (40)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "tecnologie agrarie (L-25)",
+   "voto_esami": "26,5",
+   "voto_laurea": "103,6",
+   "in_corso_perc": "71,1",
+   "durata": "3,6",
+   "ritardo": "0,4",
+   "erasmus": "7",
+      "stage_perc": "94,4",
+   "soddisfazione_perc": "42,3"
+},
+ {
+   "corso": "tecnologie alimentari (L-26)",
+   "voto_esami": "25,6",
+   "voto_laurea": "101",
+   "in_corso_perc": "65,2",
+   "durata": "3,7",
+   "ritardo": "0,5",
+   "erasmus": "6,7",
+      "stage_perc": "91,1",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "verde ornamentale e tutela del paesaggio (L-25)",
+   "voto_esami": "25,7",
+   "voto_laurea": "101,5",
+   "in_corso_perc": "71,4",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "11,1",
+      "stage_perc": "88,9",
+   "soddisfazione_perc": "29,6"
+},
+ {
+   "corso": "viticoltura ed enologia (20)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "viticoltura ed enologia (L-26)",
+   "voto_esami": "25,8",
+   "voto_laurea": "100,9",
+   "in_corso_perc": "72",
+   "durata": "3,8",
+   "ritardo": "0,5",
+   "erasmus": "4,8",
+      "stage_perc": "95,2",
+   "soddisfazione_perc": "47,6"
+}
+]

@@ -1,0 +1,98 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "24,8",
+   "voto_laurea": "94,2",
+   "in_corso_perc": "35,7",
+   "durata": "5",
+   "ritardo": "1,6",
+   "erasmus": "9,4",
+   
+      "stage_perc": "87,8",
+   "soddisfazione_perc": "44,4"
+},
+ {
+   "corso": "consulente del lavoro (2)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "consulente del lavoro e delle relazioni aziendali (L-14)",
+   "voto_esami": "24,7",
+   "voto_laurea": "93,8",
+   "in_corso_perc": "43,1",
+   "durata": "4,4",
+   "ritardo": "1,1",
+   "erasmus": "4,7",
+   
+      "stage_perc": "95,3",
+   "soddisfazione_perc": "46,2"
+},
+ {
+   "corso": "giurista d'impresa e delle amministrazioni pubbliche (L-14)",
+   "voto_esami": "25,3",
+   "voto_laurea": "96,5",
+   "in_corso_perc": "33,3",
+   "durata": "4,7",
+   "ritardo": "1,3",
+   "erasmus": "5,3",
+   
+      "stage_perc": "94,7",
+   "soddisfazione_perc": "47,4"
+},
+ {
+   "corso": "operatore giuridico italo-francese (L-14)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "operatore informatico-giuridico (2)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze giuridiche - sede di Bologna (31)",
+   "voto_esami": "22,7",
+   "voto_laurea": "85,6",
+   "in_corso_perc": "-",
+   "durata": "10,9",
+   "ritardo": "7,5",
+   "erasmus": "50",
+   
+      "stage_perc": "-",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "scienze giuridiche - sede di Ravenna (31)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+}
+]

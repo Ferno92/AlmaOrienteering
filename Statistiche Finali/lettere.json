@@ -1,0 +1,266 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "26,9",
+   "voto_laurea": "101,7",
+   "in_corso_perc": "59,5",
+   "durata": "4",
+   "ritardo": "0,8",
+   "erasmus": "15,1",
+   
+      "stage_perc": "43,5",
+   "soddisfazione_perc": "31,6"
+},
+ {
+   "corso": "antropologia, religioni, civilt� orientali - gi� scienze antropologiche (L-42)",
+   "voto_esami": "27,6",
+   "voto_laurea": "103,7",
+   "in_corso_perc": "66,7",
+   "durata": "3,6",
+   "ritardo": "0,3",
+   "erasmus": "31,9",
+   
+      "stage_perc": "36,3",
+   "soddisfazione_perc": "21,3"
+},
+ {
+   "corso": "beni archeologici (13)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "beni culturali (L-1)",
+   "voto_esami": "27,9",
+   "voto_laurea": "107",
+   "in_corso_perc": "51,6",
+   "durata": "4,1",
+   "ritardo": "0,9",
+   "erasmus": "11,6",
+   
+      "stage_perc": "75,6",
+   "soddisfazione_perc": "57"
+},
+ {
+   "corso": "beni storico-artistici e musicali (13)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "culture e tecniche del costume e della moda (23)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "culture e tecniche della moda (L-3)",
+   "voto_esami": "26,2",
+   "voto_laurea": "98,3",
+   "in_corso_perc": "69,2",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "11,7",
+   
+      "stage_perc": "68,2",
+   "soddisfazione_perc": "32,2"
+},
+ {
+   "corso": "dams - discipline delle arti, della musica e dello spettacolo (23)",
+   "voto_esami": "26,5",
+   "voto_laurea": "99,7",
+   "in_corso_perc": "-",
+   "durata": "10,1",
+   "ritardo": "6,7",
+   "erasmus": "13",
+   
+      "stage_perc": "43,5",
+   "soddisfazione_perc": "34,8"
+},
+ {
+   "corso": "dams - discipline delle arti, della musica e dello spettacolo (L-3)",
+   "voto_esami": "26,5",
+   "voto_laurea": "100,5",
+   "in_corso_perc": "55,6",
+   "durata": "4",
+   "ritardo": "0,7",
+   "erasmus": "12",
+   
+      "stage_perc": "44",
+   "soddisfazione_perc": "26,2"
+},
+ {
+   "corso": "filosofia (29)",
+   "voto_esami": "27,8",
+   "voto_laurea": "105,7",
+   "in_corso_perc": "-",
+   "durata": "9,4",
+   "ritardo": "5,9",
+   "erasmus": "14,3",
+   
+      "stage_perc": "-",
+   "soddisfazione_perc": "42,9"
+},
+ {
+   "corso": "filosofia (L-5)",
+   "voto_esami": "28",
+   "voto_laurea": "105,9",
+   "in_corso_perc": "67,1",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "17,2",
+   
+      "stage_perc": "16,6",
+   "soddisfazione_perc": "31"
+},
+ {
+   "corso": "lettere (5)",
+   "voto_esami": "26,6",
+   "voto_laurea": "99,8",
+   "in_corso_perc": "-",
+   "durata": "8,8",
+   "ritardo": "5,3",
+   "erasmus": "-",
+   
+      "stage_perc": "62,5",
+   "soddisfazione_perc": "-"
+},
+ {
+   "corso": "lettere (L-10)",
+   "voto_esami": "27,9",
+   "voto_laurea": "105,5",
+   "in_corso_perc": "66,3",
+   "durata": "3,6",
+   "ritardo": "0,4",
+   "erasmus": "14,5",
+   
+      "stage_perc": "29,5",
+   "soddisfazione_perc": "33,6"
+},
+ {
+   "corso": "scienze antropologiche (29)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze della comunicazione (14)",
+   "voto_esami": "24,5",
+   "voto_laurea": "93",
+   "in_corso_perc": "-",
+   "durata": "10,2",
+   "ritardo": "6,7",
+   "erasmus": "-",
+   
+      "stage_perc": "75",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "scienze della comunicazione (L-20)",
+   "voto_esami": "24,8",
+   "voto_laurea": "92,9",
+   "in_corso_perc": "60,4",
+   "durata": "3,8",
+   "ritardo": "0,5",
+   "erasmus": "15,8",
+   
+      "stage_perc": "60,8",
+   "soddisfazione_perc": "27,3"
+},
+ {
+   "corso": "scienze geografiche (30)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze geografiche (L-6)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "storia (38)(2)�",
+   "voto_esami": "26,5",
+   "voto_laurea": "98,6",
+   "in_corso_perc": "-",
+   "durata": "9,5",
+   "ritardo": "6,1",
+   "erasmus": "-",
+   
+      "stage_perc": "40",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "storia (L-42)",
+   "voto_esami": "28,2",
+   "voto_laurea": "106,5",
+   "in_corso_perc": "56,5",
+   "durata": "3,9",
+   "ritardo": "0,7",
+   "erasmus": "8,7",
+   
+      "stage_perc": "23,3",
+   "soddisfazione_perc": "42,7"
+},
+ {
+   "corso": "storia e civilt� orientali (L-42)",
+   "voto_esami": "27,5",
+   "voto_laurea": "103,9",
+   "in_corso_perc": "-",
+   "durata": "4,7",
+   "ritardo": "1,2",
+   "erasmus": "42,9",
+   
+      "stage_perc": "42,9",
+   "soddisfazione_perc": "14,3"
+},
+ {
+   "corso": "storia, culture e civilt� orientali (38)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+}
+]

@@ -1,0 +1,134 @@
+[
+ {
+   "corso": "Collettivo selezionato",
+   "voto_esami": "26,3",
+   "voto_laurea": "99,1",
+   "in_corso_perc": "66,1",
+   "durata": "3,9",
+   "ritardo": "0,8",
+   "erasmus": "8,1",
+   
+      "stage_perc": "69,9",
+   "soddisfazione_perc": "43,5"
+},
+ {
+   "corso": "animatore socioeducativo. (18)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "educatore di nido e di comunit� infantile (18)",
+   "voto_esami": "27,1",
+   "voto_laurea": "102,2",
+   "in_corso_perc": "-",
+   "durata": "9,5",
+   "ritardo": "6,1",
+   "erasmus": "20",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "70"
+},
+ {
+   "corso": "educatore nei servizi per l'infanzia (L-19)",
+   "voto_esami": "26",
+   "voto_laurea": "97,1",
+   "in_corso_perc": "71,9",
+   "durata": "3,6",
+   "ritardo": "0,4",
+   "erasmus": "5,4",
+   
+      "stage_perc": "95,2",
+   "soddisfazione_perc": "51,8"
+},
+ {
+   "corso": "educatore sociale - gi� educatore professionale (18)",
+   "voto_esami": "26,6",
+   "voto_laurea": "101",
+   "in_corso_perc": "-",
+   "durata": "10",
+   "ritardo": "6,6",
+   "erasmus": "-",
+   
+      "stage_perc": "88,9",
+   "soddisfazione_perc": "40,7"
+},
+ {
+   "corso": "educatore sociale e culturale (L-19)",
+   "voto_esami": "26,4",
+   "voto_laurea": "98,4",
+   "in_corso_perc": "66,5",
+   "durata": "3,7",
+   "ritardo": "0,4",
+   "erasmus": "5,5",
+   
+      "stage_perc": "93,2",
+   "soddisfazione_perc": "41,2"
+},
+ {
+   "corso": "formatore (18)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "formazione al lavoro e alle professioni (L-19)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "operatore culturale / esperto in scienze dell'educazione (18)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze del comportamento e delle relazioni sociali (34)",
+   "voto_esami": "25,1",
+   "voto_laurea": "95,9",
+   "in_corso_perc": "-",
+   "durata": "10",
+   "ritardo": "6,5",
+   "erasmus": "16,7",
+   
+      "stage_perc": "33,3",
+   "soddisfazione_perc": "50"
+},
+ {
+   "corso": "scienze e tecniche psicologiche - gi� scienze del comportamento e delle relazioni sociali (L-24)",
+   "voto_esami": "26,3",
+   "voto_laurea": "101,2",
+   "in_corso_perc": "75,6",
+   "durata": "3,3",
+   "ritardo": "0,3",
+   "erasmus": "13,1",
+   
+      "stage_perc": "16,5",
+   "soddisfazione_perc": "39"
+}
+]
