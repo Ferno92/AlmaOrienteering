@@ -48,6 +48,10 @@
             android:label="Statistiche"
             android:theme="@style/AppTheme" />
         <activity
+            android:name=".versus.VersusCorsoActivity"
+            android:label="Statistiche"
+            android:theme="@style/AppTheme" />
+        <activity
             android:name=".versus.VersusActivity"
             android:label="Statistiche"
             android:theme="@style/AppTheme" />
