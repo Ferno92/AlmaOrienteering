@@ -1,8 +1,10 @@
 package com.almaorient.ferno92.almaorienteering.versus;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
@@ -75,6 +77,27 @@ public class VersusCorsoActivity extends AppCompatActivity {
             corso2Layout.setVisibility(View.VISIBLE);
             fillSpinner2();
         }
+
+        AppCompatButton nextButton = (AppCompatButton)findViewById(R.id.next);
+        nextButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(VersusCorsoActivity.this, VersusActivity.class);
+                i.putExtra("scuola1", mScuola1);
+                i.putExtra("scuola2", mScuola2);
+                i.putExtra("corso1", mSelectedCorso1.getNome());
+                i.putExtra("corso2", mSelectedCorso2.getNome());
+                startActivity(i);
+            }
+        });
+        AppCompatButton prevButton = (AppCompatButton)findViewById(R.id.prev);
+        prevButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //Back
+                finish();
+            }
+        });
     }
 
     private void fillSpinner1(){
