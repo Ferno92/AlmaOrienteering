@@ -1,0 +1,1540 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;componente_id
+881;76561;LABORATORIO DI LAUREA: PROGETTO, STORIA E RESTAURO (C.I.);;;311752
+881;8043;RESTAURO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/311753;modulo;311753
+881;79889;ESTETICA DEL PAESAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/311754;modulo;311754
+881;82997;COMPOSIZIONE ARCHITETTONICA/MUSEOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/311755;modulo;311755
+881;73766;NUOVE TECNOLOGIE PER IL RILIEVO DEL COSTRUITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/311756;modulo;311756
+881;82998;CONSOLIDAMENTO DELL'EDILIZIA STORICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/311757;modulo;311757
+881;73767;PROGETTO E CONSERVAZIONE ATTIVA DI PAESAGGI E SPAZI APERTI STORICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335572;modulo;335572
+881;29482;LABORATORIO DI PROGETTAZIONE ARCHITETTONICA I (C.I.);;;326082
+881;3869;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA I;;modulo;326085
+881;29508;DISEGNO DELLA CITT?Ç E DEL PAESAGGIO;;modulo;326086
+881;29511;CARATTERI DISTRIBUTIVI DEGLI EDIFICI I;;modulo;326095
+881;70461;STORIA DELL'ARCHITETTURA 1 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326112;;326112
+881;70460;MATERIALI E PROGETTAZIONE DI ELEMENTI COSTRUTTIVI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326146;;326146
+881;29835;LABORATORIO DI PROGETTAZIONE ARCHITETTONICA III (C.I.);;;326673
+881;3718;COMPOSIZIONE ARCHITETTONICA I;;modulo;326686
+881;19090;TEORIE DELLA COMPOSIZIONE ARCHITETTONICA;;modulo;326687
+881;30355;LABORATORIO DI RESTAURO ARCHITETTONICO (C.I.);;;327278
+881;9362;RESTAURO ARCHITETTONICO;;modulo;327296
+881;45211;CONSERVAZIONE DEI MATERIALI NELL'EDILIZIA STORICA;;modulo;327297
+881;32647;LABORATORIO DI RILIEVO DELL'ARCHITETTURA (C.I.);;;332362
+881;32648;RILIEVO ARCHITETTONICO E URBANO;;modulo;332363
+881;32649;STRUMENTI E METODI DEL RILIEVO ARCHITETTONICO;;modulo;332364
+881;70459;FISICA TECNICA AMBIENTALE I -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332371;;332371
+881;76559;LABORATORIO DI LAUREA: ARCHITETTURA SOSTENIBILE (C.I.);;;335541
+881;37810;TECNOLOGIE PER LA PROGETTAZIONE SOSTENIBILE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335544;modulo;335544
+881;37811;TECNOLOGIE PER LA PROGETTAZIONE SOSTENIBILE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335545;modulo;335545
+881;82662;PROGETTAZIONE DELL'EFFICIENZA E VALUTAZIONE DEI COMPORTAMENTI ENERGETICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335546;modulo;335546
+881;73773;TECNOLOGIE PER IL RISPARMIO ENERGETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335547;modulo;335547
+881;33155;PROGETTAZIONE SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335548;modulo;335548
+881;40133;AFPG - LABORATORIO DI FOTOGRAFIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335614;;335614
+881;40130;AFPG - LABORATORIO DI MODELLISTICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335620;;335620
+881;40136;AFPG - LABORATORIO DI DIAGNOSTICA STRUTTURALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335623;;335623
+881;40137;AFPG - LABORATORIO DI DIAGNOSTICA STRUTTURALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335624;;335624
+881;56499;AFPG - LABORATORIO DI RAPPRESENTAZIONE DEL TERRITORIO E DELL'AMBIENTE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335626;;335626
+881;26365;AFPG - LABORATORIO DI DISEGNO ASSISTITO PARAMETRICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335627;;335627
+881;37828;AFPG-LABORATORIO DI MODELLAZIONE E VISUALIZZAZIONE DIGITALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/352392;;352392
+881;76732;LABORATORIO DI LAUREA: PROGETTI PER LA GRANDE CITT?Ç (C.I.);;;369877
+881;18547;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369878;modulo;369878
+881;2736;STORIA DELL'ARCHITETTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369883;modulo;369883
+881;3873;TECNOLOGIA DELL'ARCHITETTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369884;modulo;369884
+881;76612;DISEGNO ARCHITETTONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395218;modulo;395218
+881;76563;LABORATORIO DI LAUREA: FIGURE DI SPAZI URBANI (C.I.);;;369885
+881;24708;COMPOSIZIONE ARCHITETTONICA E URBANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369886;modulo;369886
+881;58972;TEORIE E TECNICHE DELLA PROGETTAZIONE ARCHITETTONICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369887;modulo;369887
+881;79657;ARCHITETTURA DEL PAESAGGIO I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369888;modulo;369888
+881;76612;DISEGNO ARCHITETTONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369891;modulo;369891
+881;79673;LABORATORIO DI LAUREA: PROGETTO URBANO (C.I.);;;369894
+881;48295;COMPOSIZIONE ARCHITETTONICA E URBANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369895;modulo;369895
+881;8078;PROGETTAZIONE URBANISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369896;modulo;369896
+881;85786;ARCHITETTURA PER LA RIGENERAZIONE DEL PAESAGGIO URBANO;;modulo;369897
+881;18547;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA III;;modulo;369898
+881;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377739;;377739
+881;70063;LABORATORIO DI PROGETTAZIONE ARCHITETTONICA II - (C.I.);;;377771
+881;3870;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA II;;modulo;377774
+881;29627;CARATTERI DISTRIBUTIVI DEGLI EDIFICI II;;modulo;377775
+881;43835;ARCHITETTURA DEGLI INTERNI;;modulo;377776
+881;70079;LABORATORIO DI COSTRUZIONE DELL'ARCHITETTURA I - (C.I.);;;377803
+881;70234;PROGETTAZIONE TECNOLOGICA;;modulo;377806
+881;4499;PROGETTAZIONE AMBIENTALE;;modulo;377807
+881;70116;LABORATORIO DI DISEGNO DELL'ARCHITETTURA (C.I.);;;377831
+881;70211;DISEGNO ARCHITETTONICO E ANALISI GRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377832;modulo;377832
+881;70212;FONDAMENTI DI COMUNICAZIONE GRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378204;modulo;378204
+881;70230;STORIA E RESTAURO (C.I.);;;377834
+881;19495;STORIA DELL'ARCHITETTURA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377835;modulo;377835
+881;23800;TEORIE E STORIA DEL RESTAURO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377836;modulo;377836
+881;70207;PROGETTAZIONE ESECUTIVA DELL'ARCHITETTURA PER L'EFFICIENZA ENERGETICA (C.I.);;;377837
+881;70087;PROGETTAZIONE ESECUTIVA DELL'ARCHITETTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377838;modulo;377838
+881;32646;FISICA TECNICA AMBIENTALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377839;modulo;377839
+881;70099;LABORATORIO DI PROGETTAZIONE ARCHITETTONICA IV - (C.I.);;;377857
+881;4002;COMPOSIZIONE ARCHITETTONICA II;;modulo;377858
+881;12053;ARCHITETTURA DEL PAESAGGIO;;modulo;377860
+881;70100;LABORATORIO DI COSTRUZIONE DELL'ARCHITETTURA II - (C.I.);;;377861
+881;34172;PROGETTO DELLE STRUTTURE;;modulo;377862
+881;9795;TEORIA DELLE STRUTTURE;;modulo;377863
+881;32709;LEGISLAZIONE URBANISTICA E DELLE OO.PP.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377864;;377864
+881;70102;LINGUA INGLESE - 6 CFU;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377865;;377865
+881;70208;DISEGNO DELL'ARCHITETTURA I (C.I.);;;378200
+881;12240;DISEGNO DELL'ARCHITETTURA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378201;modulo;378201
+881;70209;RAPPRESENTAZIONE TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378202;modulo;378202
+881;70210;LABORATORIO DI INFORMATICA GRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378203;modulo;378203
+881;79722;LABORATORIO DI LAUREA: ARCHITETTURA PER L'ARCHEOLOGIA (C.I.);;;378720
+881;48295;COMPOSIZIONE ARCHITETTONICA E URBANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378721;modulo;378721
+881;33175;ALLESTIMENTO E MUSEOGRAFIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378722;modulo;378722
+881;43836;ARCHITETTURA STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378723;modulo;378723
+881;79661;L'ARTE DEL COSTRUIRE E LA SUA EVOLUZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378724;modulo;378724
+881;19659;PSICOLOGIA DELLA FORMA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378773;;378773
+881;10460;STORIA E TECNICA DELLA FOTOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378774;;378774
+881;4762;ALLESTIMENTO E MUSEOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378775;;378775
+881;71338;STORIA DELLA CITT?Ç E DEL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378777;;378777
+881;12660;COMPOSIZIONE E PROGETTAZIONE URBANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378778;;378778
+881;42969;ILLUMINOTECNICA E ACUSTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378779;;378779
+881;70098;LABORATORIO DI URBANISTICA - (C.I.);;;379270
+881;1016;TECNICA URBANISTICA;;modulo;379271
+881;1069;URBANISTICA;;modulo;379272
+881;70462;ELEMENTI DI URBANISTICA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379273;;379273
+881;70463;ISTITUZIONI DI MATEMATICHE II -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379274;;379274
+881;70464;STORIA DELL'ARCHITETTURA 2 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379275;;379275
+881;70465;STRUTTURE E STATICA NELL'ARCHITETTURA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379276;;379276
+881;26371;SCIENZA DELLE COSTRUZIONI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379277;;379277
+881;70466;ESTETICA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379279;;379279
+881;70467;MATEMATICA APPLICATA ALL'ARCHITETTURA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379280;;379280
+881;70468;VALUTAZIONE ECONOMICA DEI PROGETTI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379281;;379281
+881;73763;AFPG - LABORATORIO DI FOTOGRAFIA II - 4 CFU;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387656;;387656
+881;73764;AFPG - LABORATORIO DI MODELLISTICA II - 4 CFU;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387669;;387669
+881;81321;PROGETTAZIONE AMBIENTALE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404977;;404977
+881;15640;DIAGNOSTICA STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404979;;404979
+918;29902;PRINCIPI DI INGEGNERIA CHIMICA E BIOCHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326809;;326809
+918;29903;OPERAZIONI UNITARIE NELL'INDUSTRIA DI PROCESSO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326810;;326810
+918;29929;CHIMICA INDUSTRIALE T C.I.;;;326850
+918;29930;FONDAMENTI DI CHIMICA INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326851;modulo;326851
+918;29931;ELEMENTI DI CHIMICA INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326852;modulo;326852
+918;29932;MACCHINE A FLUIDO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326853;;326853
+918;29933;FONDAMENTI DI ELETTROCHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326854;;326854
+918;29980;MATERIALI CERAMICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326935;;326935
+918;73628;METALLURGIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326941;;326941
+918;37646;LABORATORIO DI PRINCIPI DI INGEGNERIA CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351166;;351166
+918;37648;LABORATORIO DI OPERAZIONI UNITARIE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351168;;351168
+918;65942;CHIMICA APPLICATA E SCIENZA DEI MATERIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364519;;364519
+918;78900;LABORATORIO DI INTRODUZIONE ALLA SIMULAZIONE DI PROCESSO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411487;;411487
+920;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324103;;324103
+920;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324105;;324105
+920;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324106;;324106
+920;28000;FISICA GENERALE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324109;;324109
+920;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324110;;324110
+920;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324112;;324112
+920;28029;ELETTROTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324115;;324115
+920;28520;FONDAMENTI DI MECCANICA APPLICATA ALLE MACCHINE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324117;;324117
+920;28523;FONDAMENTI DI MECCANICA APPLICATA ALLE MACCHINE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324121;;324121
+920;28525;CONTROLLI AUTOMATICI T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324123;;324123
+920;28527;CONTROLLI AUTOMATICI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324128;;324128
+920;28011;RETI LOGICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324131;;324131
+920;37064;AZIONAMENTI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324133;;324133
+920;28012;CALCOLATORI ELETTRONICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324136;;324136
+920;37065;MACCHINE AUTOMATICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324138;;324138
+920;28030;ECONOMIA E ORGANIZZAZIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324142;;324142
+920;28540;ELECTRICAL CIRCUITS;;;324145
+920;28541;FOUNDATIONS OF MECHANICS 1;;;324146
+920;28542;FOUNDATIONS OF MECHANICS 2;;;324147
+920;28543;AUTOMATIC CONTROL 1;;;324148
+920;28544;AUTOMATIC CONTROL 2;;;324149
+920;28553;ELECTRIC DRIVES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324167;;324167
+920;37067;COMPUTER ARCHITECTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324168;;324168
+920;28556;CONTROL SYSTEMS TECHNOLOGIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324170;;324170
+920;28558;LABORATORIO DI AZIONAMENTI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324172;;324172
+920;28559;LABORATORIO DI MACCHINE AUTOMATICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324173;;324173
+920;28560;LABORATORY OF ELECTRIC DRIVES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324175;;324175
+920;28561;LABORATORY OF AUTOMATIC MACHINES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324176;;324176
+920;28579;FOUNDATIONS OF ELECTRONICS;;;324202
+920;37063;FONDAMENTI DI ELETTRONICA PER L'AUTOMAZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324338;;324338
+920;28642;FOUNDATIONS OF INDUSTRIAL ROBOTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324353;;324353
+920;28647;LABORATORY OF AUTOMATION SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324358;;324358
+920;37066;LOGIC DESIGN OF DIGITAL SYSTEMS;;;349043
+920;37068;PRINCIPLES OF MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349044;;349044
+920;68387;CHINESE LANGUAGE 1;;;373425
+920;68388;CHINESE HISTORY AND CULTURE;;;373426
+920;68389;CHINESE SOCIO-ECONOMIC DEVELOPMENT;;;373427
+920;29227;FONDAMENTI DI INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376575;;376575
+920;71148;ELETTRONICA PER L'AUTOMAZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380989;;380989
+920;29035;LABORATORIO DI ARCHITETTURE E PROGRAMMAZIONE DEI SISTEMI ELETTRONICI INDUSTRIALI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402514;;402514
+920;73742;CHINESE LANGUAGE 2;;;420947
+920;78532;CHINESE SOCIAL ECONOMICS;;;421006
+921;37588;SCIENZA DELLE COSTRUZIONI T C.I.;;;328750
+921;30979;STATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328754;modulo;328754
+921;30981;ELEMENTI DI SCIENZA DELLE COSTRUZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328755;modulo;328755
+921;30990;TECNICA URBANISTICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328766;;328766
+921;30992;TECNICA DELLE COSTRUZIONI T C.I.;;;328769
+921;30993;ELEMENTI DI TECNICA DELLE COSTRUZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328773;modulo;328773
+921;30995;CONSOLIDAMENTO DEGLI EDIFICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328774;modulo;328774
+921;31018;ELEMENTI DI GEOTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328815;;328815
+921;37579;ARCHITETTURA TECNICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350983;;350983
+921;31003;FISICA TECNICA E IMPIANTI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351001;;351001
+921;37596;PROGETTAZIONE ARCHITETTONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351049;;351049
+921;31049;COMPOSIZIONE ARCHITETTONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376084;;376084
+921;31036;IDRAULICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376085;;376085
+921;30982;CANTIERI E PRODUZIONE EDILIZIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377935;;377935
+921;37582;DISEGNO EDILE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384994;;384994
+921;72740;TOPOGRAFIA E CARTOGRAFIA T C.I.;;;385002
+921;31444;TOPOGRAFIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385003;modulo;385003
+921;72741;CARTOGRAFIA E GESTIONE DEI DATI TERRITORIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385004;modulo;385004
+921;37592;RECUPERO EDILIZIO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401796;;401796
+921;81639;COSTRUZIONE DI STRADE URBANE E METROPOLITANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411998;;411998
+921;81640;RETI ED IMPIANTI IDRAULICI URBANI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411999;;411999
+923;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324185;;324185
+923;28570;GEOMETRIA E ALGEBRA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324189;;324189
+923;28623;FONDAMENTI DI INFORMATICA E LABORATORIO T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324300;;324300
+923;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324377;;324377
+923;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324389;;324389
+923;28011;RETI LOGICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324400;;324400
+923;28675;ECONOMIA E ORGANIZZAZIONE AZIENDALE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324413;;324413
+923;28012;CALCOLATORI ELETTRONICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324422;;324422
+923;28000;FISICA GENERALE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324428;;324428
+923;28633;ELETTROTECNICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324464;;324464
+923;28635;MATEMATICA APPLICATA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324493;;324493
+923;28719;CAMPI ELETTROMAGNETICI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324498;;324498
+923;28630;CONTROLLI AUTOMATICI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324502;;324502
+923;28722;ELETTRONICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324506;;324506
+923;28724;ELETTRONICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324523;;324523
+923;28725;BIOINGEGNERIA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324525;;324525
+923;69861;PROGETTO DI SISTEMI ELETTRONICI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324533;;324533
+923;28739;MISURE ELETTRONICHE E LABORATORIO T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324554;;324554
+923;28848;SISTEMI DI TELECOMUNICAZIONI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324794;;324794
+923;28852;RETI DI TELECOMUNICAZIONI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324798;;324798
+923;28857;CIRCUITI A MICROONDE PER LE TELECOMUNICAZIONI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324803;;324803
+923;29024;DIRITTO DELLE TELECOMUNICAZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325084;;325084
+923;29036;LABORATORIO DI ELETTRONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325117;;325117
+923;29040;LABORATORIO DI RETI DI TELECOMUNICAZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325125;;325125
+923;29047;LABORATORIO DI SOFTWARE PER LE TELECOMUNICAZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325136;;325136
+923;28625;FONDAMENTI DI CHIMICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325162;;325162
+923;30418;COMUNICAZIONI ELETTRICHE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327498;;327498
+923;67432;COMPLEMENTI DI GEOMETRIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350794;;350794
+923;37492;FISICA MODERNA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350800;;350800
+923;69619;PROGETTO DI SISTEMI IN FIBRA OTTICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376730;;376730
+923;73092;CIRCUITI ELETTRONICI ANALOGICI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385721;;385721
+923;73110;ELETTRONICA INDUSTRIALE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385805;;385805
+923;73118;SISTEMI E CIRCUITI OTTICI E A RADIOFREQUENZA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385813;;385813
+923;73119;SOFTWARE PER LE TELECOMUNICAZIONI E LABORATORIO T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385815;;385815
+923;73731;ARCHITETTURE E PROGRAMMAZIONE DEI SISTEMI ELETTRONICI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387476;;387476
+923;75418;APPLICAZIONI E PROSPETTIVE DELL'ELETTRONICA E DELLE TELECOMUNICAZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391788;;391788
+923;28020;SISTEMI OPERATIVI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401969;;401969
+924;29606;ELEMENTI DI ANALISI MATEMATICA E GEOMETRIA T C.I.;;;329501
+924;28622;ANALISI MATEMATICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329506;modulo;329506
+924;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329507;modulo;329507
+924;29225;FONDAMENTI DI CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329508;;329508
+924;31372;DISEGNO ASSISTITO DAL CALCOLATORE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329509;;329509
+924;29227;FONDAMENTI DI INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329511;;329511
+924;31389;FISICA GENERALE T C.I.;;;329539
+924;28626;FISICA GENERALE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329540;modulo;329540
+924;28628;FISICA GENERALE T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329541;modulo;329541
+924;31391;TERMODINAMICA, MOTO DEI FLUIDI E TERMOCINETICA T C.I.;;;329545
+924;31392;TERMODINAMICA APPLICATA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329546;modulo;329546
+924;31393;MOTO DEI FLUIDI E TERMOCINETICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329547;modulo;329547
+924;29919;COMPORTAMENTO MECCANICO DEI MATERIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329548;;329548
+924;28029;ELETTROTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329549;;329549
+924;31394;FONDAMENTI DI MECCANICA DELLE MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329550;;329550
+924;31399;SISTEMI ENERGETICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329555;;329555
+924;31400;FONDAMENTI E APPLICAZIONI DELL'ENERGIA NUCLEARE E RADIOPROTEZIONE T C.I.;;;329556
+924;31401;FONDAMENTI E APPLICAZIONI DELL'ENERGIA NUCLEARE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329557;modulo;329557
+924;31402;RADIOPROTEZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329558;modulo;329558
+924;31403;FONDAMENTI DI ECONOMIA AZIENDALE E DELL'INNOVAZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329559;;329559
+924;31409;ENERGETICA E IMPIANTI TECNICI T C.I.;;;329563
+924;31410;ENERGETICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329564;modulo;329564
+924;31009;IMPIANTI TECNICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329565;modulo;329565
+924;31414;LABORATORIO COMPUTAZIONALE DI TERMOFLUIDODINAMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329572;;329572
+924;31415;LABORATORIO DI RADIOPROTEZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329574;;329574
+924;31416;LABORATORIO DI SPERIMENTAZIONE SULLE MACCHINE E I SISTEMI ENERGETICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329575;;329575
+924;31417;LABORATORIO DI TECNOLOGIE DEI MATERIALI E APPLICAZIONI INDUSTRIALI DEI PLASMI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329576;;329576
+924;31418;IMPIANTI MECCANICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329577;;329577
+924;31419;SICUREZZA E ANALISI DI RISCHIO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329579;;329579
+924;29773;METALLURGIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329580;;329580
+924;28016;ELETTRONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329581;;329581
+924;37348;SISTEMI DI PRODUZIONE E CONVERSIONE DELL'ENERGIA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350440;;350440
+924;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350484;;350484
+924;79583;MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404546;;404546
+924;79590;ANALISI MATEMATICA T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404575;;404575
+924;79591;FONDAMENTI E APPLICAZIONI DELL'INGEGNERIA DI PROCESSO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404576;;404576
+924;79592;LOCALIZZAZIONE DEI SISTEMI ENERGETICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404592;;404592
+925;28616;ANALISI MATEMATICA T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324310;;324310
+925;28620;ANALISI MATEMATICA E GEOMETRIA E ALGEBRA T-AB C.I.;;;324319
+925;28622;ANALISI MATEMATICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324322;modulo;324322
+925;28570;GEOMETRIA E ALGEBRA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324323;modulo;324323
+925;28538;ECONOMIA E ORGANIZZAZIONE AZIENDALE T-1;;;324324
+925;28625;FONDAMENTI DI CHIMICA T-A;;;324326
+925;28626;FISICA GENERALE T-A;;;324328
+925;28628;FISICA GENERALE T-B;;;324329
+925;28004;FONDAMENTI DI INFORMATICA T-1;;;324330
+925;28629;GESTIONE AZIENDALE T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324333;;324333
+925;28630;CONTROLLI AUTOMATICI T-A;;;324337
+925;28633;ELETTROTECNICA T-A;;;324344
+925;28635;MATEMATICA APPLICATA T-A;;;324347
+925;28639;FONDAMENTI DI RICERCA OPERATIVA T-A;;;324350
+925;28645;IMPIANTI INDUSTRIALI T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324356;;324356
+925;28646;GESTIONE DEI PROGETTI D'INNOVAZIONE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324359;;324359
+925;28648;LOGISTICA INDUSTRIALE T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324361;;324361
+925;28649;STUDI DI FABBRICAZIONE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324362;;324362
+925;28651;ELETTRONICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324368;;324368
+925;28652;SISTEMI INFORMATIVI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324370;;324370
+925;28653;TELECOMUNICAZIONI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324372;;324372
+925;28658;MACCHINE E SISTEMI ENERGETICI T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324378;;324378
+925;28661;MECCANICA APPLICATA ALLE MACCHINE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324383;;324383
+925;28666;LABORATORIO DI CREAZIONE D'IMPRESA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324388;;324388
+925;28669;LABORATORIO DI STRUMENTI DI OTTIMIZZAZIONE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324394;;324394
+925;28674;ECONOMIA, MERCATI E SETTORI PRODUTTIVI T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324528;;324528
+925;37451;LABORATORIO DI GESTIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350682;;350682
+925;28664;GESTIONE DELL'ENERGIA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376545;;376545
+925;75475;AFFIDABILITA' CONTROLLO QUALITA' E CERTIFICAZIONE DI PROCESSO E DI PRODOTTO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391909;;391909
+926;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323089;;323089
+926;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323093;;323093
+926;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323096;;323096
+926;28000;FISICA GENERALE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323098;;323098
+926;28004;FONDAMENTI DI INFORMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323103;;323103
+926;28006;FONDAMENTI DI INFORMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323109;;323109
+926;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323112;;323112
+926;28011;RETI LOGICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323115;;323115
+926;28012;CALCOLATORI ELETTRONICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323116;;323116
+926;28014;FONDAMENTI DI TELECOMUNICAZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323120;;323120
+926;28015;CONTROLLI AUTOMATICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323121;;323121
+926;28016;ELETTRONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323122;;323122
+926;28020;SISTEMI OPERATIVI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323128;;323128
+926;28021;INGEGNERIA DEL SOFTWARE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323129;;323129
+926;28024;RETI DI CALCOLATORI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323132;;323132
+926;28027;SISTEMI INFORMATIVI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323137;;323137
+926;28029;ELETTROTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323147;;323147
+926;28030;ECONOMIA E ORGANIZZAZIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323150;;323150
+926;28032;MATEMATICA APPLICATA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323153;;323153
+926;28072;LABORATORIO DI AMMINISTRAZIONE DI SISTEMI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323219;;323219
+926;28659;TECNOLOGIE WEB T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324380;;324380
+926;32099;DIRITTO DELL'INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331485;;331485
+926;38378;AFFIDABILIT?Ç E CONTROLLO DELLA QUALIT?Ç T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/355827;;355827
+926;73065;LABORATORIO DI AMMINISTRAZIONE DI SISTEMI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385571;;385571
+927;28616;ANALISI MATEMATICA T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326266;;326266
+927;29225;FONDAMENTI DI CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326271;;326271
+927;28030;ECONOMIA E ORGANIZZAZIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326312;;326312
+927;29653;ELETTROTECNICA INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326317;;326317
+927;29227;FONDAMENTI DI INFORMATICA T;;;326343
+927;37551;MECCANICA APPLICATA ALLE MACCHINE T C.I.;;;326395
+927;31622;MECCANICA DELLE MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326405;modulo;326405
+927;37552;MECCANICA DEGLI AZIONAMENTI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326406;modulo;326406
+927;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326420;;326420
+927;29697;MISURE MECCANICHE, TERMICHE E COLLAUDO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326426;;326426
+927;32632;TECNOLOGIA, SISTEMI DI LAVORAZIONE E APPLICAZIONI T C.I.;;;326455
+927;29719;TECNOLOGIA MECCANICA E SISTEMI DI LAVORAZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326468;modulo;326468
+927;65896;COMPLEMENTI DI TECNOLOGIA MECCANICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326469;modulo;326469
+927;29737;LABORATORIO DI INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326501;;326501
+927;29762;MANUTENZIONE DEI SISTEMI DI PRODUZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326544;;326544
+927;29777;SCIENZA DEI MATERIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326566;;326566
+927;29780;STRUMENTAZIONE E AUTOMAZIONE INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326572;;326572
+927;31411;TIROCINIO TA;;;339878
+927;34310;ELEMENTI DELLE MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339880;;339880
+927;34311;FISICA TECNICA E MECCANICA DEI FLUIDI T C.I.;;;339881
+927;29243;FISICA TECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339882;modulo;339882
+927;29686;MECCANICA DEI FLUIDI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339883;modulo;339883
+927;37545;IMPIANTI MECCANICI E LOGISTICA T C.I.;;;350908
+927;31418;IMPIANTI MECCANICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350914;modulo;350914
+927;65855;LOGISTICA INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350915;modulo;350915
+927;31453;INGEGNERIA DELLE MATERIE PRIME T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350923;;350923
+927;29741;DISEGNO DI MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350925;;350925
+927;34313;COSTRUZIONE DI MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364412;;364412
+927;65899;MACCHINE E SISTEMI ENERGETICI T C.I.;;;364416
+927;31399;SISTEMI ENERGETICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364419;modulo;364419
+927;29674;MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364420;modulo;364420
+927;65900;COMPLEMENTI DI ANALISI MATEMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364421;;364421
+927;33956;FISICA MATEMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364422;;364422
+927;65904;DISEGNO MECCANICO E AUTOMATICO T C.I.;;;364426
+927;29642;DISEGNO MECCANICO T;;modulo;364427
+927;65905;APPLICAZIONI DI DISEGNO MECCANICO T;;modulo;364428
+927;67432;COMPLEMENTI DI GEOMETRIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369694;;369694
+927;31389;FISICA GENERALE T C.I.;;;387282
+927;28626;FISICA GENERALE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387284;modulo;387284
+927;28628;FISICA GENERALE T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387285;modulo;387285
+927;28622;ANALISI MATEMATICA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387286;;387286
+927;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387288;;387288
+927;73628;METALLURGIA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387295;;387295
+927;73750;METODI NUMERICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387539;;387539
+927;78185;LABORATORIO DI INFORMATICA PER LA MECCANICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400975;;400975
+927;65855;LOGISTICA INDUSTRIALE T;;;421010
+930;34900;ATTIVIT?Ç PREPARATORIA ALLA TESI M;;;341636
+930;35398;SUSTAINABLE TRANSPORTATION ENGINEERING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341683;;341683
+930;35409;COASTAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341698;;341698
+930;35432;APPLIED GEOMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341728;;341728
+930;66914;STRUCTURAL STRENGTHENING AND REHABILITATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341732;;341732
+930;35513;ENGINEERING GEOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367464;;367464
+930;72759;COSTRUZIONI IDRAULICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385056;;385056
+930;72760;FISICA MATEMATICA E TRATTAMENTO STATISTICO DELLE OSSERVAZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385060;;385060
+930;72762;METODI NUMERICI PER L'INGEGNERIA CIVILE M;;;385065
+930;72766;OPERE GEOTECNICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385069;;385069
+930;72768;TECNICA DELLE COSTRUZIONI M;;;385071
+930;72770;TEORIA DELLE STRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385073;;385073
+930;72771;PROGETTAZIONE AVANZATA DI INFRASTRUTTURE VIARIE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385074;;385074
+930;72772;CALCOLO AUTOMATICO DELLE STRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385076;;385076
+930;72776;PROGETTO IN ZONA SISMICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385079;;385079
+930;72779;TELERILEVAMENTO E GIS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385083;;385083
+930;72783;CONTROLLO E COLLAUDO DELLE STRUTTURE E DEL TERRITORIO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385086;;385086
+930;72786;IMPIANTI SPECIALI IDRAULICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385089;;385089
+930;72791;TEORIA E TECNICA DELLA CIRCOLAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385095;;385095
+930;72793;IDRAULICA AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385097;;385097
+930;72798;PROGETTI DI STRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385102;;385102
+930;72800;DIAGNOSTICA E SPERIMENTAZIONE DELLE STRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385104;;385104
+930;72801;DINAMICA DELLE STRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385105;;385105
+930;72802;PROGETTO DI PONTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385106;;385106
+930;72804;PROGETTO DI STRUTTURE DI FONDAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385108;;385108
+930;72816;LABORATORIO DI PROGETTO DI PONTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385116;;385116
+930;72817;LABORATORIO DI SPERIMENTAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385117;;385117
+930;72818;CONSOLIDAMENTO DEI TERRENI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385118;;385118
+930;72819;LABORATORIO DI INTERNAZIONALIZZAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385120;;385120
+930;72857;LABORATORIO DI INFRASTRUTTURE VIARIE E TRASPORTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385239;;385239
+930;72858;PIANIFICAZIONE DEI TRASPORTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385240;;385240
+930;72859;COSTRUZIONI FERROVIARIE E AEROPORTUALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385242;;385242
+930;72860;PROGETTAZIONE DEI SISTEMI DI TRASPORTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385243;;385243
+930;72867;OPERE IN SOTTERRANEO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385257;;385257
+930;72869;OPERE INFRASTRUTTURALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385258;;385258
+930;72875;IMPIANTI TECNICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385266;;385266
+930;72878;FOTOGRAMMETRIA APPLICATA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385273;;385273
+930;72879;SISTEMI IDRAULICI URBANI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385274;;385274
+930;72880;LABORATORIO DI MODELLAZIONE GEOTECNICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385275;;385275
+930;72881;LABORATORIO DI PROGETTAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385276;;385276
+930;72893;PROTEZIONE IDRAULICA DEL TERRITORIO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385290;;385290
+930;72894;IDRAULICA MARITTIMA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385293;;385293
+930;72906;LABORATORIO DI SISTEMI IDRAULICI URBANI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385307;;385307
+930;72909;PROGETTO DI OPERE DI INGEGNERIA SANITARIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385313;;385313
+930;35872;UNCERTAINTY & RISK IN TRANSPORTATION SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390790;;390790
+930;74862;PROGETTO DI STRUTTURE IN LEGNO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391185;;391185
+930;72748;SUSTAINABILITY IN CONSTRUCTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392077;;392077
+930;72763;INFRASTRUCTURE SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392079;;392079
+930;72782;MECHANICS OF HISTORICAL MASONRY STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392080;;392080
+930;72785;STRUCTURAL SAFETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392081;;392081
+930;72799;CONTEXT-SENSITIVE DESIGN IN TRANSPORTATION INFRASTRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392082;;392082
+930;72767;MANAGING ENGINEERING AND CONSTRUCTION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392083;;392083
+930;75625;UNCERTAINTY AND RISK IN TRANSPORTATION SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392116;;392116
+930;78737;SUSTAINABLE BUILDING DESIGN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402160;;402160
+930;78965;PUBLIC PROCUREMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402645;;402645
+930;81628;PROGETTO E LABORATORIO DI PONTI M C.I.;;;411938
+930;72802;PROGETTO DI PONTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411939;modulo;411939
+930;81629;LABORATORIO DI PROGETTI DI PONTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411940;modulo;411940
+930;78596;SUSTAINABLE DESIGN OF WATER RESOURCES SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411955;;411955
+930;78594;FLOOD AND DROUGHT RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411956;;411956
+930;78593;GROUNDWATER AND CONTAMINATION PROCESSES;;;411957
+934;35315;ELETTRONICA DEI SISTEMI DIGITALI M E LABORATORIO C.I.;;;341553
+934;34876;ELETTRONICA DEI SISTEMI DIGITALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341556;modulo;341556
+934;35326;LABORATORIO DI ELETTRONICA DEI SISTEMI DIGITALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341557;modulo;341557
+934;35331;ANALISI MATEMATICA M E METODI NUMERICI PER L'INGEGNERIA M C.I.;;;341572
+934;35332;ANALISI MATEMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341574;modulo;341574
+934;34897;METODI NUMERICI PER L'INGEGNERIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341575;modulo;341575
+934;35359;MICROELETTRONICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341611;;341611
+934;35364;ARCHITETTURE DIGITALI PER L'ELABORAZIONE DEL SEGNALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341621;;341621
+934;38376;PROGETTO DI CIRCUITI ANALOGICI M - B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341623;;341623
+934;35367;ELETTRONICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341628;;341628
+934;35368;SISTEMI A MICROPROCESSORE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341629;;341629
+934;35370;SISTEMI ELETTRONICI AD ALTA AFFIDABILIT?Ç M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341633;;341633
+934;35371;ELABORAZIONE DI DATI E SEGNALI BIOMEDICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341635;;341635
+934;35372;STRUMENTAZIONE BIOMEDICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341637;;341637
+934;35374;BIOINGEGNERIA DELLA RIABILITAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341640;;341640
+934;34900;ATTIVIT?Ç PREPARATORIA ALLA TESI M;;;341672
+934;35424;SISTEMI INTEGRATI PER L'ANALISI SPETTRALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341714;;341714
+934;35426;CHIMICA FISICA DEI MATERIALI SOLIDI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341717;;341717
+934;35151;DESIGN FOR TESTABILITY AND RELIABILITY OF INTEGRATED CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344173;;344173
+934;35152;HARDWARE-SOFTWARE DESIGN OF EMBEDDED SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344175;;344175
+934;29161;MATHEMATICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344176;;344176
+934;35157;SOLID STATE ELECTRONICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344178;;344178
+934;35169;ADVANCED CONTROL SYSTEMS M;;;344180
+934;28642;FOUNDATIONS OF INDUSTRIAL ROBOTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344191;;344191
+934;35192;RESOURCES OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344197;;344197
+934;35171;SOLID STATE PHYSICAL CHEMISTRY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344198;;344198
+934;35164;SOLID STATE SENSORS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344199;;344199
+934;35190;WIRELESS SENSOR NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/344201;;344201
+934;37120;TRENDS IN COMMUNICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351262;;351262
+934;37691;INTRODUCTION TO NUMERICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351268;;351268
+934;69421;ELABORAZIONE DEI SEGNALI NEI SISTEMI ELETTRONICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376383;;376383
+934;72963;LAB OF INTEROPERABILITY OF EMBEDDED SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376393;;376393
+934;69429;LABORATORIO DI STRUMENTAZIONE VIRTUALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376395;;376395
+934;69430;ARCHITETTURA DEI CALCOLATORI ELETTRONICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376400;;376400
+934;69437;NANOELETTRONICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376407;;376407
+934;69441;OPTIMIZATION MODELS AND ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376428;;376428
+934;72967;LAB OF STATISTICAL SIGNAL PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385415;;385415
+934;72969;LAB OF NONSTATIONARY SIGNAL PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385417;;385417
+934;72970;LAB OF ANALOG CIRCUIT DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385418;;385418
+934;72972;LAB OF HIGH-FREQUENCY CIRCUIT DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385420;;385420
+934;73015;LAB OF RELIABLE SYSTEMS DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385423;;385423
+934;72974;LAB OF BIO-IMAGES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385424;;385424
+934;72982;BIOIMMAGINI E INGEGNERIA CLINICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385441;;385441
+934;72984;ELETTRONICA DELLE TELECOMUNICAZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385444;;385444
+934;72988;DIGITAL RECEIVER DESIGN AND OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385448;;385448
+934;72996;COMPUTER ARCHITECTURES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385458;;385458
+934;73801;LAB OF HARDWARE-SOFTWARE DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387900;;387900
+934;69661;IMAGE PROCESSING AND COMPUTER VISION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391122;;391122
+934;33996;LABORATORIO DI MECCANICA DEI TESSUTI BIOLOGICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391125;;391125
+934;78187;ELEMENTS OF STATISTICS AND SIGNAL PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400977;;400977
+934;78188;COMMUNICATION SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400978;;400978
+934;78189;INFORMATION THEORY AND CODING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400979;;400979
+934;78190;NETWORK MODELLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400980;;400980
+934;78191;RADIO SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400981;;400981
+934;73924;POWER ELECTRONIC CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400984;;400984
+934;37700;PRELIMINARY FINAL PROJECT WORK M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401020;;401020
+934;37686;TRENDS IN ELECTRONICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401054;;401054
+934;78637;STATISTICS, ALGORITHMS AND SYSTEMS FOR BIG DATA PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401951;;401951
+934;78637;STATISTICS, ALGORITHMS AND SYSTEMS FOR BIG DATA PROCESSING M (4);;modulo;401955
+934;81649;PROGETTO DI CIRCUITI E SISTEMI ANALOGICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412106;;412106
+934;82069;ELECTROMAGNETIC PROPAGATION FOR WIRELESS SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413818;;413818
+935;34603;METODI MATEMATICI E NUMERICI PER L'ENERGETICA M C.I.;;;340545
+935;34605;METODI MATEMATICI PER L'ENERGETICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340546;modulo;340546
+935;34606;METODI NUMERICI PER L'ENERGETICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340547;modulo;340547
+935;75445;TRASMISSIONE DEL CALORE E TERMOFLUIDODINAMICA M C.I.;;;340548
+935;34608;TRASMISSIONE DEL CALORE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340549;modulo;340549
+935;75446;TERMOFLUIDODINAMICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340550;modulo;340550
+935;40060;CENTRALI ELETTRICHE E GENERAZIONE DISTRIBUITA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340552;;340552
+935;34609;TECNOLOGIE SOSTENIBILI PER LE RISORSE ENERGETICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340553;;340553
+935;29207;APPLICAZIONI INDUSTRIALI DEI PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340555;;340555
+935;34611;NEUTRONICA E PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340556;;340556
+935;29209;FISICA MODERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340557;;340557
+935;33945;PIASTRE E GUSCI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340560;;340560
+935;34496;TIROCINIO M;;;340580
+935;34598;LABORATORIO COMPUTAZIONALE DI TERMOFLUIDODINAMICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340584;;340584
+935;34636;LABORATORIO DI RADIOPROTEZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340588;;340588
+935;34638;LABORATORIO DI TECNOLOGIE DEI MATERIALI E APPLICAZIONI INDUSTRIALI DEI PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340590;;340590
+935;34640;LABORATORIO DI CALCOLO PARALLELO PER APPLICAZIONI ENERGETICHE E MECCANICHE AVANZATE M-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340592;;340592
+935;31416;LABORATORIO DI SPERIMENTAZIONE SULLE MACCHINE E I SISTEMI ENERGETICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340595;;340595
+935;31417;LABORATORIO DI TECNOLOGIE DEI MATERIALI E APPLICAZIONI INDUSTRIALI DEI PLASMI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340597;;340597
+935;30131;METALLURGIA MECCANICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340688;;340688
+935;33931;CHIMICA DEI PROCESSI DI COMBUSTIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345786;;345786
+935;37402;SISTEMI ENERGETICI AVANZATI E COGENERAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350576;;350576
+935;29214;INGEGNERIA DEI PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351694;;351694
+935;34594;IMPIANTI NON CONVENZIONALI PER LA PRODUZIONE DI ENERGIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/358982;;358982
+935;34627;TRASPORTO DI PARTICELLE E DI RADIAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/358983;;358983
+935;34628;RADIOPROTEZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/358984;;358984
+935;65772;EVOLUZIONE STORICA E TECNOLOGICA DELL'ENERGIA NUCLEARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364077;;364077
+935;65773;IMPIANTI MECCANICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364078;;364078
+935;65774;INGEGNERIA DEI SISTEMI SUPERCONDUTTIVI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364079;;364079
+935;65776;TECNICHE DI MODELLISTICA E SIMULAZIONE PER L'ENERGETICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364081;;364081
+935;31414;LABORATORIO COMPUTAZIONALE DI TERMOFLUIDODINAMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364084;;364084
+935;31415;LABORATORIO DI RADIOPROTEZIONE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364085;;364085
+935;74925;GESTIONE E IMPATTO AMBIENTALE DEI SISTEMI ENERGETICI C.I.;;;391095
+935;34616;GESTIONE DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391096;modulo;391096
+935;33964;IMPATTO AMBIENTALE DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391097;modulo;391097
+935;75441;SISTEMI SOLARI E GEOTERMICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391872;;391872
+935;75442;TECNOLOGIE INNOVATIVE PER LA PRODUZIONE, IL TRASPORTO E L'ACCUMULO DELL'ENERGIA ELETTRICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391874;;391874
+935;75443;TERMOIDRAULICA BIFASE E DI SISTEMA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391876;;391876
+935;75444;ENERGETICA DEGLI EDIFICI E IMPIANTI TERMOTECNICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391877;;391877
+935;31401;FONDAMENTI E APPLICAZIONI DELL'ENERGIA NUCLEARE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394073;;394073
+935;73727;ACUSTICA APPLICATA ED ILLUMINOTECNICA;;;411886
+936;34431;SISTEMI DI PRODUZIONE AVANZATI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340300;;340300
+936;34433;ORGANIZZAZIONE AZIENDALE M C.I.;;;340302
+936;34434;COMPORTAMENTO ORGANIZZATIVO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340303;modulo;340303
+936;34435;ORGANIZZAZIONE E GESTIONE DELLE RISORSE UMANE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340304;modulo;340304
+936;34437;AUTOMAZIONE DEI PROCESSI INDUSTRIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340305;;340305
+936;33981;SISTEMI INTEGRATI DI LAVORAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340306;;340306
+936;34439;STRATEGIA AZIENDALE M C.I.;;;340307
+936;34440;STRATEGIA E GESTIONE DEL SISTEMA DEL VALORE M;;modulo;340308
+936;34442;ECONOMIA E GESTIONE DELL'INNOVAZIONE M;;modulo;340309
+936;37443;CAMBIAMENTO ORGANIZZATIVO E PROGETTAZIONE DEI PROCESSI AZIENDALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340313;;340313
+936;34466;FINANZA AZIENDALE E DI PROGETTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340347;;340347
+936;34468;MANUTENZIONE DEI SISTEMI DI PRODUZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340349;;340349
+936;34469;MARKETING INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340350;;340350
+936;34470;METODI PER LA GESTIONE DEI PROGETTI COMPLESSI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340351;;340351
+936;33978;PROCESSI E METODI DI FABBRICAZIONE PER LO SVILUPPO DEL PRODOTTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340354;;340354
+936;34479;ECOLOGIA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340363;;340363
+936;33964;IMPATTO AMBIENTALE DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340368;;340368
+936;37444;ELETTROTECNICA DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340374;;340374
+936;33948;VALORIZZAZIONE DELLE RISORSE PRIMARIE E SECONDARIE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340375;;340375
+936;28666;LABORATORIO DI CREAZIONE D'IMPRESA T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340384;;340384
+936;28669;LABORATORIO DI STRUMENTI DI OTTIMIZZAZIONE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340386;;340386
+936;28674;ECONOMIA, MERCATI E SETTORI PRODUTTIVI T-AB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340390;;340390
+936;34495;LABORATORIO DI SIMULAZIONE PER LA LOGISTICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/355833;;355833
+936;35192;RESOURCES OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376556;;376556
+936;65685;RADIO NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376558;;376558
+936;69499;BUSINESS INTELLIGENCE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376559;;376559
+936;69655;SERVIZI GENERALI E SICUREZZA D'IMPIANTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376802;;376802
+936;73412;TECHNOLOGY ENTREPRENEURSHIP M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386722;;386722
+936;73356;RESOURCES AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386724;;386724
+936;73414;ALGORITHMS FOR DECISION MAKING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386725;;386725
+936;69996;INDUSTRIAL ECOLOGY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386728;;386728
+936;75475;AFFIDABILITA' CONTROLLO QUALITA' E CERTIFICAZIONE DI PROCESSO E DI PRODOTTO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391913;;391913
+936;75478;MANAGEMENT CONTROL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391915;;391915
+937;29206;GESTIONE DELL'INNOVAZIONE E DEI PROGETTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341434;;341434
+937;35253;METODOLOGIE DI PROGETTAZIONE HARDWARE-SOFTWARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/341469;;341469
+937;69494;MULTIMEDIA SERVICES AND APPLICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376521;;376521
+937;72935;RICERCA OPERATIVA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385358;;385358
+937;72937;CALCOLATORI ELETTRONICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385363;;385363
+937;72938;FONDAMENTI DI INTELLIGENZA ARTIFICIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385372;;385372
+937;72939;INGEGNERIA DEI SISTEMI SOFTWARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385373;;385373
+937;72940;LINGUAGGI E MODELLI COMPUTAZIONALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385374;;385374
+937;72942;SICUREZZA DELL'INFORMAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385379;;385379
+937;72943;SISTEMI DIGITALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385380;;385380
+937;72944;TECNOLOGIE DELLE BASI DI DATI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385381;;385381
+937;72945;SISTEMI IN TEMPO REALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385382;;385382
+937;72947;SISTEMI OPERATIVI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385384;;385384
+937;72953;FONDAMENTI DI COMPUTER GRAPHICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385392;;385392
+937;73030;OTTIMIZZAZIONE SU RETI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385396;;385396
+937;72957;ATTIVIT?Ç PROGETTUALE DI CALCOLATORI ELETTRONICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385400;;385400
+937;72958;ATTIVIT?Ç PROGETTUALE DI CONTROLLI AUTOMATICI E TEORIA DEI SISTEMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385401;;385401
+937;72959;ATTIVIT?Ç PROGETTUALE DI DIAGNOSTICA E CONTROLLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385404;;385404
+937;73303;ATTIVIT?Ç PROGETTUALE DI COMPUTER VISION AND IMAGE PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385407;;385407
+937;72965;ATTIVIT?Ç PROGETTUALE DI FONDAMENTI DI COMPUTER GRAPHICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385410;;385410
+937;72968;ATTIVIT?Ç PROGETTUALE DI FONDAMENTI DI INTELLIGENZA ARTIFICIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385416;;385416
+937;72971;ATTIVIT?Ç PROGETTUALE DI GESTIONE DELL'INNOVAZIONE E DEI PROGETTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385419;;385419
+937;72975;ATTIVIT?Ç PROGETTUALE DI INGEGNERIA DEI SISTEMI SOFTWARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385427;;385427
+937;72980;ATTIVIT?Ç PROGETTUALE DI LINGUAGGI E MODELLI COMPUTAZIONALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385440;;385440
+937;72985;ATTIVIT?Ç PROGETTUALE DI METODOLOGIE DI PROGETTAZIONE HARDWARE-SOFTWARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385445;;385445
+937;72987;ATTIVIT?Ç PROGETTUALE DI MULTIMEDIA SERVICES AND APPLICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385447;;385447
+937;72994;ATTIVIT?Ç PROGETTUALE DI RICERCA OPERATIVA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385455;;385455
+937;72997;ATTIVIT?Ç PROGETTUALE DI ROBOTICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385459;;385459
+937;72998;ATTIVIT?Ç PROGETTUALE DI SICUREZZA DELL'INFORMAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385460;;385460
+937;72999;ATTIVIT?Ç PROGETTUALE DI SISTEMI DI CONTROLLO DISTRIBUITO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385461;;385461
+937;73000;ATTIVIT?Ç PROGETTUALE DI SISTEMI DIGITALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385464;;385464
+937;73002;ATTIVIT?Ç PROGETTUALE DI SISTEMI DISTRIBUITI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385469;;385469
+937;73004;ATTIVIT?Ç PROGETTUALE DI SISTEMI IN TEMPO REALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385473;;385473
+937;73008;ATTIVIT?Ç PROGETTUALE DI SISTEMI INTELLIGENTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385476;;385476
+937;73009;ATTIVIT?Ç PROGETTUALE DI SISTEMI MOBILI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385477;;385477
+937;73010;ATTIVIT?Ç PROGETTUALE DI SISTEMI OPERATIVI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385478;;385478
+937;73014;ATTIVIT?Ç PROGETTUALE DI TECNOLOGIE DELLE BASI DI DATI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385489;;385489
+937;73016;CONTROLLI AUTOMATICI E TEORIA DEI SISTEMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385492;;385492
+937;73017;DIAGNOSTICA E CONTROLLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385493;;385493
+937;73302;COMPUTER VISION AND IMAGE PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385495;;385495
+937;73022;ROBOTICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385499;;385499
+937;73023;SISTEMI DI CONTROLLO DISTRIBUITO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385500;;385500
+937;73025;SISTEMI DISTRIBUITI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385502;;385502
+937;75195;ATTIVIT?Ç PROGETTUALE DI DATA MINING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391682;;391682
+937;75194;DATA MINING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391683;;391683
+937;78096;MULTIMEDIA DATA MANAGEMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400843;;400843
+937;78098;ATTIVIT?Ç PROGETTUALE DI OTTIMIZZAZIONE SU RETI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400845;;400845
+937;78099;ATTIVIT?Ç PROGETTUALE DI SISTEMI EMBEDDED RICONFIGURABILI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400846;;400846
+937;78101;SISTEMI EMBEDDED RICONFIGURABILI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400848;;400848
+937;75493;PROTOCOLS AND ARCHITECTURES FOR SPACE NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401933;;401933
+937;78776;COMPUTER NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402280;;402280
+937;78778;INTELLIGENT SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402282;;402282
+937;78779;MOBILE SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402283;;402283
+937;78780;OPTIMIZATION ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402284;;402284
+937;78909;PROJECT WORK ON MULTIMEDIA DATA MANAGEMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402557;;402557
+937;78910;PROJECT WORK ON DATA MINING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402568;;402568
+937;78911;PROJECT WORK ON COMPUTER NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402569;;402569
+937;78913;PROJECT WORK ON MOBILE SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402573;;402573
+937;78914;PROJECT WORK ON OPTIMIZATION ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402574;;402574
+937;78917;PROJECT WORK ON COMPUTER VISION AND IMAGE PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402576;;402576
+937;78919;PROJECT WORK ON INTELLIGENT SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402579;;402579
+937;78957;PROJECT WORK ON MULTIMEDIA SERVICES AND APPLICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402607;;402607
+938;33923;COSTRUZIONE DI MACCHINE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339623;;339623
+938;33924;DISEGNO DI MACCHINE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339624;;339624
+938;33925;IMPIANTI INDUSTRIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339625;;339625
+938;33927;MACCHINE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339628;;339628
+938;33928;MECCANICA DELLE MACCHINE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339629;;339629
+938;33929;TECNOLOGIE SPECIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339630;;339630
+938;33930;AERODINAMICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339631;;339631
+938;29207;APPLICAZIONI INDUSTRIALI DEI PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339632;;339632
+938;33931;CHIMICA DEI PROCESSI DI COMBUSTIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339633;;339633
+938;33933;TERMOFLUIDODINAMICA COMPUTAZIONALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339635;;339635
+938;33935;GESTIONE DELL'INNOVAZIONE E DEI PROGETTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339637;;339637
+938;37465;BIOMECCANICA COMPUTAZIONALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339648;;339648
+938;30131;METALLURGIA MECCANICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339650;;339650
+938;33945;PIASTRE E GUSCI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339651;;339651
+938;33946;PROGETTAZIONE DI SISTEMI DI TRASPORTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339653;;339653
+938;33947;SCIENCE AND TECHNOLOGY OF COMPOSITE MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339654;;339654
+938;33948;VALORIZZAZIONE DELLE RISORSE PRIMARIE E SECONDARIE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339655;;339655
+938;33957;METODI NUMERICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339667;;339667
+938;33959;COSTRUZIONE DI MACCHINE AUTOMATICHE E ROBOT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339673;;339673
+938;33963;FLUIDODINAMICA DEI MOTORI A COMBUSTIONE INTERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339678;;339678
+938;33964;IMPATTO AMBIENTALE DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339679;;339679
+938;33965;IMPIANTI SPECIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339680;;339680
+938;33966;LOGISTICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339681;;339681
+938;34468;MANUTENZIONE DEI SISTEMI DI PRODUZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339687;;339687
+938;33971;MECCANICA DELLE VIBRAZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339689;;339689
+938;33978;PROCESSI E METODI DI FABBRICAZIONE PER LO SVILUPPO DEL PRODOTTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339697;;339697
+938;33981;SISTEMI INTEGRATI DI LAVORAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339701;;339701
+938;66169;STRUMENTAZIONE E AUTOMAZIONE INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339741;;339741
+938;33988;TECNOLOGIE GENERALI DEI MATERIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339745;;339745
+938;37464;TURBOMACCHINE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339749;;339749
+938;33992;LABORATORIO DI DISEGNO ASSISTITO DAL CALCOLATORE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339757;;339757
+938;33996;LABORATORIO DI MECCANICA DEI TESSUTI BIOLOGICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339760;;339760
+938;33998;LABORATORIO DI MECCANICA DELLE VIBRAZIONI E SPERIMENTAZIONE SUI SISTEMI MECCANICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339762;;339762
+938;75512;INGEGNERIZZAZIONE DEL MOTOVEICOLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/339803;;339803
+938;34377;CORROSIONE E PROTEZIONE DEI MATERIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340193;;340193
+938;37463;METODI DI FABBRICAZIONE E DI ANALISI SPERIMENTALE PER LO SVILUPPO DI STRUTTURE MECCANICHE C.I.;;;350749
+938;33978;PROCESSI E METODI DI FABBRICAZIONE PER LO SVILUPPO DEL PRODOTTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350750;modulo;350750
+938;73785;COSTRUZIONE DI MACCHINE II M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350751;modulo;350751
+938;33976;OLEODINAMICA E PNEUMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350947;;350947
+938;29145;COMPLEMENTI DI ANALISI MATEMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365133;;365133
+938;66151;COMPLEMENTI DI GEOMETRIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365138;;365138
+938;29210;FISICA MATEMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365148;;365148
+938;34303;MECCANICA DEI ROBOT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365169;;365169
+938;34495;LABORATORIO DI SIMULAZIONE PER LA LOGISTICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365188;;365188
+938;66148;BIOMECCANICA DELLA FUNZIONE MOTORIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365317;;365317
+938;33975;AZIONAMENTI ELETTRICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365318;;365318
+938;69486;MECCANICA DELLE VIBRAZIONI E DEGLI AZIONAMENTI FLUIDODINAMICI M C.I.;;;376511
+938;33976;OLEODINAMICA E PNEUMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376512;modulo;376512
+938;33971;MECCANICA DELLE VIBRAZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376513;modulo;376513
+938;69490;PROPULSORI TERMICI E IBRIDI PER AUTOVEICOLI M C.I.;;;376514
+938;69491;MOTORI A COMBUSTIONE INTERNA E PROPULSORI IBRIDI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376515;modulo;376515
+938;69492;SPERIMENTAZIONE E CALIBRAZIONE DI MOTORI A COMBUSTIONE INTERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376516;modulo;376516
+938;34431;SISTEMI DI PRODUZIONE AVANZATI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376517;;376517
+938;69491;MOTORI A COMBUSTIONE INTERNA E PROPULSORI IBRIDI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376518;;376518
+938;69492;SPERIMENTAZIONE E CALIBRAZIONE DI MOTORI A COMBUSTIONE INTERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376519;;376519
+938;35245;CONTROLLI AUTOMATICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387344;;387344
+938;34076;TIROCINIO M-B;;;387383
+938;65773;IMPIANTI MECCANICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387388;;387388
+938;76264;PROGETTAZIONE E DINAMICA DEL MOTOVEICOLO C.I.;;;391088
+938;73785;COSTRUZIONE DI MACCHINE II M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391089;modulo;391089
+938;75512;INGEGNERIZZAZIONE DEL MOTOVEICOLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391090;modulo;391090
+938;35374;BIOINGEGNERIA DELLA RIABILITAZIONE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391332;;391332
+938;75060;SERVIZI GENERALI DI IMPIANTO E LOGISTICA INDUSTRIALE M C.I.;;;391334
+938;33980;SERVIZI GENERALI DI IMPIANTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391335;modulo;391335
+938;34285;LOGISTICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391336;modulo;391336
+938;77883;TRATTAMENTI SUPERFICIALI E RIVESTIMENTI PER MATERIALI METALLICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400590;;400590
+940;27210;ANALISI MATEMATICA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325551;;325551
+940;14490;INFORMATICA GRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325558;;325558
+940;470;GEOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325572;;325572
+940;413;FISICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325587;;325587
+940;59410;LABORATORIO TESI DI LAUREA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325845;;325845
+940;18620;STAGES E TIROCINI;;;325856
+940;50944;COSTRUZIONI DI STRADE, FERROVIE ED AEROPORTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325950;;325950
+940;11708;IMPIANTI TECNICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325970;;325970
+940;18567;LEGISLAZIONE DELLE OPERE PUBBLICHE E DELL'EDILIZIA, DIRITTO URBANISTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362870;;362870
+940;1016;TECNICA URBANISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362881;;362881
+940;18547;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362882;;362882
+940;29382;RESTAURO ARCHITETTONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362883;;362883
+940;70255;COSTRUZIONI FERROVIARIE E AEROPORTUALI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377867;;377867
+940;73699;DISEGNO DELL'ARCHITETTURA I CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387434;;387434
+940;73702;MECCANICA RAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387438;;387438
+940;73707;SCIENZA DELLE COSTRUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387443;;387443
+940;73708;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA I CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387444;;387444
+940;73709;URBANISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387445;;387445
+940;73710;FISICA TECNICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387446;;387446
+940;73711;IDRAULICA E COSTRUZIONI IDRAULICHE URBANE C.I.;;;387450
+940;490;IDRAULICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387451;modulo;387451
+940;206;COSTRUZIONI IDRAULICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387452;modulo;387452
+940;73712;ARCHITETTURA TECNICA II CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387453;;387453
+940;73713;TECNICA DELLE COSTRUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387454;;387454
+940;73714;ARCHITETTURA E COMPOSIZIONE ARCHITETTONICA II CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387456;;387456
+940;73715;GEOTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387457;;387457
+940;73716;TECNOLOGIA DEI MATERIALI E CHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387458;;387458
+940;73724;RECUPERO E CONSERVAZIONE DEGLI EDIFICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387466;;387466
+940;73727;ACUSTICA APPLICATA ED ILLUMINOTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387469;;387469
+940;73728;CHIMICA E TECNOLOGIA DEL RESTAURO E DELLA CONSERVAZIONE DEI MATERIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387470;;387470
+940;77857;STORIA DELL'ARCHITETTURA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400458;;400458
+940;77859;STORIA DELL'ARCHITETTURA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400460;;400460
+940;77865;CONSTRUCTION AND FACILITY MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400468;;400468
+940;77867;PROGETTAZIONE SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400470;;400470
+940;78278;ANALISI MATEMATICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401088;;401088
+940;78292;ARCHITETTURA TECNICA I CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401097;;401097
+940;78293;DISEGNO DELL'ARCHITETTURA II CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401098;;401098
+946;15300;ANALISI MATEMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327759;;327759
+946;16314;ANALISI MATEMATICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327761;;327761
+946;6793;ELETTROTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327762;;327762
+946;15305;FONDAMENTI DI INFORMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327767;;327767
+946;9757;GEOMETRIA E ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327784;;327784
+946;3716;CALCOLATORI ELETTRONICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327831;;327831
+946;30569;ELABORAZIONE DEI SEGNALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327836;;327836
+946;269;ELETTRONICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327839;;327839
+946;430;FISICA TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327843;;327843
+946;5181;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327847;;327847
+946;9454;BIOINGEGNERIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327851;;327851
+946;5750;BIOMECCANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327855;;327855
+946;251;ECONOMIA E ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327859;;327859
+946;30596;COMPORTAMENTO MECCANICO DEI MATERIALI E BIOMATERIALI (C.I.);;;327916
+946;15211;COMPORTAMENTO MECCANICO DEI MATERIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327919;modulo;327919
+946;18787;BIOMATERIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327920;modulo;327920
+946;30599;STRUMENTAZIONE BIOMEDICA E INGEGNERIA CLINICA (C.I.);;;327925
+946;4152;STRUMENTAZIONE BIOMEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327927;modulo;327927
+946;30602;INGEGNERIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327928;modulo;327928
+946;30610;LABORATORIO DI STRUMENTAZIONE BIOMEDICA E LABORATORIO DI BIOMECCANICA (C.I.);;;327951
+946;30611;LABORATORIO DI STRUMENTAZIONE BIOMEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327956;modulo;327956
+946;30612;LABORATORIO DI BIOMECCANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327957;modulo;327957
+946;30613;INFORMATICA MEDICA E RETI DI TELEMEDICINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327960;;327960
+946;15750;FONDAMENTI DI CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376479;;376479
+946;30375;FISICA GENERALE (C.I.);;;376483
+946;16726;FISICA GENERALE A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376493;modulo;376493
+946;19704;FISICA GENERALE B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376494;modulo;376494
+946;69466;LABORATORIO DI INGEGNERIA BIOMEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376498;;376498
+946;196;CONTROLLI AUTOMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377088;;377088
+946;67411;RIDUZIONE VICE PRESIDENTE O VICE DIRETTORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416187;;416187
+949;9757;GEOMETRIA E ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327260;;327260
+949;9730;FONDAMENTI DI INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327262;;327262
+949;15750;FONDAMENTI DI CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327265;;327265
+949;251;ECONOMIA E ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327267;;327267
+949;30375;FISICA GENERALE (C.I.);;;327270
+949;16726;FISICA GENERALE A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327271;modulo;327271
+949;19704;FISICA GENERALE B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327272;modulo;327272
+949;1379;MECCANICA RAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327287;;327287
+949;30378;DISEGNO TECNICO ASSISTITO DAL CALCOLATORE (C.I.);;;327298
+949;9758;DISEGNO TECNICO INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327314;modulo;327314
+949;11361;DISEGNO ASSISTITO DAL CALCOLATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327315;modulo;327315
+949;4294;MECCANICA DEI FLUIDI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327323;;327323
+949;30384;TECNOLOGIA MECCANICA (C.I.);;;327331
+949;30364;TECNOLOGIA MECCANICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327338;modulo;327338
+949;30365;TECNOLOGIA MECCANICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327339;modulo;327339
+949;6793;ELETTROTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327343;;327343
+949;15633;MECCANICA DEGLI AZIONAMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327417;;327417
+949;15615;TECNICA DELLE COSTRUZIONI MECCANICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327421;;327421
+949;30396;IMPIANTI INDUSTRIALI MECCANICI (C.I.);;;327425
+949;515;IMPIANTI MECCANICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327427;modulo;327427
+949;10420;IMPIANTI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327428;modulo;327428
+949;52317;LINGUA STRANIERA: INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327499;;327499
+949;30420;LABORATORIO DI TERMOFLUIDODINAMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327506;;327506
+949;30432;AFFIDABILITA' E QUALITA' (C.I.);;;327532
+949;50008;AFFIDABILITA' E SICUREZZA DELLE COSTRUZIONI MECCANICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327535;modulo;327535
+949;15640;DIAGNOSTICA STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327536;modulo;327536
+949;37515;MISURE MECCANICHE TERMICHE E COLLAUDI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327701;;327701
+949;196;CONTROLLI AUTOMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327715;;327715
+949;50008;AFFIDABILITA' E SICUREZZA DELLE COSTRUZIONI MECCANICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327725;;327725
+949;15640;DIAGNOSTICA STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327731;;327731
+949;32699;LABORATORIO DI PROGETTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350842;;350842
+949;73083;MECCANICA DELLE MACCHINE E DEI MATERIALI (C.I.);;;385688
+949;15211;COMPORTAMENTO MECCANICO DEI MATERIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385694;modulo;385694
+949;687;MECCANICA APPLICATA ALLE MACCHINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385695;modulo;385695
+949;430;FISICA TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385713;;385713
+949;73096;LABORATORIO DI MOTORI A COMBUSTIONE INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385739;;385739
+949;72738;LABORATORIO DI ELETTROTECNICA ED ELETTRONICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385756;;385756
+949;17353;LABORATORIO DI COSTRUZIONI AERONAUTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385758;;385758
+949;15616;TERMOFLUIDODINAMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385795;;385795
+949;73105;SISTEMI ENERGETICI E MACCHINE (C.I.);;;385796
+949;11801;SISTEMI ENERGETICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385797;modulo;385797
+949;663;MACCHINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385798;modulo;385798
+949;78252;ANALISI MATEMATICA (C.I.);;;412244
+949;15300;ANALISI MATEMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412245;modulo;412245
+949;16314;ANALISI MATEMATICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412246;modulo;412246
+8182;73444;MATERIALI PER IL PRODOTTO INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386896;;386896
+8182;73445;STORIA ED ESTETICA DEL PRODOTTO INDUSTRIALE T C.I.;;;386899
+8182;73456;STORIA DEL DISEGNO INDUSTRIALE T-I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386900;modulo;386900
+8182;73447;ESTETICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386901;modulo;386901
+8182;73448;LABORATORIO DEL DISEGNO E MODELLAZIONE T C.I.;;;386902
+8182;73449;DISEGNO T;;modulo;386903
+8182;73450;MODELLAZIONE E IMMAGINE PER IL DISEGNO INDUSTRIALE T;;modulo;386904
+8182;73455;LABORATORIO DI DISEGNO INDUSTRIALE T-I C.I.;;;386907
+8182;73452;DISEGNO INDUSTRIALE T;;modulo;386908
+8182;73453;METODOLOGIE DELLA PROGETTAZIONE T;;modulo;386909
+8182;73459;FONDAMENTI DI CAD E DISEGNO DEL PRODOTTO INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386920;;386920
+8182;73461;ANALISI DEI COSTI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386922;;386922
+8182;73462;PROJECT MANAGEMENT T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386923;;386923
+8182;73463;LABORATORIO DI COMUNICAZIONE VISIVA T C.I.;;;386926
+8182;73464;ELEMENTI DI GRAFICA T;;modulo;386927
+8182;73465;COMUNICAZIONE GRAFICA T;;modulo;386928
+8182;73469;LABORATORIO DI DISEGNO INDUSTRIALE T-II C.I.;;;386951
+8182;73452;DISEGNO INDUSTRIALE T;;modulo;386953
+8182;73453;METODOLOGIE DELLA PROGETTAZIONE T;;modulo;386954
+8182;73470;METODI DI OTTIMIZZAZIONE DELLA FORMA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386955;;386955
+8182;73471;STORIA DEL DISEGNO INDUSTRIALE T-II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386956;;386956
+8182;73472;METODI DI PROGETTO DEL PRODOTTO INDUSTRIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386957;;386957
+8182;73473;LABORATORIO DI COMPUTERGRAFICA T C.I.;;;386959
+8182;30893;DISEGNO AUTOMATICO T;;modulo;386960
+8182;73474;TECNICHE DI RAPPRESENTAZIONE T;;modulo;386961
+8182;73475;MODELLAZIONE VIRTUALE DI PRODOTTO T;;;386962
+8182;73477;LABORATORIO DI COMUNICAZIONE E PROTOTIPAZIONE DEL PROGETTO T C.I.;;;386963
+8182;73478;REAL TIME RENDERING T;;modulo;386964
+8182;73479;BOOK INFORMATICO/REVERSE ENGINEERING E RAPID PROTOTYPING T;;modulo;386965
+8182;73480;LABORATORIO DI SINTESI FINALE T C.I.;;;386966
+8182;73452;DISEGNO INDUSTRIALE T;;modulo;387010
+8182;73481;PROGETTO DEL PRODOTTO T;;modulo;387017
+8182;78526;PROCESSI COMUNICATIVI T;;modulo;387018
+8182;73482;SCIENZA E APPLICAZIONI DEL PENSIERO CREATIVO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386974;;386974
+8182;75602;ANALISI NUMERICA E MODELLAZIONE GEOMETRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391836;;391836
+8182;78270;PROCESSI E METODI DELLA PROFESSIONE E DELLA PRODUZIONE T C.I.;;;401004
+8182;78166;PROCESSI E MODELLI PROFESSIONALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401005;modulo;401005
+8182;78269;PROCESSI E MODELLI INDUSTRIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401006;modulo;401006
+8198;34797;BIOCHIMICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340932;;340932
+8198;34799;MODELLI DI SISTEMI BIOLOGICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340934;;340934
+8198;34801;BIOELETTROMAGNETISMO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340936;;340936
+8198;34809;ELABORAZIONE DI DATI E SEGNALI BIOMEDICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340945;;340945
+8198;34811;BIOINGEGNERIA DELLA RIABILITAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340950;;340950
+8198;34812;BIOINGEGNERIA MOLECOLARE E CELLULARE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340951;;340951
+8198;34813;MECCANICA DEI TESSUTI BIOLOGICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340952;;340952
+8198;34814;SISTEMI NEURALI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340953;;340953
+8198;34826;BIOMECCANICA COMPUTAZIONALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340977;;340977
+8198;34827;BIOMECCANICA DELLA FUNZIONE MOTORIA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340978;;340978
+8198;34829;NORME PER LA SICUREZZA ED ANALISI DEI RISCHI DEI LABORATORI BIOMEDICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340981;;340981
+8198;65591;SENSORI E NANOTECNOLOGIE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362950;;362950
+8198;72548;ALGEBRA E ANALISI NUMERICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384307;;384307
+8198;72552;BIOMECCANICA E ORGANI ARTIFICIALI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384315;;384315
+8198;72553;BIOIMMAGINI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384318;;384318
+8198;34807;STRUMENTAZIONE BIOMEDICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384322;;384322
+8198;81850;BIOLOGIA SINTETICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412450;;412450
+8263;9757;GEOMETRIA E ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340662;;340662
+8263;15750;FONDAMENTI DI CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340665;;340665
+8263;9730;FONDAMENTI DI INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340666;;340666
+8263;30375;FISICA GENERALE (C.I.);;;340674
+8263;16726;FISICA GENERALE A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340675;modulo;340675
+8263;19704;FISICA GENERALE B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340676;modulo;340676
+8263;1379;MECCANICA RAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340677;;340677
+8263;251;ECONOMIA E ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340678;;340678
+8263;52317;LINGUA STRANIERA: INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340680;;340680
+8263;15211;COMPORTAMENTO MECCANICO DEI MATERIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340682;;340682
+8263;31258;DIRITTO DELLA NAVIGAZIONE AEREA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340695;;340695
+8263;11493;DISEGNO TECNICO AEROSPAZIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340696;;340696
+8263;15626;IMPIANTI AEROSPAZIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340697;;340697
+8263;196;CONTROLLI AUTOMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340698;;340698
+8263;199;COSTRUZIONI AERONAUTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340703;;340703
+8263;15623;MECCANICA DEL VOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340705;;340705
+8263;15349;TIROCINIO;;;340707
+8263;687;MECCANICA APPLICATA ALLE MACCHINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340729;;340729
+8263;11361;DISEGNO ASSISTITO DAL CALCOLATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340747;;340747
+8263;15615;TECNICA DELLE COSTRUZIONI MECCANICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340748;;340748
+8263;31263;ELABORAZIONE DATI PER LA NAVIGAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340753;;340753
+8263;34685;FONDAMENTI DI MECCANICA ORBITALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340754;;340754
+8263;17353;LABORATORIO DI COSTRUZIONI AERONAUTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340758;;340758
+8263;32699;LABORATORIO DI PROGETTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340759;;340759
+8263;17355;LABORATORIO DI PROPULSIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340760;;340760
+8263;17352;LABORATORIO DI AERODINAMICA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340762;;340762
+8263;31203;AERODINAMICA DEGLI AEROMOBILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362763;;362763
+8263;6793;ELETTROTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384919;;384919
+8263;31177;PROPULSIONE AEROSPAZIALE (C.I.);;;384979
+8263;72736;PROPULSIONE AERONAUTICA E SPAZIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384980;modulo;384980
+8263;8081;TURBOMACCHINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384981;modulo;384981
+8263;30384;TECNOLOGIA MECCANICA (C.I.);;;384982
+8263;30364;TECNOLOGIA MECCANICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384987;modulo;384987
+8263;30365;TECNOLOGIA MECCANICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384988;modulo;384988
+8263;7900;CONTROLLO DEL TRAFFICO AEREO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384989;;384989
+8263;30364;TECNOLOGIA MECCANICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384990;;384990
+8263;72738;LABORATORIO DI ELETTROTECNICA ED ELETTRONICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384992;;384992
+8263;17399;FLUIDODINAMICA L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385960;;385960
+8263;73383;AVIATION ENGLISH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386237;;386237
+8263;62342;SATELLITI E MISSIONI SPAZIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387530;;387530
+8263;78599;LABORATORIO DI MECCANICA DEL VOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401854;;401854
+8263;78252;ANALISI MATEMATICA (C.I.);;;412383
+8263;15300;ANALISI MATEMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412384;modulo;412384
+8263;16314;ANALISI MATEMATICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412385;modulo;412385
+8263;34477;IDONEIT?Ç LINGUA INGLESE B2;;;412405
+8263;81826;PRINCIPI GENERALI DELL'INGEGNERIA AEROSPAZIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412448;;412448
+8610;34718;MISURE ELETTRICHE E LABORATORIO T C.I.;;;376285
+8610;34719;MISURE ELETTRICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376286;modulo;376286
+8610;34720;LABORATORIO DI MISURE ELETTRICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376287;modulo;376287
+8610;28000;FISICA GENERALE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376288;;376288
+8610;29243;FISICA TECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376289;;376289
+8610;28016;ELETTRONICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376290;;376290
+8610;29325;MECCANICA DELLE MACCHINE E DEI MATERIALI T C.I.;;;376291
+8610;29327;MECCANICA APPLICATA ALLE MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376292;modulo;376292
+8610;29329;MECCANICA DEI MATERIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376293;modulo;376293
+8610;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376294;;376294
+8610;29274;AFFIDABILITA' E TECNOLOGIE PER I SISTEMI ELETTRICI T C.I.;;;376295
+8610;29233;AFFIDABILITA' E STATISTICA PER I SISTEMI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376296;modulo;376296
+8610;40006;TECNOLOGIE E DIAGNOSTICA DEI SISTEMI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376297;modulo;376297
+8610;28006;FONDAMENTI DI INFORMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376298;;376298
+8610;29227;FONDAMENTI DI INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376299;;376299
+8610;29246;IMPIANTI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376300;;376300
+8610;37221;LABORATORIO DI INGEGNERIA DELL'ENERGIA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376301;;376301
+8610;31407;PRODUZIONE DELL'ENERGIA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376302;;376302
+8610;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376303;;376303
+8610;29418;COMPATIBILITA' ELETTROMAGNETICA E LABORATORIO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376304;;376304
+8610;32458;PROGETTAZIONE E GESTIONE DI SISTEMI ELETTROMECCANICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376307;;376307
+8610;29247;MACCHINE ELETTRICHE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376308;;376308
+8610;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376310;;376310
+8610;28030;ECONOMIA E ORGANIZZAZIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376311;;376311
+8610;37345;QUALIT?Ç DELL'ENERGIA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376312;;376312
+8610;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376314;;376314
+8610;29225;FONDAMENTI DI CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376315;;376315
+8610;29238;CIRCUITI ELETTRICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376316;;376316
+8610;28015;CONTROLLI AUTOMATICI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376317;;376317
+8610;29244;FONDAMENTI DI ELETTROTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376318;;376318
+8610;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376319;;376319
+8610;65900;COMPLEMENTI DI ANALISI MATEMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377349;;377349
+8610;T0001;ENGLISH PLACEMENT TEST;;;382972
+8610;82999;EMPLOYABILITY: COME PRESENTARSI NEL MONDO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419577;;419577
+8611;40042;AZIONAMENTI ELETTRICI PER APPLICAZIONI INDUSTRIALI ED EOLICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376325;;376325
+8611;40060;CENTRALI ELETTRICHE E GENERAZIONE DISTRIBUITA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376329;;376329
+8611;34612;ELETTROMAGNETISMO APPLICATO M C.I.;;;376332
+8611;34614;CAD DI CAMPI ELETTRICI E MAGNETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376333;modulo;376333
+8611;34615;PROPAGAZIONE ED INTERFERENZE ELETTROMAGNETICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376334;modulo;376334
+8611;37772;METODOLOGIE DI PROGETTAZIONE DELLE MACCHINE ELETTRICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376339;;376339
+8611;34663;IMPIANTI ELETTRICI M;;;376341
+8611;29209;FISICA MODERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376345;;376345
+8611;35245;CONTROLLI AUTOMATICI M;;;376348
+8611;34630;ECONOMIA DELL'IMPRESA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376352;;376352
+8611;34631;INGEGNERIA DEI SISTEMI ENERGETICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376353;;376353
+8611;34642;MODELLISTICA DEI SISTEMI ELETTROMECCANICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376355;;376355
+8611;40048;SENSORI E TRASDUTTORI PER L'INDUSTRIA E L'AMBIENTE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376358;;376358
+8611;34624;TECNOLOGIE ELETTRICHE INNOVATIVE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376359;;376359
+8611;29214;INGEGNERIA DEI PLASMI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376361;;376361
+8611;34623;SISTEMI PER LA PROPULSIONE ELETTRICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376369;;376369
+8611;34664;MACCHINE ELETTRICHE M;;;376370
+8611;78451;APPLIED ELECTROMAGNETICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401368;;401368
+8611;78452;APPLIED MEASUREMENTS FOR POWER SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401369;;401369
+8611;78453;ELECTRIC POWER SYSTEMS AND SMART GRIDS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401370;;401370
+8611;73924;POWER ELECTRONIC CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401371;;401371
+8611;78454;ELECTRICAL ASSETS MANAGEMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401372;;401372
+8611;78455;PREDICTIVE MAINTENANCE FOR ELECTRICAL INFRASTRUCTURES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401374;;401374
+8611;78456;ECONOMICS AND MANAGEMENT OF ENERGY UTILITIES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401376;;401376
+8611;78463;HIGH VOLTAGE ENGINEERING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401387;;401387
+8611;78464;PLASMA ENGINEERING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401389;;401389
+8611;69498;RESOURCE OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401393;;401393
+8611;73414;ALGORITHMS FOR DECISION MAKING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401398;;401398
+8611;35167;COMMUNICATION SYSTEMS: THEORY AND MEASUREMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401402;;401402
+8611;73527;TECHNOLOGY AND SUSTAINABILITY OF COMPOSITE MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401404;;401404
+8611;73529;POLYMER SCIENCE, TECHNOLOGIES AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401405;;401405
+8611;73387;CREATIVITY AND INNOVATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401409;;401409
+8611;78476;LABORATORY OF ELECTRIC DRIVES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401418;;401418
+8611;78496;STRUMENTAZIONE E METODI PER LE MISURE SU SISTEMI ELETTRICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401441;;401441
+8611;78543;LABORATORY OF TECHNICAL ENGLISH M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401627;;401627
+8611;75485;FINAL PROJECT M;;;401629
+8611;29161;MATHEMATICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401632;;401632
+8611;78556;ENERTRONICA M C.I.;;;401751
+8611;78564;CONVERSIONE FOTOVOLTAICA ED ACCUMULO DELL'ENERGIA ELETTRICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401765;modulo;401765
+8611;34574;CONVERSIONE STATICA DELL'ENERGIA ELETTRICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401766;modulo;401766
+8611;78566;PROGETTAZIONE E DIAGNOSTICA DEI SISTEMI ISOLANTI ELETTRICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401770;;401770
+8611;78568;SISTEMI ELETTRICI PER L'ENERGIA E SMART GRIDS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401773;;401773
+8611;65774;INGEGNERIA DEI SISTEMI SUPERCONDUTTIVI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401776;;401776
+8611;78573;SCIENZA DELLE COSTRUZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401780;;401780
+8611;78651;LABORATORY OF SMART GRIDS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401993;;401993
+8611;78757;TECHNOLOGICAL MANAGEMENT OF ELECTRICAL INFRASTRUCTURES M C.I.;;;402213
+8611;78454;ELECTRICAL ASSETS MANAGEMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402214;modulo;402214
+8611;78455;PREDICTIVE MAINTENANCE FOR ELECTRICAL INFRASTRUCTURES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402215;modulo;402215
+8611;78758;CONTROL SYSTEMS TECHNOLOGIES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402224;;402224
+8611;35166;DIAGNOSIS AND CONTROL M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402225;;402225
+8611;37115;LIGHTWAVE ENGINEERING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402227;;402227
+8611;35164;SOLID STATE SENSORS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402236;;402236
+8611;35190;WIRELESS SENSOR NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402237;;402237
+8611;78459;ELECTRICAL DRIVES M C.I.;;;402238
+8611;78760;ELECTRICAL DRIVES FOR INDUSTRIAL APPLICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402239;modulo;402239
+8611;78761;ELECTRIC DRIVES FOR RENEWABLES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402240;modulo;402240
+8611;78763;SYSTEM THEORY AND ADVANCED CONTROL M C.I.;;;402242
+8611;78764;SYSTEM THEORY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402244;modulo;402244
+8611;35169;ADVANCED CONTROL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402245;modulo;402245
+8611;78816;MECHANICS OF MACHINES FOR AUTOMATION M 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413981;;413981
+8611;75495;OPTICAL CIRCUITS AND NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413983;;413983
+8614;60889;INGEGNERIA DEI SISTEMI SOFTWARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377366;;377366
+8614;69866;SICUREZZA DELLE RETI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377369;;377369
+8614;69867;APPLICAZIONI E SERVIZI WEB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377370;;377370
+8614;32492;ATTIVITA' PROPEDEUTICA ALLA PROVA FINALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377371;;377371
+8614;29443;VISIONE ARTIFICIALE E RICONOSCIMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377374;;377374
+8614;40720;DATA MINING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377375;;377375
+8614;23607;PROJECT MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377437;;377437
+8614;42500;WEB SEMANTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377439;;377439
+8614;69897;SISTEMI AUTONOMI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377444;;377444
+8614;35199;PROVA FINALE;;;377448
+8614;72519;METODI ED ALGORITMI DI OTTIMIZZAZIONE PER IL PROBLEM SOLVING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384256;;384256
+8614;72521;INSTRADAMENTO E TRASPORTO IN INTERNET;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384257;;384257
+8614;72523;INGEGNERIA DEI SISTEMI SOFTWARE ADATTATIVI COMPLESSI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384261;;384261
+8614;72527;SISTEMI INTELLIGENTI ROBOTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384267;;384267
+8614;72529;SMART CITY E TECNOLOGIE MOBILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384269;;384269
+8614;72530;TECNICHE AVANZATE PER L'ANALISI DELLE IMMAGINI E VISIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384272;;384272
+8614;74972;SISTEMI DI SUPPORTO ALLE DECISIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391184;;391184
+8614;81609;LINGUAGGI, COMPILATORI E MODELLI COMPUTAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412587;;412587
+8614;58260;SISTEMI DISTRIBUITI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412591;;412591
+8614;9679;SISTEMI INFORMATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412592;;412592
+8614;81892;SVILUPPO DEI SISTEMI SOFTWARE (C.I.);;;412596
+8614;81612;PARADIGMI DI PROGRAMMAZIONE E SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412597;modulo;412597
+8614;17628;PROGRAMMAZIONE CONCORRENTE E DISTRIBUITA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412598;modulo;412598
+8614;69867;APPLICAZIONI E SERVIZI WEB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412604;;412604
+8614;81610;MACHINE LEARNING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412605;;412605
+8614;35199;PROVA FINALE;;;412641
+8615;13;ANALISI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377061;;377061
+8615;58414;ALGEBRA E GEOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377062;;377062
+8615;819;PROGRAMMAZIONE;;;377063
+8615;11929;ALGORITMI E STRUTTURE DATI;;;377064
+8615;69731;ARCHITETTURE DEGLI ELABORATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377065;;377065
+8615;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378215;;378215
+8615;10906;BASI DI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378217;;378217
+8615;8574;SISTEMI OPERATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378218;;378218
+8615;70219;PROGRAMMAZIONE AD OGGETTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378219;;378219
+8615;70224;ALGORITMI NUMERICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378220;;378220
+8615;9032;INGEGNERIA DEL SOFTWARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378224;;378224
+8615;41731;TECNOLOGIE WEB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378225;;378225
+8615;884;RICERCA OPERATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378226;;378226
+8615;70226;PROGRAMMAZIONE DI RETI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378227;;378227
+8615;25815;LABORATORIO DI BASI DI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378228;;378228
+8615;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378229;;378229
+8615;70227;INFORMATICA E DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378230;;378230
+8615;251;ECONOMIA E ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378231;;378231
+8615;35504;FONDAMENTI DI ELABORAZIONE DI IMMAGINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378259;;378259
+8615;70090;COMPUTER GRAPHICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385075;;385075
+8615;72773;LINGUAGGI VISUALI PER IL CONTROLLO DEI SISTEMI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385077;;385077
+8615;72775;PROGRAMMAZIONE DI SISTEMI EMBEDDED;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385078;;385078
+8615;72778;HIGH-PERFORMANCE COMPUTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385080;;385080
+8615;72787;PROGRAMMAZIONE DI SISTEMI MOBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385090;;385090
+8615;17667;SISTEMI MULTIMEDIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385091;;385091
+8615;72796;PROGRAMMAZIONE DI APPLICAZIONI DATA INTENSIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385100;;385100
+8615;77776;MATEMATICA DISCRETA E PROBABILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400392;;400392
+8615;77779;SISTEMI E ARCHITETTURE PER L'AUTOMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400395;;400395
+8615;70226;PROGRAMMAZIONE DI RETI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415671;;415671
+8767;15300;ANALISI MATEMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384442;;384442
+8767;30375;FISICA GENERALE (C.I.);;;384446
+8767;16726;FISICA GENERALE A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384447;modulo;384447
+8767;19704;FISICA GENERALE B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384448;modulo;384448
+8767;15750;FONDAMENTI DI CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384450;;384450
+8767;9757;GEOMETRIA E ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384451;;384451
+8767;16314;ANALISI MATEMATICA B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384454;;384454
+8767;15305;FONDAMENTI DI INFORMATICA A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384455;;384455
+8767;3716;CALCOLATORI ELETTRONICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384456;;384456
+8767;196;CONTROLLI AUTOMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384457;;384457
+8767;10381;ALGORITMI DI OTTIMIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384459;;384459
+8767;30569;ELABORAZIONE DEI SEGNALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384460;;384460
+8767;269;ELETTRONICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384462;;384462
+8767;6793;ELETTROTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384470;;384470
+8767;251;ECONOMIA E ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384474;;384474
+8767;69774;COMUNICAZIONI DIGITALI E INTERNET;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384475;;384475
+8767;10907;ELETTRONICA DEI SISTEMI DIGITALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384476;;384476
+8767;69776;LABORATORIO DI DISPOSITIVI E IMPIANTI FOTOVOLTAICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384477;;384477
+8767;69775;LABORATORIO DI RETI E PROGRAMMAZIONE DISPOSITIVI MOBILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384479;;384479
+8767;69777;LABORATORIO DI RETI WIRELESS PER L'ENERGIA E L'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384480;;384480
+8767;69773;PROGETTO DI CIRCUITI ELETTRONICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384487;;384487
+8767;72589;CONVERSIONE ELETTROMECCANICA DELL'ENERGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384493;;384493
+8767;2037;ELETTRONICA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384502;;384502
+8767;2126;MISURE ELETTRONICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384517;;384517
+8767;8574;SISTEMI OPERATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384518;;384518
+8767;72584;PRINCIPI FISICI PER IL MONITORAGGIO ENERGETICO E AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385564;;385564
+8767;78092;LABORATORIO DI INGEGNERIA DELL'INFORMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400838;;400838
+8769;73155;APPLIED AERODYNAMICS (C.I.);;;386034
+8769;73156;APPLIED AERODYNAMICS A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386035;modulo;386035
+8769;73157;APPLIED AERODYNAMICS B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386036;modulo;386036
+8769;73348;AEROSPACE PROPULSION SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386041;;386041
+8769;73172;ATMOSPHERIC FLIGHT DYNAMICS (C.I.);;;386129
+8769;73174;ATMOSPHERIC FLIGHT DYNAMICS A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386133;modulo;386133
+8769;73177;ATMOSPHERIC FLIGHT DYNAMICS B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386134;modulo;386134
+8769;37261;NUMERICAL ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386136;;386136
+8769;73184;AEROSPACE STRUCTURES (C.I.);;;386150
+8769;73186;AEROSPACE STRUCTURES A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386157;modulo;386157
+8769;73189;AEROSPACE STRUCTURES B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386158;modulo;386158
+8769;73192;AUTOMATIC FLIGHT CONTROL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386161;;386161
+8769;73194;DESIGN METHODS IN THE AEROSPACE INDUSTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386163;;386163
+8769;30800;FINAL PROJECT;;;386166
+8769;73195;THESIS PREPARATION;;;386167
+8769;71137;INTERNSHIP;;;386168
+8769;73198;EXPERIMENTAL METHODS IN AERODYNAMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386173;;386173
+8769;73346;SIMULATION AND MODELLING IN FLUID DYNAMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386176;;386176
+8769;73202;SPACECRAFT ORBITAL DYNAMICS AND CONTROL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386178;;386178
+8769;73204;RADIO COMMUNICATION AND RADAR SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386180;;386180
+8769;73205;AEROSPACE TECHNOLOGIES AND MATERIALS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386184;;386184
+8769;73208;SPACECRAFT ATTITUDE DYNAMICS AND CONTROL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386186;;386186
+8769;78139;MATHEMATICAL METHODS FOR ENGINEERING LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400698;;400698
+8769;77956;SPACECRAFT SUBSYSTEMS AND SPACE MISSION DESIGN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400701;;400701
+8770;72687;MATEMATICA APPLICATA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384658;;384658
+8770;34985;SISTEMI ELETTRONICI E SENSORI LM (C.I.);;;384661
+8770;34986;SISTEMI ELETTRONICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384663;modulo;384663
+8770;34987;SENSORI E ATTUATORI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384664;modulo;384664
+8770;34980;TELECOMUNICAZIONI LM (C.I.);;;384665
+8770;34775;RETI DI TELECOMUNICAZIONI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384667;modulo;384667
+8770;35264;TEORIA DELL'INFORMAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384668;modulo;384668
+8770;35341;PROPAGAZIONE E PIANIFICAZIONE NEI SISTEMI D'AREA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384672;;384672
+8770;34790;SISTEMI E TECNOLOGIE PER L'AUTOMAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384673;;384673
+8770;35340;ELABORAZIONE NUMERICA DEI SEGNALI MULTIMEDIALI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384676;;384676
+8770;65777;TECNOLOGIE ELETTRONICHE PER L'INFORMAZIONE E L'ENERGIA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384678;;384678
+8770;34991;PROGETTO DI ELETTRONICA E TELECOMUNICAZIONI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384679;;384679
+8770;35114;SISTEMI DI TELECOMUNICAZIONI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384681;;384681
+8770;35111;RETI DI SENSORI WIRELESS PER MONITORAGGIO AMBIENTALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384682;;384682
+8770;35148;ELETTRONICA PER L'ELABORAZIONE ANALOGICA DEL SEGNALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384683;;384683
+8770;35112;SISTEMI A RF ENERGETICAMENTE AUTONOMI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384684;;384684
+8770;35156;CHIMICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384685;;384685
+8770;35117;TECNICHE ELETTROMAGNETICHE PER LA LOCALIZZAZIONE E IL CONTROLLO AMBIENTALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384737;;384737
+8770;34777;SISTEMI DI ELABORAZIONE DELL'INFORMAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384739;;384739
+8770;72651;SISTEMI DI CONVERSIONE STATICA PER ENERGIE RINNOVABILI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384741;;384741
+8770;35518;RETI WIRELESS LM (C.I.);;;384742
+8770;35111;RETI DI SENSORI WIRELESS PER MONITORAGGIO AMBIENTALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384743;modulo;384743
+8770;35114;SISTEMI DI TELECOMUNICAZIONI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384744;modulo;384744
+8770;34794;ANALISI NUMERICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384745;;384745
+8770;72652;METODI DI OTTIMIZZAZIONE PER LE RETI E L'ENERGIA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384746;;384746
+8770;37165;RIDUZIONE PRORETTORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395493;;395493
+8771;34831;MODELLI FISICO-MATEMATICI PER L'INGEGNERIA INDUSTRIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385799;;385799
+8771;73108;COSTRUZIONE DI MACCHINE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385803;;385803
+8771;73109;TECNOLOGIE SPECIALI E DEI MATERIALI COMPOSITI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385804;;385804
+8771;73111;SISTEMI ENERGETICI E MACCHINE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385806;;385806
+8771;73112;MECCANICA E DINAMICA DELLE MACCHINE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385807;;385807
+8771;73113;IMPIANTI MECCANICI E LOGISTICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385808;;385808
+8771;73115;MECCANICA E TERMOFLUIDODINAMICA DEI FLUIDI LM (C.I.);;;385810
+8771;73116;TERMOFLUIDODINAMICA AVANZATA E CONTROLLI TERMICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385811;modulo;385811
+8771;73117;MECCANICA DEI FLUIDI E CONTROLLI IDRAULICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385812;modulo;385812
+8771;34835;METODI DI PROGETTO PER L'INGEGNERIA INDUSTRIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385819;;385819
+8771;73121;TEORIA DEL CONTROLLO PER AZIONAMENTI ELETTRICI LM (C.I.);;;385820
+8771;73122;AZIONAMENTI ELETTRICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385821;modulo;385821
+8771;73123;TEORIA DEI SISTEMI E DEI CONTROLLI PER L'AUTOMAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385822;modulo;385822
+8771;73124;MECCANICA DEI ROBOT E DELLE MACCHINE AUTOMATICHE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385823;;385823
+8771;34794;ANALISI NUMERICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385825;;385825
+8771;34957;MOTORI A COMBUSTIONE INTERNA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385827;;385827
+8771;34958;IMPIANTI TERMOTECNICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385831;;385831
+8771;73122;AZIONAMENTI ELETTRICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385837;;385837
+8771;73123;TEORIA DEI SISTEMI E DEI CONTROLLI PER L'AUTOMAZIONE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385841;;385841
+8771;34960;COSTRUZIONE DI MACCHINE AUTOMATICHE E ROBOT LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385845;;385845
+8771;73117;MECCANICA DEI FLUIDI E CONTROLLI IDRAULICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385848;;385848
+8771;73116;TERMOFLUIDODINAMICA AVANZATA E CONTROLLI TERMICI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385851;;385851
+8771;73126;INGEGNERIA E TECNOLOGIE DEI SISTEMI DI CONTROLLO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385854;;385854
+8771;73127;AUTOMAZIONE INDUSTRIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385855;;385855
+8771;73128;CONTROLLO MCI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385858;;385858
+8771;67739;TIROCINIO LM;;;385862
+8771;35443;LABORATORIO DI DESIGN DI PRODOTTO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385867;;385867
+8771;73130;LABORATORIO DI LOGISTICA INDUSTRIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385868;;385868
+8771;81819;ELEMENTI DI CONVERSIONE DELL'ENERGIA ELETTRICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412853;;412853
+8829;75210;COSTRUZIONI M-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391510;;391510
+8829;75372;STORIA DELLE TECNICHE E DEI PROCESSI DELL'ARCHITETTURA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391771;;391771
+8829;75373;CONSERVATION THEORY OF HISTORIC BUILDINGS AND HERITAGE CONSERVATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391773;;391773
+8829;73940;MODELLAZIONE BIM M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391774;;391774
+8829;75377;LABORATORIO DI REQUISITI DI BENESSERE E COMFORT AMBIENTALE M C.I.;;;391776
+8829;73946;PROGETTAZIONE ESECUTIVA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391778;modulo;391778
+8829;73941;REQUISITI DI BENESSERE E COMFORT AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391779;modulo;391779
+8829;73936;ECONOMIA E PROGRAMMAZIONE DELLA COMMESSA NEL SETTORE COSTRUZIONI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391809;;391809
+8829;73929;DIRITTO DEI CONTRATTI PUBBLICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391812;;391812
+8829;75405;MATERIALS PRESERVATION FOR CULTURAL HERITAGE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391823;;391823
+8829;75428;HISTORIC MASONRY AND WOOD STRUCTURES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391881;;391881
+8829;75452;GEOMATIC ENGINEERING FOR CULTURAL HERITAGE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391883;;391883
+8829;75453;CONSOLIDAMENTO E RESTAURO DELLE OPERE MONUMENTALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391884;;391884
+8829;75454;ADVANCED STRUCTURAL MECHANICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391887;;391887
+8829;75455;HISTORY OF ITALIAN/EUROPEAN ARCHITECTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391888;;391888
+8829;75456;SURVEY OF HISTORIC BUILDINGS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391890;;391890
+8829;75457;DESIGN PROJECTS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391891;;391891
+8829;75458;MATERIALS AND TECHNOLOGIES FOR HISTORIC BUILDINGS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391892;;391892
+8829;75459;LABORATORY OF STRUCTURAL DIAGNOSTICS AND REHABILITATION M C.I.;;;391893
+8829;75460;STRUCTURAL DIAGNOSTICS AND SEISMIC ASSESSMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391894;modulo;391894
+8829;75461;STRUCTURAL STRENGTHENING AND REHABILITATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391895;modulo;391895
+8829;75462;LABORATORY OF GEOTECHNICAL ENGINEERING FOR THE PRESERVATION OF HISTORIC BUILDINGS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391896;;391896
+8829;75463;MINERALOGICAL AND PETROGRAPHICAL CHARACTERIZATION OF NATURAL AND ARTIFICIAL STONE MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391897;;391897
+8829;75464;ENVIRONMENTAL IMPACT ON MATERIALS, DETERIORATION AND AGEING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391898;;391898
+8829;75466;RESEARCH ON HISTORIC BUILDING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391900;;391900
+8829;77815;TEORIE DELLA CONSERVAZIONE DEGLI EDIFICI STORICI E DEL PATRIMONIO ARCHITETTONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400439;;400439
+8829;77816;LABORATORIO DI REQUISITI E REGOLAMENTAZIONE M C.I.;;;400440
+8829;77817;PRINCIPI DI URBANISTICA E LEGISLAZIONE PAESAGGISTICA/AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400441;modulo;400441
+8829;77818;FONDAMENTI DI PERFORMANCE DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400442;modulo;400442
+8829;77819;PROGETTAZIONE ARCHITETTONICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400895;modulo;400895
+8829;78337;TECNOLOGIA DEL RECUPERO EDILIZIO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400444;;400444
+8829;78335;DISCIPLINA DELLE INFRASTRUTTURE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401147;;401147
+8846;75469;INFORMATION THEORY AND CODING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391906;;391906
+8846;75477;OPTICAL FIBER SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391912;;391912
+8846;37085;PRINCIPLES, MODELS AND APPLICATIONS FOR DISTRIBUTED SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391921;;391921
+8846;73388;DIGITAL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391922;;391922
+8846;75482;ANTENNA AND ANTENNA SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391923;;391923
+8846;37120;TRENDS IN COMMUNICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391929;;391929
+8846;75488;RADIOFREQUENCY CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391930;;391930
+8846;75489;RADIO SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391931;;391931
+8846;73548;WIRELESS SENSOR NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391932;;391932
+8846;37125;ELECTROMAGNETIC COMPATIBILITY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391933;;391933
+8846;75490;DIGITAL RECEIVER DESIGN AND OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391934;;391934
+8846;75491;WIRELESS SYSTEMS LABORATORY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391935;;391935
+8846;75492;SOFTWARE DEVELOPMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391936;;391936
+8846;75493;PROTOCOLS AND ARCHITECTURES FOR SPACE NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391937;;391937
+8846;65685;RADIO NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391942;;391942
+8846;37118;PRINCIPLES OF MULTIMEDIA APPLICATIONS AND SERVICES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391943;;391943
+8846;75495;OPTICAL CIRCUITS AND NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391946;;391946
+8846;35192;RESOURCES OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391949;;391949
+8846;73513;NUMERICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391951;;391951
+8846;72996;COMPUTER ARCHITECTURES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391952;;391952
+8846;73389;LABORATORY OF HIGH FREQUENCY ELECTRONIC CIRCUIT DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391953;;391953
+8846;75513;SENSOR AND MOBILE RADIO SYSTEMS M;;;391957
+8846;75489;RADIO SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391960;modulo;391960
+8846;73548;WIRELESS SENSOR NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391961;modulo;391961
+8846;34953;LABORATORIO DI RETI DI TELECOMUNICAZIONI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391965;;391965
+8846;34954;LABORATORIO DI TELECOMUNICAZIONI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391966;;391966
+8846;73310;LABORATORIO DI SOFTWARE PER LE TELECOMUNICAZIONI T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391967;;391967
+8846;69619;PROGETTO DI SISTEMI IN FIBRA OTTICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391968;;391968
+8846;34949;ELETTRONICA DELLE TELECOMUNICAZIONI M-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391969;;391969
+8846;34897;METODI NUMERICI PER L'INGEGNERIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391970;;391970
+8846;69441;OPTIMIZATION MODELS AND ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413064;;413064
+8887;34313;COSTRUZIONE DI MACCHINE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401678;;401678
+8887;29904;ELEMENTI DI INGEGNERIA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401685;;401685
+8887;29901;TERMODINAMICA DELL'INGEGNERIA CHIMICA E BIOCHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401695;;401695
+8887;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401699;;401699
+8887;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401700;;401700
+8887;28000;FISICA GENERALE T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401718;;401718
+8887;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401719;;401719
+8887;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401720;;401720
+8887;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401722;;401722
+8887;29928;LABORATORIO DI INGEGNERIA DI PROCESSO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401723;;401723
+8887;73421;LABORATORIO DI DISEGNO MECCANICO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401733;;401733
+8887;78894;BIOCHIMICA E BIOTECNOLOGIE PER L'INDUSTRIA CHIMICA T C.I.;;;401734
+8887;73424;BIOCHIMICA E MICROBIOLOGIA APPLICATE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401735;modulo;401735
+8887;73425;FONDAMENTI DI BIOTECNOLOGIE PER L'INDUSTRIA CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401736;modulo;401736
+8887;29225;FONDAMENTI DI CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402398;;402398
+8887;78824;CHIMICA ORGANICA E LABORATORIO T C.I.;;;402416
+8887;29925;CHIMICA ORGANICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402420;modulo;402420
+8887;78827;LABORATORIO DI CHIMICA E CHIMICA ORGANICA T;;modulo;402421
+8887;78889;ANALISI NUMERICA E LABORATORIO DI INFORMATICA T C.I.;;;402507
+8887;78890;ANALISI NUMERICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402511;modulo;402511
+8887;29737;LABORATORIO DI INFORMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402512;modulo;402512
+8887;29897;FLUIDODINAMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402621;;402621
+8888;37643;ANALISI MATEMATICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401635;;401635
+8888;31426;GEOLOGIA T;;;401637
+8888;29690;MECCANICA RAZIONALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401638;;401638
+8888;31036;IDRAULICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401639;;401639
+8888;31586;COMPLEMENTI DI ANALISI MATEMATICA ED ELEMENTI DI CALCOLO DELLE PROBABILIT?Ç T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401640;;401640
+8888;31617;ELETTROTECNICA E SICUREZZA ELETTRICA T C.I.;;;401641
+8888;31618;ELEMENTI DI ELETTROTECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401642;modulo;401642
+8888;31619;ELEMENTI DI IMPIANTI E SICUREZZA ELETTRICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401643;modulo;401643
+8888;31615;LABORATORIO DI DISEGNO E CAD T;;;401648
+8888;31471;INGEGNERIA SANITARIA AMBIENTALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401649;;401649
+8888;31040;PIANIFICAZIONE TERRITORIALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401653;;401653
+8888;30978;SCIENZA DELLE COSTRUZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401658;;401658
+8888;66707;TERMOFISICA E ACUSTICA DELLE COSTRUZIONI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401662;;401662
+8888;65601;CHIMICA E TECNOLOGIA DEI MATERIALI T;;;401667
+8888;28628;FISICA GENERALE T-B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401668;;401668
+8888;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401672;;401672
+8888;28626;FISICA GENERALE T-A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401673;;401673
+8888;78149;ARCHITETTURA TECNICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402368;;402368
+8888;31026;TECNICA DEL CONTROLLO AMBIENTALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411831;;411831
+8891;78809;MATHEMATICAL METHODS FOR AUTOMATION ENGINEERING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402377;;402377
+8891;35170;INDUSTRIAL ROBOTICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402378;;402378
+8891;78763;SYSTEM THEORY AND ADVANCED CONTROL M C.I.;;;402379
+8891;78764;SYSTEM THEORY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402381;modulo;402381
+8891;35169;ADVANCED CONTROL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402382;modulo;402382
+8891;78810;REAL TIME SYSTEMS FOR AUTOMATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402384;;402384
+8891;78812;DISCRETE TIME SYSTEMS IDENTIFICATION AND CONTROL M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402387;;402387
+8891;78815;MECHANICS OF MACHINES FOR AUTOMATION M C.I.;;;402390
+8891;78816;MECHANICS OF MACHINES FOR AUTOMATION M 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402393;modulo;402393
+8891;78818;MECHANICS OF MACHINES FOR AUTOMATION M 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402394;modulo;402394
+8891;69661;IMAGE PROCESSING AND COMPUTER VISION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402399;;402399
+8891;35152;HARDWARE-SOFTWARE DESIGN OF EMBEDDED SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402403;;402403
+8891;35192;RESOURCES OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402407;;402407
+8891;35166;DIAGNOSIS AND CONTROL M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402452;;402452
+8891;73924;POWER ELECTRONIC CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402457;;402457
+8891;35168;DISTRIBUTED CONTROL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402458;;402458
+8891;69659;ELECTRIC DRIVES FOR AUTOMATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402461;;402461
+8891;17271;STAGE;;;402465
+8891;78858;LABORATORY OF BUSINESS PLAN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402476;;402476
+8891;78860;TOPIC HIGHLIGHT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402478;;402478
+8891;73548;WIRELESS SENSOR NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402486;;402486
+8891;69441;OPTIMIZATION MODELS AND ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402490;;402490
+8891;78870;AUTOMATION SOFTWARE AND DESIGN PATTERNS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402492;;402492
+8891;78453;ELECTRIC POWER SYSTEMS AND SMART GRIDS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402495;;402495
+8891;34285;LOGISTICA INDUSTRIALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402496;;402496
+8891;33976;OLEODINAMICA E PNEUMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402498;;402498
+8891;78874;PRINCIPI E METODI DELLA PROGETTAZIONE DI MACCHINE AUTOMATICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402499;;402499
+8891;78983;MECHATRONICS SYSTEMS MODELING AND CONTROL M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402715;;402715
+8891;69718;LABORATORY ON INTERNATIONAL INDUSTRIAL RESEARCH M;;;403252
+8891;73924;POWER ELECTRONIC CIRCUITS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412743;;412743
+8891;75485;FINAL PROJECT M;;;412746
+8894;73165;COSTRUZIONI IDRAULICHE E PROTEZIONE IDRAULICA DEL TERRITORIO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405272;;405272
+8894;73170;GEOMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405273;;405273
+8894;73183;METODI NUMERICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405275;;405275
+8894;73188;MICROBIOLOGIA E BIOTECNOLOGIA PER IL DISINQUINAMENTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405276;;405276
+8894;73190;TECNOLOGIE PER LA PROTEZIONE AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405277;;405277
+8894;73193;LABORATORIO DI RILIEVO E POSIZIONAMENTO SATELLITARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405278;;405278
+8894;73169;ECOLOGIA INDUSTRIALE E SVILUPPO SOSTENIBILE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405279;;405279
+8894;73197;AFFIDABILIT?Ç E SICUREZZA NELL'INDUSTRIA DI PROCESSO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405283;;405283
+8894;73207;PROCESSI DI SEPARAZIONE A MEMBRANA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405284;;405284
+8894;73212;TECNOLOGIE DI RISANAMENTO DEL SUOLO E DEL SOTTOSUOLO M B;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405285;;405285
+8894;78578;PREVISIONI DI IMPATTO AMBIENTALE DI IMPIANTI PRODUTTIVI E DI TRATTAMENTO RIFIUTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405286;;405286
+8894;73270;INGEGNERIA DEI GIACIMENTI DI IDROCARBURI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405287;;405287
+8894;73271;VALORIZZAZIONE DELLE RISORSE PRIMARIE E SECONDARIE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405288;;405288
+8894;78462;INGEGNERIA E SICUREZZA DEGLI SCAVI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405289;;405289
+8894;78465;MODELLI PER LA GEOTERMIA ED I FLUIDI DEL SOTTOSUOLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405290;;405290
+8894;73254;GESTIONE E TRATTAMENTO DELLE ACQUE M C.I.;;;405291
+8894;73255;GESTIONE DELLE RISORSE IDRICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405292;modulo;405292
+8894;73256;TRATTAMENTO DELLA ACQUE REFLUE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405293;modulo;405293
+8894;73258;CONSOLIDAMENTO DEI TERRENI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405294;;405294
+8894;73262;IDRAULICA MARITTIMA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405295;;405295
+8894;73265;MODELLISTICA IDROLOGICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405296;;405296
+8894;73277;LABORATORIO DI TESI M;;;405297
+8894;73279;LABORATORY OF INDUSTRIAL SAFETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405298;;405298
+8894;73286;VALORIZZAZIONE BIOTECNOLOGICA DEI RIFIUTI E DEGLI EFFLUENTI ORGANICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405300;;405300
+8894;73287;PROGETTO DI OPERE DI INGEGNERIA SANITARIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405301;;405301
+8894;73305;COMPLEMENTI DI ANALISI MATEMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405303;;405303
+8894;73306;DIRITTO DELL'AMBIENTE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405305;;405305
+8894;29209;FISICA MODERNA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405306;;405306
+8894;78468;MODELLI NUMERICI PER LA GEOINGEGNERIA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405308;;405308
+8894;73312;INTRODUCTION TO NUMERICAL METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405312;;405312
+8894;73314;ADVANCED HYDROSYSTEMS ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405314;;405314
+8894;73355;BIOTECHNOLOGY FOR THE SUSTAINABLE RECLAMATION OF CONTAMINATED LANDS AND WATERS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405316;;405316
+8894;73358;GEOTECHNICS AND GEOLOGY;;;405318
+8894;73359;GEOTECHNICAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405319;modulo;405319
+8894;73360;ENGINEERING GEOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405320;modulo;405320
+8894;73368;CONTEXT-SENSITIVE DESIGN IN TRANSPORTATION INFRASTRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405322;;405322
+8894;73370;MANAGING ENGINEERING AND CONSTRUCTION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405323;;405323
+8894;73371;COMPUTATIONAL MECHANICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405324;;405324
+8894;73372;MATERIALS CHARACTERIZATION AND LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405325;;405325
+8894;73529;POLYMER SCIENCE, TECHNOLOGIES AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405326;;405326
+8894;72748;SUSTAINABILITY IN CONSTRUCTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405327;;405327
+8894;78491;DESIGN OF OFFSHORE STRUCTURES AND FOUNDATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405328;;405328
+8894;78493;TURBOMACHINES AND POWER GENERATION FOR OFF-SHORE APPLICATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405329;;405329
+8894;78494;MODELLING OF OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405330;;405330
+8894;78642;CORROSION AND PROTECTION OF METALLIC OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405331;;405331
+8894;75385;INTERNSHIP;;;405332
+8894;78650;LABORATORY OF PHOTOCATALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405333;;405333
+8894;73319;MINERAL PRODUCTION SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405336;;405336
+8894;73356;RESOURCES AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405337;;405337
+8894;73361;INDUSTRIAL SAFETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405338;;405338
+8894;78592;WATER ENGINEERING I.C.;;;405339
+8894;78593;GROUNDWATER AND CONTAMINATION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405340;modulo;405340
+8894;78594;FLOOD AND DROUGHT RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405341;modulo;405341
+8894;78481;OFFSHORE O&G EXPLOITATION I.C.;;;405342
+8894;78482;TECHNOLOGIES FOR OFFSHORE O&G EXPLOITATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405344;modulo;405344
+8894;78483;EXPLOITATION OF OFFSHORE O&G RESOURCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405343;modulo;405343
+8894;73365;COASTAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405345;;405345
+8894;78486;OFFSHORE HSE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405347;;405347
+8894;78487;BIOREMEDIATION AND EXPLOITATION OF MARINE BIORESOURCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405348;;405348
+8894;78457;INGEGNERIA MINERARIA M C.I.;;;412008
+8894;81641;INGEGNERIA DELLE ROCCE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412009;modulo;412009
+8894;34755;INGEGNERIA DEI GIACIMENTI DI IDROCARBURI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412010;modulo;412010
+8894;81642;LABORATORIO DI PIANIFICAZIONE TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412011;;412011
+8894;73268;OPERE IN SOTTERRANEO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412015;;412015
+8894;73315;APPLIED GEOMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412020;;412020
+8894;81645;INDUSTRIAL AND ENVIRONMENTAL SAFETY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412021;;412021
+8894;81511;PROJECT MANAGEMENT IN OFFSHORE ACTIVITIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412026;;412026
+8894;81644;LABORATORY ON RENEWABLE RAW MATERIALS AND CIRCULAR ECONOMY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412040;;412040
+8894;81510;LABORATORY OF OFFSHORE OPERATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412045;;412045
+8894;81944;LABORATORY OF ENVIRONMENTAL ENGINEERING AND ENERGY ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412741;;412741
+8894;78484;MONITORING AND POSITIONING IN OFFSHORE ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414637;;414637
+8894;78639;OCEAN ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421005;;421005
+8895;72758;ADVANCED STRUCTURAL MECHANICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405349;;405349
+8895;72756;ADVANCED DESIGN OF STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405350;;405350
+8895;72764;NUMERICAL METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405351;;405351
+8895;72757;ADVANCED HYDROSYSTEMS ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405352;;405352
+8895;72765;GEOTECHNICAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405354;;405354
+8895;72763;INFRASTRUCTURE SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405355;;405355
+8895;72767;MANAGING ENGINEERING AND CONSTRUCTION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405357;;405357
+8895;72761;DESIGN PROJECTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405358;;405358
+8895;72781;EARTHQUAKE ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405359;;405359
+8895;72782;MECHANICS OF HISTORICAL MASONRY STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405360;;405360
+8895;72789;STRUCTURAL STRENGTHENING & REHABILITATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405361;;405361
+8895;72769;COMPUTATIONAL MECHANICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405362;;405362
+8895;72785;STRUCTURAL SAFETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405364;;405364
+8895;72807;SCIENCE AND TECHNOLOGY OF COMPOSITE MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405365;;405365
+8895;72805;ENGINEERING GEOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405366;;405366
+8895;72748;SUSTAINABILITY IN CONSTRUCTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405367;;405367
+8895;72799;CONTEXT-SENSITIVE DESIGN IN TRANSPORTATION INFRASTRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405368;;405368
+8895;72803;BIOTECHNOLOGY FOR THE SUSTAINABLE RECLAMATION OF CONTAMINATED LANDS AND WATERS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405369;;405369
+8895;78595;ROAD SAFETY ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405370;;405370
+8895;72794;APPLIED GEOMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405371;;405371
+8895;78596;SUSTAINABLE DESIGN OF WATER RESOURCES SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405372;;405372
+8895;78593;GROUNDWATER AND CONTAMINATION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405373;;405373
+8895;78592;WATER ENGINEERING I.C.;;;405374
+8895;78593;GROUNDWATER AND CONTAMINATION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405375;modulo;405375
+8895;78594;FLOOD AND DROUGHT RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405376;modulo;405376
+8895;78647;LARGE-SCALE WATER AND WASTEWATER STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405377;;405377
+8895;78737;SUSTAINABLE BUILDING DESIGN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405378;;405378
+8895;78965;PUBLIC PROCUREMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405379;;405379
+8895;78594;FLOOD AND DROUGHT RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405380;;405380
+8895;72797;COASTAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405381;;405381
+8895;78638;OCEAN AND COASTAL ENGINEERING I.C.;;;405382
+8895;78639;OCEAN ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405384;modulo;405384
+8895;73365;COASTAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405383;modulo;405383
+8895;78491;DESIGN OF OFFSHORE STRUCTURES AND FOUNDATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405385;;405385
+8895;78494;MODELLING OF OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405386;;405386
+8895;78640;MONITORING AND POSITIONING IN OFF-SHORE ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405387;;405387
+8895;78646;LABORATORY OF OFFSHORE O&G EXPLOITATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405388;;405388
+8895;78487;BIOREMEDIATION AND EXPLOITATION OF MARINE BIORESOURCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405389;;405389
+8895;78641;TURBOMACHINES AND POWER GENERATION FOR OFF-SHORE APPLICATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405390;;405390
+8895;78642;CORROSION AND PROTECTION OF METALLIC OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405391;;405391
+8895;79031;OFFSHORE O&G RESOURCES EXPLOITATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405392;;405392
+8895;78486;OFFSHORE HSE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405393;;405393
+8895;81511;PROJECT MANAGEMENT IN OFFSHORE ACTIVITIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411934;;411934
+8895;81510;LABORATORY OF OFFSHORE OPERATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411935;;411935
+8895;75385;INTERNSHIP;;;412904
+8896;73516;INDUSTRIAL SAFETY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405196;;405196
+8896;73511;FLUID MECHANICS AND TRANSPORT PHENOMENA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405197;;405197
+8896;73515;INTRODUCTION TO BASIC DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405198;;405198
+8896;73512;MATERIALS CHEMISTRY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405199;;405199
+8896;73513;NUMERICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405200;;405200
+8896;69687;RESEARCH PROJECT A;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405201;;405201
+8896;73514;THERMODYNAMICS OF ENERGY AND MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405202;;405202
+8896;73507;TRANSPORT PHENOMENA LABORATORY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405203;;405203
+8896;73506;LABORATORY OF INDUSTRIAL SAFETY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405204;;405204
+8896;73505;LABORATORY OF MATERIALS CHARACTERIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405205;;405205
+8896;78649;LABORATORY OF BIOMEDICAL MATERIALS AND TECHNOLOGIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405206;;405206
+8896;78652;LABORATORY OF THERMODYNAMIC SIMULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405207;;405207
+8896;78653;LABORATORY OF ADVANCED PROCESS SIMULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405208;;405208
+8896;78654;LABORATORY OF INDUSTRIAL AND ENVIRONMENTAL BIOTECHNOLOGIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405209;;405209
+8896;78648;LABORATORY OF MOLECULAR DESIGN AND MATERIALS SIMULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405210;;405210
+8896;78650;LABORATORY OF PHOTOCATALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405211;;405211
+8896;78663;ENGLISH LANGUAGE SKILLS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405212;;405212
+8896;73520;INDUSTRIAL AND ENVIRONMENTAL BIOTECHNOLOGY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405214;;405214
+8896;73521;BIOREACTORS AND DOWNSTREAM PROCESSES M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405215;;405215
+8896;73523;PROCESS ANALYSIS FOR ENERGY AND ENVIRONMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405216;;405216
+8896;73527;TECHNOLOGY AND SUSTAINABILITY OF COMPOSITE MATERIALS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405217;;405217
+8896;78722;POLYMER SCIENCE, TECHNOLOGY AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405218;;405218
+8896;73543;MATERIALS CHARACTERIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405219;;405219
+8896;78661;ITALIAN LANGUAGE AND CULTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405222;;405222
+8896;73546;SOLID STATE PHYSICAL CHEMISTRY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405223;;405223
+8896;73577;COMPUTATIONAL MECHANICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405224;;405224
+8896;78733;SOLID STATE ELECTRONICS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405225;;405225
+8896;78483;EXPLOITATION OF OFFSHORE O&G RESOURCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405226;;405226
+8896;78642;CORROSION AND PROTECTION OF METALLIC OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405227;;405227
+8896;78723;OFFSHORE ENGINEERING AND HSE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405228;;405228
+8896;78487;BIOREMEDIATION AND EXPLOITATION OF MARINE BIORESOURCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405229;;405229
+8896;78493;TURBOMACHINES AND POWER GENERATION FOR OFF-SHORE APPLICATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405230;;405230
+8896;78491;DESIGN OF OFFSHORE STRUCTURES AND FOUNDATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405232;;405232
+8896;78494;MODELLING OF OFFSHORE STRUCTURES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405233;;405233
+8896;78640;MONITORING AND POSITIONING IN OFF-SHORE ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405234;;405234
+8896;75385;INTERNSHIP;;;405235
+8896;73488;COMPLEMENTI DI ANALISI MATEMATICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405236;;405236
+8896;73485;ANALISI NUMERICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405237;;405237
+8896;73498;TERMODINAMICA PER L'INGEGNERIA CHIMICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405238;;405238
+8896;73494;MECCANICA DEI FLUIDI E FENOMENI DI TRASPORTO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405239;;405239
+8896;73596;DINAMICA E CONTROLLO DEI PROCESSI CHIMICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405240;;405240
+8896;73487;CHIMICA INDUSTRIALE E SVILUPPO DEI PROCESSI CHIMICI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405241;;405241
+8896;73489;COSTRUZIONE E TECNOLOGIA DELLE APPARECCHIATURE CHIMICHE M C.I.;;;405242
+8896;73490;COSTRUZIONE DI APPARECCHIATURE CHIMICHE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405243;modulo;405243
+8896;73492;TECNOLOGIA MECCANICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405244;modulo;405244
+8896;73549;OPERAZIONI UNITARIE DELL'INDUSTRIA ALIMENTARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405245;;405245
+8896;73552;LABORATORIO DI IMPIANTI DELL'INDUSTRIA ALIMENTARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405246;;405246
+8896;73500;PROGETTAZIONE DI APPARECCHIATURE E IMPIANTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405247;;405247
+8896;73499;AFFIDABILITA' E SICUREZZA NELL'INDUSTRIA DI PROCESSO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405248;;405248
+8896;73557;PROCESSI DELL'INDUSTRIA ALIMENTARE M C.I.;;;405249
+8896;73559;ELEMENTI DI CHIMICA DEGLI ALIMENTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405250;modulo;405250
+8896;73560;PROCESSI DELL'INDUSTRIA ALIMENTARE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405251;modulo;405251
+8896;37622;LABORATORIO DI TESI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405255;;405255
+8896;73564;LABORATORIO DI SVILUPPO E PROGETTO DI IMPIANTI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405257;;405257
+8896;73565;PRINCIPI DI INGEGNERIA CHIMICA AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405258;;405258
+8896;73566;CORROSIONE E PROTEZIONE DEI MATERIALI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405259;;405259
+8896;29164;PROCESSI DI SEPARAZIONE A MEMBRANA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405260;;405260
+8896;73529;POLYMER SCIENCE, TECHNOLOGIES AND RECYCLING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405261;;405261
+8896;30131;METALLURGIA MECCANICA M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405262;;405262
+8896;29189;TECNOLOGIE DI RISANAMENTO DEL SUOLO E DEL SOTTOSUOLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405263;;405263
+8896;73501;TECNOLOGIE PER LA PROTEZIONE AMBIENTALE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405264;;405264
+8896;78657;DOWNSTREAM PROCESSING OF BIOLOGICAL MOLECULES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405267;;405267
+8896;35426;CHIMICA FISICA DEI MATERIALI SOLIDI M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405268;;405268
+8896;73495;REATTORISTICA E OPERAZIONI UNITARIE M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405269;;405269
+8896;73575;TECNOLOGIE DI RISANAMENTO DEL SUOLO E DEL SOTTOSUOLO M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405271;;405271
+8896;81510;LABORATORY OF OFFSHORE OPERATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411961;;411961
+8896;81634;FUNDAMENTALS OF INDUSTRIAL AND ENVIRONMENTAL BIOTECHNOLOGY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411966;;411966
+8896;81632;LABORATORY OF CHEMICAL AND BIOCHEMICAL REACTORS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411968;;411968
+8896;81633;ADVANCES IN INDUSTRIAL AND ENVIRONMENTAL BIOTECHNOLOGY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411970;;411970
+8896;81635;INTERNSHIP FOR MASTER THESIS PREPARATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411981;;411981
+8896;81511;PROJECT MANAGEMENT IN OFFSHORE ACTIVITIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412908;;412908
+8896;78724;OCEAN AND COASTAL ENGINEERING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416508;;416508
+8896;69996;INDUSTRIAL ECOLOGY M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416773;;416773
+9021;81876;LABORATORIO DI DESIGN DEI PROCESSI A C.I.;;;412567
+9021;81877;MATERIALI E PROCESSI PER IL PRODOTTO INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412568;modulo;412568
+9021;81879;DISEGNO INDUSTRIALE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412569;modulo;412569
+9021;81880;STRUTTURE - SCIENZA DELLE COSTRUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412572;;412572
+9021;81889;PROCESSI E SISTEMI DI LAVORAZIONE PER IL PRODOTTO INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412582;;412582
+9021;81893;LABORATORIO DI DESIGN DEI SISTEMI A C.I.;;;412583
+9021;81894;METODI DI CALCOLO E VERIFICA STRUTTURALE DI PRODOTTI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412584;modulo;412584
+9021;81895;DISEGNO INDUSTRIALE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412585;modulo;412585
+9021;81897;LABORATORIO DI ADVANCED DESIGN 1A C.I.;;;412600
+9021;17063;DISEGNO E METODI DELL'INGEGNERIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412601;modulo;412601
+9021;81874;DISEGNO INDUSTRIALE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412602;modulo;412602
+9021;81898;LABORATORIO DI ADVANCED DESIGN 2A C.I.;;;412606
+9021;240;DISEGNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412607;modulo;412607
+9021;81899;DISEGNO INDUSTRIALE 4;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412608;modulo;412608
+9021;81900;MATERIALI POLIMERICI PER IL DESIGN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412610;;412610
+9021;81912;LABORATORIO DI ADVANCED DESIGN 1B C.I.;;;412654
+9021;81913;DESIGN PER LA SOSTENIBILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412655;modulo;412655
+9021;81914;TECNOLOGIE E STRATEGIE PER L'ADATTAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412656;modulo;412656
+9021;81915;LABORATORIO DI DESIGN DEI PROCESSI B C.I.;;;412657
+9021;81916;DESIGN PER L'INTERAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412658;modulo;412658
+9021;81917;SERVIZI MULTIMEDIALI PER L'INTERAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412659;modulo;412659
+9021;81918;POLITICHE URBANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412660;;412660
+9021;81919;LABORATORIO DI DESIGN DEL PRODOTTO-SERVIZIO B C.I.;;;412661
+9021;81920;DESIGN THINKING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412662;modulo;412662
+9021;81921;SOCIOLOGIA DEI PROCESSI CULTURALI E CREATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412663;modulo;412663
+9021;81922;LABORATORIO DI ADVANCED DESIGN 2B C.I.;;;412664
+9021;81923;PROGETTAZIONE TECNOLOGICA INTEGRATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412665;modulo;412665
+9021;11148;SISTEMI ELETTRICI PER L'ENERGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412666;modulo;412666
+9021;81924;TELECOMUNICAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412667;modulo;412667
+9021;81925;STORIA DELLA CITTA' CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412668;;412668
+9198;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414357;;414357
+9198;29228;GEOMETRIA E ALGEBRA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414358;;414358
+9198;27996;FISICA GENERALE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414359;;414359
+9198;28030;ECONOMIA E ORGANIZZAZIONE AZIENDALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414360;;414360
+9198;31423;CHIMICA E CHIMICA APPLICATA T C.I.;;;414361
+9198;31012;CHIMICA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414362;modulo;414362
+9198;29910;CHIMICA APPLICATA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414363;modulo;414363
+9198;31586;COMPLEMENTI DI ANALISI MATEMATICA ED ELEMENTI DI CALCOLO DELLE PROBABILIT?Ç T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414364;;414364
+9198;73196;LABORATORIO DI TRATTAMENTO DATI PER L'INGEGNERIA AMBIENTALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414366;;414366
+9199;27993;ANALISI MATEMATICA T-2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414324;;414324
+9199;30780;FISICA GENERALE T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414325;;414325
+9199;27991;ANALISI MATEMATICA T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414326;;414326
+9199;37575;DISEGNO EDILE T-1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414327;;414327
+9199;65601;CHIMICA E TECNOLOGIA DEI MATERIALI T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414328;;414328
+9199;31017;GEOLOGIA APPLICATA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414329;;414329
+9199;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414330;;414330
+9199;30945;STORIA DELL'ARCHITETTURA T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414331;;414331
+9205;35167;COMMUNICATION SYSTEMS: THEORY AND MEASUREMENT M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414401;;414401
+9205;82069;ELECTROMAGNETIC PROPAGATION FOR WIRELESS SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414402;;414402
+9205;75469;INFORMATION THEORY AND CODING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414403;;414403
+9205;73545;MATHEMATICAL METHODS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414404;;414404
+9205;82071;NETWORK DESIGN M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414405;;414405
+9205;82072;ANTENNAS FOR WIRELESS SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414406;;414406
+9205;69494;MULTIMEDIA SERVICES AND APPLICATIONS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414407;;414407
+9205;75477;OPTICAL FIBER SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414408;;414408
+9205;65685;RADIO NETWORKS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414409;;414409
+9205;73388;DIGITAL SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414410;;414410
+9205;35155;ELEMENTS OF STATISTICS AND SIGNAL PROCESSING M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414411;;414411
+9205;69441;OPTIMIZATION MODELS AND ALGORITHMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414412;;414412
+9205;37085;PRINCIPLES, MODELS AND APPLICATIONS FOR DISTRIBUTED SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414413;;414413
+9205;35192;RESOURCES OPTIMIZATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414414;;414414
+9205;35152;HARDWARE-SOFTWARE DESIGN OF EMBEDDED SYSTEMS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414415;;414415
+9205;81799;PROJECT MANAGEMENT AND SOFT SKILLS M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414416;;414416
+9205;73387;CREATIVITY AND INNOVATION M;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414417;;414417
+920;28537;INGEGNERIA E TECNOLOGIE DEI SISTEMI DI CONTROLLO T;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324140;;324140
+920;28555;AUTOMATIC MACHINES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324169;;324169

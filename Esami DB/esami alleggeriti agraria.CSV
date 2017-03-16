@@ -1,0 +1,759 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;componente_id
+8521;65838;ACQUACOLTURA E AVICONIGLICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364275;;364275
+8521;35918;BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI ANIMALI (C.I.);;;364278
+8521;65860;METODOLOGIE DI GENETICA MOLECOLARE PER IL MIGLIORAMENTO DELLE PRODUZIONI ZOOTECNICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364337;modulo;364337
+8521;65863;TECNOLOGIE RIPRODUTTIVE INNOVATIVE NEGLI ANIMALI DI ALLEVAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364338;modulo;364338
+8521;65839;NUTRIZIONE ANIMALE E PRATICHE DI RAZIONAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364279;;364279
+8521;65840;ORGANIZZAZIONE AZIENDALE E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364280;;364280
+8521;65842;PRODUZIONI ANIMALI E LEGISLAZIONE VETERINARIA (C.I.);;;364281
+8521;11633;PRODUZIONI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364358;modulo;364358
+8521;65868;PROTEZIONE ANIMALE E LEGISLAZIONE VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364359;modulo;364359
+8521;65843;SANIT?Ç DELLE PRODUZIONI ANIMALI (C.I.);;;364282
+8521;65870;MALATTIE DIFFUSIVE E SANIT?Ç PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364363;modulo;364363
+8521;65873;SANIT?Ç E IGIENE DEGLI ALLEVAMENTI ITTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364364;modulo;364364
+8521;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364738;;364738
+8521;66010;DESCRITTORI DI QUALIT?Ç NEGLI ALIMENTI DI ORIGINE ANIMALE DI TERRA E D'ACQUA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364746;;364746
+8521;3833;MICROBIOLOGIA DEGLI ALIMENTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364759;;364759
+8521;66015;PROCESSI DELLA TECNOLOGIA ALIMENTARE: SETTORE LATTIERO-CASEARIO, ITTICO E DELLE CARNI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364760;;364760
+8521;66017;SICUREZZA DEGLI ALIMENTI DI ORIGINE ANIMALE (C.I.);;;364763
+8521;66019;CERTIFICAZIONE E TRACCIABILIT?Ç DEGLI ALIMENTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364768;modulo;364768
+8521;36619;TOSSICOLOGIA DEI RESIDUI NEGLI ALIMENTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364769;modulo;364769
+8521;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364777;;364777
+8521;27083;PROVA FINALE LM;;;364778
+8521;22756;ETOLOGIA E BENESSERE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382372;;382372
+8521;71541;GENOMICA, NUTRIGENOMICA E TRACCIABILITA' GENETICA PER LE PRODUZIONI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382373;;382373
+8521;71542;NUTRIZIONE UMANA E ALIMENTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382376;;382376
+8521;71543;SISTEMI E TECNOLOGIE PER UNA ZOOTECNIA SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382379;;382379
+8521;76454;QUALIT?Ç E SICUREZZA DEGLI ALIMENTI DI ORIGINE VEGETALE NELLA DIETA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394827;;394827
+8521;82679;ECONOMIA E POLITICA DEI PRODOTTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406434;;406434
+8521;82678;APPROCCIO ORIENTATO AL PROBLEMA: BUON USO DEGLI ANTIMICROBICI NEGLI ANIMALI DA ALLEVAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415738;;415738
+8522;66429;ATTIVITA' SPERIMENTALE NEL LABORATORIO BIOTECNOLOGICO (C.I.);;;365721
+8522;66435;BIOLOGIA MOLECOLARE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365741;modulo;365741
+8522;66437;BIOLOGIA SPERIMENTALE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365742;modulo;365742
+8522;35106;POLITICA E LEGISLAZIONE DELLE BIOTECNOLOGIE ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365745;modulo;365745
+8522;66430;PATOLOGIA GENERALE VETERINARIA E ONCOGENESI MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365725;;365725
+8522;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365727;;365727
+8522;66443;BIOTECNOLOGIE DELLA NUTRIZIONE ANIMALE E DEGLI ALIMENTI TRADIZIONALI E FUNZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365755;;365755
+8522;66446;METODICHE BIOMOLECOLARI APPLICATE ALLE MALATTIE TRASMISSIBILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365757;;365757
+8522;81281;MODELLI ANIMALI DI MALATTIE NEUROLOGICHE E NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365759;;365759
+8522;27083;PROVA FINALE LM;;;365765
+8522;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365766;;365766
+8522;72709;APPLICAZIONI DI GENOMICA AVANZATA NELLE PRODUZIONI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384877;;384877
+8522;72710;BIOCHIMICA DEGLI ALIMENTI E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384878;;384878
+8522;72711;BIOTECNOLOGIE APPLICATE ALLA RIPRODUZIONE ANIMALE, INGEGNERIA GENETICA E CLONAZIONE DEGLI ANIMALI D'ALLEVAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384879;;384879
+8522;72712;FISIOLOGIA ED ENDOCRINOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384880;;384880
+8522;72722;CELLULE STAMINALI IN MEDICINA RIGENERATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384881;;384881
+8522;72723;PATOLOGIA GENERALE 2 E ANATOMIA PATOLOGICA DEGLI ANIMALI DA LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384882;;384882
+8522;72724;SALUTE ANIMALE E SICUREZZA DEGLI ALIMENTI PER L'UOMO (C.I.);;;384883
+8522;72726;FARMACI AD USO VETERINARIO E TERAPIA GENICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384884;modulo;384884
+8522;72727;XENOBIOTICI, INQUINANTI AMBIENTALI E SICUREZZA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384885;modulo;384885
+8522;73907;ATTIVIT?Ç FORMATIVA IN LABORATORIO O AZIENDA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388539;;388539
+8522;78989;ECONOMIA PER LE BIOTECNOLOGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402762;;402762
+8523;28402;SISTEMI IRRIGUI E DI DRENAGGIO E MACCHINE PER IL VERDE (C.I.);;;363204
+8523;28404;IRRIGAZIONE, DRENAGGIO E DIFESA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363205;modulo;363205
+8523;28405;MACCHINE PER IL VERDE ORNAMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363206;modulo;363206
+8523;28314;CHIMICA AGRARIA CON ELEMENTI DI GEOPEDOLOGIA (C.I.);;;363207
+8523;8147;CHIMICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363208;modulo;363208
+8523;28329;ELEMENTI DI GEOPEDOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363209;modulo;363209
+8523;30482;RILIEVO E ANALISI TERRITORIALE CON APPLICAZIONI GIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363213;;363213
+8523;28454;ESTIMO E GESTIONE DELLE IMPRESE VIVAISTICHE E AGROFORESTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363218;;363218
+8523;35074;PROVA FINALE L;;;363219
+8523;28443;PROGETTAZIONE DEGLI SPAZI VERDI E PIANIFICAZIONE TERRITORIALE (C.I.);;;363223
+8523;28450;PROGETTAZIONE E REALIZZAZIONE DI SPAZI VERDI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363224;modulo;363224
+8523;28453;PIANIFICAZIONE TERRITORIALE E PAESAGGISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363225;modulo;363225
+8523;15349;TIROCINIO;;;363229
+8523;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364495;;364495
+8523;12818;BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364499;;364499
+8523;65851;MATEMATICA CON ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364501;;364501
+8523;65937;STORIA DEL PAESAGGIO E DISEGNO (C.I.);;;364511
+8523;65938;DISEGNO E CAD PER LA PROGETTAZIONE DEL VERDE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364512;modulo;364512
+8523;28229;STORIA DEI GIARDINI E DEL PAESAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364513;modulo;364513
+8523;65939;BIODIVERSIT?Ç VEGETALE ED ECOLOGIA DEL PAESAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364514;;364514
+8523;28257;ECONOMIA E POLITICA AGRO-AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364520;;364520
+8523;65945;COLTIVAZIONI ORNAMENTALI E VIVAISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364524;;364524
+8523;65946;ARBORICOLTURA ORNAMENTALE CON ELEMENTI DI SELVICOLTURA (C.I.);;;364525
+8523;65947;ARBORICOLTURA ORNAMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364526;modulo;364526
+8523;42127;ELEMENTI DI SELVICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364527;modulo;364527
+8523;65948;ELEMENTI PER LA PROGETTAZIONE E LA GESTIONE DELLE AREE VERDI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364530;;364530
+8523;65957;PATOLOGIA ED ENTOMOLOGIA (C.I.);;;364545
+8523;65958;MALATTIE DELLE PIANTE ORNAMENTALI E FITOIATRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364546;modulo;364546
+8523;65959;ENTOMOLOGIA DEL VERDE ORNAMENTALE E DEL PAESAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364547;modulo;364547
+8523;26356;IDONEITA' LINGUA FRANCESE B - 1;;;370369
+8523;26338;IDONEITA' LINGUA INGLESE B - 1;;;370370
+8523;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;370371
+8523;26344;IDONEITA' LINGUA TEDESCA B - 1;;;370372
+8523;30486;APPLICAZIONI DI GENETICA E MICROBIOLOGIA (C.I.);;;384907
+8523;28429;ELEMENTI DI GENETICA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384908;modulo;384908
+8523;28431;BIOLOGIA E GESTIONE DELLA MICROFLORA UTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384909;modulo;384909
+8523;15349;TIROCINIO;;;387397
+8523;68633;PRACTICUM;;;387401
+8523;73851;PRACTICUM;;;388294
+8523;73852;ATTIVIT?Ç DI APPRENDISTATO IN ALTA FORMAZIONE;;;388295
+8523;82465;ATTIVITA' SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI E DI LABORATORIALITA';;;388296
+8523;82465;ATTIVITA' SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI E DI LABORATORIALITA';;;388297
+8523;78275;RAPPRESENTAZIONE DIGITALE DEL PROGETTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401081;;401081
+8523;78286;INFRASTRUTTURE PER LA TUTELA AMBIENTALE E ELEMENTI DI ZOOLOGIA AGRARIA (C.I.);;;401082
+8523;65941;INFRASTRUTTURE PER LA TUTELA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401083;modulo;401083
+8523;78277;ELEMENTI DI ZOOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401084;modulo;401084
+8523;78287;AGRONOMIA, ECOLOGIA AGRARIA E TAPPETI ERBOSI (C.I.);;;401091
+8523;78288;AGRONOMIA GENERALE, TAPPETI ERBOSI E CONTROLLO DELLE INFESTANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401092;modulo;401092
+8523;78289;AGROMETEOROLOGIA ED ECOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401093;modulo;401093
+8523;78290;LABORATORIO DI SINTESI 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401094;;401094
+8523;78290;LABORATORIO DI SINTESI 1 (4);;modulo;403533
+8523;78291;LABORATORIO DI SINTESI 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401095;;401095
+8523;78291;LABORATORIO DI SINTESI 2 (4);;modulo;403537
+8523;82351;TIROCINIO ALL'ESTERO;;;414476
+8523;73853;ATTIVIT?Ç SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI (SCRITTURA E COMUNICAZIONE);;;417504
+8523;73854;ATTIVIT?Ç SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE DI IMPRENDITORIALIT?Ç;;;417505
+8524;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363240;;363240
+8524;29730;MICROBIOLOGIA GENERALE AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363253;;363253
+8524;29716;AGRONOMIA GENERALE E ECOLOGIA AGRARIA (C.I.);;;363267
+8524;29718;AGRONOMIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363268;modulo;363268
+8524;27304;AGROMETEOROLOGIA ED ECOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363269;modulo;363269
+8524;29794;INGEGNERIA AGRARIA (C.I.);;;363278
+8524;4227;IRRIGAZIONE E DRENAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363280;modulo;363280
+8524;29796;ELEMENTI DI MECCANICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363279;modulo;363279
+8524;35074;PROVA FINALE L;;;363288
+8524;65846;BIOLOGIA E BIODIVERSIT?Ç VEGETALE (C.I.);;;364288
+8524;74;BOTANICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364290;modulo;364290
+8524;65848;BIODIVERSIT?Ç VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364291;modulo;364291
+8524;65851;MATEMATICA CON ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364295;;364295
+8524;14604;ISTITUZIONI DI ECONOMIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364302;;364302
+8524;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364312;;364312
+8524;5546;GENETICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364318;;364318
+8524;27315;CHIMICA AGRARIA (C.I.);;;364327
+8524;8152;CHIMICA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364331;modulo;364331
+8524;65857;BIOCHIMICA AGRARIA E FERTILIT?Ç DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364332;modulo;364332
+8524;8114;ARBORICOLTURA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364336;;364336
+8524;8115;ARBORICOLTURA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364347;;364347
+8524;65871;ENTOMOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364365;;364365
+8524;65874;COSTRUZIONI RURALI E ZOOTECNICA (C.I.);;;364367
+8524;65875;COSTRUZIONI RURALI E RILIEVO TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364369;modulo;364369
+8524;65876;ZOOTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364370;modulo;364370
+8524;29823;MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364388;;364388
+8524;26344;IDONEITA' LINGUA TEDESCA B - 1;;;370342
+8524;26356;IDONEITA' LINGUA FRANCESE B - 1;;;370343
+8524;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;370344
+8524;26338;IDONEITA' LINGUA INGLESE B - 1;;;370345
+8524;29758;PATOLOGIA VEGETALE (C.I.);;;384766
+8524;13356;PATOLOGIA VEGETALE GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384767;modulo;384767
+8524;18346;PATOLOGIA VEGETALE SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384768;modulo;384768
+8524;72665;COLTIVAZIONI ERBACEE E ORTOFLORICOLTURA (C.I.);;;384771
+8524;72666;PRINCIPI DI ORTICOLTURA E FLORICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384774;modulo;384774
+8524;2096;COLTIVAZIONI ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384775;modulo;384775
+8524;8260;ESTIMO RURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384785;;384785
+8524;72668;MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384786;;384786
+8524;72669;PROTEZIONE ECOCOMPATIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384789;;384789
+8524;72679;FITOPATIE DA STRESS AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384802;;384802
+8524;72596;BIOTECNOLOGIE MICROBICHE AGROFORESTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395123;;395123
+8524;72592;CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.);;;395124
+8524;72590;CONTROLLO DELLA FAUNA SELVATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395125;modulo;395125
+8524;72594;GESTIONE ECONOMICA DELLE AREE PROTETTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395126;modulo;395126
+8524;72638;ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.);;;395127
+8524;30559;INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395128;modulo;395128
+8524;30557;ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395129;modulo;395129
+8524;30563;INTRODUZIONE ALLE RICERCHE DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395130;modulo;395130
+8524;283;ENTOMOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403455;;403455
+8525;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363299;;363299
+8525;15349;TIROCINIO;;;363327
+8525;32656;AGRONOMIA GENERALE ED ECOLOGIA AGRARIA (C.I.);;;363331
+8525;2098;AGRONOMIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363332;modulo;363332
+8525;27304;AGROMETEOROLOGIA ED ECOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363333;modulo;363333
+8525;18249;ESTIMO TERRITORIALE E AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363343;;363343
+8525;35074;PROVA FINALE L;;;363350
+8525;30794;ENTOMOLOGIA E PATOLOGIA AGRO-FORESTALE (C.I.);;;363354
+8525;27660;ENTOMOLOGIA AGRO-FORESTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363356;modulo;363356
+8525;27661;PATOLOGIA AGRO-FORESTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363355;modulo;363355
+8525;65846;BIOLOGIA E BIODIVERSIT?Ç VEGETALE (C.I.);;;364433
+8525;74;BOTANICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364434;modulo;364434
+8525;65848;BIODIVERSIT?Ç VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364435;modulo;364435
+8525;65851;MATEMATICA CON ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364436;;364436
+8525;65907;SISTEMI ECONOMICI IN AGRICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364437;;364437
+8525;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364438;;364438
+8525;65908;GEOPEDOLOGIA CON ELEMENTI DI CARTOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364439;;364439
+8525;65910;CHIMICA AGRARIA E FERTILIT?Ç DEL SUOLO (C.I.);;;364440
+8525;8152;CHIMICA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364441;modulo;364441
+8525;65857;BIOCHIMICA AGRARIA E FERTILIT?Ç DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364442;modulo;364442
+8525;65911;ARBORICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364443;;364443
+8525;14452;IDRAULICA AGRARIA, IRRIGAZIONE E DRENAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364444;;364444
+8525;65912;SELVICOLTURA E PIANIFICAZIONE FORESTALE;;;364445
+8525;66243;COLTURE ERBACEE E GENETICA AGRARIA (C.I.);;;364449
+8525;65915;COLTURE ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364450;modulo;364450
+8525;5546;GENETICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364451;modulo;364451
+8525;27618;MICROBIOLOGIA GENERALE E AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364452;;364452
+8525;65921;EDILIZIA RURALE E PIANIFICAZIONE TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364459;;364459
+8525;65922;IMPATTO AMBIENTALE DELLA ZOOTECNIA E DELLE INDUSTRIE AGROALIMENTARI (C.I.);;;364462
+8525;18251;ALLEVAMENTI ZOOTECNICI ED IMPATTO AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364464;modulo;364464
+8525;65923;TECNOLOGIE ALIMENTARI ED IMPATTO AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364465;modulo;364465
+8525;65924;MECCANICA E MECCANIZZAZIONE AGRO-FORESTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364469;;364469
+8525;26344;IDONEITA' LINGUA TEDESCA B - 1;;;370348
+8525;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;370349
+8525;26338;IDONEITA' LINGUA INGLESE B - 1;;;370350
+8525;26356;IDONEITA' LINGUA FRANCESE B - 1;;;370351
+8525;72592;CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.);;;384401
+8525;72590;CONTROLLO DELLA FAUNA SELVATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384404;modulo;384404
+8525;72594;GESTIONE ECONOMICA DELLE AREE PROTETTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384407;modulo;384407
+8525;72596;BIOTECNOLOGIE MICROBICHE AGROFORESTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387859;;387859
+8525;72669;PROTEZIONE ECOCOMPATIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395131;;395131
+8525;72638;ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.);;;395132
+8525;30559;INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395133;modulo;395133
+8525;30557;ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395134;modulo;395134
+8525;30563;INTRODUZIONE ALLE RICERCHE DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395135;modulo;395135
+8525;72679;FITOPATIE DA STRESS AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395136;;395136
+8525;29823;MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395137;;395137
+8525;72668;MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395138;;395138
+8525;78266;SELVICOLTURA E GESTIONE FORESTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401066;;401066
+8525;72668;MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE;;;409398
+8525;65921;EDILIZIA RURALE E PIANIFICAZIONE TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415154;;415154
+8525;79430;ADVANCED PLANT PATHOLOGY AND ENTOMOLOGY;;;417892
+8525;37910;ACQUARIOLOGIA;;;417897
+8526;27328;ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE (C.I.);;;363387
+8526;18061;ECONOMIA DEI MERCATI;;modulo;363388
+8526;9511;MARKETING;;modulo;363389
+8526;30551;MECCANIZZAZIONE AGRICOLA, IRRIGAZIONE E DRENAGGIO (C.I.);;;363396
+8526;4227;IRRIGAZIONE E DRENAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363398;modulo;363398
+8526;1023;TECNICA DELLA MECCANIZZAZIONE AGRICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363397;modulo;363397
+8526;27332;POLITICA AGRARIA (C.I.);;;363407
+8526;27333;POLITICA AGRARIA E SVILUPPO RURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363409;modulo;363409
+8526;27334;POLITICA AGRARIA INTERNAZIONALE E COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363408;modulo;363408
+8526;35074;PROVA FINALE L;;;363410
+8526;27340;DIFESA DELLE PIANTE (C.I.);;;363412
+8526;283;ENTOMOLOGIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363414;modulo;363414
+8526;27342;PATOLOGIA VEGETALE E PATOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363413;modulo;363413
+8526;15349;TIROCINIO;;;363419
+8526;8260;ESTIMO RURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363420;;363420
+8526;8234;ELEMENTI DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364362;;364362
+8526;65872;PRINCIPI DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364366;;364366
+8526;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364368;;364368
+8526;65877;STATISTICA ECONOMICA DEI SISTEMI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364375;;364375
+8526;65879;DIRITTO DELL'ECONOMIA AGROINDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364376;;364376
+8526;65881;ECONOMIA DELL'IMPRESA AGROINDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364377;;364377
+8526;8147;CHIMICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364382;;364382
+8526;65885;GESTIONE E ANALISI DELLA QUALITA' DEI PRODOTTI AGROALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364385;;364385
+8526;65887;AMMINISTRAZIONE E GESTIONE DELL'IMPRESA AGRARIA E AGROINDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364387;;364387
+8526;65888;AGRONOMIA GENERALE E COLTIVAZIONI ERBACEE (C.I.);;;364393
+8526;65889;AGRONOMIA GENERALE;;modulo;364394
+8526;2096;COLTIVAZIONI ERBACEE;;modulo;364395
+8526;65898;ARBORICOLTURA GENERALE E SPECIALE (C.I.);;;364413
+8526;8114;ARBORICOLTURA GENERALE;;modulo;364417
+8526;8115;ARBORICOLTURA SPECIALE;;modulo;364418
+8526;65901;ZOOTECNICA E COSTRUZIONI RURALI (C.I.);;;364423
+8526;65902;ZOOTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364424;modulo;364424
+8526;65903;ELEMENTI DI COSTRUZIONI RURALI E PIANIFICAZIONE TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364425;modulo;364425
+8526;26356;IDONEITA' LINGUA FRANCESE B - 1;;;370352
+8526;26338;IDONEITA' LINGUA INGLESE B - 1;;;370353
+8526;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;370354
+8526;26344;IDONEITA' LINGUA TEDESCA B - 1;;;370355
+8526;36957;"ATTIVITA' DI TUTORATO ""CHIMICA""";;;373015
+8526;27300;BIOLOGIA VEGETALE E GENETICA AGRARIA (C.I.);;;375731
+8526;69173;ELEMENTI DI BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375732;modulo;375732
+8526;69174;ELEMENTI DI GENETICA AGRARIA E MIGLIORAMENTO GENETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375733;modulo;375733
+8526;72638;ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.);;;384552
+8526;30559;INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384554;modulo;384554
+8526;30557;ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384557;modulo;384557
+8526;30563;INTRODUZIONE ALLE RICERCHE DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384555;modulo;384555
+8526;72679;FITOPATIE DA STRESS AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395115;;395115
+8526;72668;MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395116;;395116
+8526;29823;MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395117;;395117
+8526;72669;PROTEZIONE ECOCOMPATIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395118;;395118
+8526;72596;BIOTECNOLOGIE MICROBICHE AGROFORESTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395119;;395119
+8526;72592;CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.);;;395120
+8526;72590;CONTROLLO DELLA FAUNA SELVATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395121;modulo;395121
+8526;72594;GESTIONE ECONOMICA DELLE AREE PROTETTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395122;modulo;395122
+8526;78283;AGRONOMIA E ARBORICOLTURA GENERALE (C.I.);;;401069
+8526;65889;AGRONOMIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401070;modulo;401070
+8526;8114;ARBORICOLTURA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401071;modulo;401071
+8526;78284;COLTIVAZIONI ERBACEE ED ARBOREE (C.I.);;;401072
+8526;2096;COLTIVAZIONI ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401073;modulo;401073
+8526;8115;ARBORICOLTURA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401074;modulo;401074
+8526;78306;INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGRO-INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401114;;401114
+8526;78271;ECONOMIA DEI MERCATI NELL'AGROINDUSTRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404541;;404541
+8526;72592;CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.);;;409412
+8526;72590;CONTROLLO DELLA FAUNA SELVATICA;;modulo;409413
+8526;72594;GESTIONE ECONOMICA DELLE AREE PROTETTE;;modulo;409414
+8526;72668;MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE;;;409416
+8526;82351;TIROCINIO ALL'ESTERO;;;414240
+8527;31251;COLTURE ARBOREE (C.I.);;;363436
+8527;18457;MORFOFISIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363437;modulo;363437
+8527;8114;ARBORICOLTURA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363438;modulo;363438
+8527;21365;MICROBIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363452;;363452
+8527;31281;OPERAZIONI UNITARIE CON APPLICAZIONI (C.I.);;;363456
+8527;430;FISICA TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363457;modulo;363457
+8527;31285;OPERAZIONI UNITARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363458;modulo;363458
+8527;31278;GESTIONE DELLA FERTILITA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363462;;363462
+8527;31314;ENOLOGIA (C.I.);;;363463
+8527;31316;TECNICHE DI VINIFICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363464;modulo;363464
+8527;31319;TECNICHE SPECIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363465;modulo;363465
+8527;18200;TECNICA VITICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363469;;363469
+8527;18160;ENTOMOLOGIA VITICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363473;;363473
+8527;4220;MICROBIOLOGIA ENOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363474;;363474
+8527;35074;PROVA FINALE L;;;363475
+8527;8478;TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363484;;363484
+8527;65793;MATEMATICA CON ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364144;;364144
+8527;38837;CHIMICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364148;;364148
+8527;65796;DIRITTO ALIMENTARE E LEGISLAZIONE VITIVINICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364154;;364154
+8527;17559;GESTIONE DELLA QUALITA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364158;;364158
+8527;31246;CHIMICA ORGANICA E BIOCHIMICA (C.I.);;;364159
+8527;18167;FONDAMENTI DI CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364160;modulo;364160
+8527;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364161;modulo;364161
+8527;65799;GESTIONE E AMMINISTRAZIONE DELL'IMPRESA VITIVINICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364164;;364164
+8527;8159;CHIMICA ENOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364194;;364194
+8527;65809;VITICOLTURA GENERALE E VIVAISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364195;;364195
+8527;65814;AGGIORNAMENTO PROFESSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364212;;364212
+8527;65817;PATOLOGIA VITICOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364219;;364219
+8527;65819;MECCANIZZAZIONE VITICOLA E IMPIANTI ENOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364222;;364222
+8527;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/370367;;370367
+8527;31584;TECNICHE DI DEGUSTAZIONE DEI VINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376524;;376524
+8527;72487;ANALISI CHIMICHE, FISICHE E SENSORIALI DEI PRODOTTI ENOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384192;;384192
+8527;82296;ENZIMI NELLE TECNOLOGIE ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413784;;413784
+8527;29570;PROGETTAZIONE IGIENICA E SANIFICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413785;;413785
+8527;82298;VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413786;;413786
+8528;27336;PRODUZIONI VEGETALI (C.I.);;;363492
+8528;29369;ECOLOGIA DELLE PRODUZIONI ALIMENTARI E COLTURE ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363494;modulo;363494
+8528;29371;COLTURE ARBOREE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363493;modulo;363493
+8528;29367;ECONOMIA E GESTIONE DELL'IMPRESA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363495;;363495
+8528;28598;CHIMICA ORGANICA (C.I.);;;363505
+8528;18167;FONDAMENTI DI CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363506;modulo;363506
+8528;6329;CHIMICA DELLE SOSTANZE NATURALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363507;modulo;363507
+8528;29405;IMPIANTI ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363509;;363509
+8528;28552;PRODUZIONI ANIMALI (C.I.);;;363510
+8528;1074;ZOOCOLTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363512;modulo;363512
+8528;1081;ZOOTECNICA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363511;modulo;363511
+8528;35074;PROVA FINALE L;;;363526
+8528;28840;TECNOLOGIE ALIMENTARI (C.I.);;;363530
+8528;11634;TECNOLOGIE ALIMENTARI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363532;modulo;363532
+8528;29414;TECNOLOGIE ALIMENTARI II E PRINCIPI DI CONFEZIONAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363531;modulo;363531
+8528;29416;ANALISI CHIMICHE DEI PRODOTTI ALIMENTARI (C.I.);;;363536
+8528;3596;CHIMICA DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363537;modulo;363537
+8528;24207;ANALISI DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363538;modulo;363538
+8528;29419;MICROBIOLOGIA DEGLI ALIMENTI (C.I.);;;363539
+8528;42629;MICROBIOLOGIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363540;modulo;363540
+8528;4221;MICROBIOLOGIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363541;modulo;363541
+8528;15349;TIROCINIO;;;363542
+8528;42902;LABORATORIO DI MICROBIOLOGIA APPLICATA;;;363549
+8528;4224;ENOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363550;;363550
+8528;31580;TECNOLOGIE DEI CEREALI E DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363551;;363551
+8528;42175;ISPEZIONI E CONTROLLI FITOSANITARI DELLE DERRATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363554;;363554
+8528;38837;CHIMICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364628;;364628
+8528;65968;GESTIONE DELLA QUALIT?Ç NELL'INDUSTRIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364630;;364630
+8528;65951;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364635;;364635
+8528;65974;OPERAZIONI UNITARIE E APPLICAZIONI (C.I);;;364643
+8528;31285;OPERAZIONI UNITARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364644;modulo;364644
+8528;29404;APPLICAZIONI DI OPERAZIONI UNITARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364645;modulo;364645
+8528;65816;STECHIOMETRIA E PROCESSI CHIMICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364796;;364796
+8528;887;SCIENZA DELL'ALIMENTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364804;;364804
+8528;65814;AGGIORNAMENTO PROFESSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364811;;364811
+8528;66044;CHIMICA E TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364818;;364818
+8528;66047;PATOLOGIA E PARASSITOLOGIA DEI PRODOTTI E DELLE DERRATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364827;;364827
+8528;29232;DIRITTO ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364830;;364830
+8528;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/370362;;370362
+8528;69152;BIOLOGIA DEI MICRORGANISMI ED ISPEZIONE DEGLI ALIMENTI (C.I.);;;375697
+8528;69153;BIOLOGIA DEI MICRORGANISMI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375698;modulo;375698
+8528;69154;ISPEZIONE ED IGIENE DEGLI ALIMENTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375699;modulo;375699
+8528;13644;MATEMATICA E STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375700;;375700
+8528;69156;FISICA TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375701;;375701
+8528;69161;TECNOLOGIA DELLE BEVANDE ALCOLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375713;;375713
+8528;72554;DIVERSIT?Ç VEGETALE E SISTEMI DI PRODUZIONE ALIMENTARI;;;384319
+8528;15148;DETERGENZA E SANIFICAZIONE DEGLI IMPIANTI DELL'INDUSTRIA ALIMENTARE;;;395939
+8528;26356;IDONEITA' LINGUA FRANCESE B - 1;;;404182
+8528;82296;ENZIMI NELLE TECNOLOGIE ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413774;;413774
+8528;29570;PROGETTAZIONE IGIENICA E SANIFICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413775;;413775
+8528;82298;VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413781;;413781
+8531;29547;MARKETING PER IL SISTEMA ALIMENTARE (C.I.);;;363789
+8531;29548;SISTEMA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363790;modulo;363790
+8531;18452;MARKETING DEI PRODOTTI ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363791;modulo;363791
+8531;27083;PROVA FINALE LM;;;363802
+8531;29588;MICROBIOLOGIA AVANZATA E PREDITTIVA (C.I.);;;363803
+8531;29590;MICROBIOLOGIA DIAGNOSTICA E PREDITTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363804;modulo;363804
+8531;29594;MICROBIOLOGIA DELLE FERMENTAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363805;modulo;363805
+8531;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363819;;363819
+8531;66048;QUALIT?Ç E INNOVAZIONE NELLE PRODUZIONI PRIMARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364828;;364828
+8531;29541;INNOVAZIONE DEI PROCESSI NELL'INDUSTRIA ALIMENTARE (C.I.);;;364838
+8531;29542;IMPIANTI AVANZATI DELLA TECNOLOGIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364840;modulo;364840
+8531;66054;IMPIANTI FRIGORIFERI ED ELEMENTI DI SICUREZZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364841;modulo;364841
+8531;24234;NUTRIZIONE UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364843;;364843
+8531;42175;ISPEZIONI E CONTROLLI FITOSANITARI DELLE DERRATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364900;;364900
+8531;67484;INNOVAZIONI E SICUREZZA DEI PRODOTTI DI ORIGINE ANIMALE (C.I.);;;364906
+8531;29597;INNOVAZIONI NELLA FILIERA DEI PRODOTTI CARNEI E OVOPRODOTTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364908;modulo;364908
+8531;66072;TRACCIABILIT?Ç BATTERICA E SICUREZZA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364909;modulo;364909
+8531;31580;TECNOLOGIE DEI CEREALI E DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364910;;364910
+8531;4224;ENOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364912;;364912
+8531;66044;CHIMICA E TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364913;;364913
+8531;42902;LABORATORIO DI MICROBIOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364914;;364914
+8531;69162;CHIMICA STRUTTURALE DEI SISTEMI BIOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375714;;375714
+8531;69163;MODIFICAZIONI CHIMICHE E ANALISI DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375715;;375715
+8531;69164;STATISTICA ED ELABORAZIONE DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375716;;375716
+8531;69165;QUALIT?Ç E FORMULAZIONE DEGLI ALIMENTI(C.I.);;;375717
+8531;69166;ANALISI FISICHE E REOLOGICHE DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375718;modulo;375718
+8531;69167;FORMULAZIONE E INNOVAZIONE DI PRODOTTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375719;modulo;375719
+8531;69168;CONDIZIONAMENTO E IMBALLAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375720;;375720
+8531;69169;ECONOMIA DEI SISTEMI QUALIT?Ç NEL SISTEMA AGROINDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375721;;375721
+8531;31584;TECNICHE DI DEGUSTAZIONE DEI VINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375723;;375723
+8531;69161;TECNOLOGIA DELLE BEVANDE ALCOLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375724;;375724
+8531;76546;QUALIT?Ç DEI PRODOTTI ITTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395479;;395479
+8531;82296;ENZIMI NELLE TECNOLOGIE ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413868;;413868
+8531;29570;PROGETTAZIONE IGIENICA E SANIFICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413870;;413870
+8531;82298;VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413888;;413888
+8532;27369;SISTEMAZIONI IDRAULICO AGROFORESTALI (C.I.);;;363826
+8532;27370;IDRAULICA AGRO-FORESTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363827;modulo;363827
+8532;27371;GEOTECNICA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363828;modulo;363828
+8532;27362;MONITORAGGIO DEGLI ECOSISTEMI (C.I.);;;363832
+8532;27364;INVENTARI FORESTALI E TELERILEVAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363833;modulo;363833
+8532;66101;ECOSISTEMI VEGETALI, HABITAT PROTETTI E RIPRISTINI AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363834;modulo;363834
+8532;27372;AGRONOMIA TERRITORIALE E GESTIONE DELLA FLORA SPONTANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363842;;363842
+8532;26345;IDONEITA' LINGUA TEDESCA B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363873;;363873
+8532;26351;IDONEITA' LINGUA SPAGNOLA B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363874;;363874
+8532;26357;IDONEITA' LINGUA FRANCESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363875;;363875
+8532;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363876;;363876
+8532;27083;PROVA FINALE LM;;;363877
+8532;26345;IDONEITA' LINGUA TEDESCA B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363888;;363888
+8532;26351;IDONEITA' LINGUA SPAGNOLA B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363889;;363889
+8532;26357;IDONEITA' LINGUA FRANCESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363890;;363890
+8532;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363891;;363891
+8532;66084;DIVERSIT?Ç FUNZIONALE E MONITORAGGIO DEI MICRORGANISMI;;;364989
+8532;66030;FISICA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364990;;364990
+8532;90135;TIROCINIO - A SCELTA DELLO STUDENTE;;;364995
+8532;66099;IMPIANTI PER LA PRODUZIONE DI ENERGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364999;;364999
+8532;66103;APPLICAZIONE DELLA MICROBIOLOGIA IN CAMPO AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365002;;365002
+8532;66104;MONITORAGGIO E ANALISI DEL SISTEMA ACQUA-SUOLO (C.I.);;;365004
+8532;66105;SENSIBILIT?Ç E VULNERABILIT?Ç DEL SISTEMA ACQUA-SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365005;modulo;365005
+8532;66106;METODOLOGIA SPERIMENTALE ED ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365006;modulo;365006
+8532;27383;SPAZI VERDI, PARCHI E GIARDINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365037;;365037
+8532;66226;EDILIZIA RURALE, PROGETTAZIONE E PIANIFICAZIONE PAESAGGISTICA (C.I.);;;365266
+8532;27380;EDILIZIA RURALE E PAESAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365267;modulo;365267
+8532;66119;PROGETTAZIONE E PIANIFICAZIONE PAESAGGISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365268;modulo;365268
+8532;57929;LABORATORIO DI GEOMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384181;;384181
+8532;78440;PIANIFICAZIONE FORESTALE E ASSESTAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401292;;401292
+8532;78441;ESTIMO AMBIENTALE E CARTOGRAFIA CATASTALE (C.I.);;;401303
+8532;78442;ESTIMO AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401310;modulo;401310
+8532;66098;CARTOGRAFIA CATASTALE CON ELEMENTI DI CAD E GIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401311;modulo;401311
+8532;78443;MARKETING E POLITICHE AGRO-TERRITORIALI (C.I.);;;401336
+8532;78444;MARKETING DEL TERRITORIO RURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401337;modulo;401337
+8532;66126;POLITICHE AGRO-AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401338;modulo;401338
+8532;78445;QUALIT?Ç CHIMICA E BIOCHIMICA DEL SUOLO (C.I.);;;401339
+8532;78446;INQUINANTI NEL SISTEMA SUOLO - ACQUA - PIANTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401342;modulo;401342
+8532;27562;INDICI DI QUALIT?Ç DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401343;modulo;401343
+8532;82449;RILEVAMENTO E CLASSIFICAZIONE DEI SUOLI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414299;;414299
+8532;81355;PREPARAZIONE PROVA FINALE ALL'ESTERO;;;414303
+8617;35235;ANATOMIA VETERINARIA SISTEMATICA E COMPARATA (C.I.);;;377290
+8617;50169;ANATOMIA VETERINARIA SISTEMATICA E COMPARATA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377295;modulo;377295
+8617;50170;ANATOMIA VETERINARIA SISTEMATICA E COMPARATA III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377296;modulo;377296
+8617;69846;ATTIVITA' NELL'OSPEDALE DIDATTICO VETERINARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377297;modulo;377297
+8617;35242;BIOCHIMICA E BIOLOGIA MOLECOLARE CLINICA VETERINARIA (C.I.);;;377298
+8617;8956;BIOCHIMICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377299;modulo;377299
+8617;61500;BIOLOGIA MOLECOLARE CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377300;modulo;377300
+8617;69848;CHIMICA E BIOCHIMICA STRUTTURALE (C.I.);;;377301
+8617;4422;CHIMICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377302;modulo;377302
+8617;69849;BIOCHIMICA STRUTTURALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377303;modulo;377303
+8617;69850;BIOCHIMICA STRUTTURALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377304;modulo;377304
+8617;69851;FISICA APPLICATA, INFORMATICA E STATISTICA (C.I.);;;377305
+8617;58200;FISICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377306;modulo;377306
+8617;18067;IDONEITA' INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377307;modulo;377307
+8617;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377308;modulo;377308
+8617;69852;ISTOLOGIA, ANATOMIA E ZOOLOGIA VETERINARIA (C.I.);;;377309
+8617;69853;CITOLOGIA, ISTOLOGIA ED EMBRIOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377310;modulo;377310
+8617;50168;ANATOMIA VETERINARIA SISTEMATICA E COMPARATA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377311;modulo;377311
+8617;12212;ZOOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377312;modulo;377312
+8617;69854;ZOOTECNIA GENERALE ED ECONOMIA (C.I.);;;377313
+8617;35681;ZOOTECNIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377314;modulo;377314
+8617;69855;GENETICA E MIGLIORAMENTO GENETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377315;modulo;377315
+8617;35251;ECONOMIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377316;modulo;377316
+8617;22741;ECONOMIA E GESTIONE DELL'AZIENDA ZOOTECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377317;modulo;377317
+8617;35280;ANATOMIA TOPOGRAFICA E RADIO-TOMOGRAFICA VETERINARIA (C.I.);;;377386
+8617;16042;ANATOMIA TOPOGRAFICA VETERINARIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377387;modulo;377387
+8617;23854;ANATOMIA TOPOGRAFICA VETERINARIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377388;modulo;377388
+8617;58180;ANATOMIA RADIOGRAFICA E TOMOGRAFICA VETERINARIA NORMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377389;modulo;377389
+8617;35289;FISIOLOGIA VETERINARIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377390;;377390
+8617;35293;FISIOLOGIA VETERINARIA II, ETOLOGIA ED ENDOCRINOLOGIA (C.I.);;;377391
+8617;35301;FISIOLOGIA VETERINARIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377392;modulo;377392
+8617;35294;ENDOCRINOLOGIA, FISIOLOGIA DELLA RIPRODUZIONE ED ETOLOGIA DEGLI ANIMALI DOMESTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377393;modulo;377393
+8617;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377395;;377395
+8617;69868;MICROBIOLOGIA E PARASSITOLOGIA (C.I.);;;377396
+8617;35532;PARASSITOLOGIA E MICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377397;modulo;377397
+8617;69870;BATTERIOLOGIA ED IMMUNOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377398;modulo;377398
+8617;1071;VIROLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377399;modulo;377399
+8617;69869;PATOLOGIA GENERALE E FISIOPATOLOGIA VETERINARIA (C.I.);;;377400
+8617;35638;PATOLOGIA GENERALE E FISIOPATOLOGIA DEGLI ANIMALI DOMESTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377401;modulo;377401
+8617;69871;IMMUNOPATOLOGIA E ONCOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377402;modulo;377402
+8617;35307;SICUREZZA E IGIENE ALIMENTARE (C.I.);;;377403
+8617;58181;IGIENE E TECNOLOGIE ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377404;modulo;377404
+8617;35308;BROMATOLOGIA E METODI D'ANALISI DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377405;modulo;377405
+8617;35309;SICUREZZA E RINTRACCIABILIT?Ç DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377406;modulo;377406
+8617;69872;ANATOMIA PATOLOGICA VETERINARIA (C.I.);;;377408
+8617;10230;ANATOMIA PATOLOGICA VETERINARIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377409;modulo;377409
+8617;10231;ANATOMIA PATOLOGICA VETERINARIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377410;modulo;377410
+8617;35418;FARMACOLOGIA E TOSSICOLOGIA VETERINARIA (C.I.);;;377411
+8617;35451;FARMACOLOGIA E FARMACIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377412;modulo;377412
+8617;3795;TOSSICOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377413;modulo;377413
+8617;69873;FISIOPATOLOGIA DELLA RIPRODUZIONE ANIMALE E TECNICHE DI RIPRODUZIONE ASSISTITA (C.I.);;;377414
+8617;12390;ANDROLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377415;modulo;377415
+8617;35544;FISIOPATOLOGIA DELLA RIPRODUZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377416;modulo;377416
+8617;58189;FECONDAZIONE ARTIFICIALE E TECNICHE DI RIPRODUZIONE ASSISTITA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377417;modulo;377417
+8617;69874;MALATTIE TRASMISSIBILI ED EPIDEMIOLOGIA (C.I.);;;377418
+8617;35474;MALATTIE INFETTIVE DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377419;modulo;377419
+8617;35475;MALATTIE INFETTIVE DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377420;modulo;377420
+8617;7870;MALATTIE PARASSITARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377421;modulo;377421
+8617;6040;EPIDEMIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377422;modulo;377422
+8617;35420;METODOLOGIA, PATOLOGIA CLINICA E MEDICINA LEGALE (C.I.);;;377423
+8617;35480;METODOLOGIA CLINICA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377424;modulo;377424
+8617;35482;METODOLOGIE DI BIOCHIMICA CLINICA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377425;modulo;377425
+8617;69876;MEDICINA LEGALE, PROTEZIONE ANIMALE E LEGISLAZIONE VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377426;modulo;377426
+8617;35421;NUTRIZIONE E ALIMENTAZIONE ANIMALE (C.I.);;;377427
+8617;58183;NUTRIZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377428;modulo;377428
+8617;69877;ALIMENTAZIONE DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377429;modulo;377429
+8617;35483;ALIMENTAZIONE DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377430;modulo;377430
+8617;3380;TECNICA MANGIMISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377431;modulo;377431
+8617;69875;PRODUZIONI ANIMALI I (C.I.);;;377432
+8617;2571;AVICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377433;modulo;377433
+8617;69878;ACQUACOLTURA E ALLEVAMENTO DELLE PICCOLE SPECIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377434;modulo;377434
+8617;35529;ALLEVAMENTO DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377435;modulo;377435
+8617;35534;ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI (C.I.);;;377482
+8617;58194;ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377483;modulo;377483
+8617;79826;TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377484;modulo;377484
+8617;79826;TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 1 (4);;modulo;402737
+8617;69928;MALATTIE TRASMISSIBILI E SANIT?Ç PUBBLICA (C.I.);;;377501
+8617;52432;MALATTIE INFETTIVE, PROFILASSI E POLIZIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377502;modulo;377502
+8617;31881;SANIT?Ç PUBBLICA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377503;modulo;377503
+8617;767;PATOLOGIA AVIARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377504;modulo;377504
+8617;35548;PATOLOGIA DELLA FAUNA SELVATICA ED ESOTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377505;modulo;377505
+8617;69929;TIROCINIO DI PATOLOGIA AVIARE E DELLA FAUNA SELVATICA ED ESOTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377506;modulo;377506
+8617;69930;PRODUZIONI ANIMALI II (C.I.);;;377507
+8617;35530;BENESSERE ANIMALE E QUALIT?Ç DELLE PRODUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377508;modulo;377508
+8617;69931;BOVINICOLTURA ED OVINICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377509;modulo;377509
+8617;9094;SUINICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377510;modulo;377510
+8617;35539;SEMEIOTICA, PATOLOGIA CHIRURGICA, ANESTESIOLOGIA E MEDICINA OPERATORIA VETERINARIA (C.I.);;;377511
+8617;69932;SEMEIOTICA E PATOLOGIA CHIRURGICA DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377512;modulo;377512
+8617;69933;SEMEIOTICA E PATOLOGIA CHIRURGICA DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377513;modulo;377513
+8617;10314;ANESTESIOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377514;modulo;377514
+8617;3811;MEDICINA OPERATORIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377515;modulo;377515
+8617;35541;SEMEIOTICA, PATOLOGIA MEDICA, RADIOLOGIA E DIAGNOSTICA PER IMMAGINI VETERINARIA (C.I.);;;377516
+8617;35597;SEMEIOTICA E PATOLOGIA MEDICA DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377517;modulo;377517
+8617;35596;SEMEIOTICA E PATOLOGIA MEDICA DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377518;modulo;377518
+8617;35595;DIAGNOSTICA PER IMMAGINI E RADIOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377519;modulo;377519
+8617;35649;CLINICA CHIRURGICA E ORTOPEDIA VETERINARIA (C.I.);;;377544
+8617;3816;CLINICA CHIRURGICA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377545;modulo;377545
+8617;10322;ORTOPEDIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377546;modulo;377546
+8617;69954;TIROCINIO DI CHIRURGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377547;modulo;377547
+8617;69954;TIROCINIO DI CHIRURGIA (4);;modulo;416193
+8617;69954;TIROCINIO DI CHIRURGIA (5);;modulo;416194
+8617;69954;TIROCINIO DI CHIRURGIA (6);;modulo;416195
+8617;69954;TIROCINIO DI CHIRURGIA (7);;modulo;416196
+8617;69954;TIROCINIO DI CHIRURGIA (8);;modulo;416197
+8617;35650;CLINICA E TERAPIA MEDICA VETERINARIA (C.I.);;;377548
+8617;35658;CLINICA E TERAPIA MEDICA DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377549;modulo;377549
+8617;21425;CLINICA E TERAPIA MEDICA DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377550;modulo;377550
+8617;69955;TIROCINIO DI MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377551;modulo;377551
+8617;69955;TIROCINIO DI MEDICINA INTERNA (4);;modulo;416201
+8617;69955;TIROCINIO DI MEDICINA INTERNA (5);;modulo;416202
+8617;69955;TIROCINIO DI MEDICINA INTERNA (6);;modulo;416203
+8617;69955;TIROCINIO DI MEDICINA INTERNA (7);;modulo;416204
+8617;69955;TIROCINIO DI MEDICINA INTERNA (8);;modulo;416205
+8617;69955;TIROCINIO DI MEDICINA INTERNA (9);;modulo;416206
+8617;69955;TIROCINIO DI MEDICINA INTERNA (10);;modulo;416207
+8617;69955;TIROCINIO DI MEDICINA INTERNA (11);;modulo;416208
+8617;69955;TIROCINIO DI MEDICINA INTERNA (12);;modulo;416209
+8617;69955;TIROCINIO DI MEDICINA INTERNA (13);;modulo;416210
+8617;69955;TIROCINIO DI MEDICINA INTERNA (14);;modulo;416211
+8617;69955;TIROCINIO DI MEDICINA INTERNA (15);;modulo;416212
+8617;69956;CLINICA OSTETRICA E GINECOLOGICA VETERINARIA (C.I.);;;377552
+8617;35666;CLINICA OSTETRICO-GINECOLOGICA E ANDROLOGICA DEGLI ANIMALI DA REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377553;modulo;377553
+8617;35665;CLINICA OSTETRICO-GINECOLOGICA E ANDROLOGICA DEGLI ANIMALI DA COMPAGNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377554;modulo;377554
+8617;35667;PERINATOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377555;modulo;377555
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377556;modulo;377556
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (4);;modulo;416216
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (5);;modulo;416217
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (6);;modulo;416218
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (7);;modulo;416219
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (8);;modulo;416220
+8617;69957;TIROCINIO DI RIPRODUZIONE ANIMALE (9);;modulo;416221
+8617;35652;PATOLOGIA E CLINICA MEDICA E CHIRURGICA DEL CAVALLO (C.I.);;;377557
+8617;35672;PATOLOGIA, CLINICA E TERAPIA MEDICA DEL CAVALLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377558;modulo;377558
+8617;35671;PATOLOGIA, CLINICA E TERAPIA CHIRURGICA DEL CAVALLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377559;modulo;377559
+8617;69958;TIROCINIO DI PATOLOGIA E CLINICA DEL CAVALLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377560;modulo;377560
+8617;69959;PRATICA DI DIAGNOSTICA ANATOMO-PATOLOGICA E DELLE MALATTIE TRASMISSIBILI (C.I.);;;377561
+8617;35677;TECNICA DELLE AUTOPSIE E DIAGNOSTICA NECROSCOPICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377562;modulo;377562
+8617;35678;TIROCINIO DI ANATOMIA PATOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377563;modulo;377563
+8617;35678;TIROCINIO DI ANATOMIA PATOLOGICA (4);;modulo;416228
+8617;82709;TIROCINIO DI MALATTIE TRASMISSIBILI INFETTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416001;modulo;416001
+8617;82710;TIROCINIO DI MALATTIE TRASMISSIBILI PARASSITARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416002;modulo;416002
+8617;79827;TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377565;;377565
+8617;35687;TIROCINIO DI ZOOTECNIA (C.I.);;;377566
+8617;69962;TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377567;modulo;377567
+8617;69962;TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (4);;modulo;416239
+8617;69962;TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (5);;modulo;416240
+8617;69962;TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (6);;modulo;416241
+8617;69963;TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377568;modulo;377568
+8617;69963;TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (4);;modulo;416245
+8617;69963;TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (5);;modulo;416246
+8617;69963;TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (6);;modulo;416247
+8617;69963;TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (7);;modulo;416248
+8617;27083;PROVA FINALE LM;;;377569
+8617;79021;IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402867;;402867
+8617;79021;IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI (4);;modulo;405094
+8617;79021;IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI (5);;modulo;405096
+8617;82719;RUOLO E ATTIVIT?Ç DELLA SANIT?Ç PUBBLICA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402868;;402868
+8617;82719;RUOLO E ATTIVIT?Ç DELLA SANIT?Ç PUBBLICA VETERINARIA (4);;modulo;405027
+8617;82719;RUOLO E ATTIVIT?Ç DELLA SANIT?Ç PUBBLICA VETERINARIA (5);;modulo;405028
+8617;82720;SCIENZA DELL'ANIMALE DA LABORATORIO E MODELLI ANIMALI PER LA MEDICINA TRASLAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415954;;415954
+8617;82716;MEDICINE NON CONVENZIONALI (MNC) ALTERNATIVE O COMPLEMENTARI ALLA MEDICINA CLASSICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415958;;415958
+8617;82712;APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415959;;415959
+8617;82712;APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO (4);;modulo;415963
+8617;82712;APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO (5);;modulo;415964
+8617;82713;APPROCCIO ORIENTATO AL PROBLEMA: NEUROLOGIA E NEUROCHIRURGIA DEL CANE E DEL GATTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415965;;415965
+8617;82711;APPROCCIO ORIENTATO AL PROBLEMA: ENDOCRINOLOGIA E NEFROLOGIA DEL CANE E DEL GATTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415969;;415969
+8617;82717;ONCOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415973;;415973
+8617;82717;ONCOLOGIA VETERINARIA (4);;modulo;415977
+8617;82717;ONCOLOGIA VETERINARIA (5);;modulo;415978
+8617;82714;COMPETENZE DEL VETERINARIO IN ACQUACOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415979;;415979
+8617;82715;DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415983;;415983
+8617;82715;DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (4);;modulo;415987
+8617;82715;DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (5);;modulo;415988
+8617;82715;DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (6);;modulo;415989
+8617;82718;PATOLOGIA E CLINICA DEI PICCOLI RUMINANTI E DEI CAMELIDI DEL NUOVO MONDO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415990;;415990
+8617;82718;PATOLOGIA E CLINICA DEI PICCOLI RUMINANTI E DEI CAMELIDI DEL NUOVO MONDO (4);;modulo;415994
+8617;83874;BENESSERE ANIMALE NELLA RICERCA SCIENTIFICA, METODOLOGIA, ETICA E METODI ALTERNATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420002;;420002
+8834;37909;I GRANDI VERTEBRATI MARINI (C.I.);;;388902
+8834;37907;ANATOMIA DEI CETACEI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388903;modulo;388903
+8834;37906;BIOLOGIA DELLE TARTARUGHE E DEI CETACEI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388904;modulo;388904
+8834;37908;FISIOLOGIA DEI CETACEI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388905;modulo;388905
+8834;76429;MALATTIE TRASMISSIBILI DEI MAMMIFERI MARINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388906;modulo;388906
+8834;37905;FARMACOLOGIA E TOSSICOLOGIA VETERINARIA APPLICATA (C.I.);;;388907
+8834;34198;FARMACOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388908;modulo;388908
+8834;34199;TOSSICOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388909;modulo;388909
+8834;37910;ACQUARIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390018;;390018
+8834;75761;ANATOMIA DEGLI ANIMALI ACQUATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392671;;392671
+8834;75762;FISIOLOGIA DEGLI ANIMALI ACQUATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392672;;392672
+8834;65967;CHIMICA E BIOCHIMICA (C.I.);;;392673
+8834;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392674;modulo;392674
+8834;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392675;modulo;392675
+8834;65965;MATEMATICA, STATISTICA E FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392676;;392676
+8834;5095;BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392677;;392677
+8834;72825;ETNOGRAFIA E PRINCIPI DI GENETICA DELLE POPOLAZIONI ITTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392678;;392678
+8834;16621;MICROBIOLOGIA ED EPIDEMIOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392679;;392679
+8834;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392680;;392680
+8834;66267;ACQUACOLTURA (C.I.);;;392681
+8834;66271;ACQUACOLTURA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392682;modulo;392682
+8834;66272;ACQUACOLTURA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392683;modulo;392683
+8834;58207;ALIMENTAZIONE DEGLI ANIMALI ACQUATICI E TECNICA MANGIMISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392684;;392684
+8834;45605;COSTRUZIONI E IMPIANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392685;;392685
+8834;75763;FISIOLOGIA DELLA RIPRODUZIONE ED ENDOCRINOLOGIA DEGLI ANIMALI ACQUATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392686;;392686
+8834;66269;IGIENE E ANALISI DI LABORATORIO DEI PRODOTTI ITTICI (C.I.);;;392687
+8834;66273;ANALISI DI LABORATORIO DEI PRODOTTI DI ORIGINE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392688;modulo;392688
+8834;17704;IGIENE E TECNOLOGIE DEI PRODOTTI DELLA PESCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392689;modulo;392689
+8834;75764;MALATTIE PARASSITARIE DEGLI ANIMALI ACQUATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392690;;392690
+8834;8397;NUTRIZIONE E ALIMENTAZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392691;;392691
+8834;66270;PATOLOGIA GENERALE ED ITTIOPATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392692;;392692
+8834;65977;ECONOMIA AGRARIA ED ESTIMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392736;;392736
+8834;75765;MALATTIE INFETTIVE DEGLI ANIMALI ACQUATICI E IGIENE VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392737;;392737
+8834;75766;QUALIT?Ç DEI PRODOTTI ITTICI E TECNOLOGIE ALIMENTARI (C.I.);;;392738
+8834;75819;BIOCHIMICA APPLICATA ALL'AMBIENTE E AGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392739;modulo;392739
+8834;75820;VALUTAZIONE QUALITATIVA DEI PRODOTTI ITTICI E TECNOLOGIE ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392740;modulo;392740
+8834;75767;SISTEMI PRODUTTIVI INNOVATIVI, ECOTOSSICOLOGIA E LEGISLAZIONE IN ACQUACOLTURA (C.I.);;;392741
+8834;75821;ECOTOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392742;modulo;392742
+8834;75822;GESTIONE DI SISTEMI E TECNOLOGIE INNOVATIVE IN ACQUACOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392743;modulo;392743
+8834;30549;MEDICINA LEGALE VETERINARIA, LEGISLAZIONE VETERINARIA E PROTEZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392744;modulo;392744
+8834;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393003;;393003
+8834;17268;PROVA FINALE;;;393004
+8834;74614;REGOLAMENTAZIONE E IGIENE DELLE PRODUZIONI DELLA PESCA MARITTIMA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394934;;394934
+8882;74872;ANATOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403608;;403608
+8882;74873;GENETICA E VALUTAZIONE MORFOFUNZIONALE DEGLI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403609;;403609
+8882;74874;PRINCIPI DI ECONOMIA AGRARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403610;;403610
+8882;74875;AGRONOMIA E COLTIVAZIONI ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403611;;403611
+8882;74877;MIGLIORAMENTO GENETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403613;;403613
+8882;74878;NUTRIZIONE E ALIMENTAZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403614;;403614
+8882;27843;MICROBIOLOGIA APPLICATA ALLE PRODUZIONI ANIMALI E IGIENE DEGLI ALIMENTI (C.I.);;;403624
+8882;15179;MICROBIOLOGIA APPLICATA ALLE PRODUZIONI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403625;modulo;403625
+8882;5684;IGIENE DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403626;modulo;403626
+8882;65965;MATEMATICA, STATISTICA E FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403632;;403632
+8882;65967;CHIMICA E BIOCHIMICA (C.I.);;;403635
+8882;88;CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403636;modulo;403636
+8882;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403637;modulo;403637
+8882;65982;COSTRUZIONI MACCHINE E IMPIANTI PER LA ZOOTECNIA (C.I.);;;403639
+8882;45605;COSTRUZIONI E IMPIANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403640;modulo;403640
+8882;65983;MACCHINE E IMPIANTI PER LA ZOOTECNIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403641;modulo;403641
+8882;27847;EPIDEMIOLOGIA, PARASSITOLOGIA E PATOLOGIA VETERINARIA (C.I.);;;403647
+8882;65975;PRINCIPI DI PATOLOGIA COMPARATA DEGLI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403648;modulo;403648
+8882;65976;EPIDEMIOLOGIA E PARASSITOLOGIA VETERINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403649;modulo;403649
+8882;72469;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403652;;403652
+8882;74880;ZOOECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403656;;403656
+8883;72647;ECOSYSTEMS AND PLANT ECOPHYSIOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403953;;403953
+8883;79430;ADVANCED PLANT PATHOLOGY AND ENTOMOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403960;;403960
+8883;72656;MANAGING CROP GROWTH, YIELD AND QUALITY (C.I.);;;403963
+8883;79436;YIELD AND PRODUCT QUALITY MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403964;modulo;403964
+8883;72659;VEGETABLE CROPS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403965;modulo;403965
+8883;27238;HORTICULTURAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403968;;403968
+8883;79437;CROP BIOTECHNOLOGY (C.I.);;;403972
+8883;79438;BIOTECHNOLOGICAL APPROACH TO INCREASE SUSTAINABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403973;modulo;403973
+8883;79439;BIOTECHNOLOGY OF PLANT PROBIOTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403974;modulo;403974
+8883;79443;SYSTEMS ANALYSIS AS RESEARCH METHOD (C.I.);;;403979
+8883;79444;RESEARCH AND EVALUATION METHODS IN THE HORTICULTURAL SYSTEM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403982;modulo;403982
+8883;79446;SCIENTIFIC METHOD IN HORTICULTURAL RESEARCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403983;modulo;403983
+8883;79447;PLANT BIOCHEMISTRY AND ANALYTICAL CHEMISTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403986;;403986
+8883;79448;ACADEMIC BASECAMP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403992;;403992
+8883;20725;TIROCINIO FORMATIVO;;;403993
+8883;73601;TESI SPERIMENTALE;;;403994
+8883;79449;PRODUCTION CHAIN MANAGEMENT (C.I.);;;403995
+8883;79450;INTEGRATED ORCHARD AND VINEYARD MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403996;modulo;403996
+8883;79451;MINERAL NUTRITION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403997;modulo;403997
+8883;79452;APPLIED ENTOMOLOGY IN HORTICULTURE CROPS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403998;modulo;403998
+8883;79456;PLANT PROTECTION AND DISEASE MANAGEMENT (C.I.);;;404005
+8883;79457;PLANT PROTECTION PRODUCTS AND RESIDUES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404006;modulo;404006
+8883;79458;ELEMENTS OF CHEMISTRY AND BIOCHEMISTRY OF AGROCHEMICALS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404007;modulo;404007
+8883;79459;INTEGRATED PLANT DISEASE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404008;modulo;404008
+8883;79460;EFFICIENT RESOURCE USE IN PRODUCTION SYSTEMS (C.I.);;;404009
+8883;79461;PROJECT DEVELOPMENT AND MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404010;modulo;404010
+8883;79462;APPLIED BREEDING AND SUSTAINABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404011;modulo;404011
+8883;79464;INFORMATION AND DSS IN FRUIT PRODUCTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404012;modulo;404012
+8883;79465;POST-HARVEST CHAIN MANAGEMENT (C.I.);;;404013
+8883;79454;SUPPLY CHAIN AND INNOVATION MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404021;modulo;404021
+8883;73586;FRUIT PROCESSING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404022;modulo;404022
+8883;73558;POST-HARVEST MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404023;modulo;404023
+8883;79543;SUSTAINABLE AND SAFE USE OF HORTICULTURAL EQUIPMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404315;;404315
+8884;79245;ECONOMIA DELL'IMPRESA IN AGRICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403700;;403700
+8884;82459;MACCHINE PER LA DIFESA E COLTURE PROTETTE (C.I.);;;403701
+8884;79246;MACCHINE PER LA DIFESA SOSTENIBILE DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403702;modulo;403702
+8884;82455;GESTIONE DEL CLIMA E TECNOLOGIE IN SERRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403703;modulo;403703
+8884;79248;AGRONOMIA AMBIENTALE, AGROCLIMATOLOGIA E METODOLOGIA SPERIMENTALE (C.I.);;;403704
+8884;79249;AGRONOMIA AMBIENTALE E MALERBOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403705;modulo;403705
+8884;67478;AGROCLIMATOLOGIA E METODOLOGIA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403706;modulo;403706
+8884;79255;AGRONOMIA AMBIENTALE E FISICA DEL SUOLO (C.I.);;;403710
+8884;79249;AGRONOMIA AMBIENTALE E MALERBOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403714;modulo;403714
+8884;66030;FISICA DEL SUOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403715;modulo;403715
+8884;79256;NUTRIZIONE DELLE PIANTE (C.I.);;;403711
+8884;79260;CHIMICA E BIOCHIMICA DELLA NUTRIZIONE DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403719;modulo;403719
+8884;79261;MICROBIOLOGIA DELLA NUTRIZIONE VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403720;modulo;403720
+8884;79257;DIFESA SOSTENIBILE DELLE PIANTE (C.I.);;;403712
+8884;79265;GESTIONE DELLA DIFESA DAGLI ARTROPODI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403726;modulo;403726
+8884;79266;GESTIONE DELLA DIFESA DALLE MALATTIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403727;modulo;403727
+8884;79258;MIGLIORAMENTO GENETICO E PRODUZIONE DELLE SEMENTI (C.I.);;;403713
+8884;29978;MIGLIORAMENTO GENETICO DELLE COLTURE ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403721;modulo;403721
+8884;79262;BIOLOGIA, PRODUZIONE E CONTROLLO DELLE SEMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403722;modulo;403722
+8884;79267;FISIOLOGIA E QUALIT?Ç DELLE PRODUZIONI VEGETALI (C.I.);;;403732
+8884;30054;FISIOLOGIA E QUALIT?Ç DELLE PRODUZIONI ERBACEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403733;modulo;403733
+8884;72613;FISIOLOGIA DEGLI ALBERI DA FRUTTO E QUALIT?Ç DELLA FRUTTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403734;modulo;403734
+8884;79268;BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI ERBACEE (C.I.);;;403735
+8884;82456;BIOLOGIA MOLECOLARE E INGEGNERIA GENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403736;modulo;403736
+8884;82457;APPLICAZIONI DI GENOMICA AL MIGLIORAMENTO GENETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403737;modulo;403737
+8884;29996;AVVERSIT?Ç DELLE PIANTE (C.I.);;;403738
+8884;79271;LOTTA BIOLOGICA E INTEGRATA AGLI INSETTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403739;modulo;403739
+8884;29997;PATOLOGIA VEGETALE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403740;modulo;403740
+8884;79275;PROTEZIONE DEI PRODOTTI E DELLE DERRATE (C.I.);;;403741
+8884;82463;PARASSITOLOGIA DEI PRODOTTI E DELLE DERRATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403742;modulo;403742
+8884;18459;PATOLOGIA DEI PRODOTTI E DELLE DERRATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403743;modulo;403743
+8884;79277;ESTIMO, TOPOGRAFIA E CARTOGRAFIA (C.I.);;;403744
+8884;82458;ESTIMO PROFESSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403748;modulo;403748
+8884;1063;TOPOGRAFIA E CARTOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403749;modulo;403749
+8884;79278;TECNOLOGIE DI TRASFORMAZIONE E MICROBIOLOGIA DELLE FERMENTAZIONI (C.I.);;;403745
+8884;29972;TRASFORMAZIONE DEI PRODOTTI VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403746;modulo;403746
+8884;79279;FERMENTAZIONE DEGLI ALIMENTI DI ORIGINE VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403747;modulo;403747
+8884;2304;VITICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403935;;403935
+8884;2575;ORTICOLTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403936;;403936
+8884;66034;MIGLIORAMENTO VARIETALE E BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI FRUTTICOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403937;;403937
+8884;79421;FLORICOLTURA E VIVAISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403938;;403938
+8884;79422;COLTIVAZIONI ERBACEE A DESTINAZIONE INDUSTRIALE ED ENERGETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403939;;403939
+8884;79423;POMOLOGIA E TECNICA VIVAISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403940;;403940
+8884;79424;ZOOLOGIA AGRARIA APPLICATA ALLA DIFESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403941;;403941
+8884;79426;DIREZIONE AZIENDALE E STRATEGIE D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403943;;403943
+8884;27083;PROVA FINALE LM;;;404030
+8884;79425;TECNICHE DIAGNOSTICHE E BIOTECNOLOGIE FITOPATOLOGICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417587;;417587
+8884;79427;POLITICHE AGRICOLE INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417594;;417594

@@ -1,0 +1,3386 @@
+[
+  {
+    "corso_codice": 989,
+    "materia_codice": 42457,
+    "materia_descrizione": "TECNICHE PSICOMETRICHE E DI ANALISI DEI DATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331514",
+    "tipo": "",
+    "componente_id": 331514
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 70245,
+    "materia_descrizione": "SVILUPPO COGNITIVO E DISTURBI SPECIFICI DELL'APPRENDIMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350451",
+    "tipo": "",
+    "componente_id": 350451
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 69949,
+    "materia_descrizione": "LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377617",
+    "tipo": "",
+    "componente_id": 377617
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 70008,
+    "materia_descrizione": "RIABILITAZIONE NEUROPSICOLOGICA IN ET?? EVOLUTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378448",
+    "tipo": "",
+    "componente_id": 378448
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 70009,
+    "materia_descrizione": "RIABILITAZIONE NEUROPSICOLOGICA NELL'ADULTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378449",
+    "tipo": "",
+    "componente_id": 378449
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 72580,
+    "materia_descrizione": "SEMIOTICA E DIAGNOSI DIFFERENZIALE IN NEUROPSICOLOGIA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384364",
+    "tipo": "",
+    "componente_id": 384364
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 72582,
+    "materia_descrizione": "METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384366",
+    "tipo": "",
+    "componente_id": 384366
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 72583,
+    "materia_descrizione": "NEUROSCIENZE SOCIALI-",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384367",
+    "tipo": "",
+    "componente_id": 384367
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 72600,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA IN NEUROSCIENZE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384439
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 73391,
+    "materia_descrizione": "DISTURBI COGNITIVI IN ETA' EVOLUTIVA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386644",
+    "tipo": "",
+    "componente_id": 386644
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 78193,
+    "materia_descrizione": "NEUROSCIENZE AFFETTIVE E COGNITIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400985",
+    "tipo": "",
+    "componente_id": 400985
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 78194,
+    "materia_descrizione": "NEUROPSICOLOGIA IN AMBITO FORENSE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400986",
+    "tipo": "",
+    "componente_id": 400986
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 78597,
+    "materia_descrizione": "PSICOLOGIA SOCIALE DELLA MORALIT?? E DEL PREGIUDIZIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401830",
+    "tipo": "",
+    "componente_id": 401830
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 78598,
+    "materia_descrizione": "NEUROPSICOLOGIA DEI DISTURBI PSICHIATRICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401831",
+    "tipo": "",
+    "componente_id": 401831
+  },
+  {
+    "corso_codice": 989,
+    "materia_codice": 78996,
+    "materia_descrizione": "LABORATORIO DI NEUROPSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402818",
+    "tipo": "",
+    "componente_id": 402818
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69988,
+    "materia_descrizione": "MODELLI TEORICI ED OPERATIVI DELLA PSICOLOGIA DI COMUNIT??.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331577",
+    "tipo": "",
+    "componente_id": 331577
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69989,
+    "materia_descrizione": "PSICOPATOLOGIA DIFFERENZIALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331586",
+    "tipo": "",
+    "componente_id": 331586
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 6140,
+    "materia_descrizione": "PSICOSOMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331589",
+    "tipo": "",
+    "componente_id": 331589
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 331591
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (A) (1/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 353625
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (A) (1/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 353626
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (C) (2/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 353634
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (C) (2/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 386758
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (F) (1/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402094
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 32152,
+    "materia_descrizione": "LABORATORI I (F) (1/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 419176
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 8704,
+    "materia_descrizione": "METODOLOGIA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377586",
+    "tipo": "",
+    "componente_id": 377586
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69949,
+    "materia_descrizione": "LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377589",
+    "tipo": "",
+    "componente_id": 377589
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 7298,
+    "materia_descrizione": "TECNICHE DI ANALISI DEI DATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377594",
+    "tipo": "",
+    "componente_id": 377594
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 23265,
+    "materia_descrizione": "CLINIMETRIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377595",
+    "tipo": "",
+    "componente_id": 377595
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 70244,
+    "materia_descrizione": "CLINICAL APPLICATIONS OF POSITIVE PSYCHOLOGY.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378359",
+    "tipo": "",
+    "componente_id": 378359
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 70249,
+    "materia_descrizione": "PSICOLOGIA CLINICA DELLA RIABILITAZIONE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378386",
+    "tipo": "",
+    "componente_id": 378386
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 378467
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (B) (1/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402101
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (B) (1/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415032
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (D) (1/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402107
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (D) (1/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402108
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (E) (1/1)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402111
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69990,
+    "materia_descrizione": "LABORATORI II. (E) (1/2)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402112
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69991,
+    "materia_descrizione": "PSICOPATOLOGIA DELL'ETA' EVOLUTIVA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378468",
+    "tipo": "",
+    "componente_id": 378468
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 69992,
+    "materia_descrizione": "TERAPIA PSICOLOGICA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378470",
+    "tipo": "",
+    "componente_id": 378470
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 72582,
+    "materia_descrizione": "METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385398",
+    "tipo": "",
+    "componente_id": 385398
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 82158,
+    "materia_descrizione": "PSYCHOLOGY AND PSYCHOPATHOLOGY OF SEXUAL BEHAVIOR",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413129",
+    "tipo": "",
+    "componente_id": 413129
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 71990,
+    "materia_descrizione": "PSICOFISIOLOGIA CLINICA (C.I.).",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413451
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 71991,
+    "materia_descrizione": "PSICOFISIOLOGIA CLINICA I .",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413452",
+    "tipo": "modulo",
+    "componente_id": 413452
+  },
+  {
+    "corso_codice": 990,
+    "materia_codice": 71992,
+    "materia_descrizione": "PSICOFISIOLOGIA CLINICA II .",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413453",
+    "tipo": "modulo",
+    "componente_id": 413453
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 70021,
+    "materia_descrizione": "PSICOLOGIA SOCIALE COGNITIVA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331762",
+    "tipo": "",
+    "componente_id": 331762
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 42444,
+    "materia_descrizione": "PROCESSI E DISTURBI DELL'APPRENDIMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331783",
+    "tipo": "",
+    "componente_id": 331783
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 45271,
+    "materia_descrizione": "RITMI DEL COMPORTAMENTO E CICLO VEGLIA-SONNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331793",
+    "tipo": "",
+    "componente_id": 331793
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72599,
+    "materia_descrizione": "DISFUNZIONI COGNITIVE E DISAGIO PSICOLOGICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384438",
+    "tipo": "",
+    "componente_id": 384438
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 40838,
+    "materia_descrizione": "NEUROSCIENZE COGNITIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384441",
+    "tipo": "",
+    "componente_id": 384441
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384443",
+    "tipo": "",
+    "componente_id": 384443
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE. (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415642
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE. (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415641
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE. (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415640
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE. (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415639
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72601,
+    "materia_descrizione": "LABORATORI STAGE. (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415638
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72604,
+    "materia_descrizione": "LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384453",
+    "tipo": "",
+    "componente_id": 384453
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72605,
+    "materia_descrizione": "PSICOPATOLOGIA DEI DISTURBI EMOTIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384458",
+    "tipo": "",
+    "componente_id": 384458
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 7283,
+    "materia_descrizione": "PSICOLOGIA AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384461",
+    "tipo": "",
+    "componente_id": 384461
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 7291,
+    "materia_descrizione": "PSICOLOGIA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384466",
+    "tipo": "",
+    "componente_id": 384466
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72609,
+    "materia_descrizione": "APPLICAZIONI DELLA REALT?? VIRTUALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384486",
+    "tipo": "",
+    "componente_id": 384486
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72610,
+    "materia_descrizione": "PSICOLOGIA DELL'INVECCHIAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384492",
+    "tipo": "",
+    "componente_id": 384492
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 72612,
+    "materia_descrizione": "PSICOLOGIA DELLA SALUTE E COMUNICAZIONE INTERPERSONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384494",
+    "tipo": "",
+    "componente_id": 384494
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 701,
+    "materia_descrizione": "MEDICINA LEGALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385733",
+    "tipo": "",
+    "componente_id": 385733
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 24634,
+    "materia_descrizione": "LOGICA E ARGOMENTAZIONE GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385743",
+    "tipo": "",
+    "componente_id": 385743
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 37469,
+    "materia_descrizione": "ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385745",
+    "tipo": "",
+    "componente_id": 385745
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 3120,
+    "materia_descrizione": "PSICOLOGIA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387527",
+    "tipo": "",
+    "componente_id": 387527
+  },
+  {
+    "corso_codice": 991,
+    "materia_codice": 9382,
+    "materia_descrizione": "PSICOLOGIA ANIMALE E COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387528",
+    "tipo": "",
+    "componente_id": 387528
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 23121,
+    "materia_descrizione": "INDIVIDUI, GRUPPI E ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330231",
+    "tipo": "",
+    "componente_id": 330231
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332070",
+    "tipo": "",
+    "componente_id": 332070
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 334297
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 378511
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405151
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 406440
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 378512
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70019,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (9)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416320
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 56579,
+    "materia_descrizione": "PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/337906",
+    "tipo": "",
+    "componente_id": 337906
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 4487,
+    "materia_descrizione": "SOCIOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345497",
+    "tipo": "",
+    "componente_id": 345497
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 699,
+    "materia_descrizione": "MEDICINA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345499",
+    "tipo": "",
+    "componente_id": 345499
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 69949,
+    "materia_descrizione": "LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377619",
+    "tipo": "",
+    "componente_id": 377619
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70011,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I).",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377625",
+    "tipo": "",
+    "componente_id": 377625
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70011,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416321
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70011,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 378510
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70011,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405150
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70011,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 406439
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70026,
+    "materia_descrizione": "LIFELONG LEARNING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377634",
+    "tipo": "",
+    "componente_id": 377634
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70030,
+    "materia_descrizione": "JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) (C.I.).",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377640
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 66418,
+    "materia_descrizione": "JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) - I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377642",
+    "tipo": "modulo",
+    "componente_id": 377642
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 66420,
+    "materia_descrizione": "JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) - II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377643",
+    "tipo": "modulo",
+    "componente_id": 377643
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70031,
+    "materia_descrizione": "INTEGRAZIONE, RICERCA E PROFESSIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377645",
+    "tipo": "",
+    "componente_id": 377645
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70029,
+    "materia_descrizione": "STAGE PROFESSIONALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378500",
+    "tipo": "",
+    "componente_id": 378500
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70269,
+    "materia_descrizione": "NEW TRENDS IN WOP PSYCHOLOGY (C.I.).",
+    "url": "",
+    "tipo": "",
+    "componente_id": 378564
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70270,
+    "materia_descrizione": "EMERGENCY AND RISK PSYCHOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378565",
+    "tipo": "modulo",
+    "componente_id": 378565
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70271,
+    "materia_descrizione": "STATE-OF-THE-ART IN WOP PSYCHOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378566",
+    "tipo": "modulo",
+    "componente_id": 378566
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70270,
+    "materia_descrizione": "EMERGENCY AND RISK PSYCHOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378568",
+    "tipo": "",
+    "componente_id": 378568
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70271,
+    "materia_descrizione": "STATE-OF-THE-ART IN WOP PSYCHOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379903",
+    "tipo": "",
+    "componente_id": 379903
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 2523,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384520",
+    "tipo": "",
+    "componente_id": 384520
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 72621,
+    "materia_descrizione": "PSICOLOGIA DELLE RISORSE UMANE E METODOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384526
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70014,
+    "materia_descrizione": "PSICOLOGIA DELLE RISORSE UMANE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384527",
+    "tipo": "modulo",
+    "componente_id": 384527
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 2038,
+    "materia_descrizione": "STATISTICA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384528",
+    "tipo": "modulo",
+    "componente_id": 384528
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 72623,
+    "materia_descrizione": "COMUNICAZIONE ORGANIZZATIVA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384530",
+    "tipo": "",
+    "componente_id": 384530
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 72626,
+    "materia_descrizione": "METODI E TECNICHE DEGLI INTERVENTI (ERGONOMIA E ANALISI DEL LAVORO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384531",
+    "tipo": "",
+    "componente_id": 384531
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 72629,
+    "materia_descrizione": "METODI E TECNICHE DEGLI INTERVENTI (ORGANIZZAZIONI)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384532",
+    "tipo": "",
+    "componente_id": 384532
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 72630,
+    "materia_descrizione": "METODI E TECNICHE DEGLI INTERVENTI (RISORSE UMANE)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384535",
+    "tipo": "",
+    "componente_id": 384535
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 73131,
+    "materia_descrizione": "SCIENZE DEL LAVORO (C.I.)/A",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385886
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 699,
+    "materia_descrizione": "MEDICINA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385891",
+    "tipo": "modulo",
+    "componente_id": 385891
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 4487,
+    "materia_descrizione": "SOCIOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385892",
+    "tipo": "modulo",
+    "componente_id": 385892
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 73134,
+    "materia_descrizione": "SCIENZE DEL LAVORO (C.I.)/B",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385898
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 699,
+    "materia_descrizione": "MEDICINA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385901",
+    "tipo": "modulo",
+    "componente_id": 385901
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 56579,
+    "materia_descrizione": "PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385904",
+    "tipo": "modulo",
+    "componente_id": 385904
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 73135,
+    "materia_descrizione": "SCIENZE DEL LAVORO (C.I.)/C",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385908
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 4487,
+    "materia_descrizione": "SOCIOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385909",
+    "tipo": "modulo",
+    "componente_id": 385909
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 56579,
+    "materia_descrizione": "PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385910",
+    "tipo": "modulo",
+    "componente_id": 385910
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 78297,
+    "materia_descrizione": "PSICOLOGIA DELLE ORGANIZZAZIONI (C.I.) 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401104
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70013,
+    "materia_descrizione": "PROCESSI DI GRUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401105",
+    "tipo": "modulo",
+    "componente_id": 401105
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 7269,
+    "materia_descrizione": "PSICOLOGIA DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401106",
+    "tipo": "modulo",
+    "componente_id": 401106
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 78298,
+    "materia_descrizione": "PSICOLOGIA DELLE ORGANIZZAZIONI (C.I.) 2",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401108
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 70270,
+    "materia_descrizione": "EMERGENCY AND RISK PSYCHOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401109",
+    "tipo": "modulo",
+    "componente_id": 401109
+  },
+  {
+    "corso_codice": 992,
+    "materia_codice": 7269,
+    "materia_descrizione": "PSICOLOGIA DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401110",
+    "tipo": "modulo",
+    "componente_id": 401110
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 42437,
+    "materia_descrizione": "DINAMICHE SOCIALI E APPRENDIMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331316",
+    "tipo": "",
+    "componente_id": 331316
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32037,
+    "materia_descrizione": "TEORIE E METODI DI PSICOLOGIA DI COMUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331321",
+    "tipo": "",
+    "componente_id": 331321
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32094,
+    "materia_descrizione": "METODI E TECNICHE DI VALUTAZIONE DEI DISTURBI DELL'APPRENDIMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331476",
+    "tipo": "",
+    "componente_id": 331476
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32097,
+    "materia_descrizione": "METODOLOGIE E STRUMENTI PER L'ORIENTAMENTO SCOLASTICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331482",
+    "tipo": "",
+    "componente_id": 331482
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32108,
+    "materia_descrizione": "METODOLOGIE E STRUMENTI DI INTERVENTO PEDAGOGICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331484",
+    "tipo": "",
+    "componente_id": 331484
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32109,
+    "materia_descrizione": "TECNICHE DI INDAGINE E DI INTERVENTO NEI CONTESTI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331503",
+    "tipo": "",
+    "componente_id": 331503
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32110,
+    "materia_descrizione": "DIAGNOSI FUNZIONALE E DISABILIT?? IN AMBITO SCOLASTICO E DI COMUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331504",
+    "tipo": "",
+    "componente_id": 331504
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32111,
+    "materia_descrizione": "METODI DI VALUTAZIONE ED INTERVENTI IN PSICOPATOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331505",
+    "tipo": "",
+    "componente_id": 331505
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 32112,
+    "materia_descrizione": "METODI DI VALUTAZIONE ED INTERVENTI IN PSICOLOGIA CLINICA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331507",
+    "tipo": "",
+    "componente_id": 331507
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 69949,
+    "materia_descrizione": "LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377530",
+    "tipo": "",
+    "componente_id": 377530
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 69987,
+    "materia_descrizione": "LABORATORI.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378514",
+    "tipo": "",
+    "componente_id": 378514
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 69987,
+    "materia_descrizione": "LABORATORI. (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 386103
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 48927,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413100",
+    "tipo": "",
+    "componente_id": 413100
+  },
+  {
+    "corso_codice": 993,
+    "materia_codice": 82057,
+    "materia_descrizione": "Teorie e metodi per l'empowerment dei giovani",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413194",
+    "tipo": "",
+    "componente_id": 413194
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 13220,
+    "materia_descrizione": "PEDAGOGIA GENERALE E SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372398",
+    "tipo": "",
+    "componente_id": 372398
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 978,
+    "materia_descrizione": "STORIA DELLA PEDAGOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372399",
+    "tipo": "",
+    "componente_id": 372399
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 67996,
+    "materia_descrizione": "DIDATTICA GENERALE E TECNOLOGIE EDUCATIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372400",
+    "tipo": "",
+    "componente_id": 372400
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 67997,
+    "materia_descrizione": "GEOMETRIA E MATEMATICA DI BASE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372407",
+    "tipo": "",
+    "componente_id": 372407
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 67998,
+    "materia_descrizione": "LETTERATURA E LINGUA ITALIANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372408",
+    "tipo": "",
+    "componente_id": 372408
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 6396,
+    "materia_descrizione": "STORIA DELLA SOCIETA' CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372409",
+    "tipo": "",
+    "componente_id": 372409
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 67999,
+    "materia_descrizione": "PEDAGOGIA SPECIALE PER L'INCLUSIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372411",
+    "tipo": "",
+    "componente_id": 372411
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 47431,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372416",
+    "tipo": "",
+    "componente_id": 372416
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372419",
+    "tipo": "",
+    "componente_id": 372419
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68000,
+    "materia_descrizione": "PROGETTAZIONE E SPERIMENTAZIONE SCOLASTICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372421
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68001,
+    "materia_descrizione": "INNOVAZIONE E SPERIMENTAZIONE SCOLASTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372424",
+    "tipo": "modulo",
+    "componente_id": 372424
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68002,
+    "materia_descrizione": "MODELLI DI PROGRAMMAZIONE DIDATTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372425",
+    "tipo": "modulo",
+    "componente_id": 372425
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68003,
+    "materia_descrizione": "METODOLOGIE E DIDATTICHE ATTIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372426",
+    "tipo": "",
+    "componente_id": 372426
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 789,
+    "materia_descrizione": "LINGUISTICA ITALIANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372427",
+    "tipo": "",
+    "componente_id": 372427
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 12244,
+    "materia_descrizione": "ICONOGRAFIA E ICONOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372428",
+    "tipo": "",
+    "componente_id": 372428
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 455,
+    "materia_descrizione": "GEOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372429",
+    "tipo": "",
+    "componente_id": 372429
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 47432,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372430
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 13960,
+    "materia_descrizione": "TIROCINIO II ANNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372431",
+    "tipo": "",
+    "componente_id": 372431
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 15579,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372432",
+    "tipo": "",
+    "componente_id": 372432
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68004,
+    "materia_descrizione": "ANTROPOLOGIA E SOCIOLOGIA DELL'EDUCAZIONE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372433
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 2517,
+    "materia_descrizione": "SOCIOLOGIA DELL'EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372434",
+    "tipo": "modulo",
+    "componente_id": 372434
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 45,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372435",
+    "tipo": "modulo",
+    "componente_id": 372435
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68005,
+    "materia_descrizione": "FONDAMENTI DI MATEMATICA E DIDATTICA DELLA MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372436",
+    "tipo": "",
+    "componente_id": 372436
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68006,
+    "materia_descrizione": "ELEMENTI DI FISICA E DIDATTICA DELLA FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372437",
+    "tipo": "",
+    "componente_id": 372437
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 6386,
+    "materia_descrizione": "LETTERATURA PER L'INFANZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372438",
+    "tipo": "",
+    "componente_id": 372438
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68007,
+    "materia_descrizione": "PSICOLOGIA DELLA DISABILITA' E DELL'INTEGRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372439",
+    "tipo": "",
+    "componente_id": 372439
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68008,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE III",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372440",
+    "tipo": "",
+    "componente_id": 372440
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 18130,
+    "materia_descrizione": "TIROCINIO III ANNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372441",
+    "tipo": "",
+    "componente_id": 372441
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68009,
+    "materia_descrizione": "TEORIE E PROCEDURE DI VALUTAZIONE SCOLASTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372442",
+    "tipo": "",
+    "componente_id": 372442
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68010,
+    "materia_descrizione": "ELEMENTI DI CHIMICA ED ECOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372443
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68011,
+    "materia_descrizione": "ELEMENTI DI CHIMICA E DIDATTICA DELLA CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372444",
+    "tipo": "modulo",
+    "componente_id": 372444
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 7943,
+    "materia_descrizione": "ELEMENTI DI ECOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372445",
+    "tipo": "modulo",
+    "componente_id": 372445
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 6504,
+    "materia_descrizione": "METODOLOGIA DELL'EDUCAZIONE MUSICALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372446",
+    "tipo": "",
+    "componente_id": 372446
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68012,
+    "materia_descrizione": "DIDATTICA DELL'ITALIANO E DELLA LETTERATURA ITALIANA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372447
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 4163,
+    "materia_descrizione": "DIDATTICA DELL'ITALIANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372448",
+    "tipo": "modulo",
+    "componente_id": 372448
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68013,
+    "materia_descrizione": "ESERCIZI DI ANALISI DELLA LETTERATURA MODERNA E CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372449",
+    "tipo": "modulo",
+    "componente_id": 372449
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 498,
+    "materia_descrizione": "IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372450",
+    "tipo": "",
+    "componente_id": 372450
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68014,
+    "materia_descrizione": "LABORATORIO DI TECNOLOGIE DIDATTICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372452",
+    "tipo": "",
+    "componente_id": 372452
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68015,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE IV",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372453
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 41017,
+    "materia_descrizione": "TIROCINIO IV ANNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372454",
+    "tipo": "",
+    "componente_id": 372454
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68016,
+    "materia_descrizione": "DIDATTICA DELLA MATEMATICA CON ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372455",
+    "tipo": "",
+    "componente_id": 372455
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68017,
+    "materia_descrizione": "METODOLOGIA E DIDATTICA DELL'ATTIVITA' MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372456",
+    "tipo": "",
+    "componente_id": 372456
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68018,
+    "materia_descrizione": "STORIA ANTICA E MEDIEVALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372457",
+    "tipo": "",
+    "componente_id": 372457
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68019,
+    "materia_descrizione": "ELEMENTI DI BIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372458",
+    "tipo": "",
+    "componente_id": 372458
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 12612,
+    "materia_descrizione": "PSICOPATOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372459",
+    "tipo": "",
+    "componente_id": 372459
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68020,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE V",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372460
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68021,
+    "materia_descrizione": "TIROCINIO V ANNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372461",
+    "tipo": "",
+    "componente_id": 372461
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 68022,
+    "materia_descrizione": "IDONEITA' DI LINGUA INGLESE (LIVELLO B2)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372462",
+    "tipo": "",
+    "componente_id": 372462
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 35199,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372463
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 76119,
+    "materia_descrizione": "CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395785",
+    "tipo": "",
+    "componente_id": 395785
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 76684,
+    "materia_descrizione": "TEORIA E STORIA DELL'EDITORIA PER RAGAZZI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395905",
+    "tipo": "",
+    "componente_id": 395905
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 3554,
+    "materia_descrizione": "STORIA DELLA SCUOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395906",
+    "tipo": "",
+    "componente_id": 395906
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 13726,
+    "materia_descrizione": "DIDATTICA DELLA LINGUA INGLESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404383",
+    "tipo": "",
+    "componente_id": 404383
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 81993,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (3 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412890
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 81689,
+    "materia_descrizione": "PROVA FINALE (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412891
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 81989,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412892
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 81688,
+    "materia_descrizione": "Prova finale (3 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412893
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 455,
+    "materia_descrizione": "GEOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415895",
+    "tipo": "",
+    "componente_id": 415895
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 12244,
+    "materia_descrizione": "ICONOGRAFIA E ICONOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415897",
+    "tipo": "",
+    "componente_id": 415897
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 82722,
+    "materia_descrizione": "LABORATORIO DI LINGUA INGLESE I -",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415945",
+    "tipo": "",
+    "componente_id": 415945
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 82680,
+    "materia_descrizione": "GENERE E STUDI SOCIALI DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419856",
+    "tipo": "",
+    "componente_id": 419856
+  },
+  {
+    "corso_codice": 8540,
+    "materia_codice": 75252,
+    "materia_descrizione": "ATTIVIT?? DI SUPPORTO ALLA DIDATTICA: GEOGRAFIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 420215
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384529",
+    "tipo": "",
+    "componente_id": 384529
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 7269,
+    "materia_descrizione": "PSICOLOGIA DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384545",
+    "tipo": "",
+    "componente_id": 384545
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 2505,
+    "materia_descrizione": "PSICOLOGIA DINAMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384547",
+    "tipo": "",
+    "componente_id": 384547
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 870,
+    "materia_descrizione": "PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384550",
+    "tipo": "",
+    "componente_id": 384550
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384551
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C1) (0)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403478
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C1) (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403482
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C1) (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403483
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C1) (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403484
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (0)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403486
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403488
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403489
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (9)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403490
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (10)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403491
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C2) (11)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403492
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (0)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403494
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (12)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403495
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (13)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403496
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (14)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403497
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (9)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403498
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72637,
+    "materia_descrizione": "AFP IN AMBITO PSICOLOGICO (C3) (15)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403499
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 72639,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO SOCIO-COGNITIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384553",
+    "tipo": "",
+    "componente_id": 384553
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 3084,
+    "materia_descrizione": "PSICOLOGIA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384556",
+    "tipo": "",
+    "componente_id": 384556
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 905,
+    "materia_descrizione": "SOCIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384699",
+    "tipo": "",
+    "componente_id": 384699
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 70025,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384701",
+    "tipo": "",
+    "componente_id": 384701
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 2225,
+    "materia_descrizione": "STATISTICA PSICOMETRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384703",
+    "tipo": "",
+    "componente_id": 384703
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 867,
+    "materia_descrizione": "PSICHIATRIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384704",
+    "tipo": "",
+    "componente_id": 384704
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 17305,
+    "materia_descrizione": "PSICOLOGIA DELLE RELAZIONI DI GRUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384706",
+    "tipo": "",
+    "componente_id": 384706
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 7103,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA PSICOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384707",
+    "tipo": "",
+    "componente_id": 384707
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 6551,
+    "materia_descrizione": "NEUROFISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384710",
+    "tipo": "",
+    "componente_id": 384710
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 1230,
+    "materia_descrizione": "PSICOLOGIA GENERALE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384712",
+    "tipo": "",
+    "componente_id": 384712
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 7276,
+    "materia_descrizione": "INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384726",
+    "tipo": "",
+    "componente_id": 384726
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 32035,
+    "materia_descrizione": "NEUROSCIENZE COGNITIVE E SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384727",
+    "tipo": "",
+    "componente_id": 384727
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 1231,
+    "materia_descrizione": "PSICOLOGIA GENERALE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384728",
+    "tipo": "",
+    "componente_id": 384728
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384738
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 76292,
+    "materia_descrizione": "NEUROPSICOLOGIA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394944",
+    "tipo": "",
+    "componente_id": 394944
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 76290,
+    "materia_descrizione": "CRIMINOLOGIA.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394947",
+    "tipo": "",
+    "componente_id": 394947
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 76291,
+    "materia_descrizione": "NEUROPSICHIATRIA INFANTILE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394948",
+    "tipo": "",
+    "componente_id": 394948
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 76293,
+    "materia_descrizione": "PSICOLOGIA CLINICA DELL'ET?? EVOLUTIVA E DELLE RELAZIONI FAMILIARI.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394949",
+    "tipo": "",
+    "componente_id": 394949
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 76295,
+    "materia_descrizione": "PSICOLOGIA DELLA COMUNICAZIONE.",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394950",
+    "tipo": "",
+    "componente_id": 394950
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 82073,
+    "materia_descrizione": "PEDAGOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413061
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 792,
+    "materia_descrizione": "PEDAGOGIA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413062",
+    "tipo": "modulo",
+    "componente_id": 413062
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 794,
+    "materia_descrizione": "PEDAGOGIA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413063",
+    "tipo": "modulo",
+    "componente_id": 413063
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 82074,
+    "materia_descrizione": "Psychology of adolescence",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413067",
+    "tipo": "",
+    "componente_id": 413067
+  },
+  {
+    "corso_codice": 8774,
+    "materia_codice": 82511,
+    "materia_descrizione": "AFP RESEARCH PROJECT IN PSYCHOMETRICS (ERASMUS)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423928",
+    "tipo": "",
+    "componente_id": 423928
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 388,
+    "materia_descrizione": "FILOSOFIA DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373074",
+    "tipo": "",
+    "componente_id": 373074
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 13220,
+    "materia_descrizione": "PEDAGOGIA GENERALE E SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386474",
+    "tipo": "",
+    "componente_id": 386474
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 32860,
+    "materia_descrizione": "STORIA DELLE TEORIE DELL'INFANZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386475",
+    "tipo": "",
+    "componente_id": 386475
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 31733,
+    "materia_descrizione": "MODELLI DI MEDIAZIONE DIDATTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386476",
+    "tipo": "",
+    "componente_id": 386476
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 45,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386477",
+    "tipo": "",
+    "componente_id": 386477
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 2207,
+    "materia_descrizione": "PSICOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386478",
+    "tipo": "",
+    "componente_id": 386478
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 3857,
+    "materia_descrizione": "SOCIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386479",
+    "tipo": "",
+    "componente_id": 386479
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 6386,
+    "materia_descrizione": "LETTERATURA PER L'INFANZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386481",
+    "tipo": "",
+    "componente_id": 386481
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73334,
+    "materia_descrizione": "EDUCAZIONE ALLA CORPOREIT?? E METODOLOGIA DEL GIOCO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386482",
+    "tipo": "",
+    "componente_id": 386482
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73335,
+    "materia_descrizione": "PROGETTAZIONE, DOCUMENTAZIONE E VALUTAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386483",
+    "tipo": "",
+    "componente_id": 386483
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73336,
+    "materia_descrizione": "SOCIOLOGIA DELLE ORGANIZZAZIONI E PROGETTAZIONE PEDAGOGICA DEI SERVIZI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386484",
+    "tipo": "",
+    "componente_id": 386484
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 187,
+    "materia_descrizione": "EDUCAZIONE AL SONORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386485",
+    "tipo": "",
+    "componente_id": 386485
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 31771,
+    "materia_descrizione": "EDUCAZIONE ALLA COMUNICAZIONE VERBALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386486",
+    "tipo": "",
+    "componente_id": 386486
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386487",
+    "tipo": "",
+    "componente_id": 386487
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 498,
+    "materia_descrizione": "IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386488",
+    "tipo": "",
+    "componente_id": 386488
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 15579,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386491",
+    "tipo": "",
+    "componente_id": 386491
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 870,
+    "materia_descrizione": "PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386494",
+    "tipo": "",
+    "componente_id": 386494
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 797,
+    "materia_descrizione": "PEDAGOGIA SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386495",
+    "tipo": "",
+    "componente_id": 386495
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73337,
+    "materia_descrizione": "PEDAGOGIA DELLE FAMIGLIE E DELLE DIFFERENZE DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386496",
+    "tipo": "",
+    "componente_id": 386496
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73338,
+    "materia_descrizione": "STORIA DELL'ILLUSTRAZIONE PER L'INFANZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386497",
+    "tipo": "",
+    "componente_id": 386497
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 12612,
+    "materia_descrizione": "PSICOPATOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386499",
+    "tipo": "",
+    "componente_id": 386499
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386502
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73341,
+    "materia_descrizione": "LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386504
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 16692,
+    "materia_descrizione": "LABORATORIO DI INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386505",
+    "tipo": "",
+    "componente_id": 386505
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386509",
+    "tipo": "",
+    "componente_id": 386509
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73347,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE NEI SERVIZI PER L'INFANZIA I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386513
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 73349,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE NEI SERVIZI PER L'INFANZIA II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386515
+  },
+  {
+    "corso_codice": 8775,
+    "materia_codice": 76119,
+    "materia_descrizione": "CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395787",
+    "tipo": "",
+    "componente_id": 395787
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 388,
+    "materia_descrizione": "FILOSOFIA DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373069",
+    "tipo": "",
+    "componente_id": 373069
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 13220,
+    "materia_descrizione": "PEDAGOGIA GENERALE E SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386584",
+    "tipo": "",
+    "componente_id": 386584
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 16764,
+    "materia_descrizione": "STORIA DELL'EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386586",
+    "tipo": "",
+    "componente_id": 386586
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 31733,
+    "materia_descrizione": "MODELLI DI MEDIAZIONE DIDATTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386587",
+    "tipo": "",
+    "componente_id": 386587
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 2207,
+    "materia_descrizione": "PSICOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386588",
+    "tipo": "",
+    "componente_id": 386588
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386589",
+    "tipo": "",
+    "componente_id": 386589
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 3857,
+    "materia_descrizione": "SOCIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386590",
+    "tipo": "",
+    "componente_id": 386590
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73373,
+    "materia_descrizione": "SOCIOLOGIA DELLA FAMIGLIA E DELLE DIFFERENZE DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386591",
+    "tipo": "",
+    "componente_id": 386591
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 15579,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386592",
+    "tipo": "",
+    "componente_id": 386592
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 31675,
+    "materia_descrizione": "PROGETTAZIONE E VALUTAZIONE DEGLI INTERVENTI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386593",
+    "tipo": "",
+    "componente_id": 386593
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 28599,
+    "materia_descrizione": "TECNOLOGIE DELLA CONOSCENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386594",
+    "tipo": "",
+    "componente_id": 386594
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 32890,
+    "materia_descrizione": "STORIA DEI CULTI E DELLE RELIGIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386596",
+    "tipo": "",
+    "componente_id": 386596
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73375,
+    "materia_descrizione": "PEDAGOGIA SPECIALE, DELLA MARGINALIT?? E DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386599",
+    "tipo": "",
+    "componente_id": 386599
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 870,
+    "materia_descrizione": "PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386600",
+    "tipo": "",
+    "componente_id": 386600
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 3084,
+    "materia_descrizione": "PSICOLOGIA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386601",
+    "tipo": "",
+    "componente_id": 386601
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 45,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386602",
+    "tipo": "",
+    "componente_id": 386602
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 12078,
+    "materia_descrizione": "SOCIOLOGIA DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386603",
+    "tipo": "",
+    "componente_id": 386603
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73376,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386604",
+    "tipo": "",
+    "componente_id": 386604
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73377,
+    "materia_descrizione": "FILOSOFIA DEL PAESAGGIO E DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386605",
+    "tipo": "",
+    "componente_id": 386605
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 42972,
+    "materia_descrizione": "DIRITTO DEI SERVIZI SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386606",
+    "tipo": "",
+    "componente_id": 386606
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 54769,
+    "materia_descrizione": "PEDAGOGIA DELLA NARRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386607",
+    "tipo": "",
+    "componente_id": 386607
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 4875,
+    "materia_descrizione": "PSICOLOGIA DEI GRUPPI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386608",
+    "tipo": "",
+    "componente_id": 386608
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73252,
+    "materia_descrizione": "EDUCAZIONE ALLE RELAZIONI DI COPPIA E DI FAMIGLIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386610",
+    "tipo": "",
+    "componente_id": 386610
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 69407,
+    "materia_descrizione": "STORIA COMPARATA DELLE CITT?? EUROPEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386611",
+    "tipo": "",
+    "componente_id": 386611
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73378,
+    "materia_descrizione": "GENERE E CULTURE DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386612",
+    "tipo": "",
+    "componente_id": 386612
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 56128,
+    "materia_descrizione": "PSICOLOGIA DELL'ADOLESCENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386613",
+    "tipo": "",
+    "componente_id": 386613
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386615
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73341,
+    "materia_descrizione": "LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386616
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 16692,
+    "materia_descrizione": "LABORATORIO DI INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386617",
+    "tipo": "",
+    "componente_id": 386617
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386618",
+    "tipo": "",
+    "componente_id": 386618
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73380,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386619
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 73382,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386620
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 54763,
+    "materia_descrizione": "DIDATTICA MUSEALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386990",
+    "tipo": "",
+    "componente_id": 386990
+  },
+  {
+    "corso_codice": 8776,
+    "materia_codice": 76119,
+    "materia_descrizione": "CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395788",
+    "tipo": "",
+    "componente_id": 395788
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 13220,
+    "materia_descrizione": "PEDAGOGIA GENERALE E SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386794",
+    "tipo": "",
+    "componente_id": 386794
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 16764,
+    "materia_descrizione": "STORIA DELL'EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386795",
+    "tipo": "",
+    "componente_id": 386795
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 2207,
+    "materia_descrizione": "PSICOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386796",
+    "tipo": "",
+    "componente_id": 386796
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 3857,
+    "materia_descrizione": "SOCIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386797",
+    "tipo": "",
+    "componente_id": 386797
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73373,
+    "materia_descrizione": "SOCIOLOGIA DELLA FAMIGLIA E DELLE DIFFERENZE DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386798",
+    "tipo": "",
+    "componente_id": 386798
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386799",
+    "tipo": "",
+    "componente_id": 386799
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 31733,
+    "materia_descrizione": "MODELLI DI MEDIAZIONE DIDATTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386800",
+    "tipo": "",
+    "componente_id": 386800
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 28599,
+    "materia_descrizione": "TECNOLOGIE DELLA CONOSCENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386801",
+    "tipo": "",
+    "componente_id": 386801
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 15579,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386803",
+    "tipo": "",
+    "componente_id": 386803
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 31675,
+    "materia_descrizione": "PROGETTAZIONE E VALUTAZIONE DEGLI INTERVENTI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386804",
+    "tipo": "",
+    "componente_id": 386804
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 32890,
+    "materia_descrizione": "STORIA DEI CULTI E DELLE RELIGIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386805",
+    "tipo": "",
+    "componente_id": 386805
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 59288,
+    "materia_descrizione": "STORIA DELLO STATO SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386807",
+    "tipo": "",
+    "componente_id": 386807
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 870,
+    "materia_descrizione": "PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386808",
+    "tipo": "",
+    "componente_id": 386808
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73375,
+    "materia_descrizione": "PEDAGOGIA SPECIALE, DELLA MARGINALIT?? E DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386809",
+    "tipo": "",
+    "componente_id": 386809
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 3084,
+    "materia_descrizione": "PSICOLOGIA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386810",
+    "tipo": "",
+    "componente_id": 386810
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 45,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386811",
+    "tipo": "",
+    "componente_id": 386811
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73376,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386813",
+    "tipo": "",
+    "componente_id": 386813
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 42972,
+    "materia_descrizione": "DIRITTO DEI SERVIZI SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386815",
+    "tipo": "",
+    "componente_id": 386815
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73378,
+    "materia_descrizione": "GENERE E CULTURE DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386817",
+    "tipo": "",
+    "componente_id": 386817
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 54769,
+    "materia_descrizione": "PEDAGOGIA DELLA NARRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386818",
+    "tipo": "",
+    "componente_id": 386818
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 56128,
+    "materia_descrizione": "PSICOLOGIA DELL'ADOLESCENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386821",
+    "tipo": "",
+    "componente_id": 386821
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386823
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 16692,
+    "materia_descrizione": "LABORATORIO DI INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386824",
+    "tipo": "",
+    "componente_id": 386824
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73382,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386825
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73341,
+    "materia_descrizione": "LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386826",
+    "tipo": "",
+    "componente_id": 386826
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386827",
+    "tipo": "",
+    "componente_id": 386827
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 73380,
+    "materia_descrizione": "LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386828
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 32855,
+    "materia_descrizione": "TEORIE E MODELLI EDUCATIVI DELLE DIFFERENZE DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387004",
+    "tipo": "",
+    "componente_id": 387004
+  },
+  {
+    "corso_codice": 8777,
+    "materia_codice": 76119,
+    "materia_descrizione": "CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395789",
+    "tipo": "",
+    "componente_id": 395789
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73320,
+    "materia_descrizione": "TECNICHE DI INTERVENTO NELLE DIPENDENZE PATOLOGICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386433",
+    "tipo": "",
+    "componente_id": 386433
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73321,
+    "materia_descrizione": "PROCESSI COGNITIVI DISFUNZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386440",
+    "tipo": "",
+    "componente_id": 386440
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73322,
+    "materia_descrizione": "SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386441",
+    "tipo": "",
+    "componente_id": 386441
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 8829,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386442",
+    "tipo": "",
+    "componente_id": 386442
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 32535,
+    "materia_descrizione": "ANTROPOLOGIA DEI PROCESSI MIGRATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386443",
+    "tipo": "",
+    "componente_id": 386443
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73324,
+    "materia_descrizione": "MEDITERRANEO: CROCEVIA DI STORIE E DI CULTURE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386445",
+    "tipo": "",
+    "componente_id": 386445
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 33534,
+    "materia_descrizione": "WELFARE E POLITICHE DI TRATTAMENTO DELLE DIPENDENZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386447",
+    "tipo": "",
+    "componente_id": 386447
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73326,
+    "materia_descrizione": "PROBLEMATICHE SOCIALI DELLE DIVERSIT?? CULTURALI E RELIGIOSE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386451",
+    "tipo": "",
+    "componente_id": 386451
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 38809,
+    "materia_descrizione": "I PARADIGMI DELLE DIPENDENZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386452",
+    "tipo": "",
+    "componente_id": 386452
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73301,
+    "materia_descrizione": "LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386454",
+    "tipo": "",
+    "componente_id": 386454
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73327,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386455
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73328,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386456
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386457
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386458",
+    "tipo": "",
+    "componente_id": 386458
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73329,
+    "materia_descrizione": "PEDAGOGIA DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386459",
+    "tipo": "",
+    "componente_id": 386459
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73330,
+    "materia_descrizione": "PEDAGOGIA DELLE MIGRAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386460",
+    "tipo": "",
+    "componente_id": 386460
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73331,
+    "materia_descrizione": "MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386461",
+    "tipo": "",
+    "componente_id": 386461
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73332,
+    "materia_descrizione": "STRATEGIE E STRUMENTI DELL'EMPOWERMENT E DELLA CITTADINANZA ATTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386463",
+    "tipo": "",
+    "componente_id": 386463
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 32436,
+    "materia_descrizione": "EDUCAZIONE E RIABILITAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386464",
+    "tipo": "",
+    "componente_id": 386464
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 73144,
+    "materia_descrizione": "TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386466",
+    "tipo": "",
+    "componente_id": 386466
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 32462,
+    "materia_descrizione": "FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386469",
+    "tipo": "",
+    "componente_id": 386469
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 1353,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412428",
+    "tipo": "",
+    "componente_id": 412428
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 81989,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412878
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 81990,
+    "materia_descrizione": "PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412879
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 81991,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412880
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 81992,
+    "materia_descrizione": "PROVA FINALE LM (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412881
+  },
+  {
+    "corso_codice": 8778,
+    "materia_codice": 81837,
+    "materia_descrizione": "PROCESSI PSICOLOGICI DELL'ESCLUSIONE SOCIALE E DELLA MEDIAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416163",
+    "tipo": "",
+    "componente_id": 416163
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73329,
+    "materia_descrizione": "PEDAGOGIA DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386830",
+    "tipo": "",
+    "componente_id": 386830
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73331,
+    "materia_descrizione": "MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386831",
+    "tipo": "",
+    "componente_id": 386831
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73332,
+    "materia_descrizione": "STRATEGIE E STRUMENTI DELL'EMPOWERMENT E DELLA CITTADINANZA ATTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386833",
+    "tipo": "",
+    "componente_id": 386833
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 32436,
+    "materia_descrizione": "EDUCAZIONE E RIABILITAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386834",
+    "tipo": "",
+    "componente_id": 386834
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73144,
+    "materia_descrizione": "TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386835",
+    "tipo": "",
+    "componente_id": 386835
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 32462,
+    "materia_descrizione": "FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386836",
+    "tipo": "",
+    "componente_id": 386836
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73321,
+    "materia_descrizione": "PROCESSI COGNITIVI DISFUNZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386837",
+    "tipo": "",
+    "componente_id": 386837
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73322,
+    "materia_descrizione": "SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386838",
+    "tipo": "",
+    "componente_id": 386838
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 32535,
+    "materia_descrizione": "ANTROPOLOGIA DEI PROCESSI MIGRATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386840",
+    "tipo": "",
+    "componente_id": 386840
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73320,
+    "materia_descrizione": "TECNICHE DI INTERVENTO NELLE DIPENDENZE PATOLOGICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386841",
+    "tipo": "",
+    "componente_id": 386841
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73326,
+    "materia_descrizione": "PROBLEMATICHE SOCIALI DELLE DIVERSIT?? CULTURALI E RELIGIOSE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386847",
+    "tipo": "",
+    "componente_id": 386847
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 38809,
+    "materia_descrizione": "I PARADIGMI DELLE DIPENDENZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386848",
+    "tipo": "",
+    "componente_id": 386848
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386849
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386850",
+    "tipo": "",
+    "componente_id": 386850
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73301,
+    "materia_descrizione": "LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386851",
+    "tipo": "",
+    "componente_id": 386851
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73327,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386852
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 73328,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386853
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 81989,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412882
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 81990,
+    "materia_descrizione": "PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412883
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 81991,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412884
+  },
+  {
+    "corso_codice": 8779,
+    "materia_codice": 81992,
+    "materia_descrizione": "PROVA FINALE LM (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412885
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73217,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA EMPIRICA IN EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386302",
+    "tipo": "",
+    "componente_id": 386302
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73301,
+    "materia_descrizione": "LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386306",
+    "tipo": "",
+    "componente_id": 386306
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 31125,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN SCIENZE DELLA EDUCAZIONE PERMANENTE E DELLA FORMAZIONE CONTINUA II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386310
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73253,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN SCIENZE DELLA EDUCAZIONE PERMANENTE E DELLA FORMAZIONE CONTINUA I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386312
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386316",
+    "tipo": "",
+    "componente_id": 386316
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386317
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73259,
+    "materia_descrizione": "TEORIE E MODELLI DI EDUCAZIONE PERMANENTE E DI FORMAZIONE CONTINUA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386362",
+    "tipo": "",
+    "componente_id": 386362
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 30943,
+    "materia_descrizione": "ANALISI COMPARATA DEI MODELLI FORMATIVI DELL'EDUCAZIONE PERMANENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386365",
+    "tipo": "",
+    "componente_id": 386365
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73304,
+    "materia_descrizione": "TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI FORMATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386398",
+    "tipo": "",
+    "componente_id": 386398
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73308,
+    "materia_descrizione": "STRATEGIE DIDATTICHE E DI COMUNICAZIONE PER GLI ADULTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386405",
+    "tipo": "",
+    "componente_id": 386405
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 30996,
+    "materia_descrizione": "VALUTAZIONE DEGLI APPRENDIMENTI FORMALI E NON FORMALI E CERTIFICAZIONE DELLE COMPETENZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386406",
+    "tipo": "",
+    "componente_id": 386406
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73309,
+    "materia_descrizione": "PSICOLOGIA DELL'ORIENTAMENTO E DELLE TRANSIZIONI IN ET?? ADULTA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386407",
+    "tipo": "",
+    "componente_id": 386407
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73311,
+    "materia_descrizione": "SOCIOLOGIA DEL LAVORO E DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386409",
+    "tipo": "",
+    "componente_id": 386409
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 30977,
+    "materia_descrizione": "DIRITTO EUROPEO E ITALIANO NEL CAMPO DELLE POLITICHE DEL LAVORO E DELLA FORMAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386412",
+    "tipo": "",
+    "componente_id": 386412
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 8829,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386414",
+    "tipo": "",
+    "componente_id": 386414
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 73313,
+    "materia_descrizione": "SOCIOLOGIA DEL WELFARE E DELLA FORMAZIONE CONTINUA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386415",
+    "tipo": "",
+    "componente_id": 386415
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 81989,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412886
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 81990,
+    "materia_descrizione": "PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412887
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 81991,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412888
+  },
+  {
+    "corso_codice": 8780,
+    "materia_codice": 81992,
+    "materia_descrizione": "PROVA FINALE LM (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412889
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 70519,
+    "materia_descrizione": "RIFLESSIVIT?? E DEONTOLOGIA PEDAGOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385517",
+    "tipo": "",
+    "componente_id": 385517
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 73144,
+    "materia_descrizione": "TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385989",
+    "tipo": "",
+    "componente_id": 385989
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 79363,
+    "materia_descrizione": "FENOMENOLOGIA E EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386026",
+    "tipo": "",
+    "componente_id": 386026
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 73216,
+    "materia_descrizione": "PEDAGOGIA DELL'INCLUSIONE PER IL PROGETTO DI VITA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386203",
+    "tipo": "",
+    "componente_id": 386203
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 73217,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA EMPIRICA IN EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386204",
+    "tipo": "",
+    "componente_id": 386204
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386205
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386209",
+    "tipo": "",
+    "componente_id": 386209
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 76342,
+    "materia_descrizione": "FILOSOFIA DELLA RAPPRESENTAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394251",
+    "tipo": "",
+    "componente_id": 394251
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 59253,
+    "materia_descrizione": "PEDAGOGIA DELLE DIFFERENZE E DELLA MEDIAZIONE CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409457",
+    "tipo": "",
+    "componente_id": 409457
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 81989,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'????ESTERO (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412870
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 81990,
+    "materia_descrizione": "PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412871
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 81991,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412876
+  },
+  {
+    "corso_codice": 8781,
+    "materia_codice": 81992,
+    "materia_descrizione": "PROVA FINALE LM (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412877
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 59231,
+    "materia_descrizione": "PEDAGOGIA DELL'INFANZIA E DELLE FAMIGLIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414443",
+    "tipo": "",
+    "componente_id": 414443
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73141,
+    "materia_descrizione": "TEORIE E STRUMENTI DELLA MEDIAZIONE DIDATTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414444",
+    "tipo": "",
+    "componente_id": 414444
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73139,
+    "materia_descrizione": "STORIA DEI SERVIZI EDUCATIVI E DELL'IMMAGINARIO INFANTILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414445",
+    "tipo": "",
+    "componente_id": 414445
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73374,
+    "materia_descrizione": "STORIA DELLO STATO SOCIALE LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414448",
+    "tipo": "",
+    "componente_id": 414448
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73152,
+    "materia_descrizione": "SOCIOLOGIA DELL'EDUCAZIONE EXTRASCOLASTICA E DELLE POLITICHE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414449",
+    "tipo": "",
+    "componente_id": 414449
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 1353,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414450",
+    "tipo": "",
+    "componente_id": 414450
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 82100,
+    "materia_descrizione": "PSICOLOGIA DELL'INTERAZIONE E DEI CONTESTI DI SOCIALIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414451",
+    "tipo": "",
+    "componente_id": 414451
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 30847,
+    "materia_descrizione": "PSICOPATOLOGIA DEL CICLO DI VITA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414452",
+    "tipo": "",
+    "componente_id": 414452
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73301,
+    "materia_descrizione": "LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414461",
+    "tipo": "",
+    "componente_id": 414461
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 73218,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PEDAGOGIA I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414462
+  },
+  {
+    "corso_codice": 9206,
+    "materia_codice": 30803,
+    "materia_descrizione": "LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PEDAGOGIA II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414463
+  }
+]

@@ -1,0 +1,6066 @@
+[
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65838,
+    "materia_descrizione": "ACQUACOLTURA E AVICONIGLICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364275",
+    "tipo": "",
+    "componente_id": 364275
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 35918,
+    "materia_descrizione": "BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI ANIMALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364278
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65860,
+    "materia_descrizione": "METODOLOGIE DI GENETICA MOLECOLARE PER IL MIGLIORAMENTO DELLE PRODUZIONI ZOOTECNICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364337",
+    "tipo": "modulo",
+    "componente_id": 364337
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65863,
+    "materia_descrizione": "TECNOLOGIE RIPRODUTTIVE INNOVATIVE NEGLI ANIMALI DI ALLEVAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364338",
+    "tipo": "modulo",
+    "componente_id": 364338
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65839,
+    "materia_descrizione": "NUTRIZIONE ANIMALE E PRATICHE DI RAZIONAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364279",
+    "tipo": "",
+    "componente_id": 364279
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65840,
+    "materia_descrizione": "ORGANIZZAZIONE AZIENDALE E MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364280",
+    "tipo": "",
+    "componente_id": 364280
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65842,
+    "materia_descrizione": "PRODUZIONI ANIMALI E LEGISLAZIONE VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364281
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 11633,
+    "materia_descrizione": "PRODUZIONI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364358",
+    "tipo": "modulo",
+    "componente_id": 364358
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65868,
+    "materia_descrizione": "PROTEZIONE ANIMALE E LEGISLAZIONE VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364359",
+    "tipo": "modulo",
+    "componente_id": 364359
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65843,
+    "materia_descrizione": "SANIT?? DELLE PRODUZIONI ANIMALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364282
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65870,
+    "materia_descrizione": "MALATTIE DIFFUSIVE E SANIT?? PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364363",
+    "tipo": "modulo",
+    "componente_id": 364363
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 65873,
+    "materia_descrizione": "SANIT?? E IGIENE DEGLI ALLEVAMENTI ITTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364364",
+    "tipo": "modulo",
+    "componente_id": 364364
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364738",
+    "tipo": "",
+    "componente_id": 364738
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 66010,
+    "materia_descrizione": "DESCRITTORI DI QUALIT?? NEGLI ALIMENTI DI ORIGINE ANIMALE DI TERRA E D'ACQUA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364746",
+    "tipo": "",
+    "componente_id": 364746
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 3833,
+    "materia_descrizione": "MICROBIOLOGIA DEGLI ALIMENTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364759",
+    "tipo": "",
+    "componente_id": 364759
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 66015,
+    "materia_descrizione": "PROCESSI DELLA TECNOLOGIA ALIMENTARE: SETTORE LATTIERO-CASEARIO, ITTICO E DELLE CARNI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364760",
+    "tipo": "",
+    "componente_id": 364760
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 66017,
+    "materia_descrizione": "SICUREZZA DEGLI ALIMENTI DI ORIGINE ANIMALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364763
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 66019,
+    "materia_descrizione": "CERTIFICAZIONE E TRACCIABILIT?? DEGLI ALIMENTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364768",
+    "tipo": "modulo",
+    "componente_id": 364768
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 36619,
+    "materia_descrizione": "TOSSICOLOGIA DEI RESIDUI NEGLI ALIMENTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364769",
+    "tipo": "modulo",
+    "componente_id": 364769
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 27090,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364777",
+    "tipo": "",
+    "componente_id": 364777
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364778
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 22756,
+    "materia_descrizione": "ETOLOGIA E BENESSERE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382372",
+    "tipo": "",
+    "componente_id": 382372
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 71541,
+    "materia_descrizione": "GENOMICA, NUTRIGENOMICA E TRACCIABILITA' GENETICA PER LE PRODUZIONI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382373",
+    "tipo": "",
+    "componente_id": 382373
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 71542,
+    "materia_descrizione": "NUTRIZIONE UMANA E ALIMENTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382376",
+    "tipo": "",
+    "componente_id": 382376
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 71543,
+    "materia_descrizione": "SISTEMI E TECNOLOGIE PER UNA ZOOTECNIA SOSTENIBILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382379",
+    "tipo": "",
+    "componente_id": 382379
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 76454,
+    "materia_descrizione": "QUALIT?? E SICUREZZA DEGLI ALIMENTI DI ORIGINE VEGETALE NELLA DIETA ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394827",
+    "tipo": "",
+    "componente_id": 394827
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 82679,
+    "materia_descrizione": "ECONOMIA E POLITICA DEI PRODOTTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406434",
+    "tipo": "",
+    "componente_id": 406434
+  },
+  {
+    "corso_codice": 8521,
+    "materia_codice": 82678,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: BUON USO DEGLI ANTIMICROBICI NEGLI ANIMALI DA ALLEVAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415738",
+    "tipo": "",
+    "componente_id": 415738
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66429,
+    "materia_descrizione": "ATTIVITA' SPERIMENTALE NEL LABORATORIO BIOTECNOLOGICO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 365721
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66435,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365741",
+    "tipo": "modulo",
+    "componente_id": 365741
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66437,
+    "materia_descrizione": "BIOLOGIA SPERIMENTALE APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365742",
+    "tipo": "modulo",
+    "componente_id": 365742
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 35106,
+    "materia_descrizione": "POLITICA E LEGISLAZIONE DELLE BIOTECNOLOGIE ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365745",
+    "tipo": "modulo",
+    "componente_id": 365745
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66430,
+    "materia_descrizione": "PATOLOGIA GENERALE VETERINARIA E ONCOGENESI MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365725",
+    "tipo": "",
+    "componente_id": 365725
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365727",
+    "tipo": "",
+    "componente_id": 365727
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66443,
+    "materia_descrizione": "BIOTECNOLOGIE DELLA NUTRIZIONE ANIMALE E DEGLI ALIMENTI TRADIZIONALI E FUNZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365755",
+    "tipo": "",
+    "componente_id": 365755
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 66446,
+    "materia_descrizione": "METODICHE BIOMOLECOLARI APPLICATE ALLE MALATTIE TRASMISSIBILI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365757",
+    "tipo": "",
+    "componente_id": 365757
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 81281,
+    "materia_descrizione": "MODELLI ANIMALI DI MALATTIE NEUROLOGICHE E NEUROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365759",
+    "tipo": "",
+    "componente_id": 365759
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 365765
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 27090,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365766",
+    "tipo": "",
+    "componente_id": 365766
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72709,
+    "materia_descrizione": "APPLICAZIONI DI GENOMICA AVANZATA NELLE PRODUZIONI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384877",
+    "tipo": "",
+    "componente_id": 384877
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72710,
+    "materia_descrizione": "BIOCHIMICA DEGLI ALIMENTI E DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384878",
+    "tipo": "",
+    "componente_id": 384878
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72711,
+    "materia_descrizione": "BIOTECNOLOGIE APPLICATE ALLA RIPRODUZIONE ANIMALE, INGEGNERIA GENETICA E CLONAZIONE DEGLI ANIMALI D'ALLEVAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384879",
+    "tipo": "",
+    "componente_id": 384879
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72712,
+    "materia_descrizione": "FISIOLOGIA ED ENDOCRINOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384880",
+    "tipo": "",
+    "componente_id": 384880
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72722,
+    "materia_descrizione": "CELLULE STAMINALI IN MEDICINA RIGENERATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384881",
+    "tipo": "",
+    "componente_id": 384881
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72723,
+    "materia_descrizione": "PATOLOGIA GENERALE 2 E ANATOMIA PATOLOGICA DEGLI ANIMALI DA LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384882",
+    "tipo": "",
+    "componente_id": 384882
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72724,
+    "materia_descrizione": "SALUTE ANIMALE E SICUREZZA DEGLI ALIMENTI PER L'UOMO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384883
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72726,
+    "materia_descrizione": "FARMACI AD USO VETERINARIO E TERAPIA GENICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384884",
+    "tipo": "modulo",
+    "componente_id": 384884
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 72727,
+    "materia_descrizione": "XENOBIOTICI, INQUINANTI AMBIENTALI E SICUREZZA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384885",
+    "tipo": "modulo",
+    "componente_id": 384885
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 73907,
+    "materia_descrizione": "ATTIVIT?? FORMATIVA IN LABORATORIO O AZIENDA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388539",
+    "tipo": "",
+    "componente_id": 388539
+  },
+  {
+    "corso_codice": 8522,
+    "materia_codice": 78989,
+    "materia_descrizione": "ECONOMIA PER LE BIOTECNOLOGIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402762",
+    "tipo": "",
+    "componente_id": 402762
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28402,
+    "materia_descrizione": "SISTEMI IRRIGUI E DI DRENAGGIO E MACCHINE PER IL VERDE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363204
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28404,
+    "materia_descrizione": "IRRIGAZIONE, DRENAGGIO E DIFESA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363205",
+    "tipo": "modulo",
+    "componente_id": 363205
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28405,
+    "materia_descrizione": "MACCHINE PER IL VERDE ORNAMENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363206",
+    "tipo": "modulo",
+    "componente_id": 363206
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28314,
+    "materia_descrizione": "CHIMICA AGRARIA CON ELEMENTI DI GEOPEDOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363207
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 8147,
+    "materia_descrizione": "CHIMICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363208",
+    "tipo": "modulo",
+    "componente_id": 363208
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28329,
+    "materia_descrizione": "ELEMENTI DI GEOPEDOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363209",
+    "tipo": "modulo",
+    "componente_id": 363209
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 30482,
+    "materia_descrizione": "RILIEVO E ANALISI TERRITORIALE CON APPLICAZIONI GIS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363213",
+    "tipo": "",
+    "componente_id": 363213
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28454,
+    "materia_descrizione": "ESTIMO E GESTIONE DELLE IMPRESE VIVAISTICHE E AGROFORESTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363218",
+    "tipo": "",
+    "componente_id": 363218
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363219
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28443,
+    "materia_descrizione": "PROGETTAZIONE DEGLI SPAZI VERDI E PIANIFICAZIONE TERRITORIALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363223
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28450,
+    "materia_descrizione": "PROGETTAZIONE E REALIZZAZIONE DI SPAZI VERDI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363224",
+    "tipo": "modulo",
+    "componente_id": 363224
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28453,
+    "materia_descrizione": "PIANIFICAZIONE TERRITORIALE E PAESAGGISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363225",
+    "tipo": "modulo",
+    "componente_id": 363225
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363229
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364495",
+    "tipo": "",
+    "componente_id": 364495
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 12818,
+    "materia_descrizione": "BIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364499",
+    "tipo": "",
+    "componente_id": 364499
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65851,
+    "materia_descrizione": "MATEMATICA CON ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364501",
+    "tipo": "",
+    "componente_id": 364501
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65937,
+    "materia_descrizione": "STORIA DEL PAESAGGIO E DISEGNO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364511
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65938,
+    "materia_descrizione": "DISEGNO E CAD PER LA PROGETTAZIONE DEL VERDE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364512",
+    "tipo": "modulo",
+    "componente_id": 364512
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28229,
+    "materia_descrizione": "STORIA DEI GIARDINI E DEL PAESAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364513",
+    "tipo": "modulo",
+    "componente_id": 364513
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65939,
+    "materia_descrizione": "BIODIVERSIT?? VEGETALE ED ECOLOGIA DEL PAESAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364514",
+    "tipo": "",
+    "componente_id": 364514
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28257,
+    "materia_descrizione": "ECONOMIA E POLITICA AGRO-AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364520",
+    "tipo": "",
+    "componente_id": 364520
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65945,
+    "materia_descrizione": "COLTIVAZIONI ORNAMENTALI E VIVAISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364524",
+    "tipo": "",
+    "componente_id": 364524
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65946,
+    "materia_descrizione": "ARBORICOLTURA ORNAMENTALE CON ELEMENTI DI SELVICOLTURA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364525
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65947,
+    "materia_descrizione": "ARBORICOLTURA ORNAMENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364526",
+    "tipo": "modulo",
+    "componente_id": 364526
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 42127,
+    "materia_descrizione": "ELEMENTI DI SELVICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364527",
+    "tipo": "modulo",
+    "componente_id": 364527
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65948,
+    "materia_descrizione": "ELEMENTI PER LA PROGETTAZIONE E LA GESTIONE DELLE AREE VERDI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364530",
+    "tipo": "",
+    "componente_id": 364530
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65957,
+    "materia_descrizione": "PATOLOGIA ED ENTOMOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364545
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65958,
+    "materia_descrizione": "MALATTIE DELLE PIANTE ORNAMENTALI E FITOIATRIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364546",
+    "tipo": "modulo",
+    "componente_id": 364546
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65959,
+    "materia_descrizione": "ENTOMOLOGIA DEL VERDE ORNAMENTALE E DEL PAESAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364547",
+    "tipo": "modulo",
+    "componente_id": 364547
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370369
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370370
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 26350,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370371
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 26344,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370372
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 30486,
+    "materia_descrizione": "APPLICAZIONI DI GENETICA E MICROBIOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384907
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28429,
+    "materia_descrizione": "ELEMENTI DI GENETICA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384908",
+    "tipo": "modulo",
+    "componente_id": 384908
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 28431,
+    "materia_descrizione": "BIOLOGIA E GESTIONE DELLA MICROFLORA UTILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384909",
+    "tipo": "modulo",
+    "componente_id": 384909
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 387397
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 68633,
+    "materia_descrizione": "PRACTICUM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 387401
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 73851,
+    "materia_descrizione": "PRACTICUM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388294
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 73852,
+    "materia_descrizione": "ATTIVIT?? DI APPRENDISTATO IN ALTA FORMAZIONE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388295
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 82465,
+    "materia_descrizione": "ATTIVITA' SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI E DI LABORATORIALITA'",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388296
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 82465,
+    "materia_descrizione": "ATTIVITA' SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI E DI LABORATORIALITA'",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388297
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78275,
+    "materia_descrizione": "RAPPRESENTAZIONE DIGITALE DEL PROGETTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401081",
+    "tipo": "",
+    "componente_id": 401081
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78286,
+    "materia_descrizione": "INFRASTRUTTURE PER LA TUTELA AMBIENTALE E ELEMENTI DI ZOOLOGIA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401082
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 65941,
+    "materia_descrizione": "INFRASTRUTTURE PER LA TUTELA AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401083",
+    "tipo": "modulo",
+    "componente_id": 401083
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78277,
+    "materia_descrizione": "ELEMENTI DI ZOOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401084",
+    "tipo": "modulo",
+    "componente_id": 401084
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78287,
+    "materia_descrizione": "AGRONOMIA, ECOLOGIA AGRARIA E TAPPETI ERBOSI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401091
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78288,
+    "materia_descrizione": "AGRONOMIA GENERALE, TAPPETI ERBOSI E CONTROLLO DELLE INFESTANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401092",
+    "tipo": "modulo",
+    "componente_id": 401092
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78289,
+    "materia_descrizione": "AGROMETEOROLOGIA ED ECOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401093",
+    "tipo": "modulo",
+    "componente_id": 401093
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78290,
+    "materia_descrizione": "LABORATORIO DI SINTESI 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401094",
+    "tipo": "",
+    "componente_id": 401094
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78290,
+    "materia_descrizione": "LABORATORIO DI SINTESI 1 (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403533
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78291,
+    "materia_descrizione": "LABORATORIO DI SINTESI 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401095",
+    "tipo": "",
+    "componente_id": 401095
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 78291,
+    "materia_descrizione": "LABORATORIO DI SINTESI 2 (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403537
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 82351,
+    "materia_descrizione": "TIROCINIO ALL'ESTERO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414476
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 73853,
+    "materia_descrizione": "ATTIVIT?? SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE TRASVERSALI (SCRITTURA E COMUNICAZIONE)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417504
+  },
+  {
+    "corso_codice": 8523,
+    "materia_codice": 73854,
+    "materia_descrizione": "ATTIVIT?? SEMINARIALI E LABORATORIALI PER LO SVILUPPO DI COMPETENZE DI IMPRENDITORIALIT??",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417505
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 405,
+    "materia_descrizione": "FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363240",
+    "tipo": "",
+    "componente_id": 363240
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29730,
+    "materia_descrizione": "MICROBIOLOGIA GENERALE AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363253",
+    "tipo": "",
+    "componente_id": 363253
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29716,
+    "materia_descrizione": "AGRONOMIA GENERALE E ECOLOGIA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363267
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29718,
+    "materia_descrizione": "AGRONOMIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363268",
+    "tipo": "modulo",
+    "componente_id": 363268
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 27304,
+    "materia_descrizione": "AGROMETEOROLOGIA ED ECOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363269",
+    "tipo": "modulo",
+    "componente_id": 363269
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29794,
+    "materia_descrizione": "INGEGNERIA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363278
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 4227,
+    "materia_descrizione": "IRRIGAZIONE E DRENAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363280",
+    "tipo": "modulo",
+    "componente_id": 363280
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29796,
+    "materia_descrizione": "ELEMENTI DI MECCANICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363279",
+    "tipo": "modulo",
+    "componente_id": 363279
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363288
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65846,
+    "materia_descrizione": "BIOLOGIA E BIODIVERSIT?? VEGETALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364288
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 74,
+    "materia_descrizione": "BOTANICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364290",
+    "tipo": "modulo",
+    "componente_id": 364290
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65848,
+    "materia_descrizione": "BIODIVERSIT?? VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364291",
+    "tipo": "modulo",
+    "componente_id": 364291
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65851,
+    "materia_descrizione": "MATEMATICA CON ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364295",
+    "tipo": "",
+    "componente_id": 364295
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 14604,
+    "materia_descrizione": "ISTITUZIONI DI ECONOMIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364302",
+    "tipo": "",
+    "componente_id": 364302
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364312",
+    "tipo": "",
+    "componente_id": 364312
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 5546,
+    "materia_descrizione": "GENETICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364318",
+    "tipo": "",
+    "componente_id": 364318
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 27315,
+    "materia_descrizione": "CHIMICA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364327
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 8152,
+    "materia_descrizione": "CHIMICA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364331",
+    "tipo": "modulo",
+    "componente_id": 364331
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65857,
+    "materia_descrizione": "BIOCHIMICA AGRARIA E FERTILIT?? DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364332",
+    "tipo": "modulo",
+    "componente_id": 364332
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 8114,
+    "materia_descrizione": "ARBORICOLTURA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364336",
+    "tipo": "",
+    "componente_id": 364336
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 8115,
+    "materia_descrizione": "ARBORICOLTURA SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364347",
+    "tipo": "",
+    "componente_id": 364347
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65871,
+    "materia_descrizione": "ENTOMOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364365",
+    "tipo": "",
+    "componente_id": 364365
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65874,
+    "materia_descrizione": "COSTRUZIONI RURALI E ZOOTECNICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364367
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65875,
+    "materia_descrizione": "COSTRUZIONI RURALI E RILIEVO TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364369",
+    "tipo": "modulo",
+    "componente_id": 364369
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 65876,
+    "materia_descrizione": "ZOOTECNICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364370",
+    "tipo": "modulo",
+    "componente_id": 364370
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29823,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364388",
+    "tipo": "",
+    "componente_id": 364388
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 26344,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370342
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370343
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 26350,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370344
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370345
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 29758,
+    "materia_descrizione": "PATOLOGIA VEGETALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384766
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 13356,
+    "materia_descrizione": "PATOLOGIA VEGETALE GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384767",
+    "tipo": "modulo",
+    "componente_id": 384767
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 18346,
+    "materia_descrizione": "PATOLOGIA VEGETALE SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384768",
+    "tipo": "modulo",
+    "componente_id": 384768
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72665,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE E ORTOFLORICOLTURA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384771
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72666,
+    "materia_descrizione": "PRINCIPI DI ORTICOLTURA E FLORICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384774",
+    "tipo": "modulo",
+    "componente_id": 384774
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 2096,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384775",
+    "tipo": "modulo",
+    "componente_id": 384775
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 8260,
+    "materia_descrizione": "ESTIMO RURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384785",
+    "tipo": "",
+    "componente_id": 384785
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72668,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384786",
+    "tipo": "",
+    "componente_id": 384786
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72669,
+    "materia_descrizione": "PROTEZIONE ECOCOMPATIBILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384789",
+    "tipo": "",
+    "componente_id": 384789
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72679,
+    "materia_descrizione": "FITOPATIE DA STRESS AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384802",
+    "tipo": "",
+    "componente_id": 384802
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72596,
+    "materia_descrizione": "BIOTECNOLOGIE MICROBICHE AGROFORESTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395123",
+    "tipo": "",
+    "componente_id": 395123
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72592,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395124
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72590,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395125",
+    "tipo": "modulo",
+    "componente_id": 395125
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72594,
+    "materia_descrizione": "GESTIONE ECONOMICA DELLE AREE PROTETTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395126",
+    "tipo": "modulo",
+    "componente_id": 395126
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 72638,
+    "materia_descrizione": "ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395127
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 30559,
+    "materia_descrizione": "INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395128",
+    "tipo": "modulo",
+    "componente_id": 395128
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 30557,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395129",
+    "tipo": "modulo",
+    "componente_id": 395129
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 30563,
+    "materia_descrizione": "INTRODUZIONE ALLE RICERCHE DI MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395130",
+    "tipo": "modulo",
+    "componente_id": 395130
+  },
+  {
+    "corso_codice": 8524,
+    "materia_codice": 283,
+    "materia_descrizione": "ENTOMOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403455",
+    "tipo": "",
+    "componente_id": 403455
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 405,
+    "materia_descrizione": "FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363299",
+    "tipo": "",
+    "componente_id": 363299
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363327
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 32656,
+    "materia_descrizione": "AGRONOMIA GENERALE ED ECOLOGIA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363331
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 2098,
+    "materia_descrizione": "AGRONOMIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363332",
+    "tipo": "modulo",
+    "componente_id": 363332
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 27304,
+    "materia_descrizione": "AGROMETEOROLOGIA ED ECOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363333",
+    "tipo": "modulo",
+    "componente_id": 363333
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 18249,
+    "materia_descrizione": "ESTIMO TERRITORIALE E AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363343",
+    "tipo": "",
+    "componente_id": 363343
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363350
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 30794,
+    "materia_descrizione": "ENTOMOLOGIA E PATOLOGIA AGRO-FORESTALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363354
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 27660,
+    "materia_descrizione": "ENTOMOLOGIA AGRO-FORESTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363356",
+    "tipo": "modulo",
+    "componente_id": 363356
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 27661,
+    "materia_descrizione": "PATOLOGIA AGRO-FORESTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363355",
+    "tipo": "modulo",
+    "componente_id": 363355
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65846,
+    "materia_descrizione": "BIOLOGIA E BIODIVERSIT?? VEGETALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364433
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 74,
+    "materia_descrizione": "BOTANICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364434",
+    "tipo": "modulo",
+    "componente_id": 364434
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65848,
+    "materia_descrizione": "BIODIVERSIT?? VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364435",
+    "tipo": "modulo",
+    "componente_id": 364435
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65851,
+    "materia_descrizione": "MATEMATICA CON ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364436",
+    "tipo": "",
+    "componente_id": 364436
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65907,
+    "materia_descrizione": "SISTEMI ECONOMICI IN AGRICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364437",
+    "tipo": "",
+    "componente_id": 364437
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364438",
+    "tipo": "",
+    "componente_id": 364438
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65908,
+    "materia_descrizione": "GEOPEDOLOGIA CON ELEMENTI DI CARTOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364439",
+    "tipo": "",
+    "componente_id": 364439
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65910,
+    "materia_descrizione": "CHIMICA AGRARIA E FERTILIT?? DEL SUOLO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364440
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 8152,
+    "materia_descrizione": "CHIMICA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364441",
+    "tipo": "modulo",
+    "componente_id": 364441
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65857,
+    "materia_descrizione": "BIOCHIMICA AGRARIA E FERTILIT?? DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364442",
+    "tipo": "modulo",
+    "componente_id": 364442
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65911,
+    "materia_descrizione": "ARBORICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364443",
+    "tipo": "",
+    "componente_id": 364443
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 14452,
+    "materia_descrizione": "IDRAULICA AGRARIA, IRRIGAZIONE E DRENAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364444",
+    "tipo": "",
+    "componente_id": 364444
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65912,
+    "materia_descrizione": "SELVICOLTURA E PIANIFICAZIONE FORESTALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364445
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 66243,
+    "materia_descrizione": "COLTURE ERBACEE E GENETICA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364449
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65915,
+    "materia_descrizione": "COLTURE ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364450",
+    "tipo": "modulo",
+    "componente_id": 364450
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 5546,
+    "materia_descrizione": "GENETICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364451",
+    "tipo": "modulo",
+    "componente_id": 364451
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 27618,
+    "materia_descrizione": "MICROBIOLOGIA GENERALE E AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364452",
+    "tipo": "",
+    "componente_id": 364452
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65921,
+    "materia_descrizione": "EDILIZIA RURALE E PIANIFICAZIONE TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364459",
+    "tipo": "",
+    "componente_id": 364459
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65922,
+    "materia_descrizione": "IMPATTO AMBIENTALE DELLA ZOOTECNIA E DELLE INDUSTRIE AGROALIMENTARI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364462
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 18251,
+    "materia_descrizione": "ALLEVAMENTI ZOOTECNICI ED IMPATTO AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364464",
+    "tipo": "modulo",
+    "componente_id": 364464
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65923,
+    "materia_descrizione": "TECNOLOGIE ALIMENTARI ED IMPATTO AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364465",
+    "tipo": "modulo",
+    "componente_id": 364465
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65924,
+    "materia_descrizione": "MECCANICA E MECCANIZZAZIONE AGRO-FORESTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364469",
+    "tipo": "",
+    "componente_id": 364469
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 26344,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370348
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 26350,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370349
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370350
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370351
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72592,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384401
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72590,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384404",
+    "tipo": "modulo",
+    "componente_id": 384404
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72594,
+    "materia_descrizione": "GESTIONE ECONOMICA DELLE AREE PROTETTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384407",
+    "tipo": "modulo",
+    "componente_id": 384407
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72596,
+    "materia_descrizione": "BIOTECNOLOGIE MICROBICHE AGROFORESTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387859",
+    "tipo": "",
+    "componente_id": 387859
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72669,
+    "materia_descrizione": "PROTEZIONE ECOCOMPATIBILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395131",
+    "tipo": "",
+    "componente_id": 395131
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72638,
+    "materia_descrizione": "ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395132
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 30559,
+    "materia_descrizione": "INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395133",
+    "tipo": "modulo",
+    "componente_id": 395133
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 30557,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395134",
+    "tipo": "modulo",
+    "componente_id": 395134
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 30563,
+    "materia_descrizione": "INTRODUZIONE ALLE RICERCHE DI MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395135",
+    "tipo": "modulo",
+    "componente_id": 395135
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72679,
+    "materia_descrizione": "FITOPATIE DA STRESS AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395136",
+    "tipo": "",
+    "componente_id": 395136
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 29823,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395137",
+    "tipo": "",
+    "componente_id": 395137
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72668,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395138",
+    "tipo": "",
+    "componente_id": 395138
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 78266,
+    "materia_descrizione": "SELVICOLTURA E GESTIONE FORESTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401066",
+    "tipo": "",
+    "componente_id": 401066
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 72668,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 409398
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 65921,
+    "materia_descrizione": "EDILIZIA RURALE E PIANIFICAZIONE TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415154",
+    "tipo": "",
+    "componente_id": 415154
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 79430,
+    "materia_descrizione": "ADVANCED PLANT PATHOLOGY AND ENTOMOLOGY",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417892
+  },
+  {
+    "corso_codice": 8525,
+    "materia_codice": 37910,
+    "materia_descrizione": "ACQUARIOLOGIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417897
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27328,
+    "materia_descrizione": "ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363387
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 18061,
+    "materia_descrizione": "ECONOMIA DEI MERCATI",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 363388
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 9511,
+    "materia_descrizione": "MARKETING",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 363389
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 30551,
+    "materia_descrizione": "MECCANIZZAZIONE AGRICOLA, IRRIGAZIONE E DRENAGGIO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363396
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 4227,
+    "materia_descrizione": "IRRIGAZIONE E DRENAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363398",
+    "tipo": "modulo",
+    "componente_id": 363398
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 1023,
+    "materia_descrizione": "TECNICA DELLA MECCANIZZAZIONE AGRICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363397",
+    "tipo": "modulo",
+    "componente_id": 363397
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27332,
+    "materia_descrizione": "POLITICA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363407
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27333,
+    "materia_descrizione": "POLITICA AGRARIA E SVILUPPO RURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363409",
+    "tipo": "modulo",
+    "componente_id": 363409
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27334,
+    "materia_descrizione": "POLITICA AGRARIA INTERNAZIONALE E COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363408",
+    "tipo": "modulo",
+    "componente_id": 363408
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363410
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27340,
+    "materia_descrizione": "DIFESA DELLE PIANTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363412
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 283,
+    "materia_descrizione": "ENTOMOLOGIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363414",
+    "tipo": "modulo",
+    "componente_id": 363414
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27342,
+    "materia_descrizione": "PATOLOGIA VEGETALE E PATOMETRIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363413",
+    "tipo": "modulo",
+    "componente_id": 363413
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363419
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8260,
+    "materia_descrizione": "ESTIMO RURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363420",
+    "tipo": "",
+    "componente_id": 363420
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8234,
+    "materia_descrizione": "ELEMENTI DI MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364362",
+    "tipo": "",
+    "componente_id": 364362
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65872,
+    "materia_descrizione": "PRINCIPI DI ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364366",
+    "tipo": "",
+    "componente_id": 364366
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364368",
+    "tipo": "",
+    "componente_id": 364368
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65877,
+    "materia_descrizione": "STATISTICA ECONOMICA DEI SISTEMI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364375",
+    "tipo": "",
+    "componente_id": 364375
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65879,
+    "materia_descrizione": "DIRITTO DELL'ECONOMIA AGROINDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364376",
+    "tipo": "",
+    "componente_id": 364376
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65881,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA AGROINDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364377",
+    "tipo": "",
+    "componente_id": 364377
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8147,
+    "materia_descrizione": "CHIMICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364382",
+    "tipo": "",
+    "componente_id": 364382
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65885,
+    "materia_descrizione": "GESTIONE E ANALISI DELLA QUALITA' DEI PRODOTTI AGROALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364385",
+    "tipo": "",
+    "componente_id": 364385
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65887,
+    "materia_descrizione": "AMMINISTRAZIONE E GESTIONE DELL'IMPRESA AGRARIA E AGROINDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364387",
+    "tipo": "",
+    "componente_id": 364387
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65888,
+    "materia_descrizione": "AGRONOMIA GENERALE E COLTIVAZIONI ERBACEE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364393
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65889,
+    "materia_descrizione": "AGRONOMIA GENERALE",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 364394
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 2096,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 364395
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65898,
+    "materia_descrizione": "ARBORICOLTURA GENERALE E SPECIALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364413
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8114,
+    "materia_descrizione": "ARBORICOLTURA GENERALE",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 364417
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8115,
+    "materia_descrizione": "ARBORICOLTURA SPECIALE",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 364418
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65901,
+    "materia_descrizione": "ZOOTECNICA E COSTRUZIONI RURALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364423
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65902,
+    "materia_descrizione": "ZOOTECNICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364424",
+    "tipo": "modulo",
+    "componente_id": 364424
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65903,
+    "materia_descrizione": "ELEMENTI DI COSTRUZIONI RURALI E PIANIFICAZIONE TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364425",
+    "tipo": "modulo",
+    "componente_id": 364425
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370352
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370353
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 26350,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370354
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 26344,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 370355
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 36957,
+    "materia_descrizione": "ATTIVITA' DI TUTORATO \"CHIMICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 373015
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 27300,
+    "materia_descrizione": "BIOLOGIA VEGETALE E GENETICA AGRARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 375731
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 69173,
+    "materia_descrizione": "ELEMENTI DI BIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375732",
+    "tipo": "modulo",
+    "componente_id": 375732
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 69174,
+    "materia_descrizione": "ELEMENTI DI GENETICA AGRARIA E MIGLIORAMENTO GENETICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375733",
+    "tipo": "modulo",
+    "componente_id": 375733
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72638,
+    "materia_descrizione": "ECONOMIA DEI MERCATI E MARKETING NEL SISTEMA AGROINDUSTRIALE II (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384552
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 30559,
+    "materia_descrizione": "INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384554",
+    "tipo": "modulo",
+    "componente_id": 384554
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 30557,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE DEI MERCATI AGROINDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384557",
+    "tipo": "modulo",
+    "componente_id": 384557
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 30563,
+    "materia_descrizione": "INTRODUZIONE ALLE RICERCHE DI MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384555",
+    "tipo": "modulo",
+    "componente_id": 384555
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72679,
+    "materia_descrizione": "FITOPATIE DA STRESS AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395115",
+    "tipo": "",
+    "componente_id": 395115
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72668,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395116",
+    "tipo": "",
+    "componente_id": 395116
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 29823,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA ALLE PRODUZIONI VEGETALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395117",
+    "tipo": "",
+    "componente_id": 395117
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72669,
+    "materia_descrizione": "PROTEZIONE ECOCOMPATIBILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395118",
+    "tipo": "",
+    "componente_id": 395118
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72596,
+    "materia_descrizione": "BIOTECNOLOGIE MICROBICHE AGROFORESTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395119",
+    "tipo": "",
+    "componente_id": 395119
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72592,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395120
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72590,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395121",
+    "tipo": "modulo",
+    "componente_id": 395121
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72594,
+    "materia_descrizione": "GESTIONE ECONOMICA DELLE AREE PROTETTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395122",
+    "tipo": "modulo",
+    "componente_id": 395122
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 78283,
+    "materia_descrizione": "AGRONOMIA E ARBORICOLTURA GENERALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401069
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 65889,
+    "materia_descrizione": "AGRONOMIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401070",
+    "tipo": "modulo",
+    "componente_id": 401070
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8114,
+    "materia_descrizione": "ARBORICOLTURA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401071",
+    "tipo": "modulo",
+    "componente_id": 401071
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 78284,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE ED ARBOREE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401072
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 2096,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401073",
+    "tipo": "modulo",
+    "componente_id": 401073
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 8115,
+    "materia_descrizione": "ARBORICOLTURA SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401074",
+    "tipo": "modulo",
+    "componente_id": 401074
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 78306,
+    "materia_descrizione": "INTEGRAZIONE E COOPERAZIONE NEI MERCATI AGRO-INDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401114",
+    "tipo": "",
+    "componente_id": 401114
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 78271,
+    "materia_descrizione": "ECONOMIA DEI MERCATI NELL'AGROINDUSTRIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404541",
+    "tipo": "",
+    "componente_id": 404541
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72592,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA E GESTIONE ECONOMICA DELLE AREE PROTETTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 409412
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72590,
+    "materia_descrizione": "CONTROLLO DELLA FAUNA SELVATICA",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 409413
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72594,
+    "materia_descrizione": "GESTIONE ECONOMICA DELLE AREE PROTETTE",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 409414
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 72668,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA AL RISANAMENTO AMBIENTALE E ALLE BIOENERGIE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 409416
+  },
+  {
+    "corso_codice": 8526,
+    "materia_codice": 82351,
+    "materia_descrizione": "TIROCINIO ALL'ESTERO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414240
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31251,
+    "materia_descrizione": "COLTURE ARBOREE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363436
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 18457,
+    "materia_descrizione": "MORFOFISIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363437",
+    "tipo": "modulo",
+    "componente_id": 363437
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 8114,
+    "materia_descrizione": "ARBORICOLTURA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363438",
+    "tipo": "modulo",
+    "componente_id": 363438
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 21365,
+    "materia_descrizione": "MICROBIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363452",
+    "tipo": "",
+    "componente_id": 363452
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31281,
+    "materia_descrizione": "OPERAZIONI UNITARIE CON APPLICAZIONI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363456
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 430,
+    "materia_descrizione": "FISICA TECNICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363457",
+    "tipo": "modulo",
+    "componente_id": 363457
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31285,
+    "materia_descrizione": "OPERAZIONI UNITARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363458",
+    "tipo": "modulo",
+    "componente_id": 363458
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31278,
+    "materia_descrizione": "GESTIONE DELLA FERTILITA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363462",
+    "tipo": "",
+    "componente_id": 363462
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31314,
+    "materia_descrizione": "ENOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363463
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31316,
+    "materia_descrizione": "TECNICHE DI VINIFICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363464",
+    "tipo": "modulo",
+    "componente_id": 363464
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31319,
+    "materia_descrizione": "TECNICHE SPECIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363465",
+    "tipo": "modulo",
+    "componente_id": 363465
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 18200,
+    "materia_descrizione": "TECNICA VITICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363469",
+    "tipo": "",
+    "componente_id": 363469
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 18160,
+    "materia_descrizione": "ENTOMOLOGIA VITICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363473",
+    "tipo": "",
+    "componente_id": 363473
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 4220,
+    "materia_descrizione": "MICROBIOLOGIA ENOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363474",
+    "tipo": "",
+    "componente_id": 363474
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363475
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 8478,
+    "materia_descrizione": "TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363484",
+    "tipo": "",
+    "componente_id": 363484
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65793,
+    "materia_descrizione": "MATEMATICA CON ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364144",
+    "tipo": "",
+    "componente_id": 364144
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 38837,
+    "materia_descrizione": "CHIMICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364148",
+    "tipo": "",
+    "componente_id": 364148
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65796,
+    "materia_descrizione": "DIRITTO ALIMENTARE E LEGISLAZIONE VITIVINICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364154",
+    "tipo": "",
+    "componente_id": 364154
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 17559,
+    "materia_descrizione": "GESTIONE DELLA QUALITA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364158",
+    "tipo": "",
+    "componente_id": 364158
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31246,
+    "materia_descrizione": "CHIMICA ORGANICA E BIOCHIMICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364159
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 18167,
+    "materia_descrizione": "FONDAMENTI DI CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364160",
+    "tipo": "modulo",
+    "componente_id": 364160
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364161",
+    "tipo": "modulo",
+    "componente_id": 364161
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65799,
+    "materia_descrizione": "GESTIONE E AMMINISTRAZIONE DELL'IMPRESA VITIVINICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364164",
+    "tipo": "",
+    "componente_id": 364164
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 8159,
+    "materia_descrizione": "CHIMICA ENOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364194",
+    "tipo": "",
+    "componente_id": 364194
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65809,
+    "materia_descrizione": "VITICOLTURA GENERALE E VIVAISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364195",
+    "tipo": "",
+    "componente_id": 364195
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65814,
+    "materia_descrizione": "AGGIORNAMENTO PROFESSIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364212",
+    "tipo": "",
+    "componente_id": 364212
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65817,
+    "materia_descrizione": "PATOLOGIA VITICOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364219",
+    "tipo": "",
+    "componente_id": 364219
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 65819,
+    "materia_descrizione": "MECCANIZZAZIONE VITICOLA E IMPIANTI ENOLOGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364222",
+    "tipo": "",
+    "componente_id": 364222
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/370367",
+    "tipo": "",
+    "componente_id": 370367
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 31584,
+    "materia_descrizione": "TECNICHE DI DEGUSTAZIONE DEI VINI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376524",
+    "tipo": "",
+    "componente_id": 376524
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 72487,
+    "materia_descrizione": "ANALISI CHIMICHE, FISICHE E SENSORIALI DEI PRODOTTI ENOLOGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384192",
+    "tipo": "",
+    "componente_id": 384192
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 82296,
+    "materia_descrizione": "ENZIMI NELLE TECNOLOGIE ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413784",
+    "tipo": "",
+    "componente_id": 413784
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 29570,
+    "materia_descrizione": "PROGETTAZIONE IGIENICA E SANIFICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413785",
+    "tipo": "",
+    "componente_id": 413785
+  },
+  {
+    "corso_codice": 8527,
+    "materia_codice": 82298,
+    "materia_descrizione": "VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413786",
+    "tipo": "",
+    "componente_id": 413786
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 27336,
+    "materia_descrizione": "PRODUZIONI VEGETALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363492
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29369,
+    "materia_descrizione": "ECOLOGIA DELLE PRODUZIONI ALIMENTARI E COLTURE ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363494",
+    "tipo": "modulo",
+    "componente_id": 363494
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29371,
+    "materia_descrizione": "COLTURE ARBOREE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363493",
+    "tipo": "modulo",
+    "componente_id": 363493
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29367,
+    "materia_descrizione": "ECONOMIA E GESTIONE DELL'IMPRESA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363495",
+    "tipo": "",
+    "componente_id": 363495
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 28598,
+    "materia_descrizione": "CHIMICA ORGANICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363505
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 18167,
+    "materia_descrizione": "FONDAMENTI DI CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363506",
+    "tipo": "modulo",
+    "componente_id": 363506
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 6329,
+    "materia_descrizione": "CHIMICA DELLE SOSTANZE NATURALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363507",
+    "tipo": "modulo",
+    "componente_id": 363507
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29405,
+    "materia_descrizione": "IMPIANTI ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363509",
+    "tipo": "",
+    "componente_id": 363509
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 28552,
+    "materia_descrizione": "PRODUZIONI ANIMALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363510
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 1074,
+    "materia_descrizione": "ZOOCOLTURE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363512",
+    "tipo": "modulo",
+    "componente_id": 363512
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 1081,
+    "materia_descrizione": "ZOOTECNICA SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363511",
+    "tipo": "modulo",
+    "componente_id": 363511
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363526
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 28840,
+    "materia_descrizione": "TECNOLOGIE ALIMENTARI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363530
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 11634,
+    "materia_descrizione": "TECNOLOGIE ALIMENTARI I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363532",
+    "tipo": "modulo",
+    "componente_id": 363532
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29414,
+    "materia_descrizione": "TECNOLOGIE ALIMENTARI II E PRINCIPI DI CONFEZIONAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363531",
+    "tipo": "modulo",
+    "componente_id": 363531
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29416,
+    "materia_descrizione": "ANALISI CHIMICHE DEI PRODOTTI ALIMENTARI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363536
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 3596,
+    "materia_descrizione": "CHIMICA DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363537",
+    "tipo": "modulo",
+    "componente_id": 363537
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 24207,
+    "materia_descrizione": "ANALISI DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363538",
+    "tipo": "modulo",
+    "componente_id": 363538
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29419,
+    "materia_descrizione": "MICROBIOLOGIA DEGLI ALIMENTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363539
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 42629,
+    "materia_descrizione": "MICROBIOLOGIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363540",
+    "tipo": "modulo",
+    "componente_id": 363540
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 4221,
+    "materia_descrizione": "MICROBIOLOGIA INDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363541",
+    "tipo": "modulo",
+    "componente_id": 363541
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363542
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 42902,
+    "materia_descrizione": "LABORATORIO DI MICROBIOLOGIA APPLICATA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363549
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 4224,
+    "materia_descrizione": "ENOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363550",
+    "tipo": "",
+    "componente_id": 363550
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 31580,
+    "materia_descrizione": "TECNOLOGIE DEI CEREALI E DERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363551",
+    "tipo": "",
+    "componente_id": 363551
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 42175,
+    "materia_descrizione": "ISPEZIONI E CONTROLLI FITOSANITARI DELLE DERRATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363554",
+    "tipo": "",
+    "componente_id": 363554
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 38837,
+    "materia_descrizione": "CHIMICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364628",
+    "tipo": "",
+    "componente_id": 364628
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 65968,
+    "materia_descrizione": "GESTIONE DELLA QUALIT?? NELL'INDUSTRIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364630",
+    "tipo": "",
+    "componente_id": 364630
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 65951,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364635",
+    "tipo": "",
+    "componente_id": 364635
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 65974,
+    "materia_descrizione": "OPERAZIONI UNITARIE E APPLICAZIONI (C.I)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364643
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 31285,
+    "materia_descrizione": "OPERAZIONI UNITARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364644",
+    "tipo": "modulo",
+    "componente_id": 364644
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29404,
+    "materia_descrizione": "APPLICAZIONI DI OPERAZIONI UNITARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364645",
+    "tipo": "modulo",
+    "componente_id": 364645
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 65816,
+    "materia_descrizione": "STECHIOMETRIA E PROCESSI CHIMICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364796",
+    "tipo": "",
+    "componente_id": 364796
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 887,
+    "materia_descrizione": "SCIENZA DELL'ALIMENTAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364804",
+    "tipo": "",
+    "componente_id": 364804
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 65814,
+    "materia_descrizione": "AGGIORNAMENTO PROFESSIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364811",
+    "tipo": "",
+    "componente_id": 364811
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 66044,
+    "materia_descrizione": "CHIMICA E TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364818",
+    "tipo": "",
+    "componente_id": 364818
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 66047,
+    "materia_descrizione": "PATOLOGIA E PARASSITOLOGIA DEI PRODOTTI E DELLE DERRATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364827",
+    "tipo": "",
+    "componente_id": 364827
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29232,
+    "materia_descrizione": "DIRITTO ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364830",
+    "tipo": "",
+    "componente_id": 364830
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/370362",
+    "tipo": "",
+    "componente_id": 370362
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 69152,
+    "materia_descrizione": "BIOLOGIA DEI MICRORGANISMI ED ISPEZIONE DEGLI ALIMENTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 375697
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 69153,
+    "materia_descrizione": "BIOLOGIA DEI MICRORGANISMI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375698",
+    "tipo": "modulo",
+    "componente_id": 375698
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 69154,
+    "materia_descrizione": "ISPEZIONE ED IGIENE DEGLI ALIMENTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375699",
+    "tipo": "modulo",
+    "componente_id": 375699
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 13644,
+    "materia_descrizione": "MATEMATICA E STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375700",
+    "tipo": "",
+    "componente_id": 375700
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 69156,
+    "materia_descrizione": "FISICA TECNICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375701",
+    "tipo": "",
+    "componente_id": 375701
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 69161,
+    "materia_descrizione": "TECNOLOGIA DELLE BEVANDE ALCOLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375713",
+    "tipo": "",
+    "componente_id": 375713
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 72554,
+    "materia_descrizione": "DIVERSIT?? VEGETALE E SISTEMI DI PRODUZIONE ALIMENTARI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384319
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 15148,
+    "materia_descrizione": "DETERGENZA E SANIFICAZIONE DEGLI IMPIANTI DELL'INDUSTRIA ALIMENTARE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395939
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404182
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 82296,
+    "materia_descrizione": "ENZIMI NELLE TECNOLOGIE ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413774",
+    "tipo": "",
+    "componente_id": 413774
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 29570,
+    "materia_descrizione": "PROGETTAZIONE IGIENICA E SANIFICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413775",
+    "tipo": "",
+    "componente_id": 413775
+  },
+  {
+    "corso_codice": 8528,
+    "materia_codice": 82298,
+    "materia_descrizione": "VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413781",
+    "tipo": "",
+    "componente_id": 413781
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29547,
+    "materia_descrizione": "MARKETING PER IL SISTEMA ALIMENTARE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363789
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29548,
+    "materia_descrizione": "SISTEMA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363790",
+    "tipo": "modulo",
+    "componente_id": 363790
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 18452,
+    "materia_descrizione": "MARKETING DEI PRODOTTI ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363791",
+    "tipo": "modulo",
+    "componente_id": 363791
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363802
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29588,
+    "materia_descrizione": "MICROBIOLOGIA AVANZATA E PREDITTIVA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363803
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29590,
+    "materia_descrizione": "MICROBIOLOGIA DIAGNOSTICA E PREDITTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363804",
+    "tipo": "modulo",
+    "componente_id": 363804
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29594,
+    "materia_descrizione": "MICROBIOLOGIA DELLE FERMENTAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363805",
+    "tipo": "modulo",
+    "componente_id": 363805
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363819",
+    "tipo": "",
+    "componente_id": 363819
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 66048,
+    "materia_descrizione": "QUALIT?? E INNOVAZIONE NELLE PRODUZIONI PRIMARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364828",
+    "tipo": "",
+    "componente_id": 364828
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29541,
+    "materia_descrizione": "INNOVAZIONE DEI PROCESSI NELL'INDUSTRIA ALIMENTARE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364838
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29542,
+    "materia_descrizione": "IMPIANTI AVANZATI DELLA TECNOLOGIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364840",
+    "tipo": "modulo",
+    "componente_id": 364840
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 66054,
+    "materia_descrizione": "IMPIANTI FRIGORIFERI ED ELEMENTI DI SICUREZZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364841",
+    "tipo": "modulo",
+    "componente_id": 364841
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 24234,
+    "materia_descrizione": "NUTRIZIONE UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364843",
+    "tipo": "",
+    "componente_id": 364843
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 42175,
+    "materia_descrizione": "ISPEZIONI E CONTROLLI FITOSANITARI DELLE DERRATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364900",
+    "tipo": "",
+    "componente_id": 364900
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 67484,
+    "materia_descrizione": "INNOVAZIONI E SICUREZZA DEI PRODOTTI DI ORIGINE ANIMALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364906
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29597,
+    "materia_descrizione": "INNOVAZIONI NELLA FILIERA DEI PRODOTTI CARNEI E OVOPRODOTTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364908",
+    "tipo": "modulo",
+    "componente_id": 364908
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 66072,
+    "materia_descrizione": "TRACCIABILIT?? BATTERICA E SICUREZZA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364909",
+    "tipo": "modulo",
+    "componente_id": 364909
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 31580,
+    "materia_descrizione": "TECNOLOGIE DEI CEREALI E DERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364910",
+    "tipo": "",
+    "componente_id": 364910
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 4224,
+    "materia_descrizione": "ENOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364912",
+    "tipo": "",
+    "componente_id": 364912
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 66044,
+    "materia_descrizione": "CHIMICA E TECNOLOGIA DEGLI OLI, GRASSI E DERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364913",
+    "tipo": "",
+    "componente_id": 364913
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 42902,
+    "materia_descrizione": "LABORATORIO DI MICROBIOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364914",
+    "tipo": "",
+    "componente_id": 364914
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69162,
+    "materia_descrizione": "CHIMICA STRUTTURALE DEI SISTEMI BIOLOGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375714",
+    "tipo": "",
+    "componente_id": 375714
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69163,
+    "materia_descrizione": "MODIFICAZIONI CHIMICHE E ANALISI DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375715",
+    "tipo": "",
+    "componente_id": 375715
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69164,
+    "materia_descrizione": "STATISTICA ED ELABORAZIONE DEI DATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375716",
+    "tipo": "",
+    "componente_id": 375716
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69165,
+    "materia_descrizione": "QUALIT?? E FORMULAZIONE DEGLI ALIMENTI(C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 375717
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69166,
+    "materia_descrizione": "ANALISI FISICHE E REOLOGICHE DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375718",
+    "tipo": "modulo",
+    "componente_id": 375718
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69167,
+    "materia_descrizione": "FORMULAZIONE E INNOVAZIONE DI PRODOTTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375719",
+    "tipo": "modulo",
+    "componente_id": 375719
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69168,
+    "materia_descrizione": "CONDIZIONAMENTO E IMBALLAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375720",
+    "tipo": "",
+    "componente_id": 375720
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69169,
+    "materia_descrizione": "ECONOMIA DEI SISTEMI QUALIT?? NEL SISTEMA AGROINDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375721",
+    "tipo": "",
+    "componente_id": 375721
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 31584,
+    "materia_descrizione": "TECNICHE DI DEGUSTAZIONE DEI VINI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375723",
+    "tipo": "",
+    "componente_id": 375723
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 69161,
+    "materia_descrizione": "TECNOLOGIA DELLE BEVANDE ALCOLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375724",
+    "tipo": "",
+    "componente_id": 375724
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 76546,
+    "materia_descrizione": "QUALIT?? DEI PRODOTTI ITTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395479",
+    "tipo": "",
+    "componente_id": 395479
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 82296,
+    "materia_descrizione": "ENZIMI NELLE TECNOLOGIE ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413868",
+    "tipo": "",
+    "componente_id": 413868
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 29570,
+    "materia_descrizione": "PROGETTAZIONE IGIENICA E SANIFICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413870",
+    "tipo": "",
+    "componente_id": 413870
+  },
+  {
+    "corso_codice": 8531,
+    "materia_codice": 82298,
+    "materia_descrizione": "VALORIZZAZIONE DEI SOTTOPRODOTTI DELL'INDUSTRIA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413888",
+    "tipo": "",
+    "componente_id": 413888
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27369,
+    "materia_descrizione": "SISTEMAZIONI IDRAULICO AGROFORESTALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363826
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27370,
+    "materia_descrizione": "IDRAULICA AGRO-FORESTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363827",
+    "tipo": "modulo",
+    "componente_id": 363827
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27371,
+    "materia_descrizione": "GEOTECNICA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363828",
+    "tipo": "modulo",
+    "componente_id": 363828
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27362,
+    "materia_descrizione": "MONITORAGGIO DEGLI ECOSISTEMI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363832
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27364,
+    "materia_descrizione": "INVENTARI FORESTALI E TELERILEVAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363833",
+    "tipo": "modulo",
+    "componente_id": 363833
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66101,
+    "materia_descrizione": "ECOSISTEMI VEGETALI, HABITAT PROTETTI E RIPRISTINI AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363834",
+    "tipo": "modulo",
+    "componente_id": 363834
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27372,
+    "materia_descrizione": "AGRONOMIA TERRITORIALE E GESTIONE DELLA FLORA SPONTANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363842",
+    "tipo": "",
+    "componente_id": 363842
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26345,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363873",
+    "tipo": "",
+    "componente_id": 363873
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26351,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363874",
+    "tipo": "",
+    "componente_id": 363874
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26357,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363875",
+    "tipo": "",
+    "componente_id": 363875
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363876",
+    "tipo": "",
+    "componente_id": 363876
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363877
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26345,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363888",
+    "tipo": "",
+    "componente_id": 363888
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26351,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363889",
+    "tipo": "",
+    "componente_id": 363889
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26357,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363890",
+    "tipo": "",
+    "componente_id": 363890
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363891",
+    "tipo": "",
+    "componente_id": 363891
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66084,
+    "materia_descrizione": "DIVERSIT?? FUNZIONALE E MONITORAGGIO DEI MICRORGANISMI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364989
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66030,
+    "materia_descrizione": "FISICA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364990",
+    "tipo": "",
+    "componente_id": 364990
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 90135,
+    "materia_descrizione": "TIROCINIO - A SCELTA DELLO STUDENTE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364995
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66099,
+    "materia_descrizione": "IMPIANTI PER LA PRODUZIONE DI ENERGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364999",
+    "tipo": "",
+    "componente_id": 364999
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66103,
+    "materia_descrizione": "APPLICAZIONE DELLA MICROBIOLOGIA IN CAMPO AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365002",
+    "tipo": "",
+    "componente_id": 365002
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66104,
+    "materia_descrizione": "MONITORAGGIO E ANALISI DEL SISTEMA ACQUA-SUOLO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 365004
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66105,
+    "materia_descrizione": "SENSIBILIT?? E VULNERABILIT?? DEL SISTEMA ACQUA-SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365005",
+    "tipo": "modulo",
+    "componente_id": 365005
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66106,
+    "materia_descrizione": "METODOLOGIA SPERIMENTALE ED ANALISI DEI DATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365006",
+    "tipo": "modulo",
+    "componente_id": 365006
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27383,
+    "materia_descrizione": "SPAZI VERDI, PARCHI E GIARDINI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365037",
+    "tipo": "",
+    "componente_id": 365037
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66226,
+    "materia_descrizione": "EDILIZIA RURALE, PROGETTAZIONE E PIANIFICAZIONE PAESAGGISTICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 365266
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27380,
+    "materia_descrizione": "EDILIZIA RURALE E PAESAGGIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365267",
+    "tipo": "modulo",
+    "componente_id": 365267
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66119,
+    "materia_descrizione": "PROGETTAZIONE E PIANIFICAZIONE PAESAGGISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365268",
+    "tipo": "modulo",
+    "componente_id": 365268
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 57929,
+    "materia_descrizione": "LABORATORIO DI GEOMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384181",
+    "tipo": "",
+    "componente_id": 384181
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78440,
+    "materia_descrizione": "PIANIFICAZIONE FORESTALE E ASSESTAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401292",
+    "tipo": "",
+    "componente_id": 401292
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78441,
+    "materia_descrizione": "ESTIMO AMBIENTALE E CARTOGRAFIA CATASTALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401303
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78442,
+    "materia_descrizione": "ESTIMO AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401310",
+    "tipo": "modulo",
+    "componente_id": 401310
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66098,
+    "materia_descrizione": "CARTOGRAFIA CATASTALE CON ELEMENTI DI CAD E GIS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401311",
+    "tipo": "modulo",
+    "componente_id": 401311
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78443,
+    "materia_descrizione": "MARKETING E POLITICHE AGRO-TERRITORIALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401336
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78444,
+    "materia_descrizione": "MARKETING DEL TERRITORIO RURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401337",
+    "tipo": "modulo",
+    "componente_id": 401337
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 66126,
+    "materia_descrizione": "POLITICHE AGRO-AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401338",
+    "tipo": "modulo",
+    "componente_id": 401338
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78445,
+    "materia_descrizione": "QUALIT?? CHIMICA E BIOCHIMICA DEL SUOLO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401339
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 78446,
+    "materia_descrizione": "INQUINANTI NEL SISTEMA SUOLO - ACQUA - PIANTA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401342",
+    "tipo": "modulo",
+    "componente_id": 401342
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 27562,
+    "materia_descrizione": "INDICI DI QUALIT?? DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401343",
+    "tipo": "modulo",
+    "componente_id": 401343
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 82449,
+    "materia_descrizione": "RILEVAMENTO E CLASSIFICAZIONE DEI SUOLI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414299",
+    "tipo": "",
+    "componente_id": 414299
+  },
+  {
+    "corso_codice": 8532,
+    "materia_codice": 81355,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414303
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35235,
+    "materia_descrizione": "ANATOMIA VETERINARIA SISTEMATICA E COMPARATA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377290
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 50169,
+    "materia_descrizione": "ANATOMIA VETERINARIA SISTEMATICA E COMPARATA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377295",
+    "tipo": "modulo",
+    "componente_id": 377295
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 50170,
+    "materia_descrizione": "ANATOMIA VETERINARIA SISTEMATICA E COMPARATA III",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377296",
+    "tipo": "modulo",
+    "componente_id": 377296
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69846,
+    "materia_descrizione": "ATTIVITA' NELL'OSPEDALE DIDATTICO VETERINARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377297",
+    "tipo": "modulo",
+    "componente_id": 377297
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35242,
+    "materia_descrizione": "BIOCHIMICA E BIOLOGIA MOLECOLARE CLINICA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377298
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 8956,
+    "materia_descrizione": "BIOCHIMICA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377299",
+    "tipo": "modulo",
+    "componente_id": 377299
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 61500,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377300",
+    "tipo": "modulo",
+    "componente_id": 377300
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69848,
+    "materia_descrizione": "CHIMICA E BIOCHIMICA STRUTTURALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377301
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 4422,
+    "materia_descrizione": "CHIMICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377302",
+    "tipo": "modulo",
+    "componente_id": 377302
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69849,
+    "materia_descrizione": "BIOCHIMICA STRUTTURALE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377303",
+    "tipo": "modulo",
+    "componente_id": 377303
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69850,
+    "materia_descrizione": "BIOCHIMICA STRUTTURALE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377304",
+    "tipo": "modulo",
+    "componente_id": 377304
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69851,
+    "materia_descrizione": "FISICA APPLICATA, INFORMATICA E STATISTICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377305
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58200,
+    "materia_descrizione": "FISICA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377306",
+    "tipo": "modulo",
+    "componente_id": 377306
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 18067,
+    "materia_descrizione": "IDONEITA' INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377307",
+    "tipo": "modulo",
+    "componente_id": 377307
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 914,
+    "materia_descrizione": "STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377308",
+    "tipo": "modulo",
+    "componente_id": 377308
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69852,
+    "materia_descrizione": "ISTOLOGIA, ANATOMIA E ZOOLOGIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377309
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69853,
+    "materia_descrizione": "CITOLOGIA, ISTOLOGIA ED EMBRIOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377310",
+    "tipo": "modulo",
+    "componente_id": 377310
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 50168,
+    "materia_descrizione": "ANATOMIA VETERINARIA SISTEMATICA E COMPARATA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377311",
+    "tipo": "modulo",
+    "componente_id": 377311
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 12212,
+    "materia_descrizione": "ZOOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377312",
+    "tipo": "modulo",
+    "componente_id": 377312
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69854,
+    "materia_descrizione": "ZOOTECNIA GENERALE ED ECONOMIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377313
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35681,
+    "materia_descrizione": "ZOOTECNIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377314",
+    "tipo": "modulo",
+    "componente_id": 377314
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69855,
+    "materia_descrizione": "GENETICA E MIGLIORAMENTO GENETICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377315",
+    "tipo": "modulo",
+    "componente_id": 377315
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35251,
+    "materia_descrizione": "ECONOMIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377316",
+    "tipo": "modulo",
+    "componente_id": 377316
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 22741,
+    "materia_descrizione": "ECONOMIA E GESTIONE DELL'AZIENDA ZOOTECNICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377317",
+    "tipo": "modulo",
+    "componente_id": 377317
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35280,
+    "materia_descrizione": "ANATOMIA TOPOGRAFICA E RADIO-TOMOGRAFICA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377386
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 16042,
+    "materia_descrizione": "ANATOMIA TOPOGRAFICA VETERINARIA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377387",
+    "tipo": "modulo",
+    "componente_id": 377387
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 23854,
+    "materia_descrizione": "ANATOMIA TOPOGRAFICA VETERINARIA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377388",
+    "tipo": "modulo",
+    "componente_id": 377388
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58180,
+    "materia_descrizione": "ANATOMIA RADIOGRAFICA E TOMOGRAFICA VETERINARIA NORMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377389",
+    "tipo": "modulo",
+    "componente_id": 377389
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35289,
+    "materia_descrizione": "FISIOLOGIA VETERINARIA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377390",
+    "tipo": "",
+    "componente_id": 377390
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35293,
+    "materia_descrizione": "FISIOLOGIA VETERINARIA II, ETOLOGIA ED ENDOCRINOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377391
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35301,
+    "materia_descrizione": "FISIOLOGIA VETERINARIA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377392",
+    "tipo": "modulo",
+    "componente_id": 377392
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35294,
+    "materia_descrizione": "ENDOCRINOLOGIA, FISIOLOGIA DELLA RIPRODUZIONE ED ETOLOGIA DEGLI ANIMALI DOMESTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377393",
+    "tipo": "modulo",
+    "componente_id": 377393
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377395",
+    "tipo": "",
+    "componente_id": 377395
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69868,
+    "materia_descrizione": "MICROBIOLOGIA E PARASSITOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377396
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35532,
+    "materia_descrizione": "PARASSITOLOGIA E MICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377397",
+    "tipo": "modulo",
+    "componente_id": 377397
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69870,
+    "materia_descrizione": "BATTERIOLOGIA ED IMMUNOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377398",
+    "tipo": "modulo",
+    "componente_id": 377398
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 1071,
+    "materia_descrizione": "VIROLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377399",
+    "tipo": "modulo",
+    "componente_id": 377399
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69869,
+    "materia_descrizione": "PATOLOGIA GENERALE E FISIOPATOLOGIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377400
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35638,
+    "materia_descrizione": "PATOLOGIA GENERALE E FISIOPATOLOGIA DEGLI ANIMALI DOMESTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377401",
+    "tipo": "modulo",
+    "componente_id": 377401
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69871,
+    "materia_descrizione": "IMMUNOPATOLOGIA E ONCOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377402",
+    "tipo": "modulo",
+    "componente_id": 377402
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35307,
+    "materia_descrizione": "SICUREZZA E IGIENE ALIMENTARE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377403
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58181,
+    "materia_descrizione": "IGIENE E TECNOLOGIE ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377404",
+    "tipo": "modulo",
+    "componente_id": 377404
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35308,
+    "materia_descrizione": "BROMATOLOGIA E METODI D'ANALISI DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377405",
+    "tipo": "modulo",
+    "componente_id": 377405
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35309,
+    "materia_descrizione": "SICUREZZA E RINTRACCIABILIT?? DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377406",
+    "tipo": "modulo",
+    "componente_id": 377406
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69872,
+    "materia_descrizione": "ANATOMIA PATOLOGICA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377408
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 10230,
+    "materia_descrizione": "ANATOMIA PATOLOGICA VETERINARIA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377409",
+    "tipo": "modulo",
+    "componente_id": 377409
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 10231,
+    "materia_descrizione": "ANATOMIA PATOLOGICA VETERINARIA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377410",
+    "tipo": "modulo",
+    "componente_id": 377410
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35418,
+    "materia_descrizione": "FARMACOLOGIA E TOSSICOLOGIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377411
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35451,
+    "materia_descrizione": "FARMACOLOGIA E FARMACIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377412",
+    "tipo": "modulo",
+    "componente_id": 377412
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 3795,
+    "materia_descrizione": "TOSSICOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377413",
+    "tipo": "modulo",
+    "componente_id": 377413
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69873,
+    "materia_descrizione": "FISIOPATOLOGIA DELLA RIPRODUZIONE ANIMALE E TECNICHE DI RIPRODUZIONE ASSISTITA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377414
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 12390,
+    "materia_descrizione": "ANDROLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377415",
+    "tipo": "modulo",
+    "componente_id": 377415
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35544,
+    "materia_descrizione": "FISIOPATOLOGIA DELLA RIPRODUZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377416",
+    "tipo": "modulo",
+    "componente_id": 377416
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58189,
+    "materia_descrizione": "FECONDAZIONE ARTIFICIALE E TECNICHE DI RIPRODUZIONE ASSISTITA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377417",
+    "tipo": "modulo",
+    "componente_id": 377417
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69874,
+    "materia_descrizione": "MALATTIE TRASMISSIBILI ED EPIDEMIOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377418
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35474,
+    "materia_descrizione": "MALATTIE INFETTIVE DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377419",
+    "tipo": "modulo",
+    "componente_id": 377419
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35475,
+    "materia_descrizione": "MALATTIE INFETTIVE DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377420",
+    "tipo": "modulo",
+    "componente_id": 377420
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 7870,
+    "materia_descrizione": "MALATTIE PARASSITARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377421",
+    "tipo": "modulo",
+    "componente_id": 377421
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 6040,
+    "materia_descrizione": "EPIDEMIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377422",
+    "tipo": "modulo",
+    "componente_id": 377422
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35420,
+    "materia_descrizione": "METODOLOGIA, PATOLOGIA CLINICA E MEDICINA LEGALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377423
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35480,
+    "materia_descrizione": "METODOLOGIA CLINICA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377424",
+    "tipo": "modulo",
+    "componente_id": 377424
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35482,
+    "materia_descrizione": "METODOLOGIE DI BIOCHIMICA CLINICA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377425",
+    "tipo": "modulo",
+    "componente_id": 377425
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69876,
+    "materia_descrizione": "MEDICINA LEGALE, PROTEZIONE ANIMALE E LEGISLAZIONE VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377426",
+    "tipo": "modulo",
+    "componente_id": 377426
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35421,
+    "materia_descrizione": "NUTRIZIONE E ALIMENTAZIONE ANIMALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377427
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58183,
+    "materia_descrizione": "NUTRIZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377428",
+    "tipo": "modulo",
+    "componente_id": 377428
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69877,
+    "materia_descrizione": "ALIMENTAZIONE DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377429",
+    "tipo": "modulo",
+    "componente_id": 377429
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35483,
+    "materia_descrizione": "ALIMENTAZIONE DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377430",
+    "tipo": "modulo",
+    "componente_id": 377430
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 3380,
+    "materia_descrizione": "TECNICA MANGIMISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377431",
+    "tipo": "modulo",
+    "componente_id": 377431
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69875,
+    "materia_descrizione": "PRODUZIONI ANIMALI I (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377432
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 2571,
+    "materia_descrizione": "AVICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377433",
+    "tipo": "modulo",
+    "componente_id": 377433
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69878,
+    "materia_descrizione": "ACQUACOLTURA E ALLEVAMENTO DELLE PICCOLE SPECIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377434",
+    "tipo": "modulo",
+    "componente_id": 377434
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35529,
+    "materia_descrizione": "ALLEVAMENTO DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377435",
+    "tipo": "modulo",
+    "componente_id": 377435
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35534,
+    "materia_descrizione": "ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377482
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 58194,
+    "materia_descrizione": "ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377483",
+    "tipo": "modulo",
+    "componente_id": 377483
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79826,
+    "materia_descrizione": "TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377484",
+    "tipo": "modulo",
+    "componente_id": 377484
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79826,
+    "materia_descrizione": "TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 1 (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 402737
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69928,
+    "materia_descrizione": "MALATTIE TRASMISSIBILI E SANIT?? PUBBLICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377501
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 52432,
+    "materia_descrizione": "MALATTIE INFETTIVE, PROFILASSI E POLIZIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377502",
+    "tipo": "modulo",
+    "componente_id": 377502
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 31881,
+    "materia_descrizione": "SANIT?? PUBBLICA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377503",
+    "tipo": "modulo",
+    "componente_id": 377503
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 767,
+    "materia_descrizione": "PATOLOGIA AVIARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377504",
+    "tipo": "modulo",
+    "componente_id": 377504
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35548,
+    "materia_descrizione": "PATOLOGIA DELLA FAUNA SELVATICA ED ESOTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377505",
+    "tipo": "modulo",
+    "componente_id": 377505
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69929,
+    "materia_descrizione": "TIROCINIO DI PATOLOGIA AVIARE E DELLA FAUNA SELVATICA ED ESOTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377506",
+    "tipo": "modulo",
+    "componente_id": 377506
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69930,
+    "materia_descrizione": "PRODUZIONI ANIMALI II (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377507
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35530,
+    "materia_descrizione": "BENESSERE ANIMALE E QUALIT?? DELLE PRODUZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377508",
+    "tipo": "modulo",
+    "componente_id": 377508
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69931,
+    "materia_descrizione": "BOVINICOLTURA ED OVINICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377509",
+    "tipo": "modulo",
+    "componente_id": 377509
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 9094,
+    "materia_descrizione": "SUINICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377510",
+    "tipo": "modulo",
+    "componente_id": 377510
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35539,
+    "materia_descrizione": "SEMEIOTICA, PATOLOGIA CHIRURGICA, ANESTESIOLOGIA E MEDICINA OPERATORIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377511
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69932,
+    "materia_descrizione": "SEMEIOTICA E PATOLOGIA CHIRURGICA DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377512",
+    "tipo": "modulo",
+    "componente_id": 377512
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69933,
+    "materia_descrizione": "SEMEIOTICA E PATOLOGIA CHIRURGICA DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377513",
+    "tipo": "modulo",
+    "componente_id": 377513
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 10314,
+    "materia_descrizione": "ANESTESIOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377514",
+    "tipo": "modulo",
+    "componente_id": 377514
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 3811,
+    "materia_descrizione": "MEDICINA OPERATORIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377515",
+    "tipo": "modulo",
+    "componente_id": 377515
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35541,
+    "materia_descrizione": "SEMEIOTICA, PATOLOGIA MEDICA, RADIOLOGIA E DIAGNOSTICA PER IMMAGINI VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377516
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35597,
+    "materia_descrizione": "SEMEIOTICA E PATOLOGIA MEDICA DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377517",
+    "tipo": "modulo",
+    "componente_id": 377517
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35596,
+    "materia_descrizione": "SEMEIOTICA E PATOLOGIA MEDICA DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377518",
+    "tipo": "modulo",
+    "componente_id": 377518
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35595,
+    "materia_descrizione": "DIAGNOSTICA PER IMMAGINI E RADIOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377519",
+    "tipo": "modulo",
+    "componente_id": 377519
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35649,
+    "materia_descrizione": "CLINICA CHIRURGICA E ORTOPEDIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377544
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 3816,
+    "materia_descrizione": "CLINICA CHIRURGICA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377545",
+    "tipo": "modulo",
+    "componente_id": 377545
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 10322,
+    "materia_descrizione": "ORTOPEDIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377546",
+    "tipo": "modulo",
+    "componente_id": 377546
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377547",
+    "tipo": "modulo",
+    "componente_id": 377547
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416193
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416194
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416195
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416196
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69954,
+    "materia_descrizione": "TIROCINIO DI CHIRURGIA (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416197
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35650,
+    "materia_descrizione": "CLINICA E TERAPIA MEDICA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377548
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35658,
+    "materia_descrizione": "CLINICA E TERAPIA MEDICA DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377549",
+    "tipo": "modulo",
+    "componente_id": 377549
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 21425,
+    "materia_descrizione": "CLINICA E TERAPIA MEDICA DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377550",
+    "tipo": "modulo",
+    "componente_id": 377550
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377551",
+    "tipo": "modulo",
+    "componente_id": 377551
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416201
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416202
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416203
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416204
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416205
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (9)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416206
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (10)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416207
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (11)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416208
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (12)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416209
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (13)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416210
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (14)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416211
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69955,
+    "materia_descrizione": "TIROCINIO DI MEDICINA INTERNA (15)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416212
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69956,
+    "materia_descrizione": "CLINICA OSTETRICA E GINECOLOGICA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377552
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35666,
+    "materia_descrizione": "CLINICA OSTETRICO-GINECOLOGICA E ANDROLOGICA DEGLI ANIMALI DA REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377553",
+    "tipo": "modulo",
+    "componente_id": 377553
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35665,
+    "materia_descrizione": "CLINICA OSTETRICO-GINECOLOGICA E ANDROLOGICA DEGLI ANIMALI DA COMPAGNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377554",
+    "tipo": "modulo",
+    "componente_id": 377554
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35667,
+    "materia_descrizione": "PERINATOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377555",
+    "tipo": "modulo",
+    "componente_id": 377555
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377556",
+    "tipo": "modulo",
+    "componente_id": 377556
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416216
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416217
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416218
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416219
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (8)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416220
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69957,
+    "materia_descrizione": "TIROCINIO DI RIPRODUZIONE ANIMALE (9)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416221
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35652,
+    "materia_descrizione": "PATOLOGIA E CLINICA MEDICA E CHIRURGICA DEL CAVALLO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377557
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35672,
+    "materia_descrizione": "PATOLOGIA, CLINICA E TERAPIA MEDICA DEL CAVALLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377558",
+    "tipo": "modulo",
+    "componente_id": 377558
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35671,
+    "materia_descrizione": "PATOLOGIA, CLINICA E TERAPIA CHIRURGICA DEL CAVALLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377559",
+    "tipo": "modulo",
+    "componente_id": 377559
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69958,
+    "materia_descrizione": "TIROCINIO DI PATOLOGIA E CLINICA DEL CAVALLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377560",
+    "tipo": "modulo",
+    "componente_id": 377560
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69959,
+    "materia_descrizione": "PRATICA DI DIAGNOSTICA ANATOMO-PATOLOGICA E DELLE MALATTIE TRASMISSIBILI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377561
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35677,
+    "materia_descrizione": "TECNICA DELLE AUTOPSIE E DIAGNOSTICA NECROSCOPICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377562",
+    "tipo": "modulo",
+    "componente_id": 377562
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35678,
+    "materia_descrizione": "TIROCINIO DI ANATOMIA PATOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377563",
+    "tipo": "modulo",
+    "componente_id": 377563
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35678,
+    "materia_descrizione": "TIROCINIO DI ANATOMIA PATOLOGICA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416228
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82709,
+    "materia_descrizione": "TIROCINIO DI MALATTIE TRASMISSIBILI INFETTIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416001",
+    "tipo": "modulo",
+    "componente_id": 416001
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82710,
+    "materia_descrizione": "TIROCINIO DI MALATTIE TRASMISSIBILI PARASSITARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416002",
+    "tipo": "modulo",
+    "componente_id": 416002
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79827,
+    "materia_descrizione": "TIROCINIO DI ISPEZIONE, CONTROLLO E CERTIFICAZIONE DEGLI ALIMENTI 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377565",
+    "tipo": "",
+    "componente_id": 377565
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 35687,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377566
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69962,
+    "materia_descrizione": "TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377567",
+    "tipo": "modulo",
+    "componente_id": 377567
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69962,
+    "materia_descrizione": "TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416239
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69962,
+    "materia_descrizione": "TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416240
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69962,
+    "materia_descrizione": "TIROCINIO DI ALIMENTAZIONE ANIMALE E ZOOTECNIA GENERALE (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416241
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69963,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377568",
+    "tipo": "modulo",
+    "componente_id": 377568
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69963,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416245
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69963,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416246
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69963,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416247
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 69963,
+    "materia_descrizione": "TIROCINIO DI ZOOTECNIA SPECIALE E ZOOCOLTURE (7)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 416248
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 377569
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79021,
+    "materia_descrizione": "IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402867",
+    "tipo": "",
+    "componente_id": 402867
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79021,
+    "materia_descrizione": "IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405094
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 79021,
+    "materia_descrizione": "IL COMPORTAMENTO ANIMALE: ASPETTI MORFOFISIOLOGICI, ETOLOGICI E DISTURBI COMPORTAMENTALI (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405096
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82719,
+    "materia_descrizione": "RUOLO E ATTIVIT?? DELLA SANIT?? PUBBLICA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402868",
+    "tipo": "",
+    "componente_id": 402868
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82719,
+    "materia_descrizione": "RUOLO E ATTIVIT?? DELLA SANIT?? PUBBLICA VETERINARIA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405027
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82719,
+    "materia_descrizione": "RUOLO E ATTIVIT?? DELLA SANIT?? PUBBLICA VETERINARIA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 405028
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82720,
+    "materia_descrizione": "SCIENZA DELL'ANIMALE DA LABORATORIO E MODELLI ANIMALI PER LA MEDICINA TRASLAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415954",
+    "tipo": "",
+    "componente_id": 415954
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82716,
+    "materia_descrizione": "MEDICINE NON CONVENZIONALI (MNC) ALTERNATIVE O COMPLEMENTARI ALLA MEDICINA CLASSICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415958",
+    "tipo": "",
+    "componente_id": 415958
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82712,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415959",
+    "tipo": "",
+    "componente_id": 415959
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82712,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415963
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82712,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: MEDICINA D'URGENZA DEL CANE E DEL GATTO (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415964
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82713,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: NEUROLOGIA E NEUROCHIRURGIA DEL CANE E DEL GATTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415965",
+    "tipo": "",
+    "componente_id": 415965
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82711,
+    "materia_descrizione": "APPROCCIO ORIENTATO AL PROBLEMA: ENDOCRINOLOGIA E NEFROLOGIA DEL CANE E DEL GATTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415969",
+    "tipo": "",
+    "componente_id": 415969
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82717,
+    "materia_descrizione": "ONCOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415973",
+    "tipo": "",
+    "componente_id": 415973
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82717,
+    "materia_descrizione": "ONCOLOGIA VETERINARIA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415977
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82717,
+    "materia_descrizione": "ONCOLOGIA VETERINARIA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415978
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82714,
+    "materia_descrizione": "COMPETENZE DEL VETERINARIO IN ACQUACOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415979",
+    "tipo": "",
+    "componente_id": 415979
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82715,
+    "materia_descrizione": "DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415983",
+    "tipo": "",
+    "componente_id": 415983
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82715,
+    "materia_descrizione": "DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415987
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82715,
+    "materia_descrizione": "DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415988
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82715,
+    "materia_descrizione": "DERMATOLOGIA VETERINARIA: DAL PATTERN ALLA MALATTIA (6)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415989
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82718,
+    "materia_descrizione": "PATOLOGIA E CLINICA DEI PICCOLI RUMINANTI E DEI CAMELIDI DEL NUOVO MONDO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415990",
+    "tipo": "",
+    "componente_id": 415990
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 82718,
+    "materia_descrizione": "PATOLOGIA E CLINICA DEI PICCOLI RUMINANTI E DEI CAMELIDI DEL NUOVO MONDO (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 415994
+  },
+  {
+    "corso_codice": 8617,
+    "materia_codice": 83874,
+    "materia_descrizione": "BENESSERE ANIMALE NELLA RICERCA SCIENTIFICA, METODOLOGIA, ETICA E METODI ALTERNATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420002",
+    "tipo": "",
+    "componente_id": 420002
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37909,
+    "materia_descrizione": "I GRANDI VERTEBRATI MARINI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388902
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37907,
+    "materia_descrizione": "ANATOMIA DEI CETACEI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388903",
+    "tipo": "modulo",
+    "componente_id": 388903
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37906,
+    "materia_descrizione": "BIOLOGIA DELLE TARTARUGHE E DEI CETACEI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388904",
+    "tipo": "modulo",
+    "componente_id": 388904
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37908,
+    "materia_descrizione": "FISIOLOGIA DEI CETACEI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388905",
+    "tipo": "modulo",
+    "componente_id": 388905
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 76429,
+    "materia_descrizione": "MALATTIE TRASMISSIBILI DEI MAMMIFERI MARINI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388906",
+    "tipo": "modulo",
+    "componente_id": 388906
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37905,
+    "materia_descrizione": "FARMACOLOGIA E TOSSICOLOGIA VETERINARIA APPLICATA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388907
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 34198,
+    "materia_descrizione": "FARMACOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388908",
+    "tipo": "modulo",
+    "componente_id": 388908
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 34199,
+    "materia_descrizione": "TOSSICOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388909",
+    "tipo": "modulo",
+    "componente_id": 388909
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 37910,
+    "materia_descrizione": "ACQUARIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390018",
+    "tipo": "",
+    "componente_id": 390018
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75761,
+    "materia_descrizione": "ANATOMIA DEGLI ANIMALI ACQUATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392671",
+    "tipo": "",
+    "componente_id": 392671
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75762,
+    "materia_descrizione": "FISIOLOGIA DEGLI ANIMALI ACQUATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392672",
+    "tipo": "",
+    "componente_id": 392672
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 65967,
+    "materia_descrizione": "CHIMICA E BIOCHIMICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392673
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392674",
+    "tipo": "modulo",
+    "componente_id": 392674
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392675",
+    "tipo": "modulo",
+    "componente_id": 392675
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 65965,
+    "materia_descrizione": "MATEMATICA, STATISTICA E FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392676",
+    "tipo": "",
+    "componente_id": 392676
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 5095,
+    "materia_descrizione": "BIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392677",
+    "tipo": "",
+    "componente_id": 392677
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 72825,
+    "materia_descrizione": "ETNOGRAFIA E PRINCIPI DI GENETICA DELLE POPOLAZIONI ITTICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392678",
+    "tipo": "",
+    "componente_id": 392678
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 16621,
+    "materia_descrizione": "MICROBIOLOGIA ED EPIDEMIOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392679",
+    "tipo": "",
+    "componente_id": 392679
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392680",
+    "tipo": "",
+    "componente_id": 392680
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66267,
+    "materia_descrizione": "ACQUACOLTURA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392681
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66271,
+    "materia_descrizione": "ACQUACOLTURA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392682",
+    "tipo": "modulo",
+    "componente_id": 392682
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66272,
+    "materia_descrizione": "ACQUACOLTURA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392683",
+    "tipo": "modulo",
+    "componente_id": 392683
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 58207,
+    "materia_descrizione": "ALIMENTAZIONE DEGLI ANIMALI ACQUATICI E TECNICA MANGIMISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392684",
+    "tipo": "",
+    "componente_id": 392684
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 45605,
+    "materia_descrizione": "COSTRUZIONI E IMPIANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392685",
+    "tipo": "",
+    "componente_id": 392685
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75763,
+    "materia_descrizione": "FISIOLOGIA DELLA RIPRODUZIONE ED ENDOCRINOLOGIA DEGLI ANIMALI ACQUATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392686",
+    "tipo": "",
+    "componente_id": 392686
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66269,
+    "materia_descrizione": "IGIENE E ANALISI DI LABORATORIO DEI PRODOTTI ITTICI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392687
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66273,
+    "materia_descrizione": "ANALISI DI LABORATORIO DEI PRODOTTI DI ORIGINE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392688",
+    "tipo": "modulo",
+    "componente_id": 392688
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 17704,
+    "materia_descrizione": "IGIENE E TECNOLOGIE DEI PRODOTTI DELLA PESCA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392689",
+    "tipo": "modulo",
+    "componente_id": 392689
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75764,
+    "materia_descrizione": "MALATTIE PARASSITARIE DEGLI ANIMALI ACQUATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392690",
+    "tipo": "",
+    "componente_id": 392690
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 8397,
+    "materia_descrizione": "NUTRIZIONE E ALIMENTAZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392691",
+    "tipo": "",
+    "componente_id": 392691
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 66270,
+    "materia_descrizione": "PATOLOGIA GENERALE ED ITTIOPATOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392692",
+    "tipo": "",
+    "componente_id": 392692
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 65977,
+    "materia_descrizione": "ECONOMIA AGRARIA ED ESTIMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392736",
+    "tipo": "",
+    "componente_id": 392736
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75765,
+    "materia_descrizione": "MALATTIE INFETTIVE DEGLI ANIMALI ACQUATICI E IGIENE VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392737",
+    "tipo": "",
+    "componente_id": 392737
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75766,
+    "materia_descrizione": "QUALIT?? DEI PRODOTTI ITTICI E TECNOLOGIE ALIMENTARI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392738
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75819,
+    "materia_descrizione": "BIOCHIMICA APPLICATA ALL'AMBIENTE E AGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392739",
+    "tipo": "modulo",
+    "componente_id": 392739
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75820,
+    "materia_descrizione": "VALUTAZIONE QUALITATIVA DEI PRODOTTI ITTICI E TECNOLOGIE ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392740",
+    "tipo": "modulo",
+    "componente_id": 392740
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75767,
+    "materia_descrizione": "SISTEMI PRODUTTIVI INNOVATIVI, ECOTOSSICOLOGIA E LEGISLAZIONE IN ACQUACOLTURA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392741
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75821,
+    "materia_descrizione": "ECOTOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392742",
+    "tipo": "modulo",
+    "componente_id": 392742
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 75822,
+    "materia_descrizione": "GESTIONE DI SISTEMI E TECNOLOGIE INNOVATIVE IN ACQUACOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392743",
+    "tipo": "modulo",
+    "componente_id": 392743
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 30549,
+    "materia_descrizione": "MEDICINA LEGALE VETERINARIA, LEGISLAZIONE VETERINARIA E PROTEZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392744",
+    "tipo": "modulo",
+    "componente_id": 392744
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393003",
+    "tipo": "",
+    "componente_id": 393003
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 393004
+  },
+  {
+    "corso_codice": 8834,
+    "materia_codice": 74614,
+    "materia_descrizione": "REGOLAMENTAZIONE E IGIENE DELLE PRODUZIONI DELLA PESCA MARITTIMA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394934",
+    "tipo": "",
+    "componente_id": 394934
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74872,
+    "materia_descrizione": "ANATOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403608",
+    "tipo": "",
+    "componente_id": 403608
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74873,
+    "materia_descrizione": "GENETICA E VALUTAZIONE MORFOFUNZIONALE DEGLI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403609",
+    "tipo": "",
+    "componente_id": 403609
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74874,
+    "materia_descrizione": "PRINCIPI DI ECONOMIA AGRARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403610",
+    "tipo": "",
+    "componente_id": 403610
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74875,
+    "materia_descrizione": "AGRONOMIA E COLTIVAZIONI ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403611",
+    "tipo": "",
+    "componente_id": 403611
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74877,
+    "materia_descrizione": "MIGLIORAMENTO GENETICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403613",
+    "tipo": "",
+    "componente_id": 403613
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74878,
+    "materia_descrizione": "NUTRIZIONE E ALIMENTAZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403614",
+    "tipo": "",
+    "componente_id": 403614
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 27843,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA ALLE PRODUZIONI ANIMALI E IGIENE DEGLI ALIMENTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403624
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 15179,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA ALLE PRODUZIONI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403625",
+    "tipo": "modulo",
+    "componente_id": 403625
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 5684,
+    "materia_descrizione": "IGIENE DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403626",
+    "tipo": "modulo",
+    "componente_id": 403626
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65965,
+    "materia_descrizione": "MATEMATICA, STATISTICA E FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403632",
+    "tipo": "",
+    "componente_id": 403632
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65967,
+    "materia_descrizione": "CHIMICA E BIOCHIMICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403635
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 88,
+    "materia_descrizione": "CHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403636",
+    "tipo": "modulo",
+    "componente_id": 403636
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403637",
+    "tipo": "modulo",
+    "componente_id": 403637
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65982,
+    "materia_descrizione": "COSTRUZIONI MACCHINE E IMPIANTI PER LA ZOOTECNIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403639
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 45605,
+    "materia_descrizione": "COSTRUZIONI E IMPIANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403640",
+    "tipo": "modulo",
+    "componente_id": 403640
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65983,
+    "materia_descrizione": "MACCHINE E IMPIANTI PER LA ZOOTECNIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403641",
+    "tipo": "modulo",
+    "componente_id": 403641
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 27847,
+    "materia_descrizione": "EPIDEMIOLOGIA, PARASSITOLOGIA E PATOLOGIA VETERINARIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403647
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65975,
+    "materia_descrizione": "PRINCIPI DI PATOLOGIA COMPARATA DEGLI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403648",
+    "tipo": "modulo",
+    "componente_id": 403648
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 65976,
+    "materia_descrizione": "EPIDEMIOLOGIA E PARASSITOLOGIA VETERINARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403649",
+    "tipo": "modulo",
+    "componente_id": 403649
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 72469,
+    "materia_descrizione": "FISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403652",
+    "tipo": "",
+    "componente_id": 403652
+  },
+  {
+    "corso_codice": 8882,
+    "materia_codice": 74880,
+    "materia_descrizione": "ZOOECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403656",
+    "tipo": "",
+    "componente_id": 403656
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 72647,
+    "materia_descrizione": "ECOSYSTEMS AND PLANT ECOPHYSIOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403953",
+    "tipo": "",
+    "componente_id": 403953
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79430,
+    "materia_descrizione": "ADVANCED PLANT PATHOLOGY AND ENTOMOLOGY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403960",
+    "tipo": "",
+    "componente_id": 403960
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 72656,
+    "materia_descrizione": "MANAGING CROP GROWTH, YIELD AND QUALITY (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403963
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79436,
+    "materia_descrizione": "YIELD AND PRODUCT QUALITY MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403964",
+    "tipo": "modulo",
+    "componente_id": 403964
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 72659,
+    "materia_descrizione": "VEGETABLE CROPS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403965",
+    "tipo": "modulo",
+    "componente_id": 403965
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 27238,
+    "materia_descrizione": "HORTICULTURAL ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403968",
+    "tipo": "",
+    "componente_id": 403968
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79437,
+    "materia_descrizione": "CROP BIOTECHNOLOGY (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403972
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79438,
+    "materia_descrizione": "BIOTECHNOLOGICAL APPROACH TO INCREASE SUSTAINABILITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403973",
+    "tipo": "modulo",
+    "componente_id": 403973
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79439,
+    "materia_descrizione": "BIOTECHNOLOGY OF PLANT PROBIOTICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403974",
+    "tipo": "modulo",
+    "componente_id": 403974
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79443,
+    "materia_descrizione": "SYSTEMS ANALYSIS AS RESEARCH METHOD (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403979
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79444,
+    "materia_descrizione": "RESEARCH AND EVALUATION METHODS IN THE HORTICULTURAL SYSTEM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403982",
+    "tipo": "modulo",
+    "componente_id": 403982
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79446,
+    "materia_descrizione": "SCIENTIFIC METHOD IN HORTICULTURAL RESEARCH",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403983",
+    "tipo": "modulo",
+    "componente_id": 403983
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79447,
+    "materia_descrizione": "PLANT BIOCHEMISTRY AND ANALYTICAL CHEMISTRY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403986",
+    "tipo": "",
+    "componente_id": 403986
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79448,
+    "materia_descrizione": "ACADEMIC BASECAMP",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403992",
+    "tipo": "",
+    "componente_id": 403992
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 20725,
+    "materia_descrizione": "TIROCINIO FORMATIVO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403993
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 73601,
+    "materia_descrizione": "TESI SPERIMENTALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403994
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79449,
+    "materia_descrizione": "PRODUCTION CHAIN MANAGEMENT (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403995
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79450,
+    "materia_descrizione": "INTEGRATED ORCHARD AND VINEYARD MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403996",
+    "tipo": "modulo",
+    "componente_id": 403996
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79451,
+    "materia_descrizione": "MINERAL NUTRITION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403997",
+    "tipo": "modulo",
+    "componente_id": 403997
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79452,
+    "materia_descrizione": "APPLIED ENTOMOLOGY IN HORTICULTURE CROPS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403998",
+    "tipo": "modulo",
+    "componente_id": 403998
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79456,
+    "materia_descrizione": "PLANT PROTECTION AND DISEASE MANAGEMENT (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404005
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79457,
+    "materia_descrizione": "PLANT PROTECTION PRODUCTS AND RESIDUES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404006",
+    "tipo": "modulo",
+    "componente_id": 404006
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79458,
+    "materia_descrizione": "ELEMENTS OF CHEMISTRY AND BIOCHEMISTRY OF AGROCHEMICALS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404007",
+    "tipo": "modulo",
+    "componente_id": 404007
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79459,
+    "materia_descrizione": "INTEGRATED PLANT DISEASE MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404008",
+    "tipo": "modulo",
+    "componente_id": 404008
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79460,
+    "materia_descrizione": "EFFICIENT RESOURCE USE IN PRODUCTION SYSTEMS (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404009
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79461,
+    "materia_descrizione": "PROJECT DEVELOPMENT AND MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404010",
+    "tipo": "modulo",
+    "componente_id": 404010
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79462,
+    "materia_descrizione": "APPLIED BREEDING AND SUSTAINABILITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404011",
+    "tipo": "modulo",
+    "componente_id": 404011
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79464,
+    "materia_descrizione": "INFORMATION AND DSS IN FRUIT PRODUCTION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404012",
+    "tipo": "modulo",
+    "componente_id": 404012
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79465,
+    "materia_descrizione": "POST-HARVEST CHAIN MANAGEMENT (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404013
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79454,
+    "materia_descrizione": "SUPPLY CHAIN AND INNOVATION MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404021",
+    "tipo": "modulo",
+    "componente_id": 404021
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 73586,
+    "materia_descrizione": "FRUIT PROCESSING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404022",
+    "tipo": "modulo",
+    "componente_id": 404022
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 73558,
+    "materia_descrizione": "POST-HARVEST MANAGEMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404023",
+    "tipo": "modulo",
+    "componente_id": 404023
+  },
+  {
+    "corso_codice": 8883,
+    "materia_codice": 79543,
+    "materia_descrizione": "SUSTAINABLE AND SAFE USE OF HORTICULTURAL EQUIPMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404315",
+    "tipo": "",
+    "componente_id": 404315
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79245,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA IN AGRICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403700",
+    "tipo": "",
+    "componente_id": 403700
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82459,
+    "materia_descrizione": "MACCHINE PER LA DIFESA E COLTURE PROTETTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403701
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79246,
+    "materia_descrizione": "MACCHINE PER LA DIFESA SOSTENIBILE DELLE PIANTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403702",
+    "tipo": "modulo",
+    "componente_id": 403702
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82455,
+    "materia_descrizione": "GESTIONE DEL CLIMA E TECNOLOGIE IN SERRA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403703",
+    "tipo": "modulo",
+    "componente_id": 403703
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79248,
+    "materia_descrizione": "AGRONOMIA AMBIENTALE, AGROCLIMATOLOGIA E METODOLOGIA SPERIMENTALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403704
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79249,
+    "materia_descrizione": "AGRONOMIA AMBIENTALE E MALERBOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403705",
+    "tipo": "modulo",
+    "componente_id": 403705
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 67478,
+    "materia_descrizione": "AGROCLIMATOLOGIA E METODOLOGIA SPERIMENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403706",
+    "tipo": "modulo",
+    "componente_id": 403706
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79255,
+    "materia_descrizione": "AGRONOMIA AMBIENTALE E FISICA DEL SUOLO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403710
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79249,
+    "materia_descrizione": "AGRONOMIA AMBIENTALE E MALERBOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403714",
+    "tipo": "modulo",
+    "componente_id": 403714
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 66030,
+    "materia_descrizione": "FISICA DEL SUOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403715",
+    "tipo": "modulo",
+    "componente_id": 403715
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79256,
+    "materia_descrizione": "NUTRIZIONE DELLE PIANTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403711
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79260,
+    "materia_descrizione": "CHIMICA E BIOCHIMICA DELLA NUTRIZIONE DELLE PIANTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403719",
+    "tipo": "modulo",
+    "componente_id": 403719
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79261,
+    "materia_descrizione": "MICROBIOLOGIA DELLA NUTRIZIONE VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403720",
+    "tipo": "modulo",
+    "componente_id": 403720
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79257,
+    "materia_descrizione": "DIFESA SOSTENIBILE DELLE PIANTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403712
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79265,
+    "materia_descrizione": "GESTIONE DELLA DIFESA DAGLI ARTROPODI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403726",
+    "tipo": "modulo",
+    "componente_id": 403726
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79266,
+    "materia_descrizione": "GESTIONE DELLA DIFESA DALLE MALATTIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403727",
+    "tipo": "modulo",
+    "componente_id": 403727
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79258,
+    "materia_descrizione": "MIGLIORAMENTO GENETICO E PRODUZIONE DELLE SEMENTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403713
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 29978,
+    "materia_descrizione": "MIGLIORAMENTO GENETICO DELLE COLTURE ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403721",
+    "tipo": "modulo",
+    "componente_id": 403721
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79262,
+    "materia_descrizione": "BIOLOGIA, PRODUZIONE E CONTROLLO DELLE SEMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403722",
+    "tipo": "modulo",
+    "componente_id": 403722
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79267,
+    "materia_descrizione": "FISIOLOGIA E QUALIT?? DELLE PRODUZIONI VEGETALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403732
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 30054,
+    "materia_descrizione": "FISIOLOGIA E QUALIT?? DELLE PRODUZIONI ERBACEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403733",
+    "tipo": "modulo",
+    "componente_id": 403733
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 72613,
+    "materia_descrizione": "FISIOLOGIA DEGLI ALBERI DA FRUTTO E QUALIT?? DELLA FRUTTA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403734",
+    "tipo": "modulo",
+    "componente_id": 403734
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79268,
+    "materia_descrizione": "BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI ERBACEE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403735
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82456,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE E INGEGNERIA GENETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403736",
+    "tipo": "modulo",
+    "componente_id": 403736
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82457,
+    "materia_descrizione": "APPLICAZIONI DI GENOMICA AL MIGLIORAMENTO GENETICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403737",
+    "tipo": "modulo",
+    "componente_id": 403737
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 29996,
+    "materia_descrizione": "AVVERSIT?? DELLE PIANTE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403738
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79271,
+    "materia_descrizione": "LOTTA BIOLOGICA E INTEGRATA AGLI INSETTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403739",
+    "tipo": "modulo",
+    "componente_id": 403739
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 29997,
+    "materia_descrizione": "PATOLOGIA VEGETALE AVANZATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403740",
+    "tipo": "modulo",
+    "componente_id": 403740
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79275,
+    "materia_descrizione": "PROTEZIONE DEI PRODOTTI E DELLE DERRATE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403741
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82463,
+    "materia_descrizione": "PARASSITOLOGIA DEI PRODOTTI E DELLE DERRATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403742",
+    "tipo": "modulo",
+    "componente_id": 403742
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 18459,
+    "materia_descrizione": "PATOLOGIA DEI PRODOTTI E DELLE DERRATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403743",
+    "tipo": "modulo",
+    "componente_id": 403743
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79277,
+    "materia_descrizione": "ESTIMO, TOPOGRAFIA E CARTOGRAFIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403744
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 82458,
+    "materia_descrizione": "ESTIMO PROFESSIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403748",
+    "tipo": "modulo",
+    "componente_id": 403748
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 1063,
+    "materia_descrizione": "TOPOGRAFIA E CARTOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403749",
+    "tipo": "modulo",
+    "componente_id": 403749
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79278,
+    "materia_descrizione": "TECNOLOGIE DI TRASFORMAZIONE E MICROBIOLOGIA DELLE FERMENTAZIONI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403745
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 29972,
+    "materia_descrizione": "TRASFORMAZIONE DEI PRODOTTI VEGETALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403746",
+    "tipo": "modulo",
+    "componente_id": 403746
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79279,
+    "materia_descrizione": "FERMENTAZIONE DEGLI ALIMENTI DI ORIGINE VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403747",
+    "tipo": "modulo",
+    "componente_id": 403747
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 2304,
+    "materia_descrizione": "VITICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403935",
+    "tipo": "",
+    "componente_id": 403935
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 2575,
+    "materia_descrizione": "ORTICOLTURA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403936",
+    "tipo": "",
+    "componente_id": 403936
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 66034,
+    "materia_descrizione": "MIGLIORAMENTO VARIETALE E BIOTECNOLOGIE APPLICATE ALLE PRODUZIONI FRUTTICOLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403937",
+    "tipo": "",
+    "componente_id": 403937
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79421,
+    "materia_descrizione": "FLORICOLTURA E VIVAISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403938",
+    "tipo": "",
+    "componente_id": 403938
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79422,
+    "materia_descrizione": "COLTIVAZIONI ERBACEE A DESTINAZIONE INDUSTRIALE ED ENERGETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403939",
+    "tipo": "",
+    "componente_id": 403939
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79423,
+    "materia_descrizione": "POMOLOGIA E TECNICA VIVAISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403940",
+    "tipo": "",
+    "componente_id": 403940
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79424,
+    "materia_descrizione": "ZOOLOGIA AGRARIA APPLICATA ALLA DIFESA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403941",
+    "tipo": "",
+    "componente_id": 403941
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79426,
+    "materia_descrizione": "DIREZIONE AZIENDALE E STRATEGIE D'IMPRESA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403943",
+    "tipo": "",
+    "componente_id": 403943
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404030
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79425,
+    "materia_descrizione": "TECNICHE DIAGNOSTICHE E BIOTECNOLOGIE FITOPATOLOGICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417587",
+    "tipo": "",
+    "componente_id": 417587
+  },
+  {
+    "corso_codice": 8884,
+    "materia_codice": 79427,
+    "materia_descrizione": "POLITICHE AGRICOLE INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417594",
+    "tipo": "",
+    "componente_id": 417594
+  }
+]
