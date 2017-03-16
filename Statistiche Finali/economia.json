@@ -1,0 +1,350 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "24,8",
+   "Voto di laurea (medie)�": "95,7",
+   "in_corso_perc": "66,6",
+   "Durata degli studi (medie, in anni)�": "3,8",
+   "durata": "0,7",
+   "erasmus": "17,7",
+   
+      "stage_perc": "48,8",
+   "soddisfazione_perc": "31,1"
+},
+ {
+   "corso": "business and economics/economia e gestione di impresa - gi� economia e marketing (L-18)",
+   "voto_esami": "26",
+   "Voto di laurea (medie)�": "101,5",
+   "in_corso_perc": "82,1",
+   "Durata degli studi (medie, in anni)�": "3,2",
+   "durata": "0,3",
+   "erasmus": "56,3",
+   
+      "stage_perc": "29,1",
+   "soddisfazione_perc": "23,3"
+},
+ {
+   "corso": "economia aziendale (17)",
+   "voto_esami": "22",
+   "Voto di laurea (medie)�": "81,8",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "10,2",
+   "durata": "6,8",
+   "erasmus": "-",
+   
+      "stage_perc": "7,7",
+   "soddisfazione_perc": "30,8"
+},
+ {
+   "corso": "economia aziendale (L-18)",
+   "voto_esami": "24,7",
+   "Voto di laurea (medie)�": "95,5",
+   "in_corso_perc": "67",
+   "Durata degli studi (medie, in anni)�": "3,5",
+   "durata": "0,4",
+   "erasmus": "21,4",
+   
+      "stage_perc": "10,4",
+   "soddisfazione_perc": "19,8"
+},
+ {
+   "corso": "economia dei mercati e dei sistemi turistici (28)",
+   "voto_esami": "22,4",
+   "Voto di laurea (medie)�": "81,6",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "8,7",
+   "durata": "5,2",
+   "erasmus": "-",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "50"
+},
+ {
+   "corso": "economia del turismo (17)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia del turismo (L-33)",
+   "voto_esami": "23,7",
+   "Voto di laurea (medie)�": "90,6",
+   "in_corso_perc": "58,3",
+   "Durata degli studi (medie, in anni)�": "3,8",
+   "durata": "0,5",
+   "erasmus": "10,4",
+   
+      "stage_perc": "94,8",
+   "soddisfazione_perc": "21,5"
+},
+ {
+   "corso": "economia delle imprese cooperative e delle organizzazioni non profit (28)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia delle imprese cooperative e delle organizzazioni non-profit (28)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia dell'impresa (L-18)",
+   "voto_esami": "24,2",
+   "Voto di laurea (medie)�": "93",
+   "in_corso_perc": "63,1",
+   "Durata degli studi (medie, in anni)�": "3,6",
+   "durata": "0,4",
+   "erasmus": "5,5",
+   
+      "stage_perc": "92,5",
+   "soddisfazione_perc": "34,9"
+},
+ {
+   "corso": "economia e amministrazione delle imprese (17)",
+   "voto_esami": "23,2",
+   "Voto di laurea (medie)�": "87,6",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "10,3",
+   "durata": "6,8",
+   "erasmus": "25",
+   
+      "stage_perc": "75",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "economia e commercio - sede di Bologna (17)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e commercio - sede di Forl� (17)",
+   "voto_esami": "22,8",
+   "Voto di laurea (medie)�": "85",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "9",
+   "durata": "5,5",
+   "erasmus": "-",
+   
+      "stage_perc": "83,3",
+   "soddisfazione_perc": "33,3"
+},
+ {
+   "corso": "economia e commercio (L-18)",
+   "voto_esami": "25,1",
+   "Voto di laurea (medie)�": "96,6",
+   "in_corso_perc": "68,8",
+   "Durata degli studi (medie, in anni)�": "3,6",
+   "durata": "0,5",
+   "erasmus": "7,4",
+   
+      "stage_perc": "92,1",
+   "soddisfazione_perc": "33,1"
+},
+ {
+   "corso": "economia e diritto (28)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e diritto (L-33)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e finanza (28)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e gestione aziendale (17)",
+   "voto_esami": "23,3",
+   "Voto di laurea (medie)�": "86,8",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "8,5",
+   "durata": "5",
+   "erasmus": "-",
+   
+      "stage_perc": "80",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "economia e gestione delle imprese (17)",
+   "voto_esami": "23,5",
+   "Voto di laurea (medie)�": "87,7",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "9,5",
+   "durata": "6,1",
+   "erasmus": "-",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "60"
+},
+ {
+   "corso": "economia e management (28)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e marketing (17)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "economia e professione (17)",
+   "voto_esami": "22,4",
+   "Voto di laurea (medie)�": "83,1",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "9,8",
+   "durata": "6,3",
+   "erasmus": "14,3",
+   
+      "stage_perc": "85,7",
+   "soddisfazione_perc": "42,9"
+},
+ {
+   "corso": "economia e professione (L-18)",
+   "voto_esami": "23,3",
+   "Voto di laurea (medie)�": "86,7",
+   "in_corso_perc": "-",
+   "Durata degli studi (medie, in anni)�": "6",
+   "durata": "2,5",
+   "erasmus": "-",
+   
+      "stage_perc": "83,3",
+   "soddisfazione_perc": "16,7"
+},
+ {
+   "corso": "economia, mercati e istituzioni (L-33)",
+   "voto_esami": "24,4",
+   "Voto di laurea (medie)�": "93",
+   "in_corso_perc": "71,1",
+   "Durata degli studi (medie, in anni)�": "3,5",
+   "durata": "0,4",
+   "erasmus": "24,4",
+   
+      "stage_perc": "2,4",
+   "soddisfazione_perc": "23,2"
+},
+ {
+   "corso": "economics and finance / economia e finanza (L-33)",
+   "voto_esami": "24,6",
+   "Voto di laurea (medie)�": "94,8",
+   "in_corso_perc": "68,4",
+   "Durata degli studi (medie, in anni)�": "3,4",
+   "durata": "0,3",
+   "erasmus": "17",
+   
+      "stage_perc": "9,7",
+   "soddisfazione_perc": "29"
+},
+ {
+   "corso": "finanza, assicurazioni e impresa (L-41)",
+   "voto_esami": "26,9",
+   "Voto di laurea (medie)�": "105,3",
+   "in_corso_perc": "78,8",
+   "Durata degli studi (medie, in anni)�": "3,2",
+   "durata": "0,2",
+   "erasmus": "6,1",
+   
+      "stage_perc": "54,5",
+   "soddisfazione_perc": "48,5"
+},
+ {
+   "corso": "management e marketing - gi� economia e gestione delle imprese (L-18)",
+   "voto_esami": "25,7",
+   "Voto di laurea (medie)�": "99,9",
+   "in_corso_perc": "84,1",
+   "Durata degli studi (medie, in anni)�": "3,1",
+   "durata": "0,2",
+   "erasmus": "25,2",
+   
+      "stage_perc": "32,8",
+   "soddisfazione_perc": "36,6"
+},
+ {
+   "corso": "scienze statistiche (L-41)",
+   "voto_esami": "26,4",
+   "Voto di laurea (medie)�": "102,9",
+   "in_corso_perc": "79,6",
+   "Durata degli studi (medie, in anni)�": "3,3",
+   "durata": "0,3",
+   "erasmus": "24,4",
+   
+      "stage_perc": "21,1",
+   "soddisfazione_perc": "57,8"
+},
+ {
+   "corso": "statistica, impresa e mercati (37)(1)�",
+   "voto_esami": "*",
+   "Voto di laurea (medie)�": "*",
+   "in_corso_perc": "*",
+   "Durata degli studi (medie, in anni)�": "*",
+   "durata": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+}
+]

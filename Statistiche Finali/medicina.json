@@ -1,0 +1,350 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "26,3",
+   "voto_laurea": "103,6",
+   "in_corso_perc": "70,1",
+   "durata": "3,7",
+   "ritardo": "0,5",
+   "erasmus": "4,6",
+   
+      "stage_perc": "79",
+   "soddisfazione_perc": "33,7"
+},
+ {
+   "corso": "dietistica (L/SNT3)",
+   "voto_esami": "29,5",
+   "voto_laurea": "113",
+   "in_corso_perc": "83,3",
+   "durata": "3,2",
+   "ritardo": "0,1",
+   "erasmus": "-",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "50"
+},
+ {
+   "corso": "dietistica (SNT/3)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "educazione professionale (L/SNT2)",
+   "voto_esami": "27,9",
+   "voto_laurea": "107,5",
+   "in_corso_perc": "61,9",
+   "durata": "3,5",
+   "ritardo": "0,2",
+   "erasmus": "4,8",
+   
+      "stage_perc": "81",
+   "soddisfazione_perc": "42,9"
+},
+ {
+   "corso": "educazione professionale (SNT/2)",
+   "voto_esami": "25,4",
+   "voto_laurea": "94,4",
+   "in_corso_perc": "-",
+   "durata": "4,3",
+   "ritardo": "0,9",
+   "erasmus": "-",
+   
+      "stage_perc": "60",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "fisioterapia (L/SNT2)",
+   "voto_esami": "28,3",
+   "voto_laurea": "110,3",
+   "in_corso_perc": "69,7",
+   "durata": "3,4",
+   "ritardo": "0,2",
+   "erasmus": "6,5",
+   
+      "stage_perc": "72,6",
+   "soddisfazione_perc": "22,6"
+},
+ {
+   "corso": "fisioterapia (SNT/2)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "igiene dentale (L/SNT3)",
+   "voto_esami": "28,4",
+   "voto_laurea": "109,7",
+   "in_corso_perc": "69,2",
+   "durata": "3,6",
+   "ritardo": "0,3",
+   "erasmus": "-",
+   
+      "stage_perc": "90,9",
+   "soddisfazione_perc": "27,3"
+},
+ {
+   "corso": "igiene dentale (SNT/3)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "infermieristica - sede di Bologna (L/SNT1)",
+   "voto_esami": "25,6",
+   "voto_laurea": "101,6",
+   "in_corso_perc": "82,1",
+   "durata": "3,5",
+   "ritardo": "0,3",
+   "erasmus": "5,8",
+   
+      "stage_perc": "85,9",
+   "soddisfazione_perc": "41,9"
+},
+ {
+   "corso": "infermieristica - sede di Ravenna - dall'a.a. 2008/09 (SNT/1)",
+   "voto_esami": "25",
+   "voto_laurea": "96,3",
+   "in_corso_perc": "-",
+   "durata": "5",
+   "ritardo": "1,5",
+   "erasmus": "-",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "-"
+},
+ {
+   "corso": "infermieristica - sede di Rimini (L/SNT1)",
+   "voto_esami": "25,9",
+   "voto_laurea": "103,8",
+   "in_corso_perc": "86,7",
+   "durata": "3,4",
+   "ritardo": "0,1",
+   "erasmus": "3,4",
+   
+      "stage_perc": "76",
+   "soddisfazione_perc": "42,5"
+},
+ {
+   "corso": "infermieristica - sede di Rimini (SNT/1)",
+   "voto_esami": "23,1",
+   "voto_laurea": "87,7",
+   "in_corso_perc": "-",
+   "durata": "6,3",
+   "ritardo": "2,9",
+   "erasmus": "-",
+   
+      "stage_perc": "75",
+   "soddisfazione_perc": "30"
+},
+ {
+   "corso": "infermieristica - sedi di Bologna (fino all'a.a. 2010/11) e Ravenna (fino all'a.a. 2007/08) (SNT/1)",
+   "voto_esami": "23,1",
+   "voto_laurea": "89,2",
+   "in_corso_perc": "-",
+   "durata": "6,6",
+   "ritardo": "3,1",
+   "erasmus": "-",
+   
+      "stage_perc": "75,8",
+   "soddisfazione_perc": "21,2"
+},
+ {
+   "corso": "infermieristica - sedi di Faenza e Ravenna (L/SNT1)",
+   "voto_esami": "25,8",
+   "voto_laurea": "102,8",
+   "in_corso_perc": "82,9",
+   "durata": "3,4",
+   "ritardo": "0,2",
+   "erasmus": "3,5",
+   
+      "stage_perc": "70,2",
+   "soddisfazione_perc": "31,6"
+},
+ {
+   "corso": "logopedia (L/SNT2)",
+   "voto_esami": "28,9",
+   "voto_laurea": "112",
+   "in_corso_perc": "44,4",
+   "durata": "3,7",
+   "ritardo": "0,3",
+   "erasmus": "-",
+   
+      "stage_perc": "87,5",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "ortottica ed assistenza oftalmologica (L/SNT2)",
+   "voto_esami": "28,5",
+   "voto_laurea": "110,3",
+   "in_corso_perc": "71,4",
+   "durata": "3,5",
+   "ritardo": "0,4",
+   "erasmus": "-",
+   
+      "stage_perc": "42,9",
+   "soddisfazione_perc": "14,3"
+},
+ {
+   "corso": "ostetricia (L/SNT1)",
+   "voto_esami": "29",
+   "voto_laurea": "111,3",
+   "in_corso_perc": "51,7",
+   "durata": "3,9",
+   "ritardo": "0,6",
+   "erasmus": "7,1",
+   
+      "stage_perc": "85,7",
+   "soddisfazione_perc": "28,6"
+},
+ {
+   "corso": "ostetricia (SNT/1)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "podologia (L/SNT2)",
+   "voto_esami": "28,1",
+   "voto_laurea": "109,1",
+   "in_corso_perc": "85,7",
+   "durata": "3,3",
+   "ritardo": "0,1",
+   "erasmus": "14,3",
+   
+      "stage_perc": "71,4",
+   "soddisfazione_perc": "7,1"
+},
+ {
+   "corso": "tecniche della prevenzione nell'ambiente e nei luoghi di lavoro (L/SNT4)",
+   "voto_esami": "26,8",
+   "voto_laurea": "104,2",
+   "in_corso_perc": "84,2",
+   "durata": "3,6",
+   "ritardo": "0,4",
+   "erasmus": "5,3",
+   
+      "stage_perc": "73,7",
+   "soddisfazione_perc": "26,3"
+},
+ {
+   "corso": "tecniche della prevenzione nell'ambiente e nei luoghi di lavoro (SNT/4)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "tecniche di laboratorio biomedico (L/SNT3)",
+   "voto_esami": "27,7",
+   "voto_laurea": "110,9",
+   "in_corso_perc": "70,6",
+   "durata": "3,5",
+   "ritardo": "0,3",
+   "erasmus": "6,3",
+   
+      "stage_perc": "87,5",
+   "soddisfazione_perc": "43,8"
+},
+ {
+   "corso": "tecniche di neurofisiopatologia (L/SNT3)",
+   "voto_esami": "28,5",
+   "voto_laurea": "109",
+   "in_corso_perc": "75",
+   "durata": "3,2",
+   "ritardo": "0,1",
+   "erasmus": "14,3",
+   
+      "stage_perc": "100",
+   "soddisfazione_perc": "28,6"
+},
+ {
+   "corso": "tecniche di radiologia medica, per immagini e radioterapia - sede di Bologna (L/SNT3)",
+   "voto_esami": "28,1",
+   "voto_laurea": "109,4",
+   "in_corso_perc": "83,3",
+   "durata": "3,2",
+   "ritardo": "0,1",
+   "erasmus": "8,3",
+   
+      "stage_perc": "75",
+   "soddisfazione_perc": "16,7"
+},
+ {
+   "corso": "tecniche di radiologia medica, per immagini e radioterapia - sede di Rimini - dall'a.a. 2008/09 (SNT/3)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "tecniche di radiologia medica, per immagini e radioterapia - sede di Rimini (L/SNT3)",
+   "voto_esami": "28",
+   "voto_laurea": "110,2",
+   "in_corso_perc": "61,5",
+   "durata": "3,4",
+   "ritardo": "0,2",
+   "erasmus": "-",
+   
+      "stage_perc": "91,7",
+   "soddisfazione_perc": "41,7"
+},
+ {
+   "corso": "tecniche ortopediche (L/SNT3)",
+   "voto_esami": "27,7",
+   "voto_laurea": "108,6",
+   "in_corso_perc": "66,7",
+   "durata": "3,5",
+   "ritardo": "0,2",
+   "erasmus": "-",
+   
+      "stage_perc": "80",
+   "soddisfazione_perc": "-"
+},
+ {
+   "corso": "tecniche ortopediche (SNT/3)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+}
+]

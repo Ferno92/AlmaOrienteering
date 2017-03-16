@@ -1,0 +1,74 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "26,8",
+   "voto_laurea": "102,8",
+   "in_corso_perc": "55,3",
+   "durata": "4,1",
+   "ritardo": "0,8",
+   "erasmus": "56,1",
+   
+      "stage_perc": "76,2",
+   "soddisfazione_perc": "24,8"
+},
+ {
+   "corso": "lingue e letterature straniere (11)",
+   "voto_esami": "25,7",
+   "voto_laurea": "94,5",
+   "in_corso_perc": "-",
+   "durata": "9,7",
+   "ritardo": "6,2",
+   "erasmus": "34,8",
+   
+      "stage_perc": "52,2",
+   "soddisfazione_perc": "8,7"
+},
+ {
+   "corso": "lingue e letterature straniere (L-11)",
+   "voto_esami": "26,5",
+   "voto_laurea": "102,1",
+   "in_corso_perc": "43,6",
+   "durata": "4,2",
+   "ritardo": "0,9",
+   "erasmus": "44,4",
+   
+      "stage_perc": "90,3",
+   "soddisfazione_perc": "18,2"
+},
+ {
+   "corso": "lingue, mercati e culture dell'asia (11)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "lingue, mercati e culture dell'asia (L-11)",
+   "voto_esami": "27,2",
+   "voto_laurea": "105",
+   "in_corso_perc": "65,9",
+   "durata": "3,8",
+   "ritardo": "0,5",
+   "erasmus": "55,1",
+   
+      "stage_perc": "10,3",
+   "soddisfazione_perc": "16,7"
+},
+ {
+   "corso": "mediazione linguistica interculturale (L-12)",
+   "voto_esami": "27,2",
+   "voto_laurea": "104,4",
+   "in_corso_perc": "82,6",
+   "durata": "3,1",
+   "ritardo": "0,2",
+   "erasmus": "84",
+   
+      "stage_perc": "81,1",
+   "soddisfazione_perc": "44,4"
+}
+]

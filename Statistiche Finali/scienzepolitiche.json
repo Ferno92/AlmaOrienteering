@@ -1,0 +1,230 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "25,5",
+   "voto_laurea": "97,3",
+   "in_corso_perc": "69,7",
+   "durata": "3,8",
+   "ritardo": "0,7",
+   "erasmus": "26,8",
+   
+      "stage_perc": "32,6",
+   "soddisfazione_perc": "32,5"
+},
+ {
+   "corso": "culture e diritti umani (15)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "governo, amministrazione e gestione del territorio (19)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "operatore della sicurezza e del controllo sociale (36)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze dell'organizzazione (19)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze internazionali e diplomatiche (15)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze internazionali e diplomatiche (L-36)",
+   "voto_esami": "25,8",
+   "voto_laurea": "98,7",
+   "in_corso_perc": "87,5",
+   "durata": "3,1",
+   "ritardo": "0,1",
+   "erasmus": "46,7",
+   
+      "stage_perc": "6,6",
+   "soddisfazione_perc": "43,8"
+},
+ {
+   "corso": "scienze politiche (15)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze politiche e delle organizzazioni (L-16,L-36)",
+   "voto_esami": "22,7",
+   "voto_laurea": "84,9",
+   "in_corso_perc": "-",
+   "durata": "5,6",
+   "ritardo": "2,1",
+   "erasmus": "25",
+   
+      "stage_perc": "50",
+   "soddisfazione_perc": "12,5"
+},
+ {
+   "corso": "scienze politiche, sociali e internazionali - gi� studi internazionali (L-36)",
+   "voto_esami": "25,4",
+   "voto_laurea": "97,1",
+   "in_corso_perc": "71",
+   "durata": "3,5",
+   "ritardo": "0,3",
+   "erasmus": "23,3",
+   
+      "stage_perc": "9,2",
+   "soddisfazione_perc": "25,7"
+},
+ {
+   "corso": "servizio sociale (6)",
+   "voto_esami": "24,8",
+   "voto_laurea": "93,7",
+   "in_corso_perc": "-",
+   "durata": "12,6",
+   "ritardo": "9,1",
+   "erasmus": "-",
+   
+      "stage_perc": "62,5",
+   "soddisfazione_perc": "25"
+},
+ {
+   "corso": "servizio sociale (L-39)",
+   "voto_esami": "26,1",
+   "voto_laurea": "99,8",
+   "in_corso_perc": "71,5",
+   "durata": "3,5",
+   "ritardo": "0,4",
+   "erasmus": "9",
+   
+      "stage_perc": "96,4",
+   "soddisfazione_perc": "27"
+},
+ {
+   "corso": "sociologia - gi� sociologia e scienze criminologiche per la sicurezza (L-40)",
+   "voto_esami": "23,3",
+   "voto_laurea": "87,5",
+   "in_corso_perc": "9,1",
+   "durata": "5,1",
+   "ritardo": "1,6",
+   "erasmus": "-",
+   
+      "stage_perc": "61,9",
+   "soddisfazione_perc": "23,8"
+},
+ {
+   "corso": "sociologia (36)",
+   "voto_esami": "24,3",
+   "voto_laurea": "91",
+   "in_corso_perc": "-",
+   "durata": "14,3",
+   "ritardo": "10,8",
+   "erasmus": "-",
+   
+      "stage_perc": "20",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "sociologia (L-40)",
+   "voto_esami": "25,6",
+   "voto_laurea": "96,9",
+   "in_corso_perc": "64,7",
+   "durata": "3,7",
+   "ritardo": "0,5",
+   "erasmus": "4",
+   
+      "stage_perc": "87,9",
+   "soddisfazione_perc": "35,4"
+},
+ {
+   "corso": "sociologia e scienze criminologiche per la sicurezza - gi� sociologia per il terziario avanzato (36)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "studi internazionali - gi� relazioni internazionali (15)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "sviluppo e cooperazione internazionale (35)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "sviluppo e cooperazione internazionale (L-37)",
+   "voto_esami": "25,5",
+   "voto_laurea": "97,6",
+   "in_corso_perc": "73",
+   "durata": "3,3",
+   "ritardo": "0,2",
+   "erasmus": "37,8",
+   
+      "stage_perc": "11",
+   "soddisfazione_perc": "19,5"
+}
+]

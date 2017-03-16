@@ -1,0 +1,122 @@
+[
+ {
+   "corso": "media generale",
+   "voto_esami": "25,7",
+   "voto_laurea": "98,8",
+   "in_corso_perc": "51,7",
+   "durata": "4,3",
+   "ritardo": "1",
+   "erasmus": "3,5",
+   
+      "stage_perc": "89,8",
+   "soddisfazione_perc": "27,8"
+},
+ {
+   "corso": "attivit� motorie per il benessere (L-22)",
+   "voto_esami": "25,1",
+   "voto_laurea": "95,8",
+   "in_corso_perc": "47,1",
+   "durata": "3,9",
+   "ritardo": "0,6",
+   "erasmus": "-",
+   
+      "stage_perc": "82,6",
+   "soddisfazione_perc": "18,8"
+},
+ {
+   "corso": "biotecnologie (1)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "biotecnologie (L-2)",
+   "voto_esami": "27,8",
+   "voto_laurea": "107,8",
+   "in_corso_perc": "85,1",
+   "durata": "3,2",
+   "ritardo": "0,3",
+   "erasmus": "6,4",
+   
+      "stage_perc": "89,4",
+   "soddisfazione_perc": "42,6"
+},
+ {
+   "corso": "controllo di qualit� dei prodotti per la salute (L-29)",
+   "voto_esami": "25,8",
+   "voto_laurea": "100,7",
+   "in_corso_perc": "65,7",
+   "durata": "3,8",
+   "ritardo": "0,5",
+   "erasmus": "-",
+   
+      "stage_perc": "97,1",
+   "soddisfazione_perc": "40"
+},
+ {
+   "corso": "informazione scientifica sul farmaco (24)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+},
+ {
+   "corso": "scienze delle attivit� motorie e sportive (L-22)",
+   "voto_esami": "25,5",
+   "voto_laurea": "96,9",
+   "in_corso_perc": "52,8",
+   "durata": "4",
+   "ritardo": "0,7",
+   "erasmus": "4,3",
+   
+      "stage_perc": "89,9",
+   "soddisfazione_perc": "25,4"
+},
+ {
+   "corso": "scienze farmaceutiche applicate (L-29)",
+   "voto_esami": "26",
+   "voto_laurea": "101,7",
+   "in_corso_perc": "43,5",
+   "durata": "4,2",
+   "ritardo": "0,8",
+   "erasmus": "3,3",
+   
+      "stage_perc": "93,4",
+   "soddisfazione_perc": "32,8"
+},
+ {
+   "corso": "scienze motorie - sede di Bologna (fino all'a.a. 2007/08) - sede di Rimini (fino all'a.a. 2005/06) (33)",
+   "voto_esami": "24",
+   "voto_laurea": "91,6",
+   "in_corso_perc": "-",
+   "durata": "9",
+   "ritardo": "5,5",
+   "erasmus": "12,5",
+   
+      "stage_perc": "87,5",
+   "soddisfazione_perc": "-"
+},
+ {
+   "corso": "scienze motorie - sede di Rimini - dall'a.a. 2006/07 (33)(1)�",
+   "voto_esami": "*",
+   "voto_laurea": "*",
+   "in_corso_perc": "*",
+   "durata": "*",
+   "ritardo": "*",
+   "erasmus": "*",
+   
+      "stage_perc": "*",
+   "soddisfazione_perc": "*"
+}
+]
