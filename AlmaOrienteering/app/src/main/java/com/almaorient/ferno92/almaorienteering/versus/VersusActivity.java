@@ -4,15 +4,20 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.R;
-import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
+
+import java.util.HashMap;
+import java.util.Iterator;
 
 /**
  * Created by lucas on 12/03/2017.
@@ -21,9 +26,14 @@ import com.google.firebase.database.ValueEventListener;
 public class VersusActivity extends AppCompatActivity {
     String mScuola1;
     String mScuola2;
-    String mCorso1;
-    String mCorso2;
+    int mPosCorso1;
+    int mPosCorso2;
+    StatCorsoModel mCorso1;
+    StatCorsoModel mCorso2;
     DatabaseReference mRef;
+    boolean mIsStat1Visible = false;
+    boolean mIsStat2Visible = false;
+    LinearLayout mStatScroll;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -35,17 +45,69 @@ public class VersusActivity extends AppCompatActivity {
 
         this.mScuola1 = getIntent().getExtras().getString("scuola1");
         this.mScuola2 = getIntent().getExtras().getString("scuola2");
-        this.mCorso1 = getIntent().getExtras().getString("corso1");
-        this.mCorso2 = getIntent().getExtras().getString("corso2");
+        this.mPosCorso1 = getIntent().getExtras().getInt("pos1");
+        this.mPosCorso2 = getIntent().getExtras().getInt("pos2");
+
+        this.mStatScroll = (LinearLayout) findViewById(R.id.stat_scroll);
         if(mScuola1 == "tutte"){
             //recupera statistiche generali
         }else{
-            Query query = mRef.child("statistiche").child(mScuola1).orderByKey();
+            Query query = mRef.child("statistiche").child(mScuola1).child(String.valueOf(this.mPosCorso1)).orderByKey();
             query.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    int i = 0;
+                    Log.d("prova", "prova");
+                    HashMap meMap = (HashMap) dataSnapshot.getValue();
+                    Iterator corsoIterator = meMap.keySet().iterator();
+                    while(corsoIterator.hasNext()) {
+                        String key=(String)corsoIterator.next();
+                        String value=(String)meMap.get(key);
+                        //Switch loop
+                        switch(key){
+                            case StatCorsoModel.CORSO:
 
+                                break;
+                            case StatCorsoModel.DURATA:
+                                LinearLayout stat3 = (LinearLayout) findViewById(R.id.stat_3);
+                                TextView esamiText3 = (TextView) stat3.getChildAt(0);
+                                esamiText3.setText(value);
+                                break;
+                            case StatCorsoModel.ERASMUS:
+                                LinearLayout stat5 = (LinearLayout) findViewById(R.id.stat_5);
+                                TextView esamiText5 = (TextView) stat5.getChildAt(0);
+                                esamiText5.setText(value);
+                                break;
+                            case StatCorsoModel.ESAMI:
+                                LinearLayout stat1 = (LinearLayout) findViewById(R.id.stat_1);
+                                TextView esamiText1 = (TextView) stat1.getChildAt(0);
+                                esamiText1.setText(value);
+                                break;
+                            case StatCorsoModel.INCORSO:
+                                LinearLayout stat4 = (LinearLayout) findViewById(R.id.stat_4);
+                                TextView esamiText4 = (TextView) stat4.getChildAt(0);
+                                esamiText4.setText(value);
+                                break;
+                            case StatCorsoModel.LAUREA:
+                                LinearLayout stat2 = (LinearLayout) findViewById(R.id.stat_2);
+                                TextView esamiText2 = (TextView) stat2.getChildAt(0);
+                                esamiText2.setText(value);
+                                break;
+                            case StatCorsoModel.RITARDO:
+                                break;
+                            case StatCorsoModel.SODDISFAZIONE:
+                                break;
+                            case StatCorsoModel.STAGE:
+                                LinearLayout stat6 = (LinearLayout) findViewById(R.id.stat_6);
+                                TextView esamiText6 = (TextView) stat6.getChildAt(0);
+                                esamiText6.setText(value);
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+
+                    mIsStat1Visible = true;
+                    showStats();
                 }
 
                 @Override
@@ -58,11 +120,62 @@ public class VersusActivity extends AppCompatActivity {
         }
         if(mScuola2 == "tutte"){
             //recupera statistiche generali
-            Query query = mRef.child("statistiche").child(mScuola2).orderByKey();
+
+        }else{
+            Query query = mRef.child("statistiche").child(mScuola2).child(String.valueOf(this.mPosCorso2)).orderByKey();
             query.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    int i = 0;
+                    HashMap meMap = (HashMap) dataSnapshot.getValue();
+                    Iterator corsoIterator = meMap.keySet().iterator();
+                    while(corsoIterator.hasNext()) {
+                        String key=(String)corsoIterator.next();
+                        String value=(String)meMap.get(key);
+                        //Switch loop
+                        switch(key){
+                            case StatCorsoModel.CORSO:
+
+                                break;
+                            case StatCorsoModel.DURATA:
+                                LinearLayout stat3 = (LinearLayout) findViewById(R.id.stat_3);
+                                TextView esamiText3 = (TextView) stat3.getChildAt(2);
+                                esamiText3.setText(value);
+                                break;
+                            case StatCorsoModel.ERASMUS:
+                                LinearLayout stat5 = (LinearLayout) findViewById(R.id.stat_5);
+                                TextView esamiText5 = (TextView) stat5.getChildAt(2);
+                                esamiText5.setText(value);
+                                break;
+                            case StatCorsoModel.ESAMI:
+                                LinearLayout stat1 = (LinearLayout) findViewById(R.id.stat_1);
+                                TextView esamiText1 = (TextView) stat1.getChildAt(2);
+                                esamiText1.setText(value);
+                                break;
+                            case StatCorsoModel.INCORSO:
+                                LinearLayout stat4 = (LinearLayout) findViewById(R.id.stat_4);
+                                TextView esamiText4 = (TextView) stat4.getChildAt(2);
+                                esamiText4.setText(value);
+                                break;
+                            case StatCorsoModel.LAUREA:
+                                LinearLayout stat2 = (LinearLayout) findViewById(R.id.stat_2);
+                                TextView esamiText2 = (TextView) stat2.getChildAt(2);
+                                esamiText2.setText(value);
+                                break;
+                            case StatCorsoModel.RITARDO:
+                                break;
+                            case StatCorsoModel.SODDISFAZIONE:
+                                break;
+                            case StatCorsoModel.STAGE:
+                                LinearLayout stat6 = (LinearLayout) findViewById(R.id.stat_6);
+                                TextView esamiText6 = (TextView) stat6.getChildAt(0);
+                                esamiText6.setText(value);
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+                    mIsStat2Visible = true;
+                    showStats();
 
                 }
 
@@ -73,6 +186,12 @@ public class VersusActivity extends AppCompatActivity {
                     }
                 }
             });
+        }
+    }
+
+    private void showStats() {
+        if(this.mIsStat1Visible && this.mIsStat2Visible){
+            this.mStatScroll.setVisibility(View.VISIBLE);
         }
     }
 }
