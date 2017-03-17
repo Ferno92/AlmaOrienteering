@@ -85,8 +85,8 @@ public class VersusCorsoActivity extends AppCompatActivity {
                 Intent i = new Intent(VersusCorsoActivity.this, VersusActivity.class);
                 i.putExtra("scuola1", mScuola1);
                 i.putExtra("scuola2", mScuola2);
-                i.putExtra("corso1", mSelectedCorso1.getNome());
-                i.putExtra("corso2", mSelectedCorso2.getNome());
+                i.putExtra("pos1", mListaCorsi1.indexOf(mSelectedCorso1));
+                i.putExtra("pos2", mListaCorsi2.indexOf(mSelectedCorso2));
                 startActivity(i);
             }
         });
