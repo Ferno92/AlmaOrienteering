@@ -1,0 +1,29 @@
+Tutorial
+Benvenuti su Almaorienteering.
+"Afferra la stretta di qualcuno che ti aiuterà, e poi utilizzala per aiutare qualcun altro." cit. Booker T. Washington
+
+(Home rimando alla schermata)
+Da qui potrete accedere a tutte le funzioni dell'applicazione:
+
+Nella sezione "L'UNIBO SI PRESENTA" otterrete delle informazioni basilari sull'Ateneo.
+(rimando schermata unibo si presenta)
+
+Nella sezione "OFFERTA FORMATIVA" avrete accesso all'intera gamma di scuole(/facoltà) presenti all'interno dell'ateneo.
+(rimando schermata elenco facoltà)
+1) Da qui potrete addentrarvi sempre più nello specifico in tutti i vari corsi proposti dalla facoltà selezionata.
+(rimando schermata corso prototipo)
+2) A questo punto potrete prendere visione delle materie trattate nei singoli corsi per avere un'idea di cosa dovrete affrontare una volta iscritti.
+(rimando schermata materie prototipo)
+
+Nella sezione "MAPPA" potrete visualizzare la posizione delle varie aule.
+(rimando schermata mappa ex.)
+
+Nella sezione "PERCHE' SCEGLIERE UNIBO" non ne ho al momento idea.
+(rimando schermata perchè scegliere unibo)
+
+Nella sezione "STATISTICHE" potrete mettere a confronto due o più scuole tra di loro o semplicemente confrontarle rispetto alla media.
+(rimando schermata statistiche)
+
+Nella sezione "CALENDARIO" avrete accesso alle informazioni su presentazioni, orientamenti dei singoli corsi... (meglio chiedere a loro che a noi :P)
+
+[io non metterei guida all'app come pulsante. Io lo metterei nella schermata di Choose prima di entrare nella home. Così chi la conosce già evita di farsi il tutorial e skippa sta roba]

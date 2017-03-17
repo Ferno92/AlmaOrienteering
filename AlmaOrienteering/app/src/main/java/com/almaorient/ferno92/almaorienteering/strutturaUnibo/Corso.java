@@ -5,12 +5,18 @@ package com.almaorient.ferno92.almaorienteering.strutturaUnibo;
  */
 
 public class Corso {
-    public String mId;
+    public String mCodiceCorso;
     public String mNome;
+    public String mUrl;
+    public String mTipo;
+    public String mCampus;
 
-    public Corso(String id, String nome){
-        this.mId = id;
+    public Corso(String id, String nome, String url, String tipo, String campus){
+        this.mCodiceCorso = id;
         this.mNome = nome;
+        this.mUrl = url;
+        this.mTipo = tipo;
+        this.mCampus = campus;
     }
 
     public String getNome(){
@@ -18,7 +24,17 @@ public class Corso {
     }
 
     public String getScuolaId(){
-        return this.mId;
+        return this.mCodiceCorso;
+    }
+
+    public String getUrl() { return this.mUrl; }
+
+    public String getTipo(){
+        return this.mTipo;
+    }
+
+    public String getCampus(){
+        return this.mCampus;
     }
 
     public String toString()

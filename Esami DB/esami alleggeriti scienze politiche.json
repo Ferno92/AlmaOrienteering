@@ -1,0 +1,5562 @@
+[
+  {
+    "corso_codice": 8040,
+    "materia_codice": 905,
+    "materia_descrizione": "SOCIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325049",
+    "tipo": "",
+    "componente_id": 325049
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 9680,
+    "materia_descrizione": "PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325053",
+    "tipo": "",
+    "componente_id": 325053
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 9681,
+    "materia_descrizione": "METODI E TECNICHE DEL SERVIZIO SOCIALE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325091",
+    "tipo": "",
+    "componente_id": 325091
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 932,
+    "materia_descrizione": "STORIA CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325101",
+    "tipo": "",
+    "componente_id": 325101
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 29218,
+    "materia_descrizione": "METODOLOGIA E TECNICA DELLA RICERCA SOCIALE SUL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325408",
+    "tipo": "",
+    "componente_id": 325408
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 13180,
+    "materia_descrizione": "TEORIA DEI PROCESSI DI SOCIALIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325409",
+    "tipo": "",
+    "componente_id": 325409
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 11316,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325410",
+    "tipo": "",
+    "componente_id": 325410
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 29219,
+    "materia_descrizione": "TERRITORIO, MUTAMENTO SOCIALE E PATOLOGIE PSICHIATRICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325412",
+    "tipo": "",
+    "componente_id": 325412
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 29220,
+    "materia_descrizione": "SOCIOLOGIA DEI SERVIZI SOCIALI DI TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325414",
+    "tipo": "",
+    "componente_id": 325414
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 9686,
+    "materia_descrizione": "METODI E TECNICHE DEL SERVIZIO SOCIALE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325415",
+    "tipo": "",
+    "componente_id": 325415
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 2129,
+    "materia_descrizione": "SOCIOLOGIA CRIMINALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325418",
+    "tipo": "",
+    "componente_id": 325418
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 325421
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 40430,
+    "materia_descrizione": "ELEMENTI DI ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327709",
+    "tipo": "",
+    "componente_id": 327709
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 644,
+    "materia_descrizione": "LINGUA INGLESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327751",
+    "tipo": "",
+    "componente_id": 327751
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 639,
+    "materia_descrizione": "LINGUA FRANCESE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 327755
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 30617,
+    "materia_descrizione": "SEMINARIO \"OPERARE CON LE PERSONE SENZA DIMORA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327986",
+    "tipo": "",
+    "componente_id": 327986
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 37356,
+    "materia_descrizione": "ORGANIZZAZIONE DEI SERVIZI SOCIALI SUL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351951",
+    "tipo": "",
+    "componente_id": 351951
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 534,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361448",
+    "tipo": "",
+    "componente_id": 361448
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 33798,
+    "materia_descrizione": "TIROCINIO (16 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364263",
+    "tipo": "",
+    "componente_id": 364263
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 66045,
+    "materia_descrizione": "PSICOLOGIA SOCIALE (12 CFU) (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364822
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 3330,
+    "materia_descrizione": "PSICOLOGIA SOCIALE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364823",
+    "tipo": "modulo",
+    "componente_id": 364823
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 3331,
+    "materia_descrizione": "PSICOLOGIA SOCIALE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364824",
+    "tipo": "modulo",
+    "componente_id": 364824
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 66050,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO (9 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364833",
+    "tipo": "",
+    "componente_id": 364833
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 68274,
+    "materia_descrizione": "LABORATORIO DI GUIDA AL TIROCINIO (7 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373059",
+    "tipo": "",
+    "componente_id": 373059
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 69618,
+    "materia_descrizione": "SEMINARIO \"MINORI E GIUSTIZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376729",
+    "tipo": "",
+    "componente_id": 376729
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 29041,
+    "materia_descrizione": "SEMINARIO DI SOCIOLOGIA VISUALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376768",
+    "tipo": "",
+    "componente_id": 376768
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 76221,
+    "materia_descrizione": "PROCESSI DI INVECCHIAMENTO E SISTEMI SOCIO-SANITARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394017",
+    "tipo": "",
+    "componente_id": 394017
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 76336,
+    "materia_descrizione": "WELFARE, SUSSIDIARIET?? E INNOVAZIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394237",
+    "tipo": "",
+    "componente_id": 394237
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395721",
+    "tipo": "",
+    "componente_id": 395721
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 42972,
+    "materia_descrizione": "DIRITTO DEI SERVIZI SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405991",
+    "tipo": "",
+    "componente_id": 405991
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 3383,
+    "materia_descrizione": "STATISTICA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412090",
+    "tipo": "",
+    "componente_id": 412090
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 9117,
+    "materia_descrizione": "SOCIOLOGIA DELLA FAMIGLIA E DELL'EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412816",
+    "tipo": "",
+    "componente_id": 412816
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 72822,
+    "materia_descrizione": "RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415327",
+    "tipo": "",
+    "componente_id": 415327
+  },
+  {
+    "corso_codice": 8040,
+    "materia_codice": 82669,
+    "materia_descrizione": "LINGUA FRANCESE (6 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 415620
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 9446,
+    "materia_descrizione": "MICROECONOMIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329721
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 914,
+    "materia_descrizione": "STATISTICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329725
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 8949,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE COMPARATO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329728
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 932,
+    "materia_descrizione": "STORIA CONTEMPORANEA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329730
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 983,
+    "materia_descrizione": "STORIA DELLE DOTTRINE POLITICHE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329732
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 230,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329733
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 8795,
+    "materia_descrizione": "MACROECONOMIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329756
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 895,
+    "materia_descrizione": "SCIENZA POLITICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329757
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 15920,
+    "materia_descrizione": "LABORATORIO INFORMATICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329758",
+    "tipo": "",
+    "componente_id": 329758
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 25980,
+    "materia_descrizione": "LABORATORIO DI RICERCA BIBLIOGRAFICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329759",
+    "tipo": "",
+    "componente_id": 329759
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 2537,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329765
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 2493,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329766
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 5515,
+    "materia_descrizione": "STORIA DELLE RELAZIONI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329770",
+    "tipo": "",
+    "componente_id": 329770
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 4491,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 331334
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 15249,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353165",
+    "tipo": "",
+    "componente_id": 353165
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 17651,
+    "materia_descrizione": "STORIA ECONOMICA DELL'EUROPA CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353166",
+    "tipo": "",
+    "componente_id": 353166
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 23960,
+    "materia_descrizione": "STORIA DEGLI STATI UNITI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353226",
+    "tipo": "",
+    "componente_id": 353226
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 17646,
+    "materia_descrizione": "ISTITUZIONI E POLITICHE DELL'UE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353228",
+    "tipo": "",
+    "componente_id": 353228
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 78448,
+    "materia_descrizione": "TOPICS IN ECONOMIC POLICY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353229",
+    "tipo": "",
+    "componente_id": 353229
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 4871,
+    "materia_descrizione": "SISTEMA POLITICO ITALIANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353233",
+    "tipo": "",
+    "componente_id": 353233
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 59960,
+    "materia_descrizione": "LINGUA INGLESE E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362091
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 59961,
+    "materia_descrizione": "LINGUA INGLESE E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362092
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39972,
+    "materia_descrizione": "LINGUA FRANCESE E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362093
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39973,
+    "materia_descrizione": "LINGUA FRANCESE E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362094
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39974,
+    "materia_descrizione": "LINGUA RUSSA E LABORATORIO I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362095",
+    "tipo": "",
+    "componente_id": 362095
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39975,
+    "materia_descrizione": "LINGUA RUSSA E LABORATORIO II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362096",
+    "tipo": "",
+    "componente_id": 362096
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39976,
+    "materia_descrizione": "LINGUA SPAGNOLA E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362097
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39977,
+    "materia_descrizione": "LINGUA SPAGNOLA E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362098
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39978,
+    "materia_descrizione": "LINGUA TEDESCA E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362099
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 39979,
+    "materia_descrizione": "LINGUA TEDESCA E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362100
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 9663,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386945",
+    "tipo": "",
+    "componente_id": 386945
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 77761,
+    "materia_descrizione": "SOCIETA', POLITICA E GLOBALIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400372",
+    "tipo": "",
+    "componente_id": 400372
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 10009,
+    "materia_descrizione": "STORIA DELL'INTEGRAZIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400373",
+    "tipo": "",
+    "componente_id": 400373
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 29234,
+    "materia_descrizione": "DEMOGRAFIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400374",
+    "tipo": "",
+    "componente_id": 400374
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 78449,
+    "materia_descrizione": "HISTORY AND INSTITUTIONS OF THE MODERN MIDDLE EAST",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401361",
+    "tipo": "",
+    "componente_id": 401361
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79136,
+    "materia_descrizione": "LABORATORIO DI LETTURA CRITICA (A)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402309",
+    "tipo": "",
+    "componente_id": 402309
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 78793,
+    "materia_descrizione": "LABORATORIO DI LETTURA DI DOCUMENTI DIPLOMATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402310",
+    "tipo": "",
+    "componente_id": 402310
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79138,
+    "materia_descrizione": "LABORATORIO DI SCRITTURA ACCADEMICA (A)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402311",
+    "tipo": "",
+    "componente_id": 402311
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79140,
+    "materia_descrizione": "LABORATORIO METODOLOGICO DI RICERCA SOCIALE (A)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402314",
+    "tipo": "",
+    "componente_id": 402314
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79137,
+    "materia_descrizione": "LABORATORIO DI LETTURA CRITICA (B)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403143",
+    "tipo": "",
+    "componente_id": 403143
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79139,
+    "materia_descrizione": "LABORATORIO DI SCRITTURA ACCADEMICA (B)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403144
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 79141,
+    "materia_descrizione": "LABORATORIO METODOLOGICO DI RICERCA SOCIALE (B)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403145
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 32400,
+    "materia_descrizione": "DIRITTO DELL'UE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409378",
+    "tipo": "",
+    "componente_id": 409378
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 78795,
+    "materia_descrizione": "LABORATORIO DI TECNICHE DI PRESENTAZIONI IN PUBBLICO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413614
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 83438,
+    "materia_descrizione": "HISTORY OF EASTERN EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418155",
+    "tipo": "",
+    "componente_id": 418155
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 83664,
+    "materia_descrizione": "CONFLITTI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419314",
+    "tipo": "",
+    "componente_id": 419314
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 83814,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA ARABA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420739",
+    "tipo": "",
+    "componente_id": 420739
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 83815,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA CINESE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420740",
+    "tipo": "",
+    "componente_id": 420740
+  },
+  {
+    "corso_codice": 8048,
+    "materia_codice": 83816,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420741",
+    "tipo": "",
+    "componente_id": 420741
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32175,
+    "materia_descrizione": "BOSNIAN-CROATIAN-SERBIAN",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362332",
+    "tipo": "",
+    "componente_id": 362332
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32177,
+    "materia_descrizione": "BULGARIAN",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362334",
+    "tipo": "",
+    "componente_id": 362334
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32179,
+    "materia_descrizione": "RUSSIAN",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362335",
+    "tipo": "",
+    "componente_id": 362335
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32180,
+    "materia_descrizione": "RUSSIAN ADVANCED",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362336",
+    "tipo": "",
+    "componente_id": 362336
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32181,
+    "materia_descrizione": "SLOVAK",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362340",
+    "tipo": "",
+    "componente_id": 362340
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32185,
+    "materia_descrizione": "STATE BUILDING, NATIONALISM, AND DEVELOPMENT IN EASTERN EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362419
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32162,
+    "materia_descrizione": "MODERNITY AND DEVELOPMENT IN EE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362420",
+    "tipo": "modulo",
+    "componente_id": 362420
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32164,
+    "materia_descrizione": "STATE BUILDING AND NATIONALISM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362421",
+    "tipo": "modulo",
+    "componente_id": 362421
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 55394,
+    "materia_descrizione": "WORKSHOPS ON EASTERN EUROPEAN POLITICS AND ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362422",
+    "tipo": "",
+    "componente_id": 362422
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 72642,
+    "materia_descrizione": "ECONOMICS OF TRANSITION IN CENTRAL AND SEE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362423
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 58876,
+    "materia_descrizione": "ECONOMICS OF TRANSITION IN CENTRAL EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362424",
+    "tipo": "modulo",
+    "componente_id": 362424
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32190,
+    "materia_descrizione": "ECONOMICS OF TRANSITION IN SOUTH EAST EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362425",
+    "tipo": "modulo",
+    "componente_id": 362425
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32187,
+    "materia_descrizione": "POLITICAL ECONOMY OF TRANSITION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362429",
+    "tipo": "",
+    "componente_id": 362429
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 40036,
+    "materia_descrizione": "QUANTITATIVE METHODS FOR SOCIAL RESEARCH",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362430",
+    "tipo": "",
+    "componente_id": 362430
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 37554,
+    "materia_descrizione": "BALKAN CONTEMPORARY STUDIES (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362431
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32326,
+    "materia_descrizione": "BALKAN CONTEMPORARY HISTORY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362432",
+    "tipo": "modulo",
+    "componente_id": 362432
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 55739,
+    "materia_descrizione": "THE YUGOSLAV CRISIS AND ITS DEMISE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362433",
+    "tipo": "modulo",
+    "componente_id": 362433
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 55740,
+    "materia_descrizione": "CAUCASUS AND CENTRAL ASIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362434",
+    "tipo": "",
+    "componente_id": 362434
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 55777,
+    "materia_descrizione": "DEMOCRACY AND POLITICAL CHANGES IN EAST-CENTRAL EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362435
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 77769,
+    "materia_descrizione": "EAST-CENTRAL EUROPE AND GLOBAL CIVIL SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362436",
+    "tipo": "modulo",
+    "componente_id": 362436
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 37561,
+    "materia_descrizione": "NATIONAL POLITICAL MOVEMENTS IN EAST-CENTRAL EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362437",
+    "tipo": "modulo",
+    "componente_id": 362437
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32219,
+    "materia_descrizione": "GLOBALIZATION AND IDENTITIES IN EASTERN EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362443
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 55778,
+    "materia_descrizione": "DEVELOPING MULTICULTURAL SKILLS IN GLOBAL CONTEXTS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362444",
+    "tipo": "modulo",
+    "componente_id": 362444
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 49050,
+    "materia_descrizione": "GLOBALIZATION AND NATIONALISM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362445",
+    "tipo": "modulo",
+    "componente_id": 362445
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 66709,
+    "materia_descrizione": "HISTORY OF SOVIET UNION'S AND RUSSIAN FOREIGN POLICY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362446",
+    "tipo": "",
+    "componente_id": 362446
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 40039,
+    "materia_descrizione": "POST-SOCIALIST TRANSITION AND EU ENLARGEMENT EASTWARDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362458",
+    "tipo": "",
+    "componente_id": 362458
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 69902,
+    "materia_descrizione": "JEWISH STUDIES AND SOCIO-RELIGIOUS TRANSITIONS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362460",
+    "tipo": "",
+    "componente_id": 362460
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 69901,
+    "materia_descrizione": "PAN-EUROPEAN SECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362462",
+    "tipo": "",
+    "componente_id": 362462
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56086,
+    "materia_descrizione": "SOCIAL GOVERNANCE AND SOCIAL THREATS IN EASTERN EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 362463
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56284,
+    "materia_descrizione": "COMMUNITY PARTICIPATION AND SOCIAL TRUST IN EASTERN EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362464",
+    "tipo": "modulo",
+    "componente_id": 362464
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56285,
+    "materia_descrizione": "ORGANIZED CRIME AND TRAFFICKING IN CENTRAL AND SOUTH EASTERN EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362465",
+    "tipo": "modulo",
+    "componente_id": 362465
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 69906,
+    "materia_descrizione": "RUSSIAN INTERMEDIATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377453",
+    "tipo": "",
+    "componente_id": 377453
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 69907,
+    "materia_descrizione": "LITHUANIAN I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377454",
+    "tipo": "",
+    "componente_id": 377454
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 72640,
+    "materia_descrizione": "METHODS AND SKILLS (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384561
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 49002,
+    "materia_descrizione": "RESEARCH PROBLEMS AND METHODS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384562",
+    "tipo": "modulo",
+    "componente_id": 384562
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 72641,
+    "materia_descrizione": "ACADEMIC WRITINGS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384563",
+    "tipo": "modulo",
+    "componente_id": 384563
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74686,
+    "materia_descrizione": "STRUCTURAL CHANGES AND REGIONAL DEVELOPMENT IN EASTERN EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390866
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 75523,
+    "materia_descrizione": "EU COHESION POLICIES AND NEW MEMBER STATES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390867",
+    "tipo": "modulo",
+    "componente_id": 390867
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 49015,
+    "materia_descrizione": "ECONOMY AND REGIONAL POLICIES IN RUSSIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390868",
+    "tipo": "modulo",
+    "componente_id": 390868
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74687,
+    "materia_descrizione": "EASTERN EUROPE AND MEDIA REPRESENTATIONS (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390869
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 25696,
+    "materia_descrizione": "A FILM JOURNEY THROUGH FORMER YUGOSLAVIA AND ITS DEMISE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390871",
+    "tipo": "modulo",
+    "componente_id": 390871
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56080,
+    "materia_descrizione": "MEDIA, RUSSIA AND SOVIET CINEMA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390872",
+    "tipo": "modulo",
+    "componente_id": 390872
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74688,
+    "materia_descrizione": "MEMORIES, POLITICS AND LITERATURE IN EAST-CENTRAL EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390873
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 25697,
+    "materia_descrizione": "POLITICS AND LITERATURE: AN EAST-CENTRAL EUROPEAN PERSPECTIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390874",
+    "tipo": "modulo",
+    "componente_id": 390874
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 32306,
+    "materia_descrizione": "MEMORIES AND POLITICS. MAPPING THE BALTIC AND BLACK SEA REGIONS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390875",
+    "tipo": "modulo",
+    "componente_id": 390875
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 66710,
+    "materia_descrizione": "POLITICAL ECONOMY OF WELFARE SYSTEMS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390876",
+    "tipo": "",
+    "componente_id": 390876
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74694,
+    "materia_descrizione": "RUSSIAN POLICIES AND ENERGY SECURITY (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390877
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56083,
+    "materia_descrizione": "RUSSIA AND REGIONAL POLICIES IN EAST-CENTRAL EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390878",
+    "tipo": "modulo",
+    "componente_id": 390878
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74693,
+    "materia_descrizione": "ENERGY MARKET AND SECURITY IN THE BALTICS AND RUSSIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390879",
+    "tipo": "modulo",
+    "componente_id": 390879
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74702,
+    "materia_descrizione": "THE VISEGRAD GROUP IN POST-SOCIALIST REGIONAL GEOPOLITICS (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390880
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 56082,
+    "materia_descrizione": "MACRO-REGIONAL COOPERATION IN CENTRAL EUROPE AND THE DANUBE-BALKAN BASIN",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390888",
+    "tipo": "modulo",
+    "componente_id": 390888
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 74703,
+    "materia_descrizione": "IDENTITY-DIALOG-TRUST: THE CULTURE OF COEXISTENCE IN EAST-CENTRAL EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390889",
+    "tipo": "modulo",
+    "componente_id": 390889
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 73833,
+    "materia_descrizione": "HUNGARIAN LANGUAGE AND SLAVIC CULTURES",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390903
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 77770,
+    "materia_descrizione": "GENDER, POLITICS AND POPULAR CULTURE IN SOUTH EAST EUROPE (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 400389
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 77771,
+    "materia_descrizione": "GENDER AND SOCIAL MOVEMENTS IN SOUTH EAST EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400390",
+    "tipo": "modulo",
+    "componente_id": 400390
+  },
+  {
+    "corso_codice": 8049,
+    "materia_codice": 77772,
+    "materia_descrizione": "GENDER AND POPULAR CULTURE IN SOUTH EAST EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400391",
+    "tipo": "modulo",
+    "componente_id": 400391
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 11335,
+    "materia_descrizione": "ECONOMIA DEI MEDIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330305",
+    "tipo": "",
+    "componente_id": 330305
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 13732,
+    "materia_descrizione": "DIRITTO DELL'INFORMAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330308",
+    "tipo": "",
+    "componente_id": 330308
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 77763,
+    "materia_descrizione": "COMUNICAZIONE POLITICA E MARKETING ELETTORALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330314",
+    "tipo": "",
+    "componente_id": 330314
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 66402,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (CORSO AVANZATO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330316",
+    "tipo": "",
+    "componente_id": 330316
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 31661,
+    "materia_descrizione": "TEORIA E STORIA DELL'OPINIONE PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330319",
+    "tipo": "",
+    "componente_id": 330319
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 31663,
+    "materia_descrizione": "GIORNALISMO E POLITICA (SEMINARIO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330323",
+    "tipo": "",
+    "componente_id": 330323
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 77762,
+    "materia_descrizione": "ANALYSIS OF POLITICAL LANGUAGE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330325",
+    "tipo": "",
+    "componente_id": 330325
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 31666,
+    "materia_descrizione": "SOCIOLOGIA DELLE CULTURE POLITICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330330",
+    "tipo": "",
+    "componente_id": 330330
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 72595,
+    "materia_descrizione": "LABORATORIO DI TEORIA E TECNICA DI PRODUZIONE AUDIOVISIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330335",
+    "tipo": "",
+    "componente_id": 330335
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 31668,
+    "materia_descrizione": "PROCESSI DELLA GLOBALIZZAZIONE CULTURALE E COMUNICATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330339",
+    "tipo": "",
+    "componente_id": 330339
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 31671,
+    "materia_descrizione": "LEADERSHIP E COMUNICAZIONE POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330341",
+    "tipo": "",
+    "componente_id": 330341
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 7297,
+    "materia_descrizione": "SOCIOLOGIA DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362128",
+    "tipo": "",
+    "componente_id": 362128
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 72591,
+    "materia_descrizione": "SISTEMI DI PRODUZIONE TELEVISIVA (SEMINARIO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384395",
+    "tipo": "",
+    "componente_id": 384395
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 72597,
+    "materia_descrizione": "ANALISI DELL'OPINIONE PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384406",
+    "tipo": "",
+    "componente_id": 384406
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 7230,
+    "materia_descrizione": "SISTEMI GIUDIZIARI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384408",
+    "tipo": "",
+    "componente_id": 384408
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 74722,
+    "materia_descrizione": "STORIA DELLA COSTRUZIONE DEL CONSENSO POLITICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390956",
+    "tipo": "",
+    "componente_id": 390956
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 74783,
+    "materia_descrizione": "CITTADINI, ELEZIONI, PARTITI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390986",
+    "tipo": "",
+    "componente_id": 390986
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 75827,
+    "materia_descrizione": "ANALISI QUALITATIVA DELLA COMUNICAZIONE (SEMINARIO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392844",
+    "tipo": "",
+    "componente_id": 392844
+  },
+  {
+    "corso_codice": 8051,
+    "materia_codice": 77764,
+    "materia_descrizione": "SOCIAL MEDIA MARKETING (SEMINARIO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400375",
+    "tipo": "",
+    "componente_id": 400375
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 45198,
+    "materia_descrizione": "CRIMINOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365767",
+    "tipo": "",
+    "componente_id": 365767
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 40081,
+    "materia_descrizione": "DIRITTO PENALE (LM)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365770",
+    "tipo": "",
+    "componente_id": 365770
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 12442,
+    "materia_descrizione": "ECONOMIA DEL SETTORE PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365771",
+    "tipo": "",
+    "componente_id": 365771
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 39982,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E DELL'INDAGINE CRIMINOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365773",
+    "tipo": "",
+    "componente_id": 365773
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 45208,
+    "materia_descrizione": "POLITICHE DELLA SICUREZZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365774",
+    "tipo": "",
+    "componente_id": 365774
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 7230,
+    "materia_descrizione": "SISTEMI GIUDIZIARI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365775",
+    "tipo": "",
+    "componente_id": 365775
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 37175,
+    "materia_descrizione": "STORIA DELLA SOCIET?? NEL XX SECOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365776",
+    "tipo": "",
+    "componente_id": 365776
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 66454,
+    "materia_descrizione": "TEORIA DEI PROCESSI DI VITTIMIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365778",
+    "tipo": "",
+    "componente_id": 365778
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 69922,
+    "materia_descrizione": "SOCIOLOGIA E POLITICA DEI MERCATI ILLEGALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365779",
+    "tipo": "",
+    "componente_id": 365779
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 77794,
+    "materia_descrizione": "SEMINARI DI SOCIOLOGIA DELLA DEVIANZA E CRIMINOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365780",
+    "tipo": "",
+    "componente_id": 365780
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 72606,
+    "materia_descrizione": "PSICOLOGIA SOCIALE E DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365781",
+    "tipo": "",
+    "componente_id": 365781
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 34129,
+    "materia_descrizione": "TECNICHE INVESTIGATIVE APPLICATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365782",
+    "tipo": "",
+    "componente_id": 365782
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 39980,
+    "materia_descrizione": "GIUSTIZIA ED EQUIT?? SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378318",
+    "tipo": "",
+    "componente_id": 378318
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 77795,
+    "materia_descrizione": "LABORATORIO DI SECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380101",
+    "tipo": "",
+    "componente_id": 380101
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 72603,
+    "materia_descrizione": "VALUTAZIONE DELLE POLITICHE PER LA SICUREZZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384452",
+    "tipo": "",
+    "componente_id": 384452
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 78720,
+    "materia_descrizione": "DIRITTI IN INTERNET E ILLECITI INFORMATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402089",
+    "tipo": "",
+    "componente_id": 402089
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 83120,
+    "materia_descrizione": "MAFIE E PROCESSI DI VITTIMIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417321",
+    "tipo": "",
+    "componente_id": 417321
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 83814,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA ARABA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420797",
+    "tipo": "",
+    "componente_id": 420797
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 83815,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA CINESE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420798",
+    "tipo": "",
+    "componente_id": 420798
+  },
+  {
+    "corso_codice": 8491,
+    "materia_codice": 83816,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420799",
+    "tipo": "",
+    "componente_id": 420799
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 534,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365641",
+    "tipo": "",
+    "componente_id": 365641
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 8325,
+    "materia_descrizione": "ISTITUZIONI DI ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365642",
+    "tipo": "",
+    "componente_id": 365642
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 59870,
+    "materia_descrizione": "LINGUA INGLESE E LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365643",
+    "tipo": "",
+    "componente_id": 365643
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 905,
+    "materia_descrizione": "SOCIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365645",
+    "tipo": "",
+    "componente_id": 365645
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 932,
+    "materia_descrizione": "STORIA CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365646",
+    "tipo": "",
+    "componente_id": 365646
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 888,
+    "materia_descrizione": "SCIENZA DELL'AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365647",
+    "tipo": "",
+    "componente_id": 365647
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 2518,
+    "materia_descrizione": "SOCIOLOGIA ECONOMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365650",
+    "tipo": "",
+    "componente_id": 365650
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 59239,
+    "materia_descrizione": "SOCIOLOGIA DEL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365654",
+    "tipo": "",
+    "componente_id": 365654
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 17270,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365658",
+    "tipo": "",
+    "componente_id": 365658
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 12078,
+    "materia_descrizione": "SOCIOLOGIA DELLA DEVIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365659",
+    "tipo": "",
+    "componente_id": 365659
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 66405,
+    "materia_descrizione": "LABORATORIO DI INDAGINE CRIMINOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365667",
+    "tipo": "",
+    "componente_id": 365667
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 870,
+    "materia_descrizione": "PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365675",
+    "tipo": "",
+    "componente_id": 365675
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 4487,
+    "materia_descrizione": "SOCIOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365681",
+    "tipo": "",
+    "componente_id": 365681
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 7564,
+    "materia_descrizione": "SOCIOLOGIA DEL TURISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365684",
+    "tipo": "",
+    "componente_id": 365684
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 7234,
+    "materia_descrizione": "SOCIOLOGIA DELLA SALUTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365687",
+    "tipo": "",
+    "componente_id": 365687
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 2504,
+    "materia_descrizione": "STORIA DEL PENSIERO SOCIOLOGICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365697",
+    "tipo": "",
+    "componente_id": 365697
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 72633,
+    "materia_descrizione": "LABORATORIO DI METODOLOGIA QUANTITATIVA PER LA RICERCA SOCIALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 372120
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 72632,
+    "materia_descrizione": "LABORATORIO DI METODOLOGIA QUALITATIVA PER LA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372121",
+    "tipo": "",
+    "componente_id": 372121
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 72631,
+    "materia_descrizione": "LABORATORIO DI METODOLOGIA AVANZATA PER LA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372122",
+    "tipo": "",
+    "componente_id": 372122
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 17265,
+    "materia_descrizione": "POLITICHE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384536",
+    "tipo": "",
+    "componente_id": 384536
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 29234,
+    "materia_descrizione": "DEMOGRAFIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403442",
+    "tipo": "",
+    "componente_id": 403442
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 82129,
+    "materia_descrizione": "METODOLOGIA E TECNICHE DELLA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413603",
+    "tipo": "",
+    "componente_id": 413603
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 82566,
+    "materia_descrizione": "SEMINARIO DI SCRITTURA E COMUNICAZIONE PER LA RICERCA SOCIOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415262",
+    "tipo": "",
+    "componente_id": 415262
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 83814,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA ARABA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420793",
+    "tipo": "",
+    "componente_id": 420793
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 83815,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA CINESE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420795",
+    "tipo": "",
+    "componente_id": 420795
+  },
+  {
+    "corso_codice": 8495,
+    "materia_codice": 83816,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420801",
+    "tipo": "",
+    "componente_id": 420801
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 211,
+    "materia_descrizione": "DEMOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364598",
+    "tipo": "",
+    "componente_id": 364598
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 3568,
+    "materia_descrizione": "POLITICA ECONOMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364600",
+    "tipo": "",
+    "componente_id": 364600
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364601
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 2537,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364602",
+    "tipo": "",
+    "componente_id": 364602
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 639,
+    "materia_descrizione": "LINGUA FRANCESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364603",
+    "tipo": "",
+    "componente_id": 364603
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 651,
+    "materia_descrizione": "LINGUA SPAGNOLA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364604",
+    "tipo": "",
+    "componente_id": 364604
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 656,
+    "materia_descrizione": "LINGUA TEDESCA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364605",
+    "tipo": "",
+    "componente_id": 364605
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 57798,
+    "materia_descrizione": "STORIA E ISTITUZIONI DEI PAESI DEL MEDITERRANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364612",
+    "tipo": "",
+    "componente_id": 364612
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 57799,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AFRICA SUB-SAHARIANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364613",
+    "tipo": "",
+    "componente_id": 364613
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 15249,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364614",
+    "tipo": "",
+    "componente_id": 364614
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 2493,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364618",
+    "tipo": "",
+    "componente_id": 364618
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 7173,
+    "materia_descrizione": "ECONOMIA DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364620",
+    "tipo": "",
+    "componente_id": 364620
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 17257,
+    "materia_descrizione": "METODOLOGIA DEI SONDAGGI DI OPINIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365408",
+    "tipo": "",
+    "componente_id": 365408
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 15261,
+    "materia_descrizione": "DIRITTO DEL LAVORO E DELLE RELAZIONI INDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387202",
+    "tipo": "",
+    "componente_id": 387202
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 2523,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387721",
+    "tipo": "",
+    "componente_id": 387721
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394667",
+    "tipo": "",
+    "componente_id": 394667
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 18056,
+    "materia_descrizione": "BILANCI AZIENDALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397467",
+    "tipo": "",
+    "componente_id": 397467
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 2644,
+    "materia_descrizione": "TEORIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397468",
+    "tipo": "",
+    "componente_id": 397468
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 56611,
+    "materia_descrizione": "STORIA E POLITICA DEGLI STATI UNITI D'AMERICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404318",
+    "tipo": "",
+    "componente_id": 404318
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 70373,
+    "materia_descrizione": "ERASMUS PLACEMENT",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412056
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 31082,
+    "materia_descrizione": "LINGUA E LINGUISTICA PERSIANA 1",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413436",
+    "tipo": "",
+    "componente_id": 413436
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 31551,
+    "materia_descrizione": "STORIA DEL PENSIERO ISLAMICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413454",
+    "tipo": "",
+    "componente_id": 413454
+  },
+  {
+    "corso_codice": 8510,
+    "materia_codice": 82351,
+    "materia_descrizione": "TIROCINIO ALL'ESTERO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 420745
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 12641,
+    "materia_descrizione": "POLITICA ECONOMICA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386337",
+    "tipo": "",
+    "componente_id": 386337
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73272,
+    "materia_descrizione": "DIRITTO GLOBALE E SOVRANAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386347",
+    "tipo": "",
+    "componente_id": 386347
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 31498,
+    "materia_descrizione": "LINGUA FRANCESE LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386348",
+    "tipo": "",
+    "componente_id": 386348
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73224,
+    "materia_descrizione": "SOCIET?? DELL'INFORMAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386353",
+    "tipo": "",
+    "componente_id": 386353
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73275,
+    "materia_descrizione": "DIRITTO DELLE RELIGIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386354",
+    "tipo": "",
+    "componente_id": 386354
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 47353,
+    "materia_descrizione": "POLITICA ESTERA DEI PAESI EUROPEI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386367",
+    "tipo": "",
+    "componente_id": 386367
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73289,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI E SVILUPPO IN AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386377",
+    "tipo": "",
+    "componente_id": 386377
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73292,
+    "materia_descrizione": "POLITICA AMERICANA NEL MONDO CONTEMPORANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386382",
+    "tipo": "",
+    "componente_id": 386382
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 45295,
+    "materia_descrizione": "SISTEMI INTERNAZIONALI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386387",
+    "tipo": "",
+    "componente_id": 386387
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 29234,
+    "materia_descrizione": "DEMOGRAFIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386388",
+    "tipo": "",
+    "componente_id": 386388
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73296,
+    "materia_descrizione": "STORIA DELLE CRISI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386391",
+    "tipo": "",
+    "componente_id": 386391
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73297,
+    "materia_descrizione": "SOCIOLOGIA DEL CONFLITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386393",
+    "tipo": "",
+    "componente_id": 386393
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 35199,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386395
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74570,
+    "materia_descrizione": "EUROPE IN THE GLOBAL ECONOMY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390743",
+    "tipo": "",
+    "componente_id": 390743
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74571,
+    "materia_descrizione": "EUROPE IN WORLD POLITICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390744",
+    "tipo": "",
+    "componente_id": 390744
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74573,
+    "materia_descrizione": "POLITICS OF CONTEMPORARY ASIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390746",
+    "tipo": "",
+    "componente_id": 390746
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74653,
+    "materia_descrizione": "EUROPEAN POLITICAL IDEAS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390833",
+    "tipo": "",
+    "componente_id": 390833
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74659,
+    "materia_descrizione": "EUROPE AND AFRICA: COOPERATION AND SECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390841",
+    "tipo": "",
+    "componente_id": 390841
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81455,
+    "materia_descrizione": "EU CONSTITUTIONAL LAW (I.C.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390998
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74512,
+    "materia_descrizione": "EU CONSTITUTION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391000",
+    "tipo": "modulo",
+    "componente_id": 391000
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74513,
+    "materia_descrizione": "EU INSTITUTIONS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391001",
+    "tipo": "modulo",
+    "componente_id": 391001
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74978,
+    "materia_descrizione": "LANGUAGE AND POWER IN THE ENGLISH-SPEAKING WORLD",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391190",
+    "tipo": "",
+    "componente_id": 391190
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74982,
+    "materia_descrizione": "COMPARATIVE JUDICIAL SYSTEMS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391194",
+    "tipo": "",
+    "componente_id": 391194
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74986,
+    "materia_descrizione": "PRINCIPLES OF EUROPEAN LEGAL ORDERS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391198",
+    "tipo": "",
+    "componente_id": 391198
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75001,
+    "materia_descrizione": "ANALISI DELL'ECONOMIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391213",
+    "tipo": "",
+    "componente_id": 391213
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395758",
+    "tipo": "",
+    "componente_id": 395758
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75068,
+    "materia_descrizione": "HEALTH, TECHNOLOGY AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397106",
+    "tipo": "",
+    "componente_id": 397106
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75074,
+    "materia_descrizione": "WEB SOCIETY AND GLOBALIZATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397110",
+    "tipo": "",
+    "componente_id": 397110
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75073,
+    "materia_descrizione": "HUMANITARIAN COMMUNICATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397493",
+    "tipo": "",
+    "componente_id": 397493
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399004",
+    "tipo": "",
+    "componente_id": 399004
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 71880,
+    "materia_descrizione": "CRIME, PUNISHMENT AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400384",
+    "tipo": "",
+    "componente_id": 400384
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77918,
+    "materia_descrizione": "HISTORY AND INTERNATIONAL RELATIONS OF THE MIDDLE EAST",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400657",
+    "tipo": "",
+    "componente_id": 400657
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77919,
+    "materia_descrizione": "INTERNATIONAL DIPLOMACY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400658",
+    "tipo": "",
+    "componente_id": 400658
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77926,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400665",
+    "tipo": "",
+    "componente_id": 400665
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400711",
+    "tipo": "",
+    "componente_id": 400711
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77966,
+    "materia_descrizione": "STRATEGIE GEOPOLITICHE E FINANZIARIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400713",
+    "tipo": "",
+    "componente_id": 400713
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77967,
+    "materia_descrizione": "INTERNATIONAL POLITICS AND THE USE OF FORCE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400715",
+    "tipo": "",
+    "componente_id": 400715
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77968,
+    "materia_descrizione": "BIG DATA AND CYBERSECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400716",
+    "tipo": "",
+    "componente_id": 400716
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77975,
+    "materia_descrizione": "ECONOMIC HISTORY OF GLOBALIZATION",
+    "url": "",
+    "tipo": "",
+    "componente_id": 400723
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77976,
+    "materia_descrizione": "EVOLUTION OF THE INTERNATIONAL SYSTEM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400726",
+    "tipo": "",
+    "componente_id": 400726
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 77980,
+    "materia_descrizione": "STRATEGY AND INTERNATIONAL SECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400728",
+    "tipo": "",
+    "componente_id": 400728
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79168,
+    "materia_descrizione": "STRATEGY AND BEHAVIOR IN ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400730",
+    "tipo": "",
+    "componente_id": 400730
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 78980,
+    "materia_descrizione": "INTERNATIONAL ECONOMICS (ADVANCED)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400744",
+    "tipo": "",
+    "componente_id": 400744
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 26139,
+    "materia_descrizione": "STORIA POLITICA COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402687",
+    "tipo": "",
+    "componente_id": 402687
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 78972,
+    "materia_descrizione": "LABORATORIO FRANCESE: M??DIATION LINGUISTIQUE-CULTURELLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402689",
+    "tipo": "",
+    "componente_id": 402689
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 78973,
+    "materia_descrizione": "LABORATORIO SPAGNOLO: HISTORIA Y MEMORIA EN AM??RICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402701",
+    "tipo": "",
+    "componente_id": 402701
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 78974,
+    "materia_descrizione": "LABORATORIO TEDESCO: SPRACHE UND KRIEG",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402702",
+    "tipo": "",
+    "componente_id": 402702
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79167,
+    "materia_descrizione": "BASIC FRENCH",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403257",
+    "tipo": "",
+    "componente_id": 403257
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79169,
+    "materia_descrizione": "M??DIATION LINGUISTIQUE-CULTURELLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403264",
+    "tipo": "",
+    "componente_id": 403264
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79170,
+    "materia_descrizione": "HISTORIA Y MEMORIA EN AM??RICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403267",
+    "tipo": "",
+    "componente_id": 403267
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79171,
+    "materia_descrizione": "SPRACHE UND KRIEG",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403268",
+    "tipo": "",
+    "componente_id": 403268
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 79534,
+    "materia_descrizione": "DIPLOMACY IN A GLOBAL WORLD",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404232",
+    "tipo": "",
+    "componente_id": 404232
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75086,
+    "materia_descrizione": "EDUCATION SYSTEMS AND POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404239",
+    "tipo": "",
+    "componente_id": 404239
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 74834,
+    "materia_descrizione": "SOCIAL AND WELFARE POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404245",
+    "tipo": "",
+    "componente_id": 404245
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 75094,
+    "materia_descrizione": "ECONOMIC DEVELOPMENT IN THE MIDDLE EAST AND NORTH AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411259",
+    "tipo": "",
+    "componente_id": 411259
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81320,
+    "materia_descrizione": "COMPARATIVE INDUSTRIAL AND FINANCIAL SYSTEMS",
+    "url": "",
+    "tipo": "",
+    "componente_id": 411642
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81763,
+    "materia_descrizione": "RIGHTS IN THE EUROPEAN PUBLIC SPHERE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412207
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81764,
+    "materia_descrizione": "DEMOCRATIC TRANSITIONS AND MULTILATERAL RESPONSE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412210
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81762,
+    "materia_descrizione": "POLITICS OF DEMOCRATIZATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412212",
+    "tipo": "",
+    "componente_id": 412212
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81751,
+    "materia_descrizione": "POLITICS OF EUROPEAN DEMOCRACIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412213",
+    "tipo": "",
+    "componente_id": 412213
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 57850,
+    "materia_descrizione": "SOCIOLOGIA DELLE MIGRAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412262",
+    "tipo": "",
+    "componente_id": 412262
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 8610,
+    "materia_descrizione": "SOCIOLOGIA DELLE RELIGIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412263",
+    "tipo": "",
+    "componente_id": 412263
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 78074,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412265
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81769,
+    "materia_descrizione": "METODO E TECNICHE DELL'ANALISI DEI DATI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412266
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 76347,
+    "materia_descrizione": "DIRITTO DELLE PARI OPPORTUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412350",
+    "tipo": "",
+    "componente_id": 412350
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81822,
+    "materia_descrizione": "GLOBAL GEOPOLITICS OF BUSINESS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412363",
+    "tipo": "",
+    "componente_id": 412363
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 81773,
+    "materia_descrizione": "SOCIOLOGIA DELLE DISUGUAGLIANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413076",
+    "tipo": "",
+    "componente_id": 413076
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 82414,
+    "materia_descrizione": "TEORIE POLITICHE DEL MULTICULTURALISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414129",
+    "tipo": "",
+    "componente_id": 414129
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 82132,
+    "materia_descrizione": "GESTIONE, MONITORAGGIO E VALUTAZIONE DI PROGETTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414677",
+    "tipo": "",
+    "componente_id": 414677
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 37172,
+    "materia_descrizione": "RIDUZIONE PER PROGETTI DI RICERCA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415304",
+    "tipo": "",
+    "componente_id": 415304
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 73344,
+    "materia_descrizione": "DIRITTO PUBBLICO DEI PAESI EMERGENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415313",
+    "tipo": "",
+    "componente_id": 415313
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 83138,
+    "materia_descrizione": "GEOPOLITICA DEI SISTEMI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417399",
+    "tipo": "",
+    "componente_id": 417399
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 82447,
+    "materia_descrizione": "NEW LOCAL WELFARE AND NETWORKS OF SOCIAL INCLUSION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420751",
+    "tipo": "",
+    "componente_id": 420751
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 84010,
+    "materia_descrizione": "ARABIC INT (J.H.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 420812
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 84024,
+    "materia_descrizione": "PAST AND FUTURE IN TRANSATLANTIC RELATIONS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420825",
+    "tipo": "",
+    "componente_id": 420825
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 84025,
+    "materia_descrizione": "TECHNOLOGICAL INNOVATION AND INTERNATIONAL RELATIONS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420827",
+    "tipo": "",
+    "componente_id": 420827
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 80934,
+    "materia_descrizione": "ATTIVIT?? INTEGRATIVA RELAZIONI INTERNAZIONALI DEL MEDIO ORIENTE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 425043
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 80935,
+    "materia_descrizione": "ATTIVIT?? INTEGRATIVA POLITICA AMERICANA NEL MONDO CONTEMPORANEO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 425045
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 85064,
+    "materia_descrizione": "GERMAN LANGUAGE LAB (ADVANCED)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 426016
+  },
+  {
+    "corso_codice": 8782,
+    "materia_codice": 85065,
+    "materia_descrizione": "SPANISH LANGUAGE LAB (ADVANCED)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 426017
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 34080,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE (CORSO AVANZATO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385967",
+    "tipo": "",
+    "componente_id": 385967
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 7223,
+    "materia_descrizione": "STUDI STRATEGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385973",
+    "tipo": "",
+    "componente_id": 385973
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39978,
+    "materia_descrizione": "LINGUA TEDESCA E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385978
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39972,
+    "materia_descrizione": "LINGUA FRANCESE E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385979
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39977,
+    "materia_descrizione": "LINGUA SPAGNOLA E LABORATORIO I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 385980
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39974,
+    "materia_descrizione": "LINGUA RUSSA E LABORATORIO I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385981",
+    "tipo": "",
+    "componente_id": 385981
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 69901,
+    "materia_descrizione": "PAN-EUROPEAN SECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386003",
+    "tipo": "",
+    "componente_id": 386003
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 66709,
+    "materia_descrizione": "HISTORY OF SOVIET UNION'S AND RUSSIAN FOREIGN POLICY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386006",
+    "tipo": "",
+    "componente_id": 386006
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40039,
+    "materia_descrizione": "POST-SOCIALIST TRANSITION AND EU ENLARGEMENT EASTWARDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386007",
+    "tipo": "",
+    "componente_id": 386007
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 31709,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DEL MEDIO ORIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386008",
+    "tipo": "",
+    "componente_id": 386008
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 31705,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386009",
+    "tipo": "",
+    "componente_id": 386009
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78565,
+    "materia_descrizione": "DEMOCRAZIE E AUTORITARISMI IN ASIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386010",
+    "tipo": "",
+    "componente_id": 386010
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 73148,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DELL'AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386011",
+    "tipo": "",
+    "componente_id": 386011
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 77760,
+    "materia_descrizione": "STORIA DELL'INTEGRAZIONE EUROPEA (LM)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386015",
+    "tipo": "",
+    "componente_id": 386015
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40036,
+    "materia_descrizione": "QUANTITATIVE METHODS FOR SOCIAL RESEARCH",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386033",
+    "tipo": "",
+    "componente_id": 386033
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 58606,
+    "materia_descrizione": "TOPICS IN INTERNATIONAL TRADE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386038",
+    "tipo": "",
+    "componente_id": 386038
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 70049,
+    "materia_descrizione": "GLOBAL ENVIRONMENTAL CHALLENGES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386039",
+    "tipo": "",
+    "componente_id": 386039
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39976,
+    "materia_descrizione": "LINGUA SPAGNOLA E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386043
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39975,
+    "materia_descrizione": "LINGUA RUSSA E LABORATORIO II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386044",
+    "tipo": "",
+    "componente_id": 386044
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39973,
+    "materia_descrizione": "LINGUA FRANCESE E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386045
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 39979,
+    "materia_descrizione": "LINGUA TEDESCA E LABORATORIO II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386046
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 10432,
+    "materia_descrizione": "DIRITTO COMMERCIALE INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386047",
+    "tipo": "",
+    "componente_id": 386047
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 70067,
+    "materia_descrizione": "DIRITTO DELL'UE DELL'IMMIGRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386048",
+    "tipo": "",
+    "componente_id": 386048
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 70068,
+    "materia_descrizione": "ECONOMICS OF COMPETITION POLICY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386051",
+    "tipo": "",
+    "componente_id": 386051
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40040,
+    "materia_descrizione": "GOVERNANCE E POLITICHE DELL'INTEGRAZIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386054",
+    "tipo": "",
+    "componente_id": 386054
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 70047,
+    "materia_descrizione": "GUERRA E POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386055",
+    "tipo": "",
+    "componente_id": 386055
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 73162,
+    "materia_descrizione": "IDEOLOGIA E SOCIETA' NEL MONDO GLOBALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386056",
+    "tipo": "",
+    "componente_id": 386056
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 32187,
+    "materia_descrizione": "POLITICAL ECONOMY OF TRANSITION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386062",
+    "tipo": "",
+    "componente_id": 386062
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 66710,
+    "materia_descrizione": "POLITICAL ECONOMY OF WELFARE SYSTEMS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386063",
+    "tipo": "",
+    "componente_id": 386063
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40043,
+    "materia_descrizione": "POLITICS OF THE WORLD ECONOMY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386065",
+    "tipo": "",
+    "componente_id": 386065
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 34091,
+    "materia_descrizione": "SISTEMI FEDERALI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386067",
+    "tipo": "",
+    "componente_id": 386067
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 7230,
+    "materia_descrizione": "SISTEMI GIUDIZIARI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386068",
+    "tipo": "",
+    "componente_id": 386068
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78570,
+    "materia_descrizione": "GLOBALIZZAZIONE E IDENTITA' CULTURALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386069",
+    "tipo": "",
+    "componente_id": 386069
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 42614,
+    "materia_descrizione": "ECONOMIA DELLA DISUGUAGLIANZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386070",
+    "tipo": "",
+    "componente_id": 386070
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40014,
+    "materia_descrizione": "INTERNATIONAL RELATIONS OF EAST ASIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390849",
+    "tipo": "",
+    "componente_id": 390849
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 31738,
+    "materia_descrizione": "DIRITTO DEL COMMERCIO INTERNAZIONALE (SEMINARIO)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390850",
+    "tipo": "",
+    "componente_id": 390850
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 74638,
+    "materia_descrizione": "GLOBALIZATION, STATES AND MARKETS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390852",
+    "tipo": "",
+    "componente_id": 390852
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 74643,
+    "materia_descrizione": "INTERNATIONAL BUSINESS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390853",
+    "tipo": "",
+    "componente_id": 390853
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 74645,
+    "materia_descrizione": "INTERNATIONAL CONTRACTS IN GLOBAL MARKETS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390855",
+    "tipo": "",
+    "componente_id": 390855
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 37412,
+    "materia_descrizione": "TEORIE POLITICHE DEL MULTICULTURALISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390862",
+    "tipo": "",
+    "componente_id": 390862
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78447,
+    "materia_descrizione": "ISTITUZIONI, DEMOCRAZIA, SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391785",
+    "tipo": "",
+    "componente_id": 391785
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 77092,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DEGLI STATI UNITI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/398339",
+    "tipo": "",
+    "componente_id": 398339
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 40430,
+    "materia_descrizione": "ELEMENTI DI ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400349",
+    "tipo": "",
+    "componente_id": 400349
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 29866,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE (LM)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400896",
+    "tipo": "",
+    "componente_id": 400896
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78135,
+    "materia_descrizione": "POLITICA INTERNAZIONALE (LM)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400897",
+    "tipo": "",
+    "componente_id": 400897
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78136,
+    "materia_descrizione": "STORIA INTERNAZIONALE (LM)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400898",
+    "tipo": "",
+    "componente_id": 400898
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 2492,
+    "materia_descrizione": "POLITICA COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400901",
+    "tipo": "",
+    "componente_id": 400901
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 79026,
+    "materia_descrizione": "FRENCH I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401443
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 79027,
+    "materia_descrizione": "GERMAN I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402650
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78968,
+    "materia_descrizione": "GERMAN II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402651
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 78969,
+    "materia_descrizione": "FRENCH II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402653
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 82005,
+    "materia_descrizione": "ECONOMICS OF THE EU",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412925",
+    "tipo": "",
+    "componente_id": 412925
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 82007,
+    "materia_descrizione": "POLITICA DELL'ECONOMIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412928",
+    "tipo": "",
+    "componente_id": 412928
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 72597,
+    "materia_descrizione": "ANALISI DELL'OPINIONE PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412929",
+    "tipo": "",
+    "componente_id": 412929
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 81772,
+    "materia_descrizione": "LE LEADERSHIP DANS LES D??MOCRATIES CONTEMPORAINES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412930",
+    "tipo": "",
+    "componente_id": 412930
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 81769,
+    "materia_descrizione": "METODO E TECNICHE DELL'ANALISI DEI DATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412931",
+    "tipo": "",
+    "componente_id": 412931
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 81945,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412932",
+    "tipo": "",
+    "componente_id": 412932
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 25751,
+    "materia_descrizione": "INTERNATIONAL ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413001",
+    "tipo": "",
+    "componente_id": 413001
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 66231,
+    "materia_descrizione": "CRASH COURSE IN ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416294",
+    "tipo": "",
+    "componente_id": 416294
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 82786,
+    "materia_descrizione": "CRASH COURSE IN INTERNATIONAL POLITICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416295",
+    "tipo": "",
+    "componente_id": 416295
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 82816,
+    "materia_descrizione": "INTELLIGENCE AND POLITICAL DECISION MAKING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416439",
+    "tipo": "",
+    "componente_id": 416439
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 83814,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA ARABA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420742",
+    "tipo": "",
+    "componente_id": 420742
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 83815,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA CINESE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420743",
+    "tipo": "",
+    "componente_id": 420743
+  },
+  {
+    "corso_codice": 8783,
+    "materia_codice": 83816,
+    "materia_descrizione": "CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420744",
+    "tipo": "",
+    "componente_id": 420744
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 2506,
+    "materia_descrizione": "METODOLOGIA DELLE SCIENZE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386199",
+    "tipo": "",
+    "componente_id": 386199
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73213,
+    "materia_descrizione": "LINGUA INGLESE PER L'AMMINISTRAZIONE: DISCORSO E POTERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386200",
+    "tipo": "",
+    "componente_id": 386200
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 2531,
+    "materia_descrizione": "DIRITTO PUBBLICO DELL'ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386211",
+    "tipo": "",
+    "componente_id": 386211
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 23000,
+    "materia_descrizione": "SCIENZE DELLE FINANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386212",
+    "tipo": "",
+    "componente_id": 386212
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 30350,
+    "materia_descrizione": "AMMINISTRAZIONE E POLITICHE PUBBLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386213",
+    "tipo": "",
+    "componente_id": 386213
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 31169,
+    "materia_descrizione": "SISTEMA POLITICO ITALIANO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386215",
+    "tipo": "",
+    "componente_id": 386215
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386216",
+    "tipo": "",
+    "componente_id": 386216
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 5896,
+    "materia_descrizione": "ORDINAMENTO GIUDIZIARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386220",
+    "tipo": "",
+    "componente_id": 386220
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73223,
+    "materia_descrizione": "DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386221",
+    "tipo": "",
+    "componente_id": 386221
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73224,
+    "materia_descrizione": "SOCIET?? DELL'INFORMAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386224",
+    "tipo": "",
+    "componente_id": 386224
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 10532,
+    "materia_descrizione": "ECONOMETRIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386233",
+    "tipo": "",
+    "componente_id": 386233
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73227,
+    "materia_descrizione": "DEMOCRAZIA E RAPPRESENTANZA IN EUROPA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386239",
+    "tipo": "",
+    "componente_id": 386239
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73229,
+    "materia_descrizione": "COMUNICAZIONE POLITICA E ISTITUZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386252",
+    "tipo": "",
+    "componente_id": 386252
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 73231,
+    "materia_descrizione": "DEMOCRAZIA PARTECIPATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386256",
+    "tipo": "",
+    "componente_id": 386256
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 30347,
+    "materia_descrizione": "ANALISI DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386265",
+    "tipo": "",
+    "componente_id": 386265
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 29083,
+    "materia_descrizione": "VALUTAZIONE DELLE POLITICHE ECONOMICHE E SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386269",
+    "tipo": "",
+    "componente_id": 386269
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 16910,
+    "materia_descrizione": "ECONOMIA DELLE RISORSE UMANE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386276",
+    "tipo": "",
+    "componente_id": 386276
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 36164,
+    "materia_descrizione": "RELAZIONI INDUSTRIALI LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386280",
+    "tipo": "",
+    "componente_id": 386280
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 2512,
+    "materia_descrizione": "SOCIOLOGIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386286",
+    "tipo": "",
+    "componente_id": 386286
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 35808,
+    "materia_descrizione": "DIRITTO DEL LAVORO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386287",
+    "tipo": "",
+    "componente_id": 386287
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386294",
+    "tipo": "",
+    "componente_id": 386294
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 35199,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386295
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74754,
+    "materia_descrizione": "DROIT DE L'ACTION PUBLIQUE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390946
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74755,
+    "materia_descrizione": "SOCIOLOGIE DE L'ACTION PUBLIQUE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390947
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74758,
+    "materia_descrizione": "MANAGEMENT PUBLIC: ETUDES DE CAS",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390950
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74759,
+    "materia_descrizione": "ETRE CONSULTANT: R??GLES DU JEU, TECHNIQUES",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390951
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74760,
+    "materia_descrizione": "PROVA FINALE (18CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390952
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75148,
+    "materia_descrizione": "ANALISI DELLE ORGANIZZAZIONI E VALUTAZIONE DELLE POLITICHE PUBBLICHE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 391452
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 30347,
+    "materia_descrizione": "ANALISI DELLE ORGANIZZAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391453",
+    "tipo": "modulo",
+    "componente_id": 391453
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 18079,
+    "materia_descrizione": "VALUTAZIONE DELLE POLITICHE PUBBLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391454",
+    "tipo": "modulo",
+    "componente_id": 391454
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74834,
+    "materia_descrizione": "SOCIAL AND WELFARE POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391507",
+    "tipo": "",
+    "componente_id": 391507
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75086,
+    "materia_descrizione": "EDUCATION SYSTEMS AND POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391512",
+    "tipo": "",
+    "componente_id": 391512
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74982,
+    "materia_descrizione": "COMPARATIVE JUDICIAL SYSTEMS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391746",
+    "tipo": "",
+    "componente_id": 391746
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75396,
+    "materia_descrizione": "GESTION ADMINISTRATIVE ET PUBLIQUE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 391816
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75402,
+    "materia_descrizione": "GESTION PUBLIQUE DES RISQUES",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 391817
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 74757,
+    "materia_descrizione": "REFORMES ADMINISTRATIVES ET INNOVATIONS TECHNOLOGIQUES",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 391818
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75649,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392227",
+    "tipo": "",
+    "componente_id": 392227
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75903,
+    "materia_descrizione": "SCIENZA DELLE FINANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394203",
+    "tipo": "",
+    "componente_id": 394203
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 76347,
+    "materia_descrizione": "DIRITTO DELLE PARI OPPORTUNIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394297",
+    "tipo": "",
+    "componente_id": 394297
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395745",
+    "tipo": "",
+    "componente_id": 395745
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75068,
+    "materia_descrizione": "HEALTH, TECHNOLOGY AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397107",
+    "tipo": "",
+    "componente_id": 397107
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 75073,
+    "materia_descrizione": "HUMANITARIAN COMMUNICATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397492",
+    "tipo": "",
+    "componente_id": 397492
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 29358,
+    "materia_descrizione": "IDEOLOGIE E LEGITTIMAZIONE POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400812",
+    "tipo": "",
+    "componente_id": 400812
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 57849,
+    "materia_descrizione": "POLITICHE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400814",
+    "tipo": "",
+    "componente_id": 400814
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 4873,
+    "materia_descrizione": "ORGANIZZAZIONE E COMPORTAMENTO GIUDIZIARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402613",
+    "tipo": "",
+    "componente_id": 402613
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 81769,
+    "materia_descrizione": "METODO E TECNICHE DELL'ANALISI DEI DATI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412232
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 78074,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412233
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 81771,
+    "materia_descrizione": "DEMOCRACY AND POPULISM IN EUROPE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412236",
+    "tipo": "",
+    "componente_id": 412236
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 81772,
+    "materia_descrizione": "LE LEADERSHIP DANS LES D??MOCRATIES CONTEMPORAINES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412238",
+    "tipo": "",
+    "componente_id": 412238
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 81773,
+    "materia_descrizione": "SOCIOLOGIA DELLE DISUGUAGLIANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412239",
+    "tipo": "",
+    "componente_id": 412239
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 81763,
+    "materia_descrizione": "RIGHTS IN THE EUROPEAN PUBLIC SPHERE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412242
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 29084,
+    "materia_descrizione": "MODELLI DI COMPORTAMENTO ECONOMICO E ANALISI TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412243",
+    "tipo": "",
+    "componente_id": 412243
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 45070,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412247",
+    "tipo": "",
+    "componente_id": 412247
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 11332,
+    "materia_descrizione": "COMUNICAZIONE POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412806",
+    "tipo": "",
+    "componente_id": 412806
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 37170,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO COLLEGIO DOTTORATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415310",
+    "tipo": "",
+    "componente_id": 415310
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 82854,
+    "materia_descrizione": "DIRITTO TRIBUTARIO DELL'AMMINISTRAZIONE PUBBLICA E DELLE IMPRESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416577",
+    "tipo": "",
+    "componente_id": 416577
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 83796,
+    "materia_descrizione": "ATTIVITA' INTEGRATIVA IUS/10",
+    "url": "",
+    "tipo": "",
+    "componente_id": 419585
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 83796,
+    "materia_descrizione": "ATTIVITA' INTEGRATIVA IUS/10",
+    "url": "",
+    "tipo": "",
+    "componente_id": 419586
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 83800,
+    "materia_descrizione": "RELAZIONI INDUSTRIALI APPLICATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419715",
+    "tipo": "",
+    "componente_id": 419715
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 70014,
+    "materia_descrizione": "PSICOLOGIA DELLE RISORSE UMANE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 424591
+  },
+  {
+    "corso_codice": 8784,
+    "materia_codice": 85566,
+    "materia_descrizione": "RELAZIONI INDUSTRIALI APPLICATE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 424760
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 35808,
+    "materia_descrizione": "DIRITTO DEL LAVORO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386516",
+    "tipo": "",
+    "componente_id": 386516
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 73344,
+    "materia_descrizione": "DIRITTO PUBBLICO DEI PAESI EMERGENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386523",
+    "tipo": "",
+    "componente_id": 386523
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 73345,
+    "materia_descrizione": "TEORIE DELLA GIUSTIZIA E POLITICHE DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386524",
+    "tipo": "",
+    "componente_id": 386524
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 48067,
+    "materia_descrizione": "DIRITTO DEI PAESI ASIATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386525",
+    "tipo": "",
+    "componente_id": 386525
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 73289,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI E SVILUPPO IN AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386528",
+    "tipo": "",
+    "componente_id": 386528
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75094,
+    "materia_descrizione": "ECONOMIC DEVELOPMENT IN THE MIDDLE EAST AND NORTH AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386531",
+    "tipo": "",
+    "componente_id": 386531
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 10532,
+    "materia_descrizione": "ECONOMETRIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386532",
+    "tipo": "",
+    "componente_id": 386532
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 29084,
+    "materia_descrizione": "MODELLI DI COMPORTAMENTO ECONOMICO E ANALISI TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386533",
+    "tipo": "",
+    "componente_id": 386533
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 45070,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386535",
+    "tipo": "",
+    "componente_id": 386535
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 16910,
+    "materia_descrizione": "ECONOMIA DELLE RISORSE UMANE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386536",
+    "tipo": "",
+    "componente_id": 386536
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 12274,
+    "materia_descrizione": "STORIA ECONOMICA DELL'EUROPA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386538",
+    "tipo": "",
+    "componente_id": 386538
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75100,
+    "materia_descrizione": "REGIONAL ECONOMIC POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386540",
+    "tipo": "",
+    "componente_id": 386540
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 66250,
+    "materia_descrizione": "POLITICHE PUBBLICHE E REDISTRIBUZIONE DEL REDDITO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386541",
+    "tipo": "",
+    "componente_id": 386541
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 73354,
+    "materia_descrizione": "LABORATORIO DI PROJECT DESIGN, MONITORING AND EVALUATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386543",
+    "tipo": "",
+    "componente_id": 386543
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 29234,
+    "materia_descrizione": "DEMOGRAFIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386547",
+    "tipo": "",
+    "componente_id": 386547
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 2512,
+    "materia_descrizione": "SOCIOLOGIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386548",
+    "tipo": "",
+    "componente_id": 386548
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 2506,
+    "materia_descrizione": "METODOLOGIA DELLE SCIENZE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386550",
+    "tipo": "",
+    "componente_id": 386550
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75191,
+    "materia_descrizione": "LOCAL AND URBAN POLITICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386628",
+    "tipo": "",
+    "componente_id": 386628
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 44658,
+    "materia_descrizione": "DIRITTI UMANI E STORIA DEL DIRITTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386630",
+    "tipo": "",
+    "componente_id": 386630
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 73224,
+    "materia_descrizione": "SOCIET?? DELL'INFORMAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386645",
+    "tipo": "",
+    "componente_id": 386645
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75101,
+    "materia_descrizione": "MULTICULTURALISM AND CULTURAL RELATIVISM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386646",
+    "tipo": "",
+    "componente_id": 386646
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386717
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 74834,
+    "materia_descrizione": "SOCIAL AND WELFARE POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391319",
+    "tipo": "",
+    "componente_id": 391319
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75067,
+    "materia_descrizione": "SOCIOLOGIA DELLE COMUNIT?? E DEI QUARTIERI URBANI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391382",
+    "tipo": "",
+    "componente_id": 391382
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 37510,
+    "materia_descrizione": "VALUTAZIONE E ANALISI DELLE POLITICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394240",
+    "tipo": "",
+    "componente_id": 394240
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 67739,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399003",
+    "tipo": "",
+    "componente_id": 399003
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 77918,
+    "materia_descrizione": "HISTORY AND INTERNATIONAL RELATIONS OF THE MIDDLE EAST",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400946",
+    "tipo": "",
+    "componente_id": 400946
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75068,
+    "materia_descrizione": "HEALTH, TECHNOLOGY AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400952",
+    "tipo": "",
+    "componente_id": 400952
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75073,
+    "materia_descrizione": "HUMANITARIAN COMMUNICATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400953",
+    "tipo": "",
+    "componente_id": 400953
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 75074,
+    "materia_descrizione": "WEB SOCIETY AND GLOBALIZATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400954",
+    "tipo": "",
+    "componente_id": 400954
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 77926,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400957",
+    "tipo": "",
+    "componente_id": 400957
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 82855,
+    "materia_descrizione": "SMART CITIES E SMART DEVELOPMENT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416578",
+    "tipo": "",
+    "componente_id": 416578
+  },
+  {
+    "corso_codice": 8785,
+    "materia_codice": 82856,
+    "materia_descrizione": "PROCESSI DI GLOBALIZZAZIONE: SVILUPPI E TENDENZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416579",
+    "tipo": "",
+    "componente_id": 416579
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73393,
+    "materia_descrizione": "DIRITTO DEL LAVORO E DIRITTO DELLA SICUREZZA SOCIALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386661
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 224,
+    "materia_descrizione": "DIRITTO DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386662",
+    "tipo": "modulo",
+    "componente_id": 386662
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 2589,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386663",
+    "tipo": "modulo",
+    "componente_id": 386663
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73394,
+    "materia_descrizione": "METODOLOGIA DELLE SCIENZE SOCIALI E STATISTICA SOCIALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386664
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 2506,
+    "materia_descrizione": "METODOLOGIA DELLE SCIENZE SOCIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386666",
+    "tipo": "modulo",
+    "componente_id": 386666
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 3383,
+    "materia_descrizione": "STATISTICA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386667",
+    "tipo": "modulo",
+    "componente_id": 386667
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73395,
+    "materia_descrizione": "SOCIOLOGIA LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386668",
+    "tipo": "",
+    "componente_id": 386668
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73396,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386669",
+    "tipo": "",
+    "componente_id": 386669
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 12785,
+    "materia_descrizione": "SOCIOLOGIA DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386670",
+    "tipo": "",
+    "componente_id": 386670
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73397,
+    "materia_descrizione": "TIROCINIO SOC",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386671",
+    "tipo": "",
+    "componente_id": 386671
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 3079,
+    "materia_descrizione": "PSICOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386672",
+    "tipo": "",
+    "componente_id": 386672
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 31495,
+    "materia_descrizione": "LINGUA INGLESE LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386674",
+    "tipo": "",
+    "componente_id": 386674
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 12227,
+    "materia_descrizione": "SOCIOLOGIA DEI CONSUMI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386676",
+    "tipo": "",
+    "componente_id": 386676
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73399,
+    "materia_descrizione": "SOCIOLOGIA DELLA FAMIGLIA E DEL TERZO SETTORE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386677",
+    "tipo": "",
+    "componente_id": 386677
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 2512,
+    "materia_descrizione": "SOCIOLOGIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386695",
+    "tipo": "",
+    "componente_id": 386695
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 57850,
+    "materia_descrizione": "SOCIOLOGIA DELLE MIGRAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386699",
+    "tipo": "",
+    "componente_id": 386699
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73403,
+    "materia_descrizione": "METODI E TECNICHE DELLA VALUTAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386701",
+    "tipo": "",
+    "componente_id": 386701
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73405,
+    "materia_descrizione": "SEMINARIO DI METODI E TECNICHE PER L'ANALISI QUALITATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386703",
+    "tipo": "",
+    "componente_id": 386703
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386706
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73407,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA SOCIALE E DIRITTO PENALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 386707
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 2589,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386708",
+    "tipo": "modulo",
+    "componente_id": 386708
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 231,
+    "materia_descrizione": "DIRITTO PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386709",
+    "tipo": "modulo",
+    "componente_id": 386709
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 11344,
+    "materia_descrizione": "POLITICA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386711",
+    "tipo": "",
+    "componente_id": 386711
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 49482,
+    "materia_descrizione": "COMUNICAZIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386712",
+    "tipo": "",
+    "componente_id": 386712
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73408,
+    "materia_descrizione": "TIROCINIO SERVSOC",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386713",
+    "tipo": "",
+    "componente_id": 386713
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73409,
+    "materia_descrizione": "PROGRAMMAZIONE DEI SERVIZI SOCIALI SUL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386714",
+    "tipo": "",
+    "componente_id": 386714
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73410,
+    "materia_descrizione": "LABORATORIO DI METODI E TECNICHE AVANZATE DEL SERVIZIO SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386715",
+    "tipo": "",
+    "componente_id": 386715
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 73281,
+    "materia_descrizione": "FILOSOFIA POLITICA LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387424",
+    "tipo": "",
+    "componente_id": 387424
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75067,
+    "materia_descrizione": "SOCIOLOGIA DELLE COMUNIT?? E DEI QUARTIERI URBANI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391349",
+    "tipo": "",
+    "componente_id": 391349
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75068,
+    "materia_descrizione": "HEALTH, TECHNOLOGY AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391350",
+    "tipo": "",
+    "componente_id": 391350
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75073,
+    "materia_descrizione": "HUMANITARIAN COMMUNICATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391352",
+    "tipo": "",
+    "componente_id": 391352
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75074,
+    "materia_descrizione": "WEB SOCIETY AND GLOBALIZATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391353",
+    "tipo": "",
+    "componente_id": 391353
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75075,
+    "materia_descrizione": "URBAN STUDIES IN THE UNITED STATES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391355",
+    "tipo": "",
+    "componente_id": 391355
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 76222,
+    "materia_descrizione": "SISTEMI SOCIO-SANITARI COMPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394026",
+    "tipo": "",
+    "componente_id": 394026
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 76335,
+    "materia_descrizione": "SEMINARIO SU SUSSIDIARIET??, RIFORMA DEL WELFARE E INNOVAZIONE SOCIALE IN ITALIA E IN EUROPA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394236",
+    "tipo": "",
+    "componente_id": 394236
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395739",
+    "tipo": "",
+    "componente_id": 395739
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 76810,
+    "materia_descrizione": "SEMINARIO DI METODI E TECNICHE PER L'ANALISI QUANTITATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397024",
+    "tipo": "",
+    "componente_id": 397024
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 76811,
+    "materia_descrizione": "LABORATORIO DI ORGANIZZAZIONE E PROGRAMMAZIONE DEI SERVIZI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397025",
+    "tipo": "",
+    "componente_id": 397025
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75191,
+    "materia_descrizione": "LOCAL AND URBAN POLITICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397111",
+    "tipo": "",
+    "componente_id": 397111
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 75086,
+    "materia_descrizione": "EDUCATION SYSTEMS AND POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397494",
+    "tipo": "",
+    "componente_id": 397494
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 69618,
+    "materia_descrizione": "SEMINARIO \"MINORI E GIUSTIZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400166",
+    "tipo": "",
+    "componente_id": 400166
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 57849,
+    "materia_descrizione": "POLITICHE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400916",
+    "tipo": "",
+    "componente_id": 400916
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 639,
+    "materia_descrizione": "LINGUA FRANCESE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412852
+  },
+  {
+    "corso_codice": 8786,
+    "materia_codice": 82554,
+    "materia_descrizione": "CITTADINANZA, TERRITORIO E NUOVO WELFARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415117",
+    "tipo": "",
+    "componente_id": 415117
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75520,
+    "materia_descrizione": "COMUNICAZIONE E MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391974",
+    "tipo": "",
+    "componente_id": 391974
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 22922,
+    "materia_descrizione": "COMUNICAZIONE PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391975",
+    "tipo": "",
+    "componente_id": 391975
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75522,
+    "materia_descrizione": "DIRITTO DELLA COMUNICAZIONE COMMERCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391976",
+    "tipo": "",
+    "componente_id": 391976
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 28208,
+    "materia_descrizione": "MODELLI DI MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391979",
+    "tipo": "",
+    "componente_id": 391979
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 33190,
+    "materia_descrizione": "TEORIE DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391981",
+    "tipo": "",
+    "componente_id": 391981
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 73231,
+    "materia_descrizione": "DEMOCRAZIA PARTECIPATIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391983",
+    "tipo": "",
+    "componente_id": 391983
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75525,
+    "materia_descrizione": "DIRITTO DEI MEDIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391986",
+    "tipo": "",
+    "componente_id": 391986
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 59285,
+    "materia_descrizione": "SOCIOLOGIA DELLA COMUNICAZIONE MULTIMEDIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391989",
+    "tipo": "",
+    "componente_id": 391989
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 22941,
+    "materia_descrizione": "TEORIA DELLA SFERA PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391990",
+    "tipo": "",
+    "componente_id": 391990
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392034
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75564,
+    "materia_descrizione": "COMUNICAZIONE E POLITICHE AMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392035",
+    "tipo": "",
+    "componente_id": 392035
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75565,
+    "materia_descrizione": "COMUNICAZIONE E WEB",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392037",
+    "tipo": "",
+    "componente_id": 392037
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 36276,
+    "materia_descrizione": "COOPERAZIONE SANITARIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392038",
+    "tipo": "",
+    "componente_id": 392038
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 32500,
+    "materia_descrizione": "CULTURAL ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392039",
+    "tipo": "",
+    "componente_id": 392039
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75566,
+    "materia_descrizione": "MARKETING SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392040",
+    "tipo": "",
+    "componente_id": 392040
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 73343,
+    "materia_descrizione": "DIRITTI UMANI, COSTITUZIONI, ISTITUZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392072",
+    "tipo": "",
+    "componente_id": 392072
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 35808,
+    "materia_descrizione": "DIRITTO DEL LAVORO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392544",
+    "tipo": "",
+    "componente_id": 392544
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 73223,
+    "materia_descrizione": "DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392546",
+    "tipo": "",
+    "componente_id": 392546
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 14003,
+    "materia_descrizione": "TEORIA E TECNICHE DELLA COMUNICAZIONE PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392552",
+    "tipo": "",
+    "componente_id": 392552
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75774,
+    "materia_descrizione": "PSICOLOGIA E COMUNICAZIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392559",
+    "tipo": "",
+    "componente_id": 392559
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75781,
+    "materia_descrizione": "TEORIA E MODELLI DELLO SPAZIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392571",
+    "tipo": "",
+    "componente_id": 392571
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 37838,
+    "materia_descrizione": "LABORATORIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393648",
+    "tipo": "",
+    "componente_id": 393648
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75931,
+    "materia_descrizione": "IDONEIT?? DI LINGUA INGLESE B2",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394264
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75001,
+    "materia_descrizione": "ANALISI DELL'ECONOMIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400862",
+    "tipo": "",
+    "componente_id": 400862
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75074,
+    "materia_descrizione": "WEB SOCIETY AND GLOBALIZATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400864",
+    "tipo": "",
+    "componente_id": 400864
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 78984,
+    "materia_descrizione": "COMUNICAZIONE POLITICA E COMPETIZIONE ELETTORALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400971",
+    "tipo": "",
+    "componente_id": 400971
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 77968,
+    "materia_descrizione": "BIG DATA AND CYBERSECURITY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403668",
+    "tipo": "",
+    "componente_id": 403668
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 27090,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409992",
+    "tipo": "",
+    "componente_id": 409992
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81875,
+    "materia_descrizione": "STRATEGIE DI WEB MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412566",
+    "tipo": "",
+    "componente_id": 412566
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81878,
+    "materia_descrizione": "MEDIA DIGITALI E GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412570",
+    "tipo": "",
+    "componente_id": 412570
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 42022,
+    "materia_descrizione": "TEORIE SOCIALI DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412571",
+    "tipo": "",
+    "componente_id": 412571
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 11332,
+    "materia_descrizione": "COMUNICAZIONE POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412579",
+    "tipo": "",
+    "componente_id": 412579
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 78074,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412588
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81769,
+    "materia_descrizione": "METODO E TECNICHE DELL'ANALISI DEI DATI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412590
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 75100,
+    "materia_descrizione": "REGIONAL ECONOMIC POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412599",
+    "tipo": "",
+    "componente_id": 412599
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81773,
+    "materia_descrizione": "SOCIOLOGIA DELLE DISUGUAGLIANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412603",
+    "tipo": "",
+    "componente_id": 412603
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 8610,
+    "materia_descrizione": "SOCIOLOGIA DELLE RELIGIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412611",
+    "tipo": "",
+    "componente_id": 412611
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 29358,
+    "materia_descrizione": "IDEOLOGIE E LEGITTIMAZIONE POLITICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412613
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 42465,
+    "materia_descrizione": "ECONOMIA DEI SISTEMI LOCALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412617",
+    "tipo": "",
+    "componente_id": 412617
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 45070,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412618",
+    "tipo": "",
+    "componente_id": 412618
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 73276,
+    "materia_descrizione": "CRISI FINANZIARIE E SISTEMA ECONOMICO INTERNAZIONALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412620
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 73340,
+    "materia_descrizione": "ECONOMIA DELLO SVILUPPO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412624",
+    "tipo": "",
+    "componente_id": 412624
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81763,
+    "materia_descrizione": "RIGHTS IN THE EUROPEAN PUBLIC SPHERE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412627
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 81909,
+    "materia_descrizione": "TECNOLOGIA,WEB E GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412639",
+    "tipo": "",
+    "componente_id": 412639
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 12641,
+    "materia_descrizione": "POLITICA ECONOMICA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413750",
+    "tipo": "",
+    "componente_id": 413750
+  },
+  {
+    "corso_codice": 8840,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414709",
+    "tipo": "",
+    "componente_id": 414709
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 905,
+    "materia_descrizione": "SOCIOLOGIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392862
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 895,
+    "materia_descrizione": "SCIENZA POLITICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392863
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 932,
+    "materia_descrizione": "STORIA CONTEMPORANEA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392864
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 9446,
+    "materia_descrizione": "MICROECONOMIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392865
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74775,
+    "materia_descrizione": "LINGUA INGLESE (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392866
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 534,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO PUBBLICO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392867
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 914,
+    "materia_descrizione": "STATISTICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392869
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 983,
+    "materia_descrizione": "STORIA DELLE DOTTRINE POLITICHE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392870
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 8795,
+    "materia_descrizione": "MACROECONOMIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392871
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 17270,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392872
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74778,
+    "materia_descrizione": "LINGUA FRANCESE (8 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392873
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74776,
+    "materia_descrizione": "LINGUA SPAGNOLA (8 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392874
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74782,
+    "materia_descrizione": "LINGUA TEDESCA (8 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392875",
+    "tipo": "",
+    "componente_id": 392875
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74794,
+    "materia_descrizione": "COMUNICAZIONE POLITICA E DI MASSA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392876
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 10058,
+    "materia_descrizione": "COMUNICAZIONE DI MASSA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392878",
+    "tipo": "modulo",
+    "componente_id": 392878
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 11332,
+    "materia_descrizione": "COMUNICAZIONE POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392877",
+    "tipo": "modulo",
+    "componente_id": 392877
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2935,
+    "materia_descrizione": "LABORATORIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392879
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 392880
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 75408,
+    "materia_descrizione": "SOCIOLOGIA DELLA COMUNICAZIONE (10 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392881",
+    "tipo": "",
+    "componente_id": 392881
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 8829,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392882",
+    "tipo": "",
+    "componente_id": 392882
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2644,
+    "materia_descrizione": "TEORIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392884",
+    "tipo": "",
+    "componente_id": 392884
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 4876,
+    "materia_descrizione": "SOCIOLOGIA URBANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392885",
+    "tipo": "",
+    "componente_id": 392885
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74787,
+    "materia_descrizione": "ITALIAN POLITICAL SYSTEM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392887",
+    "tipo": "",
+    "componente_id": 392887
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74786,
+    "materia_descrizione": "POLITICAL PHILOSOPHY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392888",
+    "tipo": "",
+    "componente_id": 392888
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2523,
+    "materia_descrizione": "PSICOLOGIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392889",
+    "tipo": "",
+    "componente_id": 392889
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 223,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE ITALIANO E COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392890",
+    "tipo": "",
+    "componente_id": 392890
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 217,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392891",
+    "tipo": "",
+    "componente_id": 392891
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 15261,
+    "materia_descrizione": "DIRITTO DEL LAVORO E DELLE RELAZIONI INDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392892",
+    "tipo": "",
+    "componente_id": 392892
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 3495,
+    "materia_descrizione": "SOCIOLOGIA ECONOMICA E DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392893",
+    "tipo": "",
+    "componente_id": 392893
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 9117,
+    "materia_descrizione": "SOCIOLOGIA DELLA FAMIGLIA E DELL'EDUCAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392894",
+    "tipo": "",
+    "componente_id": 392894
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 8641,
+    "materia_descrizione": "ANALISI DELLE POLITICHE PUBBLICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392896",
+    "tipo": "",
+    "componente_id": 392896
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2538,
+    "materia_descrizione": "ECONOMIA E POLITICA MONETARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392897",
+    "tipo": "",
+    "componente_id": 392897
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 35806,
+    "materia_descrizione": "STORIA ECONOMICA EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392899",
+    "tipo": "",
+    "componente_id": 392899
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2493,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392900",
+    "tipo": "",
+    "componente_id": 392900
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 23440,
+    "materia_descrizione": "STORIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392901",
+    "tipo": "",
+    "componente_id": 392901
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2537,
+    "materia_descrizione": "ECONOMIA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392902",
+    "tipo": "",
+    "componente_id": 392902
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 230,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392903",
+    "tipo": "",
+    "componente_id": 392903
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2492,
+    "materia_descrizione": "POLITICA COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392904",
+    "tipo": "",
+    "componente_id": 392904
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 56611,
+    "materia_descrizione": "STORIA E POLITICA DEGLI STATI UNITI D'AMERICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392905",
+    "tipo": "",
+    "componente_id": 392905
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 15249,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AMERICA LATINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392906",
+    "tipo": "",
+    "componente_id": 392906
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 78214,
+    "materia_descrizione": "L'AFRICA NELLA STORIA POLITICA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392907",
+    "tipo": "",
+    "componente_id": 392907
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74785,
+    "materia_descrizione": "STORIA E ISTITUZIONI DEI PAESI DEL MEDIO ORIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392910",
+    "tipo": "",
+    "componente_id": 392910
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 7297,
+    "materia_descrizione": "SOCIOLOGIA DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392912",
+    "tipo": "",
+    "componente_id": 392912
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 2504,
+    "materia_descrizione": "STORIA DEL PENSIERO SOCIOLOGICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392913",
+    "tipo": "",
+    "componente_id": 392913
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 74927,
+    "materia_descrizione": "SOCIOLOGIA DELLA DEVIANZA E CRIMINOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392914",
+    "tipo": "",
+    "componente_id": 392914
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 29041,
+    "materia_descrizione": "SEMINARIO DI SOCIOLOGIA VISUALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392915",
+    "tipo": "",
+    "componente_id": 392915
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 65884,
+    "materia_descrizione": "ELEMENTI DI ORGANIZZAZIONE E IMPRESA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392918",
+    "tipo": "",
+    "componente_id": 392918
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392919",
+    "tipo": "",
+    "componente_id": 392919
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 67187,
+    "materia_descrizione": "LABORATORIO DI PREPARAZIONE AL TIROCINIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392920",
+    "tipo": "",
+    "componente_id": 392920
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 76336,
+    "materia_descrizione": "WELFARE, SUSSIDIARIET?? E INNOVAZIONE SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394239",
+    "tipo": "",
+    "componente_id": 394239
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 4871,
+    "materia_descrizione": "SISTEMA POLITICO ITALIANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394248",
+    "tipo": "",
+    "componente_id": 394248
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 78160,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA POLITICA E SOCIALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 400929
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 72822,
+    "materia_descrizione": "RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406477",
+    "tipo": "",
+    "componente_id": 406477
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 57799,
+    "materia_descrizione": "STORIA E ISTITUZIONI DELL'AFRICA SUB-SAHARIANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406483",
+    "tipo": "",
+    "componente_id": 406483
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 8540,
+    "materia_descrizione": "SOCIOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412708",
+    "tipo": "",
+    "componente_id": 412708
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 72820,
+    "materia_descrizione": "RIDUZIONE ALTRI DELEGATI DEL RETTORE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414751",
+    "tipo": "",
+    "componente_id": 414751
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 37172,
+    "materia_descrizione": "RIDUZIONE PER PROGETTI DI RICERCA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414753",
+    "tipo": "",
+    "componente_id": 414753
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 37168,
+    "materia_descrizione": "RIDUZIONE DIRETTORE DIP O ALTRE STRUTTURE RICERCA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414785",
+    "tipo": "",
+    "componente_id": 414785
+  },
+  {
+    "corso_codice": 8853,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414873",
+    "tipo": "",
+    "componente_id": 414873
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 44658,
+    "materia_descrizione": "DIRITTI UMANI E STORIA DEL DIRITTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402940",
+    "tipo": "",
+    "componente_id": 402940
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 67122,
+    "materia_descrizione": "ECONOMIA POLITICA DEI PAESI DEL MEDITERRANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402942",
+    "tipo": "",
+    "componente_id": 402942
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 49546,
+    "materia_descrizione": "DIRITTO PUBBLICO E TUTELA DEI DIRITTI FONDAMENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402943",
+    "tipo": "",
+    "componente_id": 402943
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 62094,
+    "materia_descrizione": "FILOSOFIA DEI DIRITTI UMANI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402944",
+    "tipo": "",
+    "componente_id": 402944
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 61192,
+    "materia_descrizione": "GEOGRAFIA DEL MEDITERRANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402948",
+    "tipo": "",
+    "componente_id": 402948
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 44655,
+    "materia_descrizione": "ANTROPOLOGIA CULTURALE E PROCESSI DI MIGRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402949",
+    "tipo": "",
+    "componente_id": 402949
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 79098,
+    "materia_descrizione": "ANTROPOLOGIA SOCIALE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402950",
+    "tipo": "",
+    "componente_id": 402950
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 69226,
+    "materia_descrizione": "POLITICHE DI SVILUPPO E COOPERAZIONE IN AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402951",
+    "tipo": "",
+    "componente_id": 402951
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 57817,
+    "materia_descrizione": "MULTICULTURALISMO E RELATIVISMO CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402954",
+    "tipo": "",
+    "componente_id": 402954
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 44669,
+    "materia_descrizione": "STORIA DELL'EUROPA ORIENTALE, NATION BUILDING E TUTELA DELLE MINORANZE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402955",
+    "tipo": "",
+    "componente_id": 402955
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 28809,
+    "materia_descrizione": "LINGUA E CIVILTA' ARABA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402958",
+    "tipo": "",
+    "componente_id": 402958
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 44659,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE DEI DIRITTI UMANI E DIRITTO EUROPEO DELLA COOPERAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402959",
+    "tipo": "",
+    "componente_id": 402959
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 67159,
+    "materia_descrizione": "ECONOMIA DELLO SVILUPPO, SVILUPPO UMANO E TUTELA DEI BENI CULTURALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402973",
+    "tipo": "",
+    "componente_id": 402973
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 78213,
+    "materia_descrizione": "POLITICA E SVILUPPO NEL MONDO GLOBALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402974",
+    "tipo": "",
+    "componente_id": 402974
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 44656,
+    "materia_descrizione": "CICLO DEL PROGETTO NELLA COOPERAZIONE ALLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402976",
+    "tipo": "",
+    "componente_id": 402976
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 29441,
+    "materia_descrizione": "DIRITTI UMANI E DIRITTI DEI MINORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402981",
+    "tipo": "",
+    "componente_id": 402981
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 79053,
+    "materia_descrizione": "IL GOVERNO DELL'AIUTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402982",
+    "tipo": "",
+    "componente_id": 402982
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 77903,
+    "materia_descrizione": "ISTITUZIONI E PATRIMONIO CULTURALE IN ET?? MODERNA E CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402984",
+    "tipo": "",
+    "componente_id": 402984
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 20674,
+    "materia_descrizione": "TIROCINI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402987",
+    "tipo": "",
+    "componente_id": 402987
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 34477,
+    "materia_descrizione": "IDONEIT?? LINGUA INGLESE B2",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402988
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 79100,
+    "materia_descrizione": "IDONEIT?? LINGUA FRANCESE B2",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402989
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 25292,
+    "materia_descrizione": "ABILITA' INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402991",
+    "tipo": "",
+    "componente_id": 402991
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 76062,
+    "materia_descrizione": "ARCHEOLOGIA DELL'IRAN PRE-ISLAMICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402993",
+    "tipo": "",
+    "componente_id": 402993
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 30429,
+    "materia_descrizione": "ARCHEOLOGIA PREISTORICA E PROTOSTORICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402994",
+    "tipo": "",
+    "componente_id": 402994
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 76010,
+    "materia_descrizione": "TEMI E METODI DELLA RICERCA PREISTORICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402997",
+    "tipo": "",
+    "componente_id": 402997
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 78243,
+    "materia_descrizione": "GLI EBREI NEL MONDO MODERNO E CONTEMPORANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402999",
+    "tipo": "",
+    "componente_id": 402999
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 66930,
+    "materia_descrizione": "ARCHEOGENETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403000",
+    "tipo": "",
+    "componente_id": 403000
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 50232,
+    "materia_descrizione": "ARCHEOLOGIA DELLE PROVINCE ROMANE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403001",
+    "tipo": "",
+    "componente_id": 403001
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 16919,
+    "materia_descrizione": "ARCHIVISTICA SPECIALE MODERNA E CONTEMPORANEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403002",
+    "tipo": "",
+    "componente_id": 403002
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 7077,
+    "materia_descrizione": "BIBLIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403003",
+    "tipo": "",
+    "componente_id": 403003
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 58454,
+    "materia_descrizione": "CIVILTA' BIZANTINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403004",
+    "tipo": "",
+    "componente_id": 403004
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 75993,
+    "materia_descrizione": "FONTI LETTERARIE CLASSICHE PER LO STUDIO DEL PATRIMONIO CULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403005",
+    "tipo": "",
+    "componente_id": 403005
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 403011
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 30554,
+    "materia_descrizione": "CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403075",
+    "tipo": "",
+    "componente_id": 403075
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 30457,
+    "materia_descrizione": "FILOLOGIA, LINGUISTICA E STORIA RELIGIOSA DELL'IRAN",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403085",
+    "tipo": "",
+    "componente_id": 403085
+  },
+  {
+    "corso_codice": 8889,
+    "materia_codice": 83293,
+    "materia_descrizione": "Diritti umani e diritti dei minori",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417806
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 534,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402804",
+    "tipo": "",
+    "componente_id": 402804
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 256,
+    "materia_descrizione": "ECONOMIA POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402819",
+    "tipo": "",
+    "componente_id": 402819
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 74775,
+    "materia_descrizione": "LINGUA INGLESE (12 CFU)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402820",
+    "tipo": "",
+    "componente_id": 402820
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 78214,
+    "materia_descrizione": "L'AFRICA NELLA STORIA POLITICA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402831",
+    "tipo": "",
+    "componente_id": 402831
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 11483,
+    "materia_descrizione": "ECONOMIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402832",
+    "tipo": "",
+    "componente_id": 402832
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 78997,
+    "materia_descrizione": "GEOGRAFIA E SOCIOLOGIA DEL TERRITORIO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402833
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 78998,
+    "materia_descrizione": "GEOGRAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402836",
+    "tipo": "modulo",
+    "componente_id": 402836
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 59239,
+    "materia_descrizione": "SOCIOLOGIA DEL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402837",
+    "tipo": "modulo",
+    "componente_id": 402837
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 8540,
+    "materia_descrizione": "SOCIOLOGIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402839",
+    "tipo": "",
+    "componente_id": 402839
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 30588,
+    "materia_descrizione": "ELEMENTI DI STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402840",
+    "tipo": "",
+    "componente_id": 402840
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 915,
+    "materia_descrizione": "STATISTICA ECONOMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402841",
+    "tipo": "",
+    "componente_id": 402841
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402842",
+    "tipo": "",
+    "componente_id": 402842
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 230,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402843",
+    "tipo": "",
+    "componente_id": 402843
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 72378,
+    "materia_descrizione": "ECONOMIA DEL LAVORO C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402844
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 79000,
+    "materia_descrizione": "ECONOMIA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402845",
+    "tipo": "modulo",
+    "componente_id": 402845
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 30600,
+    "materia_descrizione": "LABORATORIO DI ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402846",
+    "tipo": "modulo",
+    "componente_id": 402846
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 79035,
+    "materia_descrizione": "LABORATORIO: ECONOMIA DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402895",
+    "tipo": "",
+    "componente_id": 402895
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 79036,
+    "materia_descrizione": "LABORATORIO: ANALISI TERRITORIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402896",
+    "tipo": "",
+    "componente_id": 402896
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 2935,
+    "materia_descrizione": "LABORATORIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402897
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402901
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 74785,
+    "materia_descrizione": "STORIA E ISTITUZIONI DEI PAESI DEL MEDIO ORIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402902",
+    "tipo": "",
+    "componente_id": 402902
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 7173,
+    "materia_descrizione": "ECONOMIA DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402909",
+    "tipo": "",
+    "componente_id": 402909
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 82186,
+    "materia_descrizione": "INTRODUZIONE ALLA POLITICA INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413418",
+    "tipo": "",
+    "componente_id": 413418
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 82187,
+    "materia_descrizione": "SOCIETA' ED ECONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413419",
+    "tipo": "",
+    "componente_id": 413419
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416315",
+    "tipo": "",
+    "componente_id": 416315
+  },
+  {
+    "corso_codice": 8890,
+    "materia_codice": 82351,
+    "materia_descrizione": "TIROCINIO ALL'ESTERO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 420746
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 73342,
+    "materia_descrizione": "GEOGRAFIE E POLITICHE DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413204",
+    "tipo": "",
+    "componente_id": 413204
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 7229,
+    "materia_descrizione": "TEORIA DELLO SVILUPPO POLITICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413205",
+    "tipo": "",
+    "componente_id": 413205
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 75067,
+    "materia_descrizione": "SOCIOLOGIA DELLE COMUNIT?? E DEI QUARTIERI URBANI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413207",
+    "tipo": "",
+    "componente_id": 413207
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 75191,
+    "materia_descrizione": "LOCAL AND URBAN POLITICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413208",
+    "tipo": "",
+    "componente_id": 413208
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 2512,
+    "materia_descrizione": "SOCIOLOGIA DELL'ORGANIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413209",
+    "tipo": "",
+    "componente_id": 413209
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 81888,
+    "materia_descrizione": "DIRITTI UMANI E ISTITUZIONI POLITICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413210",
+    "tipo": "",
+    "componente_id": 413210
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 73289,
+    "materia_descrizione": "RELAZIONI INTERNAZIONALI E SVILUPPO IN AFRICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413212",
+    "tipo": "",
+    "componente_id": 413212
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 73340,
+    "materia_descrizione": "ECONOMIA DELLO SVILUPPO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413213",
+    "tipo": "",
+    "componente_id": 413213
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 75100,
+    "materia_descrizione": "REGIONAL ECONOMIC POLICIES",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413218",
+    "tipo": "",
+    "componente_id": 413218
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 42465,
+    "materia_descrizione": "ECONOMIA DEI SISTEMI LOCALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413221",
+    "tipo": "",
+    "componente_id": 413221
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 42469,
+    "materia_descrizione": "METODI QUANTITATIVI PER L'ANALISI DELLO SVILUPPO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413224",
+    "tipo": "",
+    "componente_id": 413224
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 78074,
+    "materia_descrizione": "METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413225
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 81769,
+    "materia_descrizione": "METODO E TECNICHE DELL'ANALISI DEI DATI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413227
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 82132,
+    "materia_descrizione": "GESTIONE, MONITORAGGIO E VALUTAZIONE DI PROGETTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413231",
+    "tipo": "",
+    "componente_id": 413231
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413345
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 17268,
+    "materia_descrizione": "PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413352
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 81822,
+    "materia_descrizione": "GLOBAL GEOPOLITICS OF BUSINESS",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413691
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 82447,
+    "materia_descrizione": "NEW LOCAL WELFARE AND NETWORKS OF SOCIAL INCLUSION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414266",
+    "tipo": "",
+    "componente_id": 414266
+  },
+  {
+    "corso_codice": 9200,
+    "materia_codice": 37167,
+    "materia_descrizione": "RIDUZIONE COORDINAMENTO CDS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414921",
+    "tipo": "",
+    "componente_id": 414921
+  }
+]

@@ -1,0 +1,4594 @@
+[
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66600,
+    "materia_descrizione": "FISICA E STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366357",
+    "tipo": "",
+    "componente_id": 366357
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66601,
+    "materia_descrizione": "CHIMICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366361
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 65931,
+    "materia_descrizione": "CHIMICA GENERALE ED INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366364",
+    "tipo": "modulo",
+    "componente_id": 366364
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 55393,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366365",
+    "tipo": "modulo",
+    "componente_id": 366365
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66607,
+    "materia_descrizione": "MORFOLOGIA CELLULARE E D'ORGANO (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366389
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 65683,
+    "materia_descrizione": "BIOLOGIA CELLULARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366390",
+    "tipo": "modulo",
+    "componente_id": 366390
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66606,
+    "materia_descrizione": "ANATOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366391",
+    "tipo": "modulo",
+    "componente_id": 366391
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66606,
+    "materia_descrizione": "ANATOMIA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 414693
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66608,
+    "materia_descrizione": "PROPRIETA' INTELLETTUALE E BIOETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366395",
+    "tipo": "",
+    "componente_id": 366395
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66609,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366396
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66610,
+    "materia_descrizione": "CHIMICA BIOANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366399",
+    "tipo": "",
+    "componente_id": 366399
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66611,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366400
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66612,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366401",
+    "tipo": "modulo",
+    "componente_id": 366401
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66613,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE EUCARIOTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366402",
+    "tipo": "modulo",
+    "componente_id": 366402
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66614,
+    "materia_descrizione": "MICROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366403",
+    "tipo": "",
+    "componente_id": 366403
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66615,
+    "materia_descrizione": "GENETICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366404
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66616,
+    "materia_descrizione": "GENETICA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366406",
+    "tipo": "modulo",
+    "componente_id": 366406
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66619,
+    "materia_descrizione": "GENETICA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366407",
+    "tipo": "modulo",
+    "componente_id": 366407
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66620,
+    "materia_descrizione": "FISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366410",
+    "tipo": "",
+    "componente_id": 366410
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66622,
+    "materia_descrizione": "BIOTECNOLOGIE DELLE FERMENTAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366412",
+    "tipo": "",
+    "componente_id": 366412
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66625,
+    "materia_descrizione": "BIOLOGIA STRUTTURALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 366417
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66626,
+    "materia_descrizione": "BIOCHIMICA DELLE PROTEINE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366418",
+    "tipo": "modulo",
+    "componente_id": 366418
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66627,
+    "materia_descrizione": "BIOLOGIA COMPUTAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366419",
+    "tipo": "modulo",
+    "componente_id": 366419
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66629,
+    "materia_descrizione": "PATOLOGIA GENERALE E IMMUNOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366422",
+    "tipo": "",
+    "componente_id": 366422
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66631,
+    "materia_descrizione": "BIOTECNOLOGIE FARMACOLOGICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366423",
+    "tipo": "",
+    "componente_id": 366423
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66632,
+    "materia_descrizione": "BIOTECNOLOGIE GENETICHE VEGETALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366427",
+    "tipo": "",
+    "componente_id": 366427
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66633,
+    "materia_descrizione": "BIOTECNOLOGIE E MODELLI ANIMALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366428",
+    "tipo": "",
+    "componente_id": 366428
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66642,
+    "materia_descrizione": "BIOTECNOLOGIE CELLULARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366445",
+    "tipo": "",
+    "componente_id": 366445
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66644,
+    "materia_descrizione": "BIOTECNOLOGIE VIRALI E MICROBICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366447",
+    "tipo": "",
+    "componente_id": 366447
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66645,
+    "materia_descrizione": "MICROBIOLOGIA MEDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366449",
+    "tipo": "",
+    "componente_id": 366449
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66647,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TECNOLOGIE PER LA PROTEOMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366450",
+    "tipo": "",
+    "componente_id": 366450
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 61682,
+    "materia_descrizione": "DIAGNOSTICA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366463",
+    "tipo": "",
+    "componente_id": 366463
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66654,
+    "materia_descrizione": "BIOTECNOLOGIE AGROAMBIENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366464",
+    "tipo": "",
+    "componente_id": 366464
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66656,
+    "materia_descrizione": "BIOTECNOLOGIE IN VITRO DEI TESSUTI UMANI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366466",
+    "tipo": "",
+    "componente_id": 366466
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 66657,
+    "materia_descrizione": "BIOTECNOLOGIE DELLA PRODUZIONE ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366467",
+    "tipo": "",
+    "componente_id": 366467
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 12942,
+    "materia_descrizione": "FISIOLOGIA MOLECOLARE DELLE PIANTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369489",
+    "tipo": "",
+    "componente_id": 369489
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 78783,
+    "materia_descrizione": "BIODIVERSITA' ED EVOLUZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402294",
+    "tipo": "",
+    "componente_id": 402294
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 78785,
+    "materia_descrizione": "MATEMATICA E INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402296",
+    "tipo": "",
+    "componente_id": 402296
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 78785,
+    "materia_descrizione": "MATEMATICA E INFORMATICA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 403542
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 78788,
+    "materia_descrizione": "GENOMICA E MEDICINA PERSONALIZZATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402299",
+    "tipo": "",
+    "componente_id": 402299
+  },
+  {
+    "corso_codice": 8005,
+    "materia_codice": 72822,
+    "materia_descrizione": "RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420893",
+    "tipo": "",
+    "componente_id": 420893
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 54576,
+    "materia_descrizione": "CITOLOGIA E ISTOLOGIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 324243
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 451,
+    "materia_descrizione": "GENETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324287",
+    "tipo": "",
+    "componente_id": 324287
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 443,
+    "materia_descrizione": "FISIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324294",
+    "tipo": "",
+    "componente_id": 324294
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324297",
+    "tipo": "",
+    "componente_id": 324297
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 248,
+    "materia_descrizione": "ECOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324369",
+    "tipo": "",
+    "componente_id": 324369
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 498,
+    "materia_descrizione": "IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324460",
+    "tipo": "",
+    "componente_id": 324460
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 8632,
+    "materia_descrizione": "ECOLOGIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324510",
+    "tipo": "",
+    "componente_id": 324510
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 58157,
+    "materia_descrizione": "ABILITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328022",
+    "tipo": "",
+    "componente_id": 328022
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 328053
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 13395,
+    "materia_descrizione": "BOTANICA EVOLUZIONISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349855",
+    "tipo": "",
+    "componente_id": 349855
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 37637,
+    "materia_descrizione": "ZOOLOGIA EVOLUZIONISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349857",
+    "tipo": "",
+    "componente_id": 349857
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 7970,
+    "materia_descrizione": "ZOOLOGIA DEI VERTEBRATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349877",
+    "tipo": "",
+    "componente_id": 349877
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66955,
+    "materia_descrizione": "ZOOLOGIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367372
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66907,
+    "materia_descrizione": "CHIMICA GENERALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367403
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66979,
+    "materia_descrizione": "FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367520
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66989,
+    "materia_descrizione": "BIOLOGIA E DIVERSITA' VEGETALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367541
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66992,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367554
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66993,
+    "materia_descrizione": "FISICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 367564
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67002,
+    "materia_descrizione": "ANATOMIA COMPARATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367623",
+    "tipo": "",
+    "componente_id": 367623
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67004,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367639",
+    "tipo": "",
+    "componente_id": 367639
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67006,
+    "materia_descrizione": "MICROBIOLOGIA E VIROLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367640",
+    "tipo": "",
+    "componente_id": 367640
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67008,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367657",
+    "tipo": "",
+    "componente_id": 367657
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67017,
+    "materia_descrizione": "BIOCHIMICA CELLULARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367687",
+    "tipo": "",
+    "componente_id": 367687
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67020,
+    "materia_descrizione": "BIOLOGIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367690",
+    "tipo": "",
+    "componente_id": 367690
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67022,
+    "materia_descrizione": "FARMACOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367692",
+    "tipo": "",
+    "componente_id": 367692
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 66619,
+    "materia_descrizione": "GENETICA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367698",
+    "tipo": "",
+    "componente_id": 367698
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67025,
+    "materia_descrizione": "METODI MOLECOLARI IN SISTEMATICA ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367700",
+    "tipo": "",
+    "componente_id": 367700
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 67120,
+    "materia_descrizione": "PIANTE, ALIMENTAZIONE E AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368271",
+    "tipo": "",
+    "componente_id": 368271
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 68586,
+    "materia_descrizione": "FILOSOFIA DELLA SCIENZA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373944",
+    "tipo": "",
+    "componente_id": 373944
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 69576,
+    "materia_descrizione": "PRODUTTIVITA' PRIMARIA E SVILUPPO SOSTENIBILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376679",
+    "tipo": "",
+    "componente_id": 376679
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 69577,
+    "materia_descrizione": "PRINCIPI DI CONSERVAZIONE BIOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376680",
+    "tipo": "",
+    "componente_id": 376680
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 70136,
+    "materia_descrizione": "IGIENE AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378019",
+    "tipo": "",
+    "componente_id": 378019
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 61431,
+    "materia_descrizione": "QUALITA' E SICUREZZA IN LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385147",
+    "tipo": "",
+    "componente_id": 385147
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 445,
+    "materia_descrizione": "FISIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385151",
+    "tipo": "",
+    "componente_id": 385151
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 72830,
+    "materia_descrizione": "ZOOLOGIA MARINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385152",
+    "tipo": "",
+    "componente_id": 385152
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 72831,
+    "materia_descrizione": "AMBIENTE MARINO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385153",
+    "tipo": "",
+    "componente_id": 385153
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 72832,
+    "materia_descrizione": "FISIOLOGIA UMANA CON ELEMENTI DI FISIOPATOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385154",
+    "tipo": "",
+    "componente_id": 385154
+  },
+  {
+    "corso_codice": 8012,
+    "materia_codice": 72834,
+    "materia_descrizione": "IMMUNOLOGIA E PATOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385156",
+    "tipo": "",
+    "componente_id": 385156
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 7936,
+    "materia_descrizione": "NEUROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322718",
+    "tipo": "",
+    "componente_id": 322718
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 26912,
+    "materia_descrizione": "ATTIVITA' PRATICA DI LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323603",
+    "tipo": "",
+    "componente_id": 323603
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 65820,
+    "materia_descrizione": "MICROBIOLOGIA E VIROLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364221",
+    "tipo": "",
+    "componente_id": 364221
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 65822,
+    "materia_descrizione": "EPIGENETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364225",
+    "tipo": "",
+    "componente_id": 364225
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 26337,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364226",
+    "tipo": "",
+    "componente_id": 364226
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 65824,
+    "materia_descrizione": "METODI SPETTROSCOPICI IN BIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364228",
+    "tipo": "",
+    "componente_id": 364228
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 65825,
+    "materia_descrizione": "FISIOLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364230",
+    "tipo": "",
+    "componente_id": 364230
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 69341,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE DEI PROCARIOTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376168",
+    "tipo": "",
+    "componente_id": 376168
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 69348,
+    "materia_descrizione": "METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376173",
+    "tipo": "",
+    "componente_id": 376173
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72568,
+    "materia_descrizione": "BIOCHIMICA DELLA SEGNALAZIONE CELLULARE CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384347",
+    "tipo": "",
+    "componente_id": 384347
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72569,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE DEGLI EUCARIOTI CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384349",
+    "tipo": "",
+    "componente_id": 384349
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72570,
+    "materia_descrizione": "BIOLOGIA E METODOLOGIE MORFOLOGICHE CELLULARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384351",
+    "tipo": "",
+    "componente_id": 384351
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72575,
+    "materia_descrizione": "FISIOLOGIA DEGLI STRESS E DINAMICHE REDOX NELLE PIANTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384356",
+    "tipo": "",
+    "componente_id": 384356
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 18756,
+    "materia_descrizione": "BIOLOGIA DELLO SVILUPPO DELLE PIANTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384359",
+    "tipo": "",
+    "componente_id": 384359
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72576,
+    "materia_descrizione": "CHIMICA FISICA PER BIOLOGIA CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384360",
+    "tipo": "",
+    "componente_id": 384360
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 72579,
+    "materia_descrizione": "GENETICA MOLECOLARE DELLO SVILUPPO CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384363",
+    "tipo": "",
+    "componente_id": 384363
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 32492,
+    "materia_descrizione": "ATTIVITA' PROPEDEUTICA ALLA PROVA FINALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 417520
+  },
+  {
+    "corso_codice": 8021,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 424299
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 7936,
+    "materia_descrizione": "NEUROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326031",
+    "tipo": "",
+    "componente_id": 326031
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 46668,
+    "materia_descrizione": "PEPTIDI ED ANALOGHI DI INTERESSE BIOLOGICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326933",
+    "tipo": "",
+    "componente_id": 326933
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 37416,
+    "materia_descrizione": "PRODOTTI E PRODUZIONI NELL'INDUSTRIA CHIMICA/BIOTECNOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350596",
+    "tipo": "",
+    "componente_id": 350596
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66364,
+    "materia_descrizione": "NANOBIOTECNOLOGIE E APPLICAZIONI BIOCATALITICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365541",
+    "tipo": "",
+    "componente_id": 365541
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66366,
+    "materia_descrizione": "BIOINORGANICA, BIOELETTRONICA E BIOSENSORI CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365548",
+    "tipo": "",
+    "componente_id": 365548
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66371,
+    "materia_descrizione": "ONCOLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365563",
+    "tipo": "",
+    "componente_id": 365563
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66375,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365586",
+    "tipo": "",
+    "componente_id": 365586
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66375,
+    "materia_descrizione": "MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 394187
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 66479,
+    "materia_descrizione": "CELLULE STAMINALI CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365835",
+    "tipo": "",
+    "componente_id": 365835
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 72547,
+    "materia_descrizione": "MICROBIOLOGIA INDUSTRIALE APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384306",
+    "tipo": "",
+    "componente_id": 384306
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 69348,
+    "materia_descrizione": "METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388353",
+    "tipo": "",
+    "componente_id": 388353
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 75652,
+    "materia_descrizione": "BIOCHIMICA INDUSTRIALE E INGEGNERIA PROTEICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392203",
+    "tipo": "",
+    "componente_id": 392203
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 75653,
+    "materia_descrizione": "PRINCIPI DI INGEGNERIA BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392242",
+    "tipo": "",
+    "componente_id": 392242
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 75655,
+    "materia_descrizione": "IMPIANTI CHIMICI (BIOREATTORI E BIOSEPARAZIONI)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392260",
+    "tipo": "",
+    "componente_id": 392260
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 82318,
+    "materia_descrizione": "BIOCHIMICA CELLULARE E STRUTTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413821",
+    "tipo": "",
+    "componente_id": 413821
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 65684,
+    "materia_descrizione": "BIOLOGIA MOLECOLARE AVANZATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413822",
+    "tipo": "",
+    "componente_id": 413822
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 82319,
+    "materia_descrizione": "GENETICA FUNZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413823",
+    "tipo": "",
+    "componente_id": 413823
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 82320,
+    "materia_descrizione": "STRUTTURISTICA PROTEICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413824",
+    "tipo": "",
+    "componente_id": 413824
+  },
+  {
+    "corso_codice": 8022,
+    "materia_codice": 82329,
+    "materia_descrizione": "TIROCINIO LM (10 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413833
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 46270,
+    "materia_descrizione": "GENETICA UMANA E MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320676",
+    "tipo": "",
+    "componente_id": 320676
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 46110,
+    "materia_descrizione": "METODI SPETTROSCOPICI IN BIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320700",
+    "tipo": "",
+    "componente_id": 320700
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 7936,
+    "materia_descrizione": "NEUROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320701",
+    "tipo": "",
+    "componente_id": 320701
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 18773,
+    "materia_descrizione": "RADIAZIONI IONIZZANTI E MATERIA VIVENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320702",
+    "tipo": "",
+    "componente_id": 320702
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320703",
+    "tipo": "",
+    "componente_id": 320703
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 743,
+    "materia_descrizione": "ONCOLOGIA SPERIMENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320705",
+    "tipo": "",
+    "componente_id": 320705
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 46107,
+    "materia_descrizione": "FISIOLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322439",
+    "tipo": "",
+    "componente_id": 322439
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 66413,
+    "materia_descrizione": "CHIMICA ANALITICA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365698",
+    "tipo": "",
+    "componente_id": 365698
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 66416,
+    "materia_descrizione": "IGIENE APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365706",
+    "tipo": "",
+    "componente_id": 365706
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 66424,
+    "materia_descrizione": "CHIMICA DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365715",
+    "tipo": "",
+    "componente_id": 365715
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 72701,
+    "materia_descrizione": "BIOCHIMICA IN VIVO E SISTEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384840",
+    "tipo": "",
+    "componente_id": 384840
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 72702,
+    "materia_descrizione": "IL SISTEMA QUALITA' IN LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384841",
+    "tipo": "",
+    "componente_id": 384841
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 768,
+    "materia_descrizione": "PATOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386032",
+    "tipo": "",
+    "componente_id": 386032
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 76545,
+    "materia_descrizione": "BIOLOGIA FORENSE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395455",
+    "tipo": "",
+    "componente_id": 395455
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78797,
+    "materia_descrizione": "BASI ANATOMICHE E FUNZIONALI DELLA SCIENZA DELL'ALIMENTAZIONE C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402315
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78798,
+    "materia_descrizione": "ANATOMIA ULTRASTRUTTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402320",
+    "tipo": "modulo",
+    "componente_id": 402320
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78799,
+    "materia_descrizione": "FISIOLOGIA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402321",
+    "tipo": "modulo",
+    "componente_id": 402321
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78800,
+    "materia_descrizione": "MICROBIOLOGIA E VIROLOGIA CLINICA APPLICATE C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402332
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78801,
+    "materia_descrizione": "MICROBIOLOGIA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402339",
+    "tipo": "modulo",
+    "componente_id": 402339
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 66412,
+    "materia_descrizione": "VIROLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402340",
+    "tipo": "modulo",
+    "componente_id": 402340
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78803,
+    "materia_descrizione": "PARASSITOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402358",
+    "tipo": "",
+    "componente_id": 402358
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78805,
+    "materia_descrizione": "SCIENZA DEL FARMACO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402369",
+    "tipo": "",
+    "componente_id": 402369
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 66812,
+    "materia_descrizione": "BIODIVERSITA' UMANA, NUTRIZIONE, SALUTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402580",
+    "tipo": "",
+    "componente_id": 402580
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78935,
+    "materia_descrizione": "FISIOLOGIA AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402584",
+    "tipo": "",
+    "componente_id": 402584
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 78936,
+    "materia_descrizione": "METODI SPETTROSCOPICI IN BIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402586",
+    "tipo": "",
+    "componente_id": 402586
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 82302,
+    "materia_descrizione": "ANTROPOLOGIA MOLECOLARE APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413799",
+    "tipo": "",
+    "componente_id": 413799
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 82306,
+    "materia_descrizione": "PROVA FINALE LM (30 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413806
+  },
+  {
+    "corso_codice": 8023,
+    "materia_codice": 82317,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE ALL'ESTERO LM (20CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413828
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 68407,
+    "materia_descrizione": "BIOCHIMICA DELL'ATTIVIT?? SPORTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346461",
+    "tipo": "",
+    "componente_id": 346461
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 68405,
+    "materia_descrizione": "ANALISI DELLA PRESTAZIONE DI GARA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373247",
+    "tipo": "",
+    "componente_id": 373247
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 9454,
+    "materia_descrizione": "BIOINGEGNERIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384819",
+    "tipo": "",
+    "componente_id": 384819
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72692,
+    "materia_descrizione": "CINESIOLOGIA SPECIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384821",
+    "tipo": "",
+    "componente_id": 384821
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 30889,
+    "materia_descrizione": "FISIOLOGIA APPLICATA ALL'ATTIVIT?? MOTORIA PREVENTIVA E ADATTATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384822",
+    "tipo": "",
+    "componente_id": 384822
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72693,
+    "materia_descrizione": "FISIOPATOLOGIA DELLE ATTIVIT?? MOTORIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384823",
+    "tipo": "",
+    "componente_id": 384823
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 1228,
+    "materia_descrizione": "CARDIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384825",
+    "tipo": "",
+    "componente_id": 384825
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72694,
+    "materia_descrizione": "ATTIVIT?? MOTORIA PREVENTIVA E ADATTATA E NEUROLOGIA C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384826
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 30935,
+    "materia_descrizione": "T.T.D. DELL'ATTIVIT?? MOTORIA ADATTATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384827",
+    "tipo": "modulo",
+    "componente_id": 384827
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 39666,
+    "materia_descrizione": "NEUROLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384828",
+    "tipo": "modulo",
+    "componente_id": 384828
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72696,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384831",
+    "tipo": "",
+    "componente_id": 384831
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72698,
+    "materia_descrizione": "EPIDEMIOLOGIA E FARMACOLOGIA C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384835
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 351,
+    "materia_descrizione": "FARMACOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384836",
+    "tipo": "modulo",
+    "componente_id": 384836
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 30924,
+    "materia_descrizione": "METODOLOGIA EPIDEMIOLOGICA E IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384837",
+    "tipo": "modulo",
+    "componente_id": 384837
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 72700,
+    "materia_descrizione": "PEDAGOGIA SPECIALE E PSICOLOGIA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384839",
+    "tipo": "",
+    "componente_id": 384839
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 73886,
+    "materia_descrizione": "RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387942",
+    "tipo": "",
+    "componente_id": 387942
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 736,
+    "materia_descrizione": "NEUROPSICHIATRIA INFANTILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393922",
+    "tipo": "",
+    "componente_id": 393922
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78151,
+    "materia_descrizione": "PRASSEOLOGIA MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400919",
+    "tipo": "",
+    "componente_id": 400919
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78152,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400920",
+    "tipo": "",
+    "componente_id": 400920
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78153,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA DELLO SPORT E PRASSEOLOGIA MOTORIA C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 400921
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78154,
+    "materia_descrizione": "PRASSEOLOGIA MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400922",
+    "tipo": "modulo",
+    "componente_id": 400922
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 26124,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400923",
+    "tipo": "modulo",
+    "componente_id": 400923
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78458,
+    "materia_descrizione": "MALATTIE DELL'APPARATO LOCOMOTORE E MEDICINA FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401424",
+    "tipo": "",
+    "componente_id": 401424
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78492,
+    "materia_descrizione": "T.T. DELL'ESERCIZIO FISICO ADATTATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401430",
+    "tipo": "",
+    "componente_id": 401430
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 78492,
+    "materia_descrizione": "T.T. DELL'ESERCIZIO FISICO ADATTATO (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 414715
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 82337,
+    "materia_descrizione": "Tirocinio 2 LM (10 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413844
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 82344,
+    "materia_descrizione": "Prova finale LM (4 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413850
+  },
+  {
+    "corso_codice": 8036,
+    "materia_codice": 82308,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413856
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 27083,
+    "materia_descrizione": "PROVA FINALE LM",
+    "url": "",
+    "tipo": "",
+    "componente_id": 329301
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 68405,
+    "materia_descrizione": "ANALISI DELLA PRESTAZIONE DI GARA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346184",
+    "tipo": "",
+    "componente_id": 346184
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 68407,
+    "materia_descrizione": "BIOCHIMICA DELL'ATTIVIT?? SPORTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372193",
+    "tipo": "",
+    "componente_id": 372193
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 40224,
+    "materia_descrizione": "BIOINGEGNERIA ELETTRONICA E INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384842",
+    "tipo": "",
+    "componente_id": 384842
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 72704,
+    "materia_descrizione": "NUTRIZIONE E FARMACOLOGIA NELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384844",
+    "tipo": "",
+    "componente_id": 384844
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 11050,
+    "materia_descrizione": "FISIOLOGIA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384845",
+    "tipo": "",
+    "componente_id": 384845
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 72706,
+    "materia_descrizione": "SCIENZA E TECNICA DEGLI SPORT NATATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384851",
+    "tipo": "",
+    "componente_id": 384851
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 31998,
+    "materia_descrizione": "MEDICINA DELLO SPORT LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384852",
+    "tipo": "",
+    "componente_id": 384852
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 72707,
+    "materia_descrizione": "DIRITTO PRIVATO DELLO SPORT E GESTIONE DELLE IMPRESE SPORTIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384853",
+    "tipo": "",
+    "componente_id": 384853
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 65962,
+    "materia_descrizione": "SCIENZA E TECNICA DEGLI SPORT DI SQUADRA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384854",
+    "tipo": "",
+    "componente_id": 384854
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 65963,
+    "materia_descrizione": "SCIENZA E TECNICA DEGLI SPORT INDIVIDUALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384855",
+    "tipo": "",
+    "componente_id": 384855
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 72708,
+    "materia_descrizione": "SCIENZA E TECNICA DELLO SPORT PER DISABILI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384856",
+    "tipo": "",
+    "componente_id": 384856
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 736,
+    "materia_descrizione": "NEUROPSICHIATRIA INFANTILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386786",
+    "tipo": "",
+    "componente_id": 386786
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 73886,
+    "materia_descrizione": "RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388403",
+    "tipo": "",
+    "componente_id": 388403
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 73877,
+    "materia_descrizione": "ANALISI DELLA PRESTAZIONE DI GARA E METODOLOGIA DELLA RICERCA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 388404
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 36312,
+    "materia_descrizione": "ANALISI DELLA PRESTAZIONE DI GARA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388405",
+    "tipo": "modulo",
+    "componente_id": 388405
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 73886,
+    "materia_descrizione": "RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388406",
+    "tipo": "modulo",
+    "componente_id": 388406
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 77999,
+    "materia_descrizione": "EDUCAZIONE SPORTIVA E PSICOLOGIA DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400747",
+    "tipo": "",
+    "componente_id": 400747
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 78157,
+    "materia_descrizione": "PRASSEOLOGIA MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400930",
+    "tipo": "",
+    "componente_id": 400930
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 78158,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400931",
+    "tipo": "",
+    "componente_id": 400931
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 65671,
+    "materia_descrizione": "MISURAZIONE E VALUTAZIONE NELLO SPORT C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412535
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 81871,
+    "materia_descrizione": "ANTROPOMETRIA SPORTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412536",
+    "tipo": "modulo",
+    "componente_id": 412536
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 73918,
+    "materia_descrizione": "PROGRAMMAZIONE DELL'ALLENAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412537",
+    "tipo": "modulo",
+    "componente_id": 412537
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 73909,
+    "materia_descrizione": "VALUTAZIONE NELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412538",
+    "tipo": "modulo",
+    "componente_id": 412538
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82352,
+    "materia_descrizione": "Tirocinio 1 LM (9 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413922
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82335,
+    "materia_descrizione": "Tirocinio 1a LM (5 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413924
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82353,
+    "materia_descrizione": "Tirocinio 1b LM (4 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413925
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82342,
+    "materia_descrizione": "Prova finale LM (16 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413929
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82344,
+    "materia_descrizione": "Prova finale LM (4 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413930
+  },
+  {
+    "corso_codice": 8037,
+    "materia_codice": 82308,
+    "materia_descrizione": "PREPARAZIONE PROVA FINALE LM (12 CFU)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 413934
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34472,
+    "materia_descrizione": "CONTRATTI APPALTI E SERVIZI PUBBLICI C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 340353
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 19938,
+    "materia_descrizione": "OBBLIGAZIONI E CONTRATTI NEL SETTORE SPORTIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340355",
+    "tipo": "modulo",
+    "componente_id": 340355
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34473,
+    "materia_descrizione": "SERVIZI PUBBLICI E GESTIONE DEGLI APPALTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340356",
+    "tipo": "modulo",
+    "componente_id": 340356
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34477,
+    "materia_descrizione": "IDONEIT?? LINGUA INGLESE B2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340361",
+    "tipo": "",
+    "componente_id": 340361
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34513,
+    "materia_descrizione": "ISTITUZIONI E MERCATO NELLE ATTIVIT?? MOTORIE E SPORTIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340414",
+    "tipo": "",
+    "componente_id": 340414
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34514,
+    "materia_descrizione": "SISTEMATICA DELLE ATTIVIT?? MOTORIE PER L'EFFICIENZA FISICA E LA SALUTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340415",
+    "tipo": "",
+    "componente_id": 340415
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34521,
+    "materia_descrizione": "ORGANIZZAZIONE E GESTIONE DELLO SPORT: PROFILI GIURIDICO-AMMINISTRATIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340425",
+    "tipo": "",
+    "componente_id": 340425
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 27090,
+    "materia_descrizione": "TIROCINIO LM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340434",
+    "tipo": "",
+    "componente_id": 340434
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 37227,
+    "materia_descrizione": "IGIENE DEGLI IMPIANTI SPORTIVI E TUTELA DELLA SALUTE NELLO SPORT C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349962
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 20615,
+    "materia_descrizione": "IGIENE E SICUREZZA DEGLI IMPIANTI SPORTIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349967",
+    "tipo": "modulo",
+    "componente_id": 349967
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 37231,
+    "materia_descrizione": "TOSSICOLOGIA E PREVENZIONE DEL DOPING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349968",
+    "tipo": "modulo",
+    "componente_id": 349968
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 65778,
+    "materia_descrizione": "ECONOMIA E GESTIONE DELLE IMPRESE SPORTIVE C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364109
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 12512,
+    "materia_descrizione": "ECONOMIA E GESTIONE DELLE IMPRESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364112",
+    "tipo": "modulo",
+    "componente_id": 364112
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 67915,
+    "materia_descrizione": "STRATEGIA AZIENDALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364113",
+    "tipo": "modulo",
+    "componente_id": 364113
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 65895,
+    "materia_descrizione": "ISTITUZIONI DI ECONOMIA DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364115",
+    "tipo": "",
+    "componente_id": 364115
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 70404,
+    "materia_descrizione": "SOCIOLOGIA DELLA WELLNESS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379014",
+    "tipo": "",
+    "componente_id": 379014
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 72713,
+    "materia_descrizione": "SOCIOLOGIA DELLO SPORT E DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384859",
+    "tipo": "",
+    "componente_id": 384859
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 72715,
+    "materia_descrizione": "ORGANIZZAZIONE DELL'ATTIVIT?? MOTORIA E DEGLI EVENTI SPORTIVI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384863",
+    "tipo": "",
+    "componente_id": 384863
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 34516,
+    "materia_descrizione": "ECONOMIA AZIENDALE C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394138
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 65781,
+    "materia_descrizione": "BILANCI AZIENDALI E CONTROLLO DI GESTIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394139",
+    "tipo": "modulo",
+    "componente_id": 394139
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 42492,
+    "materia_descrizione": "MARKETING AVANZATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394140",
+    "tipo": "modulo",
+    "componente_id": 394140
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 66140,
+    "materia_descrizione": "FINANZA AZIENDALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394141",
+    "tipo": "",
+    "componente_id": 394141
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 15548,
+    "materia_descrizione": "TEORIA E METODOLOGIA DELL'ALLENAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394142",
+    "tipo": "",
+    "componente_id": 394142
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 66062,
+    "materia_descrizione": "TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394143",
+    "tipo": "",
+    "componente_id": 394143
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394144",
+    "tipo": "",
+    "componente_id": 394144
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 77947,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400688",
+    "tipo": "",
+    "componente_id": 400688
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 15540,
+    "materia_descrizione": "GIORNALISMO SPORTIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402743",
+    "tipo": "",
+    "componente_id": 402743
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 78987,
+    "materia_descrizione": "SOCIOLOGIA DELLA WELLNESS E GIORNALISMO SPORTIVO C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402751
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 70404,
+    "materia_descrizione": "SOCIOLOGIA DELLA WELLNESS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402753",
+    "tipo": "modulo",
+    "componente_id": 402753
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 15540,
+    "materia_descrizione": "GIORNALISMO SPORTIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402754",
+    "tipo": "modulo",
+    "componente_id": 402754
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 70113,
+    "materia_descrizione": "MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406072",
+    "tipo": "",
+    "componente_id": 406072
+  },
+  {
+    "corso_codice": 8210,
+    "materia_codice": 37807,
+    "materia_descrizione": "LABORATORIO DI MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412747",
+    "tipo": "",
+    "componente_id": 412747
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 36073,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACIT?? INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349243",
+    "tipo": "",
+    "componente_id": 349243
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 49754,
+    "materia_descrizione": "BIOLOGIA VEGETALE CON ELEMENTI DI BOTANICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349723",
+    "tipo": "",
+    "componente_id": 349723
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 130,
+    "materia_descrizione": "CHIMICA GENERALE ED INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349724",
+    "tipo": "",
+    "componente_id": 349724
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 150,
+    "materia_descrizione": "CHIMICA ORGANICA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349728",
+    "tipo": "",
+    "componente_id": 349728
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 405,
+    "materia_descrizione": "FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349729",
+    "tipo": "",
+    "componente_id": 349729
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 674,
+    "materia_descrizione": "MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349737",
+    "tipo": "",
+    "componente_id": 349737
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 57359,
+    "materia_descrizione": "ANALISI DEI MEDICINALI I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349739
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 18039,
+    "materia_descrizione": "CARATTERIZZAZIONE STRUTTURALE DI COMPOSTI ORGANICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349748",
+    "tipo": "",
+    "componente_id": 349748
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349751",
+    "tipo": "",
+    "componente_id": 349751
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 122,
+    "materia_descrizione": "CHIMICA FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349752",
+    "tipo": "",
+    "componente_id": 349752
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 152,
+    "materia_descrizione": "CHIMICA ORGANICA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349754",
+    "tipo": "",
+    "componente_id": 349754
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 714,
+    "materia_descrizione": "MICROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349755",
+    "tipo": "",
+    "componente_id": 349755
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 11438,
+    "materia_descrizione": "ANALISI DEI MEDICINALI II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349757
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 11784,
+    "materia_descrizione": "ANALISI DEI MEDICINALI III",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349759
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 62,
+    "materia_descrizione": "BIOCHIMICA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349761",
+    "tipo": "",
+    "componente_id": 349761
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 126,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349781",
+    "tipo": "",
+    "componente_id": 349781
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 18040,
+    "materia_descrizione": "FARMACOLOGIA GENERALE E FARMACOGNOSIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349788",
+    "tipo": "",
+    "componente_id": 349788
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 5181,
+    "materia_descrizione": "FISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349793",
+    "tipo": "",
+    "componente_id": 349793
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 37722,
+    "materia_descrizione": "METODOLOGIE SPERIMENTALI PER LA PREPARAZIONE DI FARMACI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349796
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 18041,
+    "materia_descrizione": "PATOLOGIA GENERALE E MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349797",
+    "tipo": "",
+    "componente_id": 349797
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 37187,
+    "materia_descrizione": "ANALISI STRUMENTALE DI FARMACI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349798
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 11777,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349800",
+    "tipo": "",
+    "componente_id": 349800
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 37189,
+    "materia_descrizione": "FABBRICAZIONE INDUSTRIALE DEI MEDICINALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349802",
+    "tipo": "",
+    "componente_id": 349802
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 13880,
+    "materia_descrizione": "FARMACOLOGIA E FARMACOTERAPIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349858",
+    "tipo": "",
+    "componente_id": 349858
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 37259,
+    "materia_descrizione": "SISTEMI FARMACEUTICI A RILASCIO MODIFICATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350122",
+    "tipo": "",
+    "componente_id": 350122
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350151",
+    "tipo": "",
+    "componente_id": 350151
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 18047,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 351358
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 66117,
+    "materia_descrizione": "ANATOMIA UMANA E BIOLOGIA ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365007",
+    "tipo": "",
+    "componente_id": 365007
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 44113,
+    "materia_descrizione": "BIOCHIMICA E BIOLOGIA MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365014",
+    "tipo": "",
+    "componente_id": 365014
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 66123,
+    "materia_descrizione": "METODI AVANZATI IN CHIMICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365019",
+    "tipo": "",
+    "componente_id": 365019
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 72966,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388627",
+    "tipo": "",
+    "componente_id": 388627
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 72964,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388628",
+    "tipo": "",
+    "componente_id": 388628
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73056,
+    "materia_descrizione": "METODI PER LO STUDIO DELLA CHIRALIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388629",
+    "tipo": "",
+    "componente_id": 388629
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73057,
+    "materia_descrizione": "METODI DI CARATTERIZZAZIONE STRUTTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388630",
+    "tipo": "",
+    "componente_id": 388630
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 1651,
+    "materia_descrizione": "CHIMICA ANALITICA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388631",
+    "tipo": "",
+    "componente_id": 388631
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 55954,
+    "materia_descrizione": "CHIMICA ANALITICA AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388632",
+    "tipo": "",
+    "componente_id": 388632
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 74458,
+    "materia_descrizione": "SOCIO-ECONOMIA E BREVETTISTICA FARMACEUTICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394129",
+    "tipo": "",
+    "componente_id": 394129
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 72961,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI E BIOLOGICI C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394327
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 72964,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394328",
+    "tipo": "modulo",
+    "componente_id": 394328
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 72966,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394329",
+    "tipo": "modulo",
+    "componente_id": 394329
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73055,
+    "materia_descrizione": "METODI INNOVATIVI DELLA CHIMICA ORGANICA NELLO STUDIO DEL FARMACO C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394330
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73056,
+    "materia_descrizione": "METODI PER LO STUDIO DELLA CHIRALIT??",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394331",
+    "tipo": "modulo",
+    "componente_id": 394331
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73057,
+    "materia_descrizione": "METODI DI CARATTERIZZAZIONE STRUTTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394332",
+    "tipo": "modulo",
+    "componente_id": 394332
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 73060,
+    "materia_descrizione": "CHIMICA ANALITICA CLINICA ED AMBIENTALE C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394337
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 1651,
+    "materia_descrizione": "CHIMICA ANALITICA CLINICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394338",
+    "tipo": "modulo",
+    "componente_id": 394338
+  },
+  {
+    "corso_codice": 8412,
+    "materia_codice": 55954,
+    "materia_descrizione": "CHIMICA ANALITICA AMBIENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394339",
+    "tipo": "modulo",
+    "componente_id": 394339
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 674,
+    "materia_descrizione": "MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349705",
+    "tipo": "",
+    "componente_id": 349705
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 10083,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349706",
+    "tipo": "",
+    "componente_id": 349706
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 13520,
+    "materia_descrizione": "BIOLOGIA ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349711",
+    "tipo": "",
+    "componente_id": 349711
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 130,
+    "materia_descrizione": "CHIMICA GENERALE ED INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349712",
+    "tipo": "",
+    "componente_id": 349712
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 37179,
+    "materia_descrizione": "BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349713
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 12818,
+    "materia_descrizione": "BIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349714",
+    "tipo": "modulo",
+    "componente_id": 349714
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 73,
+    "materia_descrizione": "BOTANICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349715",
+    "tipo": "modulo",
+    "componente_id": 349715
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 405,
+    "materia_descrizione": "FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349716",
+    "tipo": "",
+    "componente_id": 349716
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 18034,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349717",
+    "tipo": "",
+    "componente_id": 349717
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349726",
+    "tipo": "",
+    "componente_id": 349726
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 148,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349727",
+    "tipo": "",
+    "componente_id": 349727
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 714,
+    "materia_descrizione": "MICROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349730",
+    "tipo": "",
+    "componente_id": 349730
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 57359,
+    "materia_descrizione": "ANALISI DEI MEDICINALI I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349731
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349735",
+    "tipo": "",
+    "componente_id": 349735
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 443,
+    "materia_descrizione": "FISIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349736",
+    "tipo": "",
+    "componente_id": 349736
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 62,
+    "materia_descrizione": "BIOCHIMICA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349738",
+    "tipo": "",
+    "componente_id": 349738
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 1234,
+    "materia_descrizione": "FARMACOGNOSIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349740",
+    "tipo": "",
+    "componente_id": 349740
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 11438,
+    "materia_descrizione": "ANALISI DEI MEDICINALI II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349741
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 126,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349744",
+    "tipo": "",
+    "componente_id": 349744
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 11961,
+    "materia_descrizione": "METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349747
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 2359,
+    "materia_descrizione": "PATOLOGIA E FISIOPATOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349750",
+    "tipo": "",
+    "componente_id": 349750
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 498,
+    "materia_descrizione": "IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349760",
+    "tipo": "",
+    "componente_id": 349760
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 11777,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349762",
+    "tipo": "",
+    "componente_id": 349762
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 37182,
+    "materia_descrizione": "FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349766
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 2715,
+    "materia_descrizione": "FISIOLOGIA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349775",
+    "tipo": "modulo",
+    "componente_id": 349775
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 13952,
+    "materia_descrizione": "BIOCHIMICA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349776",
+    "tipo": "modulo",
+    "componente_id": 349776
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 13880,
+    "materia_descrizione": "FARMACOLOGIA E FARMACOTERAPIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349784",
+    "tipo": "",
+    "componente_id": 349784
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 32481,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349792",
+    "tipo": "",
+    "componente_id": 349792
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 32044,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349799
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 32046,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349801
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349804",
+    "tipo": "",
+    "componente_id": 349804
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 41663,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349806",
+    "tipo": "",
+    "componente_id": 349806
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 20629,
+    "materia_descrizione": "PRIMO SOCCORSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354447",
+    "tipo": "",
+    "componente_id": 354447
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 47942,
+    "materia_descrizione": "FISIOLOGIA DELLA SENESCENZA E DELLA LONGEVITA'",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385665",
+    "tipo": "",
+    "componente_id": 385665
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 73078,
+    "materia_descrizione": "CHIMICA E TECNOLOGIE NUTRACEUTICO-ALIMENTARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385666",
+    "tipo": "",
+    "componente_id": 385666
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 14513,
+    "materia_descrizione": "FARMACOLOGIA CELLULARE E MOLECOLARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385669",
+    "tipo": "",
+    "componente_id": 385669
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 47941,
+    "materia_descrizione": "FARMACOTERAPIA DEI DISTURBI METABOLICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385670",
+    "tipo": "",
+    "componente_id": 385670
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 47946,
+    "materia_descrizione": "NEUROFISIOLOGIA COGNITIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385675",
+    "tipo": "",
+    "componente_id": 385675
+  },
+  {
+    "corso_codice": 8413,
+    "materia_codice": 57338,
+    "materia_descrizione": "PRECORSO DI MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420932",
+    "tipo": "",
+    "componente_id": 420932
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 674,
+    "materia_descrizione": "MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349896",
+    "tipo": "",
+    "componente_id": 349896
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 10083,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349899",
+    "tipo": "",
+    "componente_id": 349899
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 13520,
+    "materia_descrizione": "BIOLOGIA ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349904",
+    "tipo": "",
+    "componente_id": 349904
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 37179,
+    "materia_descrizione": "BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349907
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 12818,
+    "materia_descrizione": "BIOLOGIA VEGETALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349908",
+    "tipo": "modulo",
+    "componente_id": 349908
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 73,
+    "materia_descrizione": "BOTANICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349909",
+    "tipo": "modulo",
+    "componente_id": 349909
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 130,
+    "materia_descrizione": "CHIMICA GENERALE ED INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349912",
+    "tipo": "",
+    "componente_id": 349912
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 405,
+    "materia_descrizione": "FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349915",
+    "tipo": "",
+    "componente_id": 349915
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 18034,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349916",
+    "tipo": "",
+    "componente_id": 349916
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349920",
+    "tipo": "",
+    "componente_id": 349920
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 148,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349923",
+    "tipo": "",
+    "componente_id": 349923
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 714,
+    "materia_descrizione": "MICROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349924",
+    "tipo": "",
+    "componente_id": 349924
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 57359,
+    "materia_descrizione": "ANALISI DEI MEDICINALI I",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349925
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349931",
+    "tipo": "",
+    "componente_id": 349931
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 62,
+    "materia_descrizione": "BIOCHIMICA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349960",
+    "tipo": "",
+    "componente_id": 349960
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 1234,
+    "materia_descrizione": "FARMACOGNOSIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349961",
+    "tipo": "",
+    "componente_id": 349961
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 11438,
+    "materia_descrizione": "ANALISI DEI MEDICINALI II",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349963
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 11777,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349964",
+    "tipo": "",
+    "componente_id": 349964
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 126,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349965",
+    "tipo": "",
+    "componente_id": 349965
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 11961,
+    "materia_descrizione": "METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349966
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 2359,
+    "materia_descrizione": "PATOLOGIA E FISIOPATOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349969",
+    "tipo": "",
+    "componente_id": 349969
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 498,
+    "materia_descrizione": "IGIENE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349970",
+    "tipo": "",
+    "componente_id": 349970
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 37182,
+    "materia_descrizione": "FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 349973
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 2715,
+    "materia_descrizione": "FISIOLOGIA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349976",
+    "tipo": "modulo",
+    "componente_id": 349976
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 13952,
+    "materia_descrizione": "BIOCHIMICA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349977",
+    "tipo": "modulo",
+    "componente_id": 349977
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 13880,
+    "materia_descrizione": "FARMACOLOGIA E FARMACOTERAPIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349981",
+    "tipo": "",
+    "componente_id": 349981
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 32481,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349982",
+    "tipo": "",
+    "componente_id": 349982
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 32044,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349983",
+    "tipo": "",
+    "componente_id": 349983
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 32046,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349984",
+    "tipo": "",
+    "componente_id": 349984
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349985",
+    "tipo": "",
+    "componente_id": 349985
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 41663,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349986",
+    "tipo": "",
+    "componente_id": 349986
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 443,
+    "materia_descrizione": "FISIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351311",
+    "tipo": "",
+    "componente_id": 351311
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 20629,
+    "materia_descrizione": "PRIMO SOCCORSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354432",
+    "tipo": "",
+    "componente_id": 354432
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 41667,
+    "materia_descrizione": "FINALITA' E GESTIONE DELLA FARMACIA OSPEDALIERA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387515",
+    "tipo": "",
+    "componente_id": 387515
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 36420,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACIT?? GESTIONALI ED INFORMATICHE IN FARMACIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387516",
+    "tipo": "",
+    "componente_id": 387516
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 76274,
+    "materia_descrizione": "RADIOFARMACI PER IMAGING MOLECOLARE CLINICO E SPERIMENTALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394145",
+    "tipo": "",
+    "componente_id": 394145
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 79013,
+    "materia_descrizione": "COMPLEMENTI DI GALENICA IN FARMACIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402863",
+    "tipo": "",
+    "componente_id": 402863
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 644,
+    "materia_descrizione": "LINGUA INGLESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403380",
+    "tipo": "",
+    "componente_id": 403380
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 82103,
+    "materia_descrizione": "ADVANCED ANALYTICAL METHODOLOGIES FOR BIOTECHNOLOGICAL/BIOLOGICAL MEDICINAL PRODUCTS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413138",
+    "tipo": "",
+    "componente_id": 413138
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 6944,
+    "materia_descrizione": "COMPLEMENTI DI CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421007",
+    "tipo": "",
+    "componente_id": 421007
+  },
+  {
+    "corso_codice": 8414,
+    "materia_codice": 3599,
+    "materia_descrizione": "METODI FISICI IN CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421015",
+    "tipo": "",
+    "componente_id": 421015
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30595,
+    "materia_descrizione": "BIOCHIMICA E NUTRIZIONE UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363980
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 363982
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 24234,
+    "materia_descrizione": "NUTRIZIONE UMANA",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 363981
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30748,
+    "materia_descrizione": "ANATOMIA UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 363983
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 66052,
+    "materia_descrizione": "ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363985",
+    "tipo": "modulo",
+    "componente_id": 363985
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 65787,
+    "materia_descrizione": "ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363984",
+    "tipo": "modulo",
+    "componente_id": 363984
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31354,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT NATATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363995",
+    "tipo": "",
+    "componente_id": 363995
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30643,
+    "materia_descrizione": "PEDAGOGIA GENERALE E DEL GIOCO C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364000
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 5760,
+    "materia_descrizione": "PEDAGOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364002",
+    "tipo": "modulo",
+    "componente_id": 364002
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 22367,
+    "materia_descrizione": "PEDAGOGIA DEL GIOCO E DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364001",
+    "tipo": "modulo",
+    "componente_id": 364001
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 14030,
+    "materia_descrizione": "ANTROPOMETRIA ED ERGONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364004",
+    "tipo": "",
+    "componente_id": 364004
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 2207,
+    "materia_descrizione": "PSICOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364837",
+    "tipo": "",
+    "componente_id": 364837
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 7309,
+    "materia_descrizione": "DIRITTO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364839",
+    "tipo": "",
+    "componente_id": 364839
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364844",
+    "tipo": "",
+    "componente_id": 364844
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 380527
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (5)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 380528
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 66060,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364863
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 66062,
+    "materia_descrizione": "TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364873",
+    "tipo": "modulo",
+    "componente_id": 364873
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 66064,
+    "materia_descrizione": "DIDATTICA DEGLI SPORT INDIVIDUALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364874",
+    "tipo": "modulo",
+    "componente_id": 364874
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30830,
+    "materia_descrizione": "IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 364892
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 57138,
+    "materia_descrizione": "IGIENE GENERALE E APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364895",
+    "tipo": "modulo",
+    "componente_id": 364895
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30832,
+    "materia_descrizione": "TRAUMATOLOGIA E PRIMO SOCCORSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364896",
+    "tipo": "modulo",
+    "componente_id": 364896
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 72533,
+    "materia_descrizione": "BIOCHIMICA E NUTRIZIONE UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384281
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384282",
+    "tipo": "modulo",
+    "componente_id": 384282
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 24234,
+    "materia_descrizione": "NUTRIZIONE UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384284",
+    "tipo": "modulo",
+    "componente_id": 384284
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 37201,
+    "materia_descrizione": "BIOCHIMICA METABOLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384283",
+    "tipo": "modulo",
+    "componente_id": 384283
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 57113,
+    "materia_descrizione": "BIOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384285",
+    "tipo": "",
+    "componente_id": 384285
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 3857,
+    "materia_descrizione": "SOCIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384330",
+    "tipo": "",
+    "componente_id": 384330
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 72562,
+    "materia_descrizione": "TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384332
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31670,
+    "materia_descrizione": "TEORIA E METODOLOGIA DEL MOVIMENTO UMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384333",
+    "tipo": "modulo",
+    "componente_id": 384333
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 72563,
+    "materia_descrizione": "CINESIOLOGIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384334",
+    "tipo": "modulo",
+    "componente_id": 384334
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 72565,
+    "materia_descrizione": "TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?? MOTORIA PREVENTIVA E PER L'ET?? EVOLUTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384336",
+    "tipo": "",
+    "componente_id": 384336
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 15548,
+    "materia_descrizione": "TEORIA E METODOLOGIA DELL'ALLENAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384338",
+    "tipo": "",
+    "componente_id": 384338
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 72567,
+    "materia_descrizione": "ATTIVIT?? MOTORIA E SALUTE C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384340
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 31337,
+    "materia_descrizione": "FITNESS E ATTIVIT?? MOTORIE PER LA SALUTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384345",
+    "tipo": "modulo",
+    "componente_id": 384345
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 9151,
+    "materia_descrizione": "MEDICINA INTERNA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384346",
+    "tipo": "modulo",
+    "componente_id": 384346
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 46248,
+    "materia_descrizione": "FARMACOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384348",
+    "tipo": "modulo",
+    "componente_id": 384348
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 11316,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384350",
+    "tipo": "",
+    "componente_id": 384350
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 70471,
+    "materia_descrizione": "ULTIMATE FRISBEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386678",
+    "tipo": "",
+    "componente_id": 386678
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 914,
+    "materia_descrizione": "STATISTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386679",
+    "tipo": "",
+    "componente_id": 386679
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 38650,
+    "materia_descrizione": "BASEBALL",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386684",
+    "tipo": "",
+    "componente_id": 386684
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 38700,
+    "materia_descrizione": "TENNIS TAVOLO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386687",
+    "tipo": "",
+    "componente_id": 386687
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 70512,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386688",
+    "tipo": "",
+    "componente_id": 386688
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 1992,
+    "materia_descrizione": "STORIA DELL'EDUCAZIONE FISICA E DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386698",
+    "tipo": "",
+    "componente_id": 386698
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 12513,
+    "materia_descrizione": "PSICOLOGIA COGNITIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401362",
+    "tipo": "",
+    "componente_id": 401362
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 30761,
+    "materia_descrizione": "FISIOLOGIA UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401363
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 78450,
+    "materia_descrizione": "NEUROFISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401364",
+    "tipo": "modulo",
+    "componente_id": 401364
+  },
+  {
+    "corso_codice": 8512,
+    "materia_codice": 43533,
+    "materia_descrizione": "FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401365",
+    "tipo": "modulo",
+    "componente_id": 401365
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 18034,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368458",
+    "tipo": "",
+    "componente_id": 368458
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67136,
+    "materia_descrizione": "ANALISI DEI PRODOTTI PER LA SALUTE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368461",
+    "tipo": "",
+    "componente_id": 368461
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 10083,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368463",
+    "tipo": "",
+    "componente_id": 368463
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368464",
+    "tipo": "",
+    "componente_id": 368464
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67320,
+    "materia_descrizione": "CHIMICA GENERALE E INORGANICA, CHIMICA FISICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368468",
+    "tipo": "",
+    "componente_id": 368468
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 644,
+    "materia_descrizione": "LINGUA INGLESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368512",
+    "tipo": "",
+    "componente_id": 368512
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 15968,
+    "materia_descrizione": "FISICA E MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368518",
+    "tipo": "",
+    "componente_id": 368518
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67138,
+    "materia_descrizione": "ANALISI DEI PRODOTTI PER LA SALUTE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368520",
+    "tipo": "",
+    "componente_id": 368520
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67174,
+    "materia_descrizione": "BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368755",
+    "tipo": "",
+    "componente_id": 368755
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67176,
+    "materia_descrizione": "FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368766",
+    "tipo": "",
+    "componente_id": 368766
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 4318,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E TOSSICOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368769",
+    "tipo": "",
+    "componente_id": 368769
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67022,
+    "materia_descrizione": "FARMACOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368772",
+    "tipo": "",
+    "componente_id": 368772
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 46203,
+    "materia_descrizione": "MICROBIOLOGIA E ANALISI MICROBIOLOGICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368781
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67178,
+    "materia_descrizione": "IGIENE E PATOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368785",
+    "tipo": "",
+    "componente_id": 368785
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67188,
+    "materia_descrizione": "ANALISI DEI PRODOTTI PER LA SALUTE III",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368825",
+    "tipo": "",
+    "componente_id": 368825
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67190,
+    "materia_descrizione": "GESTIONE DEL SISTEMA QUALITA'",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368831",
+    "tipo": "",
+    "componente_id": 368831
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368832
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 18622,
+    "materia_descrizione": "TIROCINIO L",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368836",
+    "tipo": "",
+    "componente_id": 368836
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 3033,
+    "materia_descrizione": "TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368839",
+    "tipo": "",
+    "componente_id": 368839
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67193,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368840",
+    "tipo": "",
+    "componente_id": 368840
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 67194,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368843",
+    "tipo": "",
+    "componente_id": 368843
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 73741,
+    "materia_descrizione": "CHIMICA DEGLI ALIMENTI E DEGLI ANTIOSSIDANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387517",
+    "tipo": "",
+    "componente_id": 387517
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 21336,
+    "materia_descrizione": "MALATTIE CUTANEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387518",
+    "tipo": "",
+    "componente_id": 387518
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 75931,
+    "materia_descrizione": "IDONEIT?? DI LINGUA INGLESE B2",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394157",
+    "tipo": "",
+    "componente_id": 394157
+  },
+  {
+    "corso_codice": 8517,
+    "materia_codice": 79054,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402992",
+    "tipo": "",
+    "componente_id": 402992
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 18034,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368207",
+    "tipo": "",
+    "componente_id": 368207
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 10083,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368235",
+    "tipo": "",
+    "componente_id": 368235
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 10083,
+    "materia_descrizione": "ANATOMIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368236",
+    "tipo": "",
+    "componente_id": 368236
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368238",
+    "tipo": "",
+    "componente_id": 368238
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 148,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368245",
+    "tipo": "",
+    "componente_id": 368245
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 15968,
+    "materia_descrizione": "FISICA E MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368259",
+    "tipo": "",
+    "componente_id": 368259
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31567,
+    "materia_descrizione": "ANALISI DEI FITODERIVATI I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368260",
+    "tipo": "",
+    "componente_id": 368260
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31571,
+    "materia_descrizione": "ANALISI DEI FITODERIVATI II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368262",
+    "tipo": "",
+    "componente_id": 368262
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67117,
+    "materia_descrizione": "BIOCHIMICA GENERALE E DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368263",
+    "tipo": "",
+    "componente_id": 368263
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67119,
+    "materia_descrizione": "CHIMICA FARMACEUTICA E DELLE SOSTANZE NATURALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368267
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 118,
+    "materia_descrizione": "CHIMICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368269",
+    "tipo": "modulo",
+    "componente_id": 368269
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 111,
+    "materia_descrizione": "CHIMICA DELLE SOSTANZE ORGANICHE NATURALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368270",
+    "tipo": "modulo",
+    "componente_id": 368270
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31578,
+    "materia_descrizione": "FARMACOGNOSIA E FITOTERAPIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368273",
+    "tipo": "",
+    "componente_id": 368273
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 59620,
+    "materia_descrizione": "PATOLOGIA E MICROBIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368274",
+    "tipo": "",
+    "componente_id": 368274
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 5181,
+    "materia_descrizione": "FISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368275",
+    "tipo": "",
+    "componente_id": 368275
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 3469,
+    "materia_descrizione": "FARMACOLOGIA E TOSSICOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368286",
+    "tipo": "",
+    "componente_id": 368286
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 17952,
+    "materia_descrizione": "CONTROLLO E VALIDAZIONE DEI FITODERIVATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368288",
+    "tipo": "",
+    "componente_id": 368288
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67121,
+    "materia_descrizione": "FORMULAZIONI FITOCOSMETICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368289",
+    "tipo": "",
+    "componente_id": 368289
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67123,
+    "materia_descrizione": "TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI ERBORISTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368317",
+    "tipo": "",
+    "componente_id": 368317
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368319
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 18034,
+    "materia_descrizione": "ACQUISIZIONE DI CAPACITA' INFORMATICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368322",
+    "tipo": "",
+    "componente_id": 368322
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 13622,
+    "materia_descrizione": "BIOLOGIA VEGETALE E ANIMALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368325",
+    "tipo": "",
+    "componente_id": 368325
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 90,
+    "materia_descrizione": "CHIMICA ANALITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368326",
+    "tipo": "",
+    "componente_id": 368326
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 148,
+    "materia_descrizione": "CHIMICA ORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368330",
+    "tipo": "",
+    "componente_id": 368330
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 15968,
+    "materia_descrizione": "FISICA E MATEMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368340",
+    "tipo": "",
+    "componente_id": 368340
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67117,
+    "materia_descrizione": "BIOCHIMICA GENERALE E DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368341",
+    "tipo": "",
+    "componente_id": 368341
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31930,
+    "materia_descrizione": "CHIMICA DEGLI INQUINANTI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368343
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 11268,
+    "materia_descrizione": "CHIMICA ANALITICA DEGLI INQUINANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368344",
+    "tipo": "modulo",
+    "componente_id": 368344
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 55002,
+    "materia_descrizione": "CHIMICA DELLE SOSTANZE ORGANICHE INQUINANTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368345",
+    "tipo": "modulo",
+    "componente_id": 368345
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67128,
+    "materia_descrizione": "FONDAMENTI DI FISIOLOGIA GENERALE E DELLA NUTRIZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368357",
+    "tipo": "",
+    "componente_id": 368357
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67130,
+    "materia_descrizione": "MICROBIOLOGIA E PATOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368408",
+    "tipo": "",
+    "componente_id": 368408
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67131,
+    "materia_descrizione": "CHIMICA E ANALISI DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368409",
+    "tipo": "",
+    "componente_id": 368409
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 55007,
+    "materia_descrizione": "ANALISI CHIMICO TOSSICOLOGICA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368410",
+    "tipo": "",
+    "componente_id": 368410
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67132,
+    "materia_descrizione": "BIOTECNOLOGIE MICROBICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368412",
+    "tipo": "",
+    "componente_id": 368412
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 11967,
+    "materia_descrizione": "TOSSICOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368413",
+    "tipo": "",
+    "componente_id": 368413
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 67133,
+    "materia_descrizione": "NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368414",
+    "tipo": "",
+    "componente_id": 368414
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 35074,
+    "materia_descrizione": "PROVA FINALE L",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368417
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31867,
+    "materia_descrizione": "FARMACOLOGIA (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368425
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 14163,
+    "materia_descrizione": "FARMACOLOGIA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368426",
+    "tipo": "modulo",
+    "componente_id": 368426
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 14159,
+    "materia_descrizione": "FARMACOLOGIA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368427",
+    "tipo": "modulo",
+    "componente_id": 368427
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31864,
+    "materia_descrizione": "ESTRAZIONE DEI FITODERIVATI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368446
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31865,
+    "materia_descrizione": "ESTRAZIONE DEI FITODERIVATI I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368448",
+    "tipo": "modulo",
+    "componente_id": 368448
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 31866,
+    "materia_descrizione": "ESTRAZIONE DEI FITODERIVATI II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368449",
+    "tipo": "modulo",
+    "componente_id": 368449
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 43049,
+    "materia_descrizione": "CHIMICA GENERALE E INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368984",
+    "tipo": "",
+    "componente_id": 368984
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 43049,
+    "materia_descrizione": "CHIMICA GENERALE E INORGANICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368990",
+    "tipo": "",
+    "componente_id": 368990
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 55006,
+    "materia_descrizione": "ANALISI CHIMICO TOSSICOLOGICA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369052",
+    "tipo": "",
+    "componente_id": 369052
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 2307,
+    "materia_descrizione": "CHIMICA TOSSICOLOGICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369055",
+    "tipo": "",
+    "componente_id": 369055
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 17944,
+    "materia_descrizione": "MARKETING DEI PRODOTTI ERBORISTICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385783",
+    "tipo": "",
+    "componente_id": 385783
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73101,
+    "materia_descrizione": "ERBORISTERIA APPLICATA I",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385785",
+    "tipo": "",
+    "componente_id": 385785
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73102,
+    "materia_descrizione": "ERBORISTERIA APPLICATA II",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385787",
+    "tipo": "",
+    "componente_id": 385787
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 55003,
+    "materia_descrizione": "CHIMICA FISICA PER L'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385788",
+    "tipo": "",
+    "componente_id": 385788
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 49236,
+    "materia_descrizione": "ECONOMIA E MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385791",
+    "tipo": "",
+    "componente_id": 385791
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73819,
+    "materia_descrizione": "APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388181",
+    "tipo": "",
+    "componente_id": 388181
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 76364,
+    "materia_descrizione": "DISCIPLINE PROFESSIONALIZZANTI DEL SETTORE TOSSICOLOGICO-AMBIENTALE (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394287
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 55003,
+    "materia_descrizione": "CHIMICA FISICA PER L'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394288",
+    "tipo": "modulo",
+    "componente_id": 394288
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73103,
+    "materia_descrizione": "SOSTANZE TOSSICHE DELLA MATRICE ACQUA",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 394289
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73819,
+    "materia_descrizione": "APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394290",
+    "tipo": "modulo",
+    "componente_id": 394290
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 49236,
+    "materia_descrizione": "ECONOMIA E MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394291",
+    "tipo": "modulo",
+    "componente_id": 394291
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 76365,
+    "materia_descrizione": "COLTIVAZIONE, RACCOLTA E TRASFORMAZIONE DELLE PIANTE OFFICINALI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 394292
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 76337,
+    "materia_descrizione": "COLTIVAZIONE DELLE PIANTE OFFICINALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394293",
+    "tipo": "modulo",
+    "componente_id": 394293
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 76363,
+    "materia_descrizione": "RACCOLTA E PRIMA TRASFORMAZIONE DELLE PIANTE OFFICINALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394294",
+    "tipo": "modulo",
+    "componente_id": 394294
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 41669,
+    "materia_descrizione": "TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402581",
+    "tipo": "",
+    "componente_id": 402581
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 82695,
+    "materia_descrizione": "biologia vegetale e animale",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413886",
+    "tipo": "",
+    "componente_id": 413886
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 73,
+    "materia_descrizione": "BOTANICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413887",
+    "tipo": "",
+    "componente_id": 413887
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 82777,
+    "materia_descrizione": "SICUREZZA ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416160",
+    "tipo": "",
+    "componente_id": 416160
+  },
+  {
+    "corso_codice": 8518,
+    "materia_codice": 82778,
+    "materia_descrizione": "SOSTANZE TOSSICHE DELLA MATRICE ARIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416161",
+    "tipo": "",
+    "componente_id": 416161
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67161,
+    "materia_descrizione": "BASI MOLECOLARI E GENETICHE DELLE MALATTIE CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368698",
+    "tipo": "",
+    "componente_id": 368698
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 35345,
+    "materia_descrizione": "BIOCHIMICA E FISIOLOGIA CELLULARI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368699
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67321,
+    "materia_descrizione": "BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368700",
+    "tipo": "modulo",
+    "componente_id": 368700
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 35461,
+    "materia_descrizione": "FISIOLOGIA CELLULARE CON ESERCITAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368701",
+    "tipo": "modulo",
+    "componente_id": 368701
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67163,
+    "materia_descrizione": "BIOSENSORI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368704
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67164,
+    "materia_descrizione": "BIOSENSORI OTTICI E LUMINESCENTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368705",
+    "tipo": "modulo",
+    "componente_id": 368705
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67165,
+    "materia_descrizione": "BIOSENSORI ELETTROCHIMICI E PIEZOELETTRICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368706",
+    "tipo": "modulo",
+    "componente_id": 368706
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 35499,
+    "materia_descrizione": "BIOTECNOLOGIE DI MICROORGANISMI INDUSTRIALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368707",
+    "tipo": "",
+    "componente_id": 368707
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67166,
+    "materia_descrizione": "BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368708",
+    "tipo": "",
+    "componente_id": 368708
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67167,
+    "materia_descrizione": "GENOMICA FUNZIONALE CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368714",
+    "tipo": "",
+    "componente_id": 368714
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 35477,
+    "materia_descrizione": "NANOTECNOLOGIE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368715",
+    "tipo": "",
+    "componente_id": 368715
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 35491,
+    "materia_descrizione": "SVILUPPO DI VACCINI (C.I.)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 368717
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 3377,
+    "materia_descrizione": "IMMUNOGENETICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368718",
+    "tipo": "modulo",
+    "componente_id": 368718
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67168,
+    "materia_descrizione": "MICROBIOLOGIA GENOMICA E VACCINI CON LABORATORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368719",
+    "tipo": "modulo",
+    "componente_id": 368719
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67172,
+    "materia_descrizione": "PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368734",
+    "tipo": "",
+    "componente_id": 368734
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 70385,
+    "materia_descrizione": "CHEMICAL AND GENOMICS-BASED STRATEGIES IN THE DISCOVERY OF NOVEL DRUG TARGETS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378958",
+    "tipo": "",
+    "componente_id": 378958
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 70387,
+    "materia_descrizione": "ATTIVIT?? FORMATIVA IN AZIENDA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378959",
+    "tipo": "",
+    "componente_id": 378959
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 71166,
+    "materia_descrizione": "METODI E STRUMENTI DI RICERCA PER LA TESI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381034",
+    "tipo": "",
+    "componente_id": 381034
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 32731,
+    "materia_descrizione": "NEUROFARMACOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388434",
+    "tipo": "",
+    "componente_id": 388434
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 6551,
+    "materia_descrizione": "NEUROFISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/389286",
+    "tipo": "",
+    "componente_id": 389286
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 72964,
+    "materia_descrizione": "RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402777",
+    "tipo": "",
+    "componente_id": 402777
+  },
+  {
+    "corso_codice": 8519,
+    "materia_codice": 67169,
+    "materia_descrizione": "NANO E MICRO-SISTEMI FARMACEUTICI CON ESERCITAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415286",
+    "tipo": "",
+    "componente_id": 415286
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 3857,
+    "materia_descrizione": "SOCIOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384920",
+    "tipo": "",
+    "componente_id": 384920
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 72562,
+    "materia_descrizione": "TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384921
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 31670,
+    "materia_descrizione": "TEORIA E METODOLOGIA DEL MOVIMENTO UMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384922",
+    "tipo": "modulo",
+    "componente_id": 384922
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 72563,
+    "materia_descrizione": "CINESIOLOGIA UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384923",
+    "tipo": "modulo",
+    "componente_id": 384923
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 72565,
+    "materia_descrizione": "TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?? MOTORIA PREVENTIVA E PER L'ET?? EVOLUTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384924",
+    "tipo": "",
+    "componente_id": 384924
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 72567,
+    "materia_descrizione": "ATTIVIT?? MOTORIA E SALUTE C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384925
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 31337,
+    "materia_descrizione": "FITNESS E ATTIVIT?? MOTORIE PER LA SALUTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384926",
+    "tipo": "modulo",
+    "componente_id": 384926
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 9151,
+    "materia_descrizione": "MEDICINA INTERNA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384927",
+    "tipo": "modulo",
+    "componente_id": 384927
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 46248,
+    "materia_descrizione": "FARMACOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384928",
+    "tipo": "modulo",
+    "componente_id": 384928
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 15548,
+    "materia_descrizione": "TEORIA E METODOLOGIA DELL'ALLENAMENTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384929",
+    "tipo": "",
+    "componente_id": 384929
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 11316,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384930",
+    "tipo": "",
+    "componente_id": 384930
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 72533,
+    "materia_descrizione": "BIOCHIMICA E NUTRIZIONE UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384931
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 61,
+    "materia_descrizione": "BIOCHIMICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384932",
+    "tipo": "modulo",
+    "componente_id": 384932
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 24234,
+    "materia_descrizione": "NUTRIZIONE UMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384933",
+    "tipo": "modulo",
+    "componente_id": 384933
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 37201,
+    "materia_descrizione": "BIOCHIMICA METABOLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384934",
+    "tipo": "modulo",
+    "componente_id": 384934
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 57113,
+    "materia_descrizione": "BIOLOGIA APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384935",
+    "tipo": "",
+    "componente_id": 384935
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 2207,
+    "materia_descrizione": "PSICOLOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384937",
+    "tipo": "",
+    "componente_id": 384937
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 66060,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384938
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 66062,
+    "materia_descrizione": "TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384939",
+    "tipo": "modulo",
+    "componente_id": 384939
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 66064,
+    "materia_descrizione": "DIDATTICA DEGLI SPORT INDIVIDUALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384940",
+    "tipo": "modulo",
+    "componente_id": 384940
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30748,
+    "materia_descrizione": "ANATOMIA UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384947
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 66052,
+    "materia_descrizione": "ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384948",
+    "tipo": "modulo",
+    "componente_id": 384948
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 65787,
+    "materia_descrizione": "ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384949",
+    "tipo": "modulo",
+    "componente_id": 384949
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 31354,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT NATATORI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384955",
+    "tipo": "",
+    "componente_id": 384955
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30851,
+    "materia_descrizione": "TIROCINIO 1 L",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384959",
+    "tipo": "",
+    "componente_id": 384959
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30643,
+    "materia_descrizione": "PEDAGOGIA GENERALE E DEL GIOCO C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384960
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 5760,
+    "materia_descrizione": "PEDAGOGIA GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384961",
+    "tipo": "modulo",
+    "componente_id": 384961
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 22367,
+    "materia_descrizione": "PEDAGOGIA DEL GIOCO E DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384962",
+    "tipo": "modulo",
+    "componente_id": 384962
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 14030,
+    "materia_descrizione": "ANTROPOMETRIA ED ERGONOMIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384963",
+    "tipo": "",
+    "componente_id": 384963
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30852,
+    "materia_descrizione": "TIROCINIO 2 L",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384965",
+    "tipo": "",
+    "componente_id": 384965
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30830,
+    "materia_descrizione": "IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 384971
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 57138,
+    "materia_descrizione": "IGIENE GENERALE E APPLICATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384972",
+    "tipo": "modulo",
+    "componente_id": 384972
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30832,
+    "materia_descrizione": "TRAUMATOLOGIA E PRIMO SOCCORSO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384973",
+    "tipo": "modulo",
+    "componente_id": 384973
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 7309,
+    "materia_descrizione": "DIRITTO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384974",
+    "tipo": "",
+    "componente_id": 384974
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384976",
+    "tipo": "",
+    "componente_id": 384976
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 31446,
+    "materia_descrizione": "TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4)",
+    "url": "",
+    "tipo": "modulo",
+    "componente_id": 394413
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 73899,
+    "materia_descrizione": "OUTDOOR EDUCATION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394115",
+    "tipo": "",
+    "componente_id": 394115
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 68468,
+    "materia_descrizione": "MANAGEMENT DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394116",
+    "tipo": "",
+    "componente_id": 394116
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 33595,
+    "materia_descrizione": "GIUSTIZIA SPORTIVA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394121",
+    "tipo": "",
+    "componente_id": 394121
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70471,
+    "materia_descrizione": "ULTIMATE FRISBEE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394125",
+    "tipo": "",
+    "componente_id": 394125
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 30761,
+    "materia_descrizione": "FISIOLOGIA UMANA C. I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402757
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 43533,
+    "materia_descrizione": "FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402758",
+    "tipo": "modulo",
+    "componente_id": 402758
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 78450,
+    "materia_descrizione": "NEUROFISIOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402759",
+    "tipo": "modulo",
+    "componente_id": 402759
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70113,
+    "materia_descrizione": "MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402763",
+    "tipo": "",
+    "componente_id": 402763
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 78990,
+    "materia_descrizione": "MANAGEMENT E MARKETING DELLO SPORT C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 402764
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 68468,
+    "materia_descrizione": "MANAGEMENT DELLO SPORT",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402765",
+    "tipo": "modulo",
+    "componente_id": 402765
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70113,
+    "materia_descrizione": "MARKETING",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402766",
+    "tipo": "modulo",
+    "componente_id": 402766
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70512,
+    "materia_descrizione": "PEDAGOGIA INTERCULTURALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402767",
+    "tipo": "",
+    "componente_id": 402767
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70474,
+    "materia_descrizione": "TENNIS E BEACH TENNIS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402795",
+    "tipo": "",
+    "componente_id": 402795
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 81864,
+    "materia_descrizione": "TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413980",
+    "tipo": "",
+    "componente_id": 413980
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 82375,
+    "materia_descrizione": "SPORT DI RACCHETTA C.I.",
+    "url": "",
+    "tipo": "",
+    "componente_id": 414004
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 70474,
+    "materia_descrizione": "TENNIS E BEACH TENNIS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414005",
+    "tipo": "modulo",
+    "componente_id": 414005
+  },
+  {
+    "corso_codice": 8766,
+    "materia_codice": 81864,
+    "materia_descrizione": "TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414006",
+    "tipo": "modulo",
+    "componente_id": 414006
+  }
+]

@@ -1,0 +1,2530 @@
+[
+  {
+    "corso_codice": 659,
+    "materia_codice": 536,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO ROMANO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204263
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24331,
+    "materia_descrizione": "STORIA DEL DIRITTO MEDIOEVALE E MODERNO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204264
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 256,
+    "materia_descrizione": "ECONOMIA POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204265",
+    "tipo": "",
+    "componente_id": 204265
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 222,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204267
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 385,
+    "materia_descrizione": "FILOSOFIA DEL DIRITTO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204268
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 230,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204270
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 224,
+    "materia_descrizione": "DIRITTO DEL LAVORO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204271
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 221,
+    "materia_descrizione": "DIRITTO COMMERCIALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204272
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 236,
+    "materia_descrizione": "DIRITTO PUBBLICO COMPARATO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204273
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 232,
+    "materia_descrizione": "DIRITTO PRIVATO COMPARATO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204274
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 225,
+    "materia_descrizione": "DIRITTO DELLA NAVIGAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204275",
+    "tipo": "",
+    "componente_id": 204275
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 1621,
+    "materia_descrizione": "DIRITTO FINANZIARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204276",
+    "tipo": "",
+    "componente_id": 204276
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 1261,
+    "materia_descrizione": "DIRITTO DI FAMIGLIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204278",
+    "tipo": "",
+    "componente_id": 204278
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 942,
+    "materia_descrizione": "STORIA DEL DIRITTO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204280",
+    "tipo": "",
+    "componente_id": 204280
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 3317,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204281",
+    "tipo": "",
+    "componente_id": 204281
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 3575,
+    "materia_descrizione": "SOCIOLOGIA DEL DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204282",
+    "tipo": "",
+    "componente_id": 204282
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 45070,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204284",
+    "tipo": "",
+    "componente_id": 204284
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 46818,
+    "materia_descrizione": "DIRITTI FONDAMENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204285",
+    "tipo": "",
+    "componente_id": 204285
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 233,
+    "materia_descrizione": "DIRITTO PROCESSUALE CIVILE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204286
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 231,
+    "materia_descrizione": "DIRITTO PENALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204287
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 9945,
+    "materia_descrizione": "INFORMATICA GIURIDICA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204289
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24614,
+    "materia_descrizione": "FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204290",
+    "tipo": "",
+    "componente_id": 204290
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 53513,
+    "materia_descrizione": "STORIA DEL DIRITTO MODERNO E CONTEMPORANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204291",
+    "tipo": "",
+    "componente_id": 204291
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204292
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 218,
+    "materia_descrizione": "DIRITTO CANONICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204293",
+    "tipo": "",
+    "componente_id": 204293
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 227,
+    "materia_descrizione": "DIRITTO ECCLESIASTICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204294",
+    "tipo": "",
+    "componente_id": 204294
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 217,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204295
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 239,
+    "materia_descrizione": "DIRITTO TRIBUTARIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204296
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 815,
+    "materia_descrizione": "PROCEDURA PENALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204297
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24629,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE AVANZATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204298",
+    "tipo": "",
+    "componente_id": 204298
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 216,
+    "materia_descrizione": "DIRITTO AGRARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204300",
+    "tipo": "",
+    "componente_id": 204300
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 3607,
+    "materia_descrizione": "DIRITTO PENALE COMMERCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204301",
+    "tipo": "",
+    "componente_id": 204301
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 30001,
+    "materia_descrizione": "DIRITTO DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204303",
+    "tipo": "",
+    "componente_id": 204303
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 1892,
+    "materia_descrizione": "DIRITTO PENITENZIARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204304",
+    "tipo": "",
+    "componente_id": 204304
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 228,
+    "materia_descrizione": "DIRITTO FALLIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204306",
+    "tipo": "",
+    "componente_id": 204306
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 229,
+    "materia_descrizione": "DIRITTO INDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204307",
+    "tipo": "",
+    "componente_id": 204307
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 48067,
+    "materia_descrizione": "DIRITTO DEI PAESI ASIATICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204308",
+    "tipo": "",
+    "componente_id": 204308
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 9260,
+    "materia_descrizione": "DIRITTO DEI TRASPORTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204309",
+    "tipo": "",
+    "componente_id": 204309
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 12515,
+    "materia_descrizione": "DIRITTO DELL'ARBITRATO INTERNO E INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204310",
+    "tipo": "",
+    "componente_id": 204310
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 48066,
+    "materia_descrizione": "ECONOMIA E ISTITUZIONI LOCALI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 204312
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 237,
+    "materia_descrizione": "DIRITTO PUBBLICO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204314",
+    "tipo": "",
+    "componente_id": 204314
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 49240,
+    "materia_descrizione": "DIRITTO PROCESSUALE DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204315",
+    "tipo": "",
+    "componente_id": 204315
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 4472,
+    "materia_descrizione": "DIRITTO PROCESSUALE AMMINISTRATIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204316",
+    "tipo": "",
+    "componente_id": 204316
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 17234,
+    "materia_descrizione": "DIRITTO DEI MERCATI FINANZIARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204317",
+    "tipo": "",
+    "componente_id": 204317
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 701,
+    "materia_descrizione": "MEDICINA LEGALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204320",
+    "tipo": "",
+    "componente_id": 204320
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 2513,
+    "materia_descrizione": "CRIMINOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204321",
+    "tipo": "",
+    "componente_id": 204321
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 3639,
+    "materia_descrizione": "DIRITTO REGIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204322",
+    "tipo": "",
+    "componente_id": 204322
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 939,
+    "materia_descrizione": "STORIA DEL DIRITTO CANONICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204324",
+    "tipo": "",
+    "componente_id": 204324
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24633,
+    "materia_descrizione": "METODOLOGIA GIURIDICA ROMANA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204328",
+    "tipo": "",
+    "componente_id": 204328
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24634,
+    "materia_descrizione": "LOGICA E ARGOMENTAZIONE GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204329",
+    "tipo": "",
+    "componente_id": 204329
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 24628,
+    "materia_descrizione": "LINGUA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204354",
+    "tipo": "",
+    "componente_id": 204354
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 18063,
+    "materia_descrizione": "PROCEDURA PENALE EUROPEA E INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310295",
+    "tipo": "",
+    "componente_id": 310295
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 9517,
+    "materia_descrizione": "DIRITTO DELL'ESECUZIONE PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332251",
+    "tipo": "",
+    "componente_id": 332251
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 32608,
+    "materia_descrizione": "DIRITTO DELLE ASSICURAZIONI PRIVATE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332259",
+    "tipo": "",
+    "componente_id": 332259
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 3029,
+    "materia_descrizione": "DIRITTO SANITARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332260",
+    "tipo": "",
+    "componente_id": 332260
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 32612,
+    "materia_descrizione": "LAW OF THE EUROPEAN UNION",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332270",
+    "tipo": "",
+    "componente_id": 332270
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 28557,
+    "materia_descrizione": "ECONOMICS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332283",
+    "tipo": "",
+    "componente_id": 332283
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 32616,
+    "materia_descrizione": "PHILOSOPHY OF LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332286",
+    "tipo": "",
+    "componente_id": 332286
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 45101,
+    "materia_descrizione": "METODOLOGIA E STORIA DEL PENSIERO GIURIDICO DAL MEDIOEVO ALL'ETA MODERNA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345111",
+    "tipo": "",
+    "componente_id": 345111
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 48651,
+    "materia_descrizione": "INFORMATICA FORENSE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361598",
+    "tipo": "",
+    "componente_id": 361598
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 61531,
+    "materia_descrizione": "DIRITTO DEGLI APPALTI PUBBLICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369916",
+    "tipo": "",
+    "componente_id": 369916
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 41321,
+    "materia_descrizione": "DIRITTO DEGLI ENTI LOCALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369917",
+    "tipo": "",
+    "componente_id": 369917
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 37469,
+    "materia_descrizione": "ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369919",
+    "tipo": "",
+    "componente_id": 369919
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 37770,
+    "materia_descrizione": "MAFIE E ANTIMAFIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369934",
+    "tipo": "",
+    "componente_id": 369934
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 31658,
+    "materia_descrizione": "DIRITTO DEI PAESI ISLAMICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377457",
+    "tipo": "",
+    "componente_id": 377457
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 69910,
+    "materia_descrizione": "ANALISI COMPARATA DEI DIRITTI A BASE RELIGIOSA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377459",
+    "tipo": "",
+    "componente_id": 377459
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 69917,
+    "materia_descrizione": "DIRITTO DEL LAVORO COMPARATO E TRANSNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377465",
+    "tipo": "",
+    "componente_id": 377465
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 2589,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377466",
+    "tipo": "",
+    "componente_id": 377466
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 69918,
+    "materia_descrizione": "INFORMATION TECHNOLOGY AND LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377467",
+    "tipo": "",
+    "componente_id": 377467
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 1855,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377469",
+    "tipo": "",
+    "componente_id": 377469
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 69926,
+    "materia_descrizione": "COMPARATIVE CONSTITUTIONALISM",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377494",
+    "tipo": "",
+    "componente_id": 377494
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70342,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378789",
+    "tipo": "",
+    "componente_id": 378789
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70344,
+    "materia_descrizione": "DIRITTO PRIVATO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378794",
+    "tipo": "",
+    "componente_id": 378794
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70376,
+    "materia_descrizione": "ECONOMIA POLITICA (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378946",
+    "tipo": "",
+    "componente_id": 378946
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70377,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO ROMANO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378947",
+    "tipo": "",
+    "componente_id": 378947
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70378,
+    "materia_descrizione": "STORIA DEL DIRITTO MEDIOEVALE E MODERNO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378948",
+    "tipo": "",
+    "componente_id": 378948
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70379,
+    "materia_descrizione": "INTRODUZIONE AL DIRITTO PRIVATO E PENALE FRANCESE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378949",
+    "tipo": "",
+    "componente_id": 378949
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70395,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378984",
+    "tipo": "",
+    "componente_id": 378984
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70396,
+    "materia_descrizione": "DIRITTO DEL LAVORO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378985",
+    "tipo": "",
+    "componente_id": 378985
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70397,
+    "materia_descrizione": "PROCEDURA PENALE EUROPEA E INTERNAZIONALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378986",
+    "tipo": "",
+    "componente_id": 378986
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70398,
+    "materia_descrizione": "DIRITTO CIVILE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378987",
+    "tipo": "",
+    "componente_id": 378987
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70401,
+    "materia_descrizione": "DIRITTO PENALE II (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378988",
+    "tipo": "",
+    "componente_id": 378988
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70402,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378989",
+    "tipo": "",
+    "componente_id": 378989
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70403,
+    "materia_descrizione": "STORIA DEL DIRITTO ROMANO (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 378991
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71803,
+    "materia_descrizione": "INTRODUZIONE AL DIRITTO PUBBLICO FRANCESE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383259",
+    "tipo": "",
+    "componente_id": 383259
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71797,
+    "materia_descrizione": "PROCEDURA PENALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383390",
+    "tipo": "",
+    "componente_id": 383390
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71880,
+    "materia_descrizione": "CRIME, PUNISHMENT AND SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383394",
+    "tipo": "",
+    "componente_id": 383394
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71881,
+    "materia_descrizione": "PROCEDURA PENALE AVANZATA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383395",
+    "tipo": "",
+    "componente_id": 383395
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71802,
+    "materia_descrizione": "DIRITTO COMMERCIALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388669",
+    "tipo": "",
+    "componente_id": 388669
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71798,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388670",
+    "tipo": "",
+    "componente_id": 388670
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71796,
+    "materia_descrizione": "DIRITTO PENALE (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388674",
+    "tipo": "",
+    "componente_id": 388674
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 35648,
+    "materia_descrizione": "DIRITTO PROCESSUALE CIVILE E ORDINAMENTO GIUDIZIARIO FRANCESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388683",
+    "tipo": "",
+    "componente_id": 388683
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73950,
+    "materia_descrizione": "STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388693",
+    "tipo": "",
+    "componente_id": 388693
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73951,
+    "materia_descrizione": "FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388694",
+    "tipo": "",
+    "componente_id": 388694
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73955,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO II (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388698",
+    "tipo": "",
+    "componente_id": 388698
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73956,
+    "materia_descrizione": "PROCEDURA PENALE II (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388701",
+    "tipo": "",
+    "componente_id": 388701
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73957,
+    "materia_descrizione": "DIRITTO TRIBUTARIO (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388702",
+    "tipo": "",
+    "componente_id": 388702
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74764,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390957
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74765,
+    "materia_descrizione": "DIRITTO CIVILE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 390958
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74768,
+    "materia_descrizione": "DIRITTO AERONAUTICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390961",
+    "tipo": "",
+    "componente_id": 390961
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74769,
+    "materia_descrizione": "DIRITTO DI INTERNET E DEI SOCIAL MEDIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390962",
+    "tipo": "",
+    "componente_id": 390962
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74770,
+    "materia_descrizione": "DIRITTO NOTARILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390963",
+    "tipo": "",
+    "componente_id": 390963
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74772,
+    "materia_descrizione": "TEORIA DEL DIRITTO E DELLA GIUSTIZIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390965",
+    "tipo": "",
+    "componente_id": 390965
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76506,
+    "materia_descrizione": "FILOSOFIA E METODOLOGIA GIURIDICA (F) - I PARTE: FILOSOFIA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395186",
+    "tipo": "",
+    "componente_id": 395186
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76507,
+    "materia_descrizione": "FILOSOFIA E METODOLOGIA GIURIDICA (F) - II PARTE: METODOLOGIA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395187",
+    "tipo": "",
+    "componente_id": 395187
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76508,
+    "materia_descrizione": "DIRITTO PUBBLICO DELL'ECONOMIA (DROIT PUBBLIC DES AFFAIRES ET CIVILIZATION)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395188
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76509,
+    "materia_descrizione": "DIRITTO COMMERCIALE (DROIT COMMERCIAL)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395189
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76510,
+    "materia_descrizione": "DIRITTO TRIBUTARIO (DROIT FISCAL)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395190
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76511,
+    "materia_descrizione": "DIRITTO DEL LAVORO (DROIT DU TRAVAIL)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395191
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71808,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE PUBBLICO (DROIT INTERNATIONAL PUBLIC) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395225
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71809,
+    "materia_descrizione": "DIRITTO CIVILE (DROIT CIVIL) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395228
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71810,
+    "materia_descrizione": "STORIA DEL DIRITTO MODERNO (DROIT DES LIBERTES FONDAMENTALES) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395229
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 71815,
+    "materia_descrizione": "ATTIVIT?? LIBERE - IDONEIT?? (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395241
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76568,
+    "materia_descrizione": "DIRITTO PENALE - PARTE SPECIALE (DROIT PENAL SPECIAL) - IDONEIT??",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395727
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76570,
+    "materia_descrizione": "TEORIA GENERALE DEL DIRITTO (TH??ORIE G??N??RAL DU DROIT) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395731
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76571,
+    "materia_descrizione": "STORIA DEL DIRITTO (HISTOIRE COMPAR??E DU DROIT PRIV??)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395733
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76572,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO II (DROIT DES SERVICES PUBLIQUES) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395734
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76573,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE AVANZATO (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395735",
+    "tipo": "",
+    "componente_id": 395735
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76574,
+    "materia_descrizione": "DIRITTO DEL LAVORO (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395736",
+    "tipo": "",
+    "componente_id": 395736
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76575,
+    "materia_descrizione": "DIRITTO PROCESSUALE CIVILE I (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395737",
+    "tipo": "",
+    "componente_id": 395737
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76576,
+    "materia_descrizione": "DIRITTO COMMERCIALE (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395738",
+    "tipo": "",
+    "componente_id": 395738
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76577,
+    "materia_descrizione": "STORIA DEL DIRITTO ROMANO (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395746",
+    "tipo": "",
+    "componente_id": 395746
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76578,
+    "materia_descrizione": "DIRITTO PUBBLICO ROMANO (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395747",
+    "tipo": "",
+    "componente_id": 395747
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76579,
+    "materia_descrizione": "ECONOMIA POLITICA (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395748",
+    "tipo": "",
+    "componente_id": 395748
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76580,
+    "materia_descrizione": "PROCEDURA PENALE I (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395754",
+    "tipo": "",
+    "componente_id": 395754
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76581,
+    "materia_descrizione": "METODOLOGIA E STORIA DEL PENSIERO GIURIDICO DAL MEDIOEVO ALL'ET?? MODERNA (FF)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395757",
+    "tipo": "",
+    "componente_id": 395757
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76586,
+    "materia_descrizione": "LINGUAGGIO GIURIDICO (TRADUCTION JURIDIQUE) (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395803
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76587,
+    "materia_descrizione": "ISTITUZIONI DEL DIRITTO CONTEMPORANEO (POLITIQUE, SOCIET??, ECONOMIE) - IDONEIT?? (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395804
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76602,
+    "materia_descrizione": "LINGUA FRANCESE - IDONEIT??",
+    "url": "",
+    "tipo": "",
+    "componente_id": 395849
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 9736,
+    "materia_descrizione": "DIRITTO SPORTIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400620",
+    "tipo": "",
+    "componente_id": 400620
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 77907,
+    "materia_descrizione": "LAW AND BUSINESS IN CHINA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400621",
+    "tipo": "",
+    "componente_id": 400621
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 77908,
+    "materia_descrizione": "INTERNATIONAL TRADE AND INVESTMENT LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400622",
+    "tipo": "",
+    "componente_id": 400622
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 77909,
+    "materia_descrizione": "EUROPEAN COMPETITION LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400623",
+    "tipo": "",
+    "componente_id": 400623
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 77911,
+    "materia_descrizione": "DIRITTO PROCESSUALE GENERALE E ORDINAMENTO GIUDIZIARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400626",
+    "tipo": "",
+    "componente_id": 400626
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 78438,
+    "materia_descrizione": "IL DIRITTO E LA VITA CHE NASCE: I TRE MONOTEISMI A CONFRONTO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 401275
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 36666,
+    "materia_descrizione": "SEM. ETICA E POLITICA NELLA PROSPETTIVA DEGLI STUDI DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401318",
+    "tipo": "",
+    "componente_id": 401318
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 70370,
+    "materia_descrizione": "SEM. LA GIUSTIZIA PENALE SUL GRANDE SCHERMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401366",
+    "tipo": "",
+    "componente_id": 401366
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 25520,
+    "materia_descrizione": "SEM. MIGRAZIONI, DEVIANZA E CONTROLLO SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401375",
+    "tipo": "",
+    "componente_id": 401375
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 73849,
+    "materia_descrizione": "SEM. DIRITTO COSTITUZIONALE DELLA COMUNIT?? INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404163",
+    "tipo": "",
+    "componente_id": 404163
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 38811,
+    "materia_descrizione": "SEM. DISCRIMINAZIONI E DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404235",
+    "tipo": "",
+    "componente_id": 404235
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 76622,
+    "materia_descrizione": "SEM. IL PROCESSO CIVILE TELEMATICO: RIFLESSIONE CORALE DI UN MUTAMENTO CULTURALE",
+    "url": "",
+    "tipo": "",
+    "componente_id": 405066
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 74986,
+    "materia_descrizione": "PRINCIPLES OF EUROPEAN LEGAL ORDERS",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412182",
+    "tipo": "",
+    "componente_id": 412182
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 15212,
+    "materia_descrizione": "DIRITTO DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412305",
+    "tipo": "",
+    "componente_id": 412305
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 5974,
+    "materia_descrizione": "DIRITTO URBANISTICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412306",
+    "tipo": "",
+    "componente_id": 412306
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 9646,
+    "materia_descrizione": "DIRITTO PENALE COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412307",
+    "tipo": "",
+    "componente_id": 412307
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81997,
+    "materia_descrizione": "DIRITTO PENALE INTERNAZIONALE ED EUROPEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412308",
+    "tipo": "",
+    "componente_id": 412308
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81802,
+    "materia_descrizione": "GENDER AND THE LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412309",
+    "tipo": "",
+    "componente_id": 412309
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81804,
+    "materia_descrizione": "EUROPEAN TRANSPORT LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412311",
+    "tipo": "",
+    "componente_id": 412311
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81807,
+    "materia_descrizione": "INTERNET, LAW, SOCIETY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412314",
+    "tipo": "",
+    "componente_id": 412314
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 11821,
+    "materia_descrizione": "DIRITTO ECCLESIASTICO COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412322",
+    "tipo": "",
+    "componente_id": 412322
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81812,
+    "materia_descrizione": "EUROPEAN UNION INTERNAL MARKET LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412324",
+    "tipo": "",
+    "componente_id": 412324
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81809,
+    "materia_descrizione": "BIODIRITTO PENALE: STORIA E PRINCIPI",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412413
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81883,
+    "materia_descrizione": "IL BIODIRITTO PENALE DALL'ANTICHITA' AD OGGI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412414",
+    "tipo": "modulo",
+    "componente_id": 412414
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81884,
+    "materia_descrizione": "PRINCIPI DEL BIODIRITTO PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412415",
+    "tipo": "modulo",
+    "componente_id": 412415
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81885,
+    "materia_descrizione": "LAW OF THE EUROPEAN UNION (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412577",
+    "tipo": "",
+    "componente_id": 412577
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81886,
+    "materia_descrizione": "PHILOSOPHY AND METHODOLOGY OF LAW (F) &#8211; PART I: PHILOSOPHY OF LAW (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412578
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81887,
+    "materia_descrizione": "PHILOSOPHY AND METHODOLOGY OF LAW (F) - PART I: PHILOSOPHY OF LAW (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412580",
+    "tipo": "",
+    "componente_id": 412580
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81890,
+    "materia_descrizione": "ECONOMICS (F)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412586",
+    "tipo": "",
+    "componente_id": 412586
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 81891,
+    "materia_descrizione": "INTERNATIONAL LAW (F)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 412589
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82300,
+    "materia_descrizione": "DIRITTO TRIBUTARIO AVANZATO (FISCALIT?? DI IMPRESA)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413793",
+    "tipo": "",
+    "componente_id": 413793
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82536,
+    "materia_descrizione": "Sem. Approfondimento in materia di diritti reali",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414975",
+    "tipo": "",
+    "componente_id": 414975
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82537,
+    "materia_descrizione": "Sem. Approfondimento in materia di successioni e donazioni",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414977",
+    "tipo": "",
+    "componente_id": 414977
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82538,
+    "materia_descrizione": "Sem. Approfondimento in tema di filiazioni e unioni di fatto",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414980",
+    "tipo": "",
+    "componente_id": 414980
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82539,
+    "materia_descrizione": "Sem. Il nuovo processo canonico di nullita' del matrimonio: effetti nell'ordinamento italiano",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414982",
+    "tipo": "",
+    "componente_id": 414982
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82542,
+    "materia_descrizione": "Sem. Global Classroom - I diritti fondamentali nella societa'?? dell'infromazione",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415065",
+    "tipo": "",
+    "componente_id": 415065
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82543,
+    "materia_descrizione": "Sem. Integrazione fiscale europea",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415074",
+    "tipo": "",
+    "componente_id": 415074
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82544,
+    "materia_descrizione": "Sem. La tutela giuridica del marchio nell'industria della moda",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415078",
+    "tipo": "",
+    "componente_id": 415078
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82545,
+    "materia_descrizione": "Sem. Il processo civile telematico",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415080",
+    "tipo": "",
+    "componente_id": 415080
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82546,
+    "materia_descrizione": "Sem. Diritto delle reti e delle associazioni di impresa",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415082",
+    "tipo": "",
+    "componente_id": 415082
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82547,
+    "materia_descrizione": "Sem. Le bioetiche sospese: gli sguardi degli ordinamenti religiosi e secolari",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415083",
+    "tipo": "",
+    "componente_id": 415083
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 82556,
+    "materia_descrizione": "SEM. DIRITTO TRIBUTARIO TRANSNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415246",
+    "tipo": "",
+    "componente_id": 415246
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 83121,
+    "materia_descrizione": "Sem. Tecniche e competenze della negoziazione e della advocacy mediation",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417328",
+    "tipo": "",
+    "componente_id": 417328
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 84043,
+    "materia_descrizione": "Sem. In vista del referendum: capire la riforma costituzionale",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420917",
+    "tipo": "",
+    "componente_id": 420917
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 536,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204131",
+    "tipo": "",
+    "componente_id": 204131
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 24331,
+    "materia_descrizione": "STORIA DEL DIRITTO MEDIOEVALE E MODERNO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204133",
+    "tipo": "",
+    "componente_id": 204133
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 256,
+    "materia_descrizione": "ECONOMIA POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204139",
+    "tipo": "",
+    "componente_id": 204139
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 385,
+    "materia_descrizione": "FILOSOFIA DEL DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204147",
+    "tipo": "",
+    "componente_id": 204147
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 222,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204148",
+    "tipo": "",
+    "componente_id": 204148
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 224,
+    "materia_descrizione": "DIRITTO DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204149",
+    "tipo": "",
+    "componente_id": 204149
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 221,
+    "materia_descrizione": "DIRITTO COMMERCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204150",
+    "tipo": "",
+    "componente_id": 204150
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 230,
+    "materia_descrizione": "DIRITTO INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204151",
+    "tipo": "",
+    "componente_id": 204151
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 232,
+    "materia_descrizione": "DIRITTO PRIVATO COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204152",
+    "tipo": "",
+    "componente_id": 204152
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 236,
+    "materia_descrizione": "DIRITTO PUBBLICO COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204153",
+    "tipo": "",
+    "componente_id": 204153
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 9945,
+    "materia_descrizione": "INFORMATICA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204190",
+    "tipo": "",
+    "componente_id": 204190
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 231,
+    "materia_descrizione": "DIRITTO PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204191",
+    "tipo": "",
+    "componente_id": 204191
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 233,
+    "materia_descrizione": "DIRITTO PROCESSUALE CIVILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204192",
+    "tipo": "",
+    "componente_id": 204192
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 24614,
+    "materia_descrizione": "FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204196",
+    "tipo": "",
+    "componente_id": 204196
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 53513,
+    "materia_descrizione": "STORIA DEL DIRITTO MODERNO E CONTEMPORANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204197",
+    "tipo": "",
+    "componente_id": 204197
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 815,
+    "materia_descrizione": "PROCEDURA PENALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204218",
+    "tipo": "",
+    "componente_id": 204218
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 217,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204219",
+    "tipo": "",
+    "componente_id": 204219
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 239,
+    "materia_descrizione": "DIRITTO TRIBUTARIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204220",
+    "tipo": "",
+    "componente_id": 204220
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204223",
+    "tipo": "",
+    "componente_id": 204223
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 3639,
+    "materia_descrizione": "DIRITTO REGIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204224",
+    "tipo": "",
+    "componente_id": 204224
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 218,
+    "materia_descrizione": "DIRITTO CANONICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204226",
+    "tipo": "",
+    "componente_id": 204226
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 225,
+    "materia_descrizione": "DIRITTO DELLA NAVIGAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204228",
+    "tipo": "",
+    "componente_id": 204228
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 1261,
+    "materia_descrizione": "DIRITTO DI FAMIGLIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204331",
+    "tipo": "",
+    "componente_id": 204331
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 24629,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE AVANZATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204370",
+    "tipo": "",
+    "componente_id": 204370
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 24628,
+    "materia_descrizione": "LINGUA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204379",
+    "tipo": "",
+    "componente_id": 204379
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 46818,
+    "materia_descrizione": "DIRITTI FONDAMENTALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309932",
+    "tipo": "",
+    "componente_id": 309932
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 13029,
+    "materia_descrizione": "DIRITTO PROCESSUALE GENERALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309942",
+    "tipo": "",
+    "componente_id": 309942
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 45070,
+    "materia_descrizione": "ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309946",
+    "tipo": "",
+    "componente_id": 309946
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 3575,
+    "materia_descrizione": "SOCIOLOGIA DEL DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309948",
+    "tipo": "",
+    "componente_id": 309948
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 942,
+    "materia_descrizione": "STORIA DEL DIRITTO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309952",
+    "tipo": "",
+    "componente_id": 309952
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 2513,
+    "materia_descrizione": "CRIMINOLOGIA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310022",
+    "tipo": "",
+    "componente_id": 310022
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 26119,
+    "materia_descrizione": "CONTRATTI INTERNAZIONALI E UNIFORMAZIONE DEL DIRITTO ( INTERNATIONAL CONTRACTS AND LEGAL HARMONIZATION )",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310026",
+    "tipo": "",
+    "componente_id": 310026
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 228,
+    "materia_descrizione": "DIRITTO FALLIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310027",
+    "tipo": "",
+    "componente_id": 310027
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 17234,
+    "materia_descrizione": "DIRITTO DEI MERCATI FINANZIARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310028",
+    "tipo": "",
+    "componente_id": 310028
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 26120,
+    "materia_descrizione": "DIRITTO DEL LAVORO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310029",
+    "tipo": "",
+    "componente_id": 310029
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 9260,
+    "materia_descrizione": "DIRITTO DEI TRASPORTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310030",
+    "tipo": "",
+    "componente_id": 310030
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 24630,
+    "materia_descrizione": "DIRITTO DELL'AMBIENTE E DEL GOVERNO DEL TERRITORIO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310031",
+    "tipo": "",
+    "componente_id": 310031
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 30001,
+    "materia_descrizione": "DIRITTO DELLA COMUNICAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310033",
+    "tipo": "",
+    "componente_id": 310033
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 3919,
+    "materia_descrizione": "DIRITTO DELLA PREVIDENZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310036",
+    "tipo": "",
+    "componente_id": 310036
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 229,
+    "materia_descrizione": "DIRITTO INDUSTRIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310038",
+    "tipo": "",
+    "componente_id": 310038
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 7535,
+    "materia_descrizione": "DIRITTO PENALE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310041",
+    "tipo": "",
+    "componente_id": 310041
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 13943,
+    "materia_descrizione": "LEGISLAZIONE DEL TURISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310052",
+    "tipo": "",
+    "componente_id": 310052
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 702,
+    "materia_descrizione": "MEDICINA LEGALE E DELLE ASSICURAZIONI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310056",
+    "tipo": "",
+    "componente_id": 310056
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 1879,
+    "materia_descrizione": "DIRITTO ECCLESIASTICO ITALIANO E COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328293",
+    "tipo": "",
+    "componente_id": 328293
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 40315,
+    "materia_descrizione": "CONTABILITA E BILANCIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 340713
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 39602,
+    "materia_descrizione": "FONDAMENTI DI LOGICA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361391",
+    "tipo": "",
+    "componente_id": 361391
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 68978,
+    "materia_descrizione": "DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375793",
+    "tipo": "",
+    "componente_id": 375793
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 3923,
+    "materia_descrizione": "TEORIA GENERALE DEL DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388731",
+    "tipo": "",
+    "componente_id": 388731
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 74773,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390966",
+    "tipo": "",
+    "componente_id": 390966
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 74774,
+    "materia_descrizione": "DIRITTO CIVILE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390967",
+    "tipo": "",
+    "componente_id": 390967
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 77977,
+    "materia_descrizione": "DIRITTO DEI TRASPORTI, DEL MARE E DELLA NAVIGAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400725",
+    "tipo": "",
+    "componente_id": 400725
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 77978,
+    "materia_descrizione": "IMPRESA SOSTENIBILE E GREEN ECONOMY",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400727",
+    "tipo": "",
+    "componente_id": 400727
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 77987,
+    "materia_descrizione": "DIRITTO AGRO-ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400737",
+    "tipo": "",
+    "componente_id": 400737
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78013,
+    "materia_descrizione": "SOCIOLOGIA DEL DIRITTO E DELLE CULTURE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400761",
+    "tipo": "",
+    "componente_id": 400761
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78017,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA PUBBLICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400767",
+    "tipo": "",
+    "componente_id": 400767
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78113,
+    "materia_descrizione": "TEORIA DELLA GIUSTIZIA (GLOBAL JUSTICE)",
+    "url": "",
+    "tipo": "",
+    "componente_id": 400874
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78114,
+    "materia_descrizione": "GLOBAL JUSTICE, TEORIA MORALE E METAETICA (GLOBAL JUSTICE, MORAL THEORY AND METAETHICS)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400876",
+    "tipo": "modulo",
+    "componente_id": 400876
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78115,
+    "materia_descrizione": "GLOBAL JUSTICE E ISTITUZIONI INTERNAZIONALI (GLOBAL JUSTICE AND INTERNATIONAL INSTITUTIONS)",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400877",
+    "tipo": "modulo",
+    "componente_id": 400877
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 79548,
+    "materia_descrizione": "PROFILI DI DIRITTO PENALE SOSTANZIALE E PROCESSUALE NEL FENOMENO MIGRATORIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404386
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78126,
+    "materia_descrizione": "LO 'STRANIERO' QUALE AUTORE O VITTIMA DI REATI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404387",
+    "tipo": "modulo",
+    "componente_id": 404387
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78125,
+    "materia_descrizione": "PROCEDURA PENALE DELL'IMMIGRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404388",
+    "tipo": "modulo",
+    "componente_id": 404388
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 79549,
+    "materia_descrizione": "IMMIGRAZIONE, MUTAMENTO SOCIALE E DIRITTO DEL LAVORO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 404389
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 78127,
+    "materia_descrizione": "I RAPPORTI DI LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404390",
+    "tipo": "modulo",
+    "componente_id": 404390
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 79550,
+    "materia_descrizione": "SOCIOLOGIA DELLE MIGRAZIONI, PROCESSI DI REGOLAZIONE E CRIMINALIZZAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404391",
+    "tipo": "modulo",
+    "componente_id": 404391
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 36696,
+    "materia_descrizione": "SEM. FIRMA DIGITALE: SERVIZI CAMERALI E PROCESSO CIVILE TELEMATICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405067",
+    "tipo": "",
+    "componente_id": 405067
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 81765,
+    "materia_descrizione": "STORIA DEL DIRITTO COMMERCIALE E MARITTIMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412214",
+    "tipo": "",
+    "componente_id": 412214
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 82550,
+    "materia_descrizione": "Sem. Tecniche di redazione degli atti processuali civili",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415086",
+    "tipo": "",
+    "componente_id": 415086
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 82551,
+    "materia_descrizione": "Sem. I procedimenti della crisi matrimoniale",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415087",
+    "tipo": "",
+    "componente_id": 415087
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 82552,
+    "materia_descrizione": "Sem. questioni di genere e diritto sul grande schermo",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415090",
+    "tipo": "",
+    "componente_id": 415090
+  },
+  {
+    "corso_codice": 660,
+    "materia_codice": 82553,
+    "materia_descrizione": "Sem. Elementi di procedura penale applicata",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415100",
+    "tipo": "",
+    "componente_id": 415100
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 536,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329294",
+    "tipo": "",
+    "componente_id": 329294
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 222,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329314",
+    "tipo": "",
+    "componente_id": 329314
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 11316,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329355",
+    "tipo": "",
+    "componente_id": 329355
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 53513,
+    "materia_descrizione": "STORIA DEL DIRITTO MODERNO E CONTEMPORANEO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329361",
+    "tipo": "",
+    "componente_id": 329361
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 256,
+    "materia_descrizione": "ECONOMIA POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329370",
+    "tipo": "",
+    "componente_id": 329370
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 217,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329395",
+    "tipo": "",
+    "componente_id": 329395
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 19012,
+    "materia_descrizione": "DIRITTO PROCESSUALE GENERALE, DEL LAVORO E DELLE PROCEDURE CONCORSUALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329397",
+    "tipo": "",
+    "componente_id": 329397
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 24243,
+    "materia_descrizione": "DIRITTO DEL MERCATO E DEI RAPPORTI DI LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329398",
+    "tipo": "",
+    "componente_id": 329398
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 12310,
+    "materia_descrizione": "DIRITTO DELL'IMPRESA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330761",
+    "tipo": "",
+    "componente_id": 330761
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 31888,
+    "materia_descrizione": "SOCIOLOGIA DEI PROCESSI ECONOMICI E DINAMICHE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330766",
+    "tipo": "",
+    "componente_id": 330766
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 31890,
+    "materia_descrizione": "DIRITTO EUROPEO E INTERNAZIONALE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330774",
+    "tipo": "",
+    "componente_id": 330774
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 58019,
+    "materia_descrizione": "DIRITTO DELLA SICUREZZA DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330776",
+    "tipo": "",
+    "componente_id": 330776
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 3919,
+    "materia_descrizione": "DIRITTO DELLA PREVIDENZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330779",
+    "tipo": "",
+    "componente_id": 330779
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 31894,
+    "materia_descrizione": "DIRITTO SINDACALE E DELLE RELAZIONI AZIENDALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330780",
+    "tipo": "",
+    "componente_id": 330780
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 31897,
+    "materia_descrizione": "DIRITTO PENALE GENERALE E DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330791",
+    "tipo": "",
+    "componente_id": 330791
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 15349,
+    "materia_descrizione": "TIROCINIO",
+    "url": "",
+    "tipo": "",
+    "componente_id": 330796
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 26356,
+    "materia_descrizione": "IDONEITA' LINGUA FRANCESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 371281
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 26338,
+    "materia_descrizione": "IDONEITA' LINGUA INGLESE B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 371282
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 26350,
+    "materia_descrizione": "IDONEITA' LINGUA SPAGNOLA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 371283
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 26344,
+    "materia_descrizione": "IDONEITA' LINGUA TEDESCA B - 1",
+    "url": "",
+    "tipo": "",
+    "componente_id": 371284
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 36666,
+    "materia_descrizione": "SEM. ETICA E POLITICA NELLA PROSPETTIVA DEGLI STUDI DI GENERE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372980",
+    "tipo": "",
+    "componente_id": 372980
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 38811,
+    "materia_descrizione": "SEM. DISCRIMINAZIONI E DIRITTO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373060",
+    "tipo": "",
+    "componente_id": 373060
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 9945,
+    "materia_descrizione": "INFORMATICA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373716",
+    "tipo": "",
+    "componente_id": 373716
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 11460,
+    "materia_descrizione": "DIRITTO TRIBUTARIO DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377495",
+    "tipo": "",
+    "componente_id": 377495
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 7276,
+    "materia_descrizione": "INFORMATICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379104",
+    "tipo": "",
+    "componente_id": 379104
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 73849,
+    "materia_descrizione": "SEM. DIRITTO COSTITUZIONALE DELLA COMUNIT?? INTERNAZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388292",
+    "tipo": "",
+    "componente_id": 388292
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 79104,
+    "materia_descrizione": "SEM. WELFARE STATE: EVOLUZIONI E PROBLEMI ATTUALI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403087",
+    "tipo": "",
+    "componente_id": 403087
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82536,
+    "materia_descrizione": "Sem. Approfondimento in materia di diritti reali",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414976",
+    "tipo": "",
+    "componente_id": 414976
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82537,
+    "materia_descrizione": "Sem. Approfondimento in materia di successioni e donazioni",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414978",
+    "tipo": "",
+    "componente_id": 414978
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82538,
+    "materia_descrizione": "Sem. Approfondimento in tema di filiazioni e unioni di fatto",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414981",
+    "tipo": "",
+    "componente_id": 414981
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82539,
+    "materia_descrizione": "Sem. Il nuovo processo canonico di nullita' del matrimonio: effetti nell'ordinamento italiano",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414983",
+    "tipo": "",
+    "componente_id": 414983
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82543,
+    "materia_descrizione": "Sem. Integrazione fiscale europea",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415077",
+    "tipo": "",
+    "componente_id": 415077
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82545,
+    "materia_descrizione": "Sem. Il processo civile telematico",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415081",
+    "tipo": "",
+    "componente_id": 415081
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82548,
+    "materia_descrizione": "Sem. Pensare da giurista. Un percorso introduttivo allo studio formativo per consulente del lavoro e delle relazioni aziendali",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415084",
+    "tipo": "",
+    "componente_id": 415084
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 82549,
+    "materia_descrizione": "Sem. Il bilancio e le scritture contabili",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415085",
+    "tipo": "",
+    "componente_id": 415085
+  },
+  {
+    "corso_codice": 915,
+    "materia_codice": 84043,
+    "materia_descrizione": "Sem. In vista del referendum: capire la riforma costituzionale",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420919",
+    "tipo": "",
+    "componente_id": 420919
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 11316,
+    "materia_descrizione": "DIRITTO PRIVATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328305",
+    "tipo": "",
+    "componente_id": 328305
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 222,
+    "materia_descrizione": "DIRITTO COSTITUZIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328306",
+    "tipo": "",
+    "componente_id": 328306
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 536,
+    "materia_descrizione": "ISTITUZIONI DI DIRITTO ROMANO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328308",
+    "tipo": "",
+    "componente_id": 328308
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 5505,
+    "materia_descrizione": "STORIA DELLE CODIFICAZIONI MODERNE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328314",
+    "tipo": "",
+    "componente_id": 328314
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 9945,
+    "materia_descrizione": "INFORMATICA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328316",
+    "tipo": "",
+    "componente_id": 328316
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 256,
+    "materia_descrizione": "ECONOMIA POLITICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328319",
+    "tipo": "",
+    "componente_id": 328319
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 58307,
+    "materia_descrizione": "LINGUA STRANIERA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328328",
+    "tipo": "",
+    "componente_id": 328328
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 224,
+    "materia_descrizione": "DIRITTO DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329928",
+    "tipo": "",
+    "componente_id": 329928
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 31561,
+    "materia_descrizione": "DIRITTO AMMINISTRATIVO E DEGLI APPALTI PUBBLICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329936",
+    "tipo": "",
+    "componente_id": 329936
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 31562,
+    "materia_descrizione": "TUTELE GIURISDIZIONALI E PROCEDURE ALTERNATIVE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329942",
+    "tipo": "",
+    "componente_id": 329942
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 31825,
+    "materia_descrizione": "DIRITTO TRIBUTARIO DELL'IMPRESA E DEGLI ENTI PUBBLICI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330611",
+    "tipo": "",
+    "componente_id": 330611
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 221,
+    "materia_descrizione": "DIRITTO COMMERCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330624",
+    "tipo": "",
+    "componente_id": 330624
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 49122,
+    "materia_descrizione": "DIRITTO DEI CONTRATTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330625",
+    "tipo": "",
+    "componente_id": 330625
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 9260,
+    "materia_descrizione": "DIRITTO DEI TRASPORTI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330628",
+    "tipo": "",
+    "componente_id": 330628
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 225,
+    "materia_descrizione": "DIRITTO DELLA NAVIGAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330633",
+    "tipo": "",
+    "componente_id": 330633
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 26120,
+    "materia_descrizione": "DIRITTO DEL LAVORO PUBBLICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331024",
+    "tipo": "",
+    "componente_id": 331024
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 3639,
+    "materia_descrizione": "DIRITTO REGIONALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331029",
+    "tipo": "",
+    "componente_id": 331029
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 15212,
+    "materia_descrizione": "DIRITTO DELL'AMBIENTE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331035",
+    "tipo": "",
+    "componente_id": 331035
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 17234,
+    "materia_descrizione": "DIRITTO DEI MERCATI FINANZIARI",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331037",
+    "tipo": "",
+    "componente_id": 331037
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 232,
+    "materia_descrizione": "DIRITTO PRIVATO COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331906",
+    "tipo": "",
+    "componente_id": 331906
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 32425,
+    "materia_descrizione": "DIRITTO DELLA PROPRIETA' INTELLETTUALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331949",
+    "tipo": "",
+    "componente_id": 331949
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 58018,
+    "materia_descrizione": "STRATEGIE E GESTIONE DELLE IMPRESE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331951",
+    "tipo": "",
+    "componente_id": 331951
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 228,
+    "materia_descrizione": "DIRITTO FALLIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331954",
+    "tipo": "",
+    "componente_id": 331954
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 13943,
+    "materia_descrizione": "LEGISLAZIONE DEL TURISMO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331956",
+    "tipo": "",
+    "componente_id": 331956
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 26119,
+    "materia_descrizione": "CONTRATTI INTERNAZIONALI E UNIFORMAZIONE DEL DIRITTO ( INTERNATIONAL CONTRACTS AND LEGAL HARMONIZATION )",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331958",
+    "tipo": "",
+    "componente_id": 331958
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 57802,
+    "materia_descrizione": "DIRITTO DELL'UNIONE EUROPEA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331960",
+    "tipo": "",
+    "componente_id": 331960
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 236,
+    "materia_descrizione": "DIRITTO PUBBLICO COMPARATO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331973",
+    "tipo": "",
+    "componente_id": 331973
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 36696,
+    "materia_descrizione": "SEM. FIRMA DIGITALE: SERVIZI CAMERALI E PROCESSO CIVILE TELEMATICO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346974",
+    "tipo": "",
+    "componente_id": 346974
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 37174,
+    "materia_descrizione": "SOCIOLOGIA GIURIDICA NEI PROCESSI ECONOMICI E DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349697",
+    "tipo": "",
+    "componente_id": 349697
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 7535,
+    "materia_descrizione": "DIRITTO PENALE DEL LAVORO",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349703",
+    "tipo": "",
+    "componente_id": 349703
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 68978,
+    "materia_descrizione": "DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375774",
+    "tipo": "",
+    "componente_id": 375774
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 24628,
+    "materia_descrizione": "LINGUA GIURIDICA",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388727",
+    "tipo": "",
+    "componente_id": 388727
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 74836,
+    "materia_descrizione": "DIRITTO DELLA PREVIDENZA SOCIALE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391033",
+    "tipo": "",
+    "componente_id": 391033
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 77987,
+    "materia_descrizione": "DIRITTO AGRO-ALIMENTARE",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412186",
+    "tipo": "",
+    "componente_id": 412186
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 82552,
+    "materia_descrizione": "Sem. questioni di genere e diritto sul grande schermo",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415095",
+    "tipo": "",
+    "componente_id": 415095
+  },
+  {
+    "corso_codice": 916,
+    "materia_codice": 82553,
+    "materia_descrizione": "Sem. Elementi di procedura penale applicata",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415101",
+    "tipo": "",
+    "componente_id": 415101
+  },
+  {
+    "corso_codice": 659,
+    "materia_codice": 40344,
+    "materia_descrizione": "INTERNATIONAL LAW",
+    "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332719",
+    "tipo": "",
+    "componente_id": 332719
+  }
+]

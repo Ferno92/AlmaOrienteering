@@ -1,0 +1,575 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;componente_id
+8005;66600;FISICA E STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366357;;366357
+8005;66601;CHIMICA (C.I.);;;366361
+8005;65931;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366364;modulo;366364
+8005;55393;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366365;modulo;366365
+8005;66607;MORFOLOGIA CELLULARE E D'ORGANO (C.I.);;;366389
+8005;65683;BIOLOGIA CELLULARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366390;modulo;366390
+8005;66606;ANATOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366391;modulo;366391
+8005;66606;ANATOMIA (4);;modulo;414693
+8005;66608;PROPRIETA' INTELLETTUALE E BIOETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366395;;366395
+8005;66609;BIOCHIMICA;;;366396
+8005;66610;CHIMICA BIOANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366399;;366399
+8005;66611;BIOLOGIA MOLECOLARE (C.I.);;;366400
+8005;66612;BIOLOGIA MOLECOLARE GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366401;modulo;366401
+8005;66613;BIOLOGIA MOLECOLARE EUCARIOTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366402;modulo;366402
+8005;66614;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366403;;366403
+8005;66615;GENETICA (C.I.);;;366404
+8005;66616;GENETICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366406;modulo;366406
+8005;66619;GENETICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366407;modulo;366407
+8005;66620;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366410;;366410
+8005;66622;BIOTECNOLOGIE DELLE FERMENTAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366412;;366412
+8005;66625;BIOLOGIA STRUTTURALE (C.I.);;;366417
+8005;66626;BIOCHIMICA DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366418;modulo;366418
+8005;66627;BIOLOGIA COMPUTAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366419;modulo;366419
+8005;66629;PATOLOGIA GENERALE E IMMUNOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366422;;366422
+8005;66631;BIOTECNOLOGIE FARMACOLOGICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366423;;366423
+8005;66632;BIOTECNOLOGIE GENETICHE VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366427;;366427
+8005;66633;BIOTECNOLOGIE E MODELLI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366428;;366428
+8005;66642;BIOTECNOLOGIE CELLULARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366445;;366445
+8005;66644;BIOTECNOLOGIE VIRALI E MICROBICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366447;;366447
+8005;66645;MICROBIOLOGIA MEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366449;;366449
+8005;66647;CHIMICA FARMACEUTICA E TECNOLOGIE PER LA PROTEOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366450;;366450
+8005;61682;DIAGNOSTICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366463;;366463
+8005;66654;BIOTECNOLOGIE AGROAMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366464;;366464
+8005;66656;BIOTECNOLOGIE IN VITRO DEI TESSUTI UMANI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366466;;366466
+8005;66657;BIOTECNOLOGIE DELLA PRODUZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366467;;366467
+8005;12942;FISIOLOGIA MOLECOLARE DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369489;;369489
+8005;78783;BIODIVERSITA' ED EVOLUZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402294;;402294
+8005;78785;MATEMATICA E INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402296;;402296
+8005;78785;MATEMATICA E INFORMATICA (4);;modulo;403542
+8005;78788;GENOMICA E MEDICINA PERSONALIZZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402299;;402299
+8005;72822;RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420893;;420893
+8012;54576;CITOLOGIA E ISTOLOGIA;;;324243
+8012;451;GENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324287;;324287
+8012;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324294;;324294
+8012;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324297;;324297
+8012;248;ECOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324369;;324369
+8012;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324460;;324460
+8012;8632;ECOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324510;;324510
+8012;58157;ABILITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328022;;328022
+8012;26338;IDONEITA' LINGUA INGLESE B - 1;;;328053
+8012;13395;BOTANICA EVOLUZIONISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349855;;349855
+8012;37637;ZOOLOGIA EVOLUZIONISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349857;;349857
+8012;7970;ZOOLOGIA DEI VERTEBRATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349877;;349877
+8012;66955;ZOOLOGIA;;;367372
+8012;66907;CHIMICA GENERALE;;;367403
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA;;;367520
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE;;;367541
+8012;66992;CHIMICA ORGANICA;;;367554
+8012;66993;FISICA;;;367564
+8012;67002;ANATOMIA COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367623;;367623
+8012;67004;BIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367639;;367639
+8012;67006;MICROBIOLOGIA E VIROLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367640;;367640
+8012;67008;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367657;;367657
+8012;67017;BIOCHIMICA CELLULARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367687;;367687
+8012;67020;BIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367690;;367690
+8012;67022;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367692;;367692
+8012;66619;GENETICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367698;;367698
+8012;67025;METODI MOLECOLARI IN SISTEMATICA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367700;;367700
+8012;67120;PIANTE, ALIMENTAZIONE E AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368271;;368271
+8012;68586;FILOSOFIA DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373944;;373944
+8012;69576;PRODUTTIVITA' PRIMARIA E SVILUPPO SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376679;;376679
+8012;69577;PRINCIPI DI CONSERVAZIONE BIOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376680;;376680
+8012;70136;IGIENE AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378019;;378019
+8012;61431;QUALITA' E SICUREZZA IN LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385147;;385147
+8012;445;FISIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385151;;385151
+8012;72830;ZOOLOGIA MARINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385152;;385152
+8012;72831;AMBIENTE MARINO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385153;;385153
+8012;72832;FISIOLOGIA UMANA CON ELEMENTI DI FISIOPATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385154;;385154
+8012;72834;IMMUNOLOGIA E PATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385156;;385156
+8021;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322718;;322718
+8021;26912;ATTIVITA' PRATICA DI LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323603;;323603
+8021;65820;MICROBIOLOGIA E VIROLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364221;;364221
+8021;65822;EPIGENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364225;;364225
+8021;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364226;;364226
+8021;65824;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364228;;364228
+8021;65825;FISIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364230;;364230
+8021;69341;BIOLOGIA MOLECOLARE DEI PROCARIOTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376168;;376168
+8021;69348;METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376173;;376173
+8021;72568;BIOCHIMICA DELLA SEGNALAZIONE CELLULARE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384347;;384347
+8021;72569;BIOLOGIA MOLECOLARE DEGLI EUCARIOTI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384349;;384349
+8021;72570;BIOLOGIA E METODOLOGIE MORFOLOGICHE CELLULARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384351;;384351
+8021;72575;FISIOLOGIA DEGLI STRESS E DINAMICHE REDOX NELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384356;;384356
+8021;18756;BIOLOGIA DELLO SVILUPPO DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384359;;384359
+8021;72576;CHIMICA FISICA PER BIOLOGIA CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384360;;384360
+8021;72579;GENETICA MOLECOLARE DELLO SVILUPPO CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384363;;384363
+8021;32492;ATTIVITA' PROPEDEUTICA ALLA PROVA FINALE;;;417520
+8021;3033;TOSSICOLOGIA;;;424299
+8022;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326031;;326031
+8022;46668;PEPTIDI ED ANALOGHI DI INTERESSE BIOLOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326933;;326933
+8022;37416;PRODOTTI E PRODUZIONI NELL'INDUSTRIA CHIMICA/BIOTECNOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350596;;350596
+8022;66364;NANOBIOTECNOLOGIE E APPLICAZIONI BIOCATALITICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365541;;365541
+8022;66366;BIOINORGANICA, BIOELETTRONICA E BIOSENSORI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365548;;365548
+8022;66371;ONCOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365563;;365563
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365586;;365586
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (4);;modulo;394187
+8022;66479;CELLULE STAMINALI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365835;;365835
+8022;72547;MICROBIOLOGIA INDUSTRIALE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384306;;384306
+8022;69348;METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388353;;388353
+8022;75652;BIOCHIMICA INDUSTRIALE E INGEGNERIA PROTEICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392203;;392203
+8022;75653;PRINCIPI DI INGEGNERIA BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392242;;392242
+8022;75655;IMPIANTI CHIMICI (BIOREATTORI E BIOSEPARAZIONI);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392260;;392260
+8022;82318;BIOCHIMICA CELLULARE E STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413821;;413821
+8022;65684;BIOLOGIA MOLECOLARE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413822;;413822
+8022;82319;GENETICA FUNZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413823;;413823
+8022;82320;STRUTTURISTICA PROTEICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413824;;413824
+8022;82329;TIROCINIO LM (10 CFU);;;413833
+8023;46270;GENETICA UMANA E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320676;;320676
+8023;46110;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320700;;320700
+8023;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320701;;320701
+8023;18773;RADIAZIONI IONIZZANTI E MATERIA VIVENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320702;;320702
+8023;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320703;;320703
+8023;743;ONCOLOGIA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320705;;320705
+8023;46107;FISIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322439;;322439
+8023;66413;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365698;;365698
+8023;66416;IGIENE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365706;;365706
+8023;66424;CHIMICA DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365715;;365715
+8023;72701;BIOCHIMICA IN VIVO E SISTEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384840;;384840
+8023;72702;IL SISTEMA QUALITA' IN LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384841;;384841
+8023;768;PATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386032;;386032
+8023;76545;BIOLOGIA FORENSE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395455;;395455
+8023;78797;BASI ANATOMICHE E FUNZIONALI DELLA SCIENZA DELL'ALIMENTAZIONE C. I.;;;402315
+8023;78798;ANATOMIA ULTRASTRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402320;modulo;402320
+8023;78799;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402321;modulo;402321
+8023;78800;MICROBIOLOGIA E VIROLOGIA CLINICA APPLICATE C. I.;;;402332
+8023;78801;MICROBIOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402339;modulo;402339
+8023;66412;VIROLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402340;modulo;402340
+8023;78803;PARASSITOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402358;;402358
+8023;78805;SCIENZA DEL FARMACO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402369;;402369
+8023;66812;BIODIVERSITA' UMANA, NUTRIZIONE, SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402580;;402580
+8023;78935;FISIOLOGIA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402584;;402584
+8023;78936;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402586;;402586
+8023;82302;ANTROPOLOGIA MOLECOLARE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413799;;413799
+8023;82306;PROVA FINALE LM (30 CFU);;;413806
+8023;82317;PREPARAZIONE PROVA FINALE ALL'ESTERO LM (20CFU);;;413828
+8036;68407;BIOCHIMICA DELL'ATTIVIT?Ç SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346461;;346461
+8036;68405;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373247;;373247
+8036;9454;BIOINGEGNERIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384819;;384819
+8036;72692;CINESIOLOGIA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384821;;384821
+8036;30889;FISIOLOGIA APPLICATA ALL'ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384822;;384822
+8036;72693;FISIOPATOLOGIA DELLE ATTIVIT?Ç MOTORIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384823;;384823
+8036;1228;CARDIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384825;;384825
+8036;72694;ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA E NEUROLOGIA C.I.;;;384826
+8036;30935;T.T.D. DELL'ATTIVIT?Ç MOTORIA ADATTATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384827;modulo;384827
+8036;39666;NEUROLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384828;modulo;384828
+8036;72696;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384831;;384831
+8036;72698;EPIDEMIOLOGIA E FARMACOLOGIA C.I.;;;384835
+8036;351;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384836;modulo;384836
+8036;30924;METODOLOGIA EPIDEMIOLOGICA E IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384837;modulo;384837
+8036;72700;PEDAGOGIA SPECIALE E PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384839;;384839
+8036;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387942;;387942
+8036;736;NEUROPSICHIATRIA INFANTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393922;;393922
+8036;78151;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400919;;400919
+8036;78152;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400920;;400920
+8036;78153;PSICOLOGIA COGNITIVA DELLO SPORT E PRASSEOLOGIA MOTORIA C.I.;;;400921
+8036;78154;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400922;modulo;400922
+8036;26124;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400923;modulo;400923
+8036;78458;MALATTIE DELL'APPARATO LOCOMOTORE E MEDICINA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401424;;401424
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401430;;401430
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO (4);;modulo;414715
+8036;82337;Tirocinio 2 LM (10 CFU);;;413844
+8036;82344;Prova finale LM (4 CFU);;;413850
+8036;82308;PREPARAZIONE PROVA FINALE LM (12 CFU);;;413856
+8037;27083;PROVA FINALE LM;;;329301
+8037;68405;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346184;;346184
+8037;68407;BIOCHIMICA DELL'ATTIVIT?Ç SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372193;;372193
+8037;40224;BIOINGEGNERIA ELETTRONICA E INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384842;;384842
+8037;72704;NUTRIZIONE E FARMACOLOGIA NELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384844;;384844
+8037;11050;FISIOLOGIA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384845;;384845
+8037;72706;SCIENZA E TECNICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384851;;384851
+8037;31998;MEDICINA DELLO SPORT LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384852;;384852
+8037;72707;DIRITTO PRIVATO DELLO SPORT E GESTIONE DELLE IMPRESE SPORTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384853;;384853
+8037;65962;SCIENZA E TECNICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384854;;384854
+8037;65963;SCIENZA E TECNICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384855;;384855
+8037;72708;SCIENZA E TECNICA DELLO SPORT PER DISABILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384856;;384856
+8037;736;NEUROPSICHIATRIA INFANTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386786;;386786
+8037;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388403;;388403
+8037;73877;ANALISI DELLA PRESTAZIONE DI GARA E METODOLOGIA DELLA RICERCA C. I.;;;388404
+8037;36312;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388405;modulo;388405
+8037;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388406;modulo;388406
+8037;77999;EDUCAZIONE SPORTIVA E PSICOLOGIA DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400747;;400747
+8037;78157;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400930;;400930
+8037;78158;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400931;;400931
+8037;65671;MISURAZIONE E VALUTAZIONE NELLO SPORT C. I.;;;412535
+8037;81871;ANTROPOMETRIA SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412536;modulo;412536
+8037;73918;PROGRAMMAZIONE DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412537;modulo;412537
+8037;73909;VALUTAZIONE NELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412538;modulo;412538
+8037;82352;Tirocinio 1 LM (9 CFU);;;413922
+8037;82335;Tirocinio 1a LM (5 CFU);;;413924
+8037;82353;Tirocinio 1b LM (4 CFU);;;413925
+8037;82342;Prova finale LM (16 CFU);;;413929
+8037;82344;Prova finale LM (4 CFU);;;413930
+8037;82308;PREPARAZIONE PROVA FINALE LM (12 CFU);;;413934
+8210;34472;CONTRATTI APPALTI E SERVIZI PUBBLICI C. I.;;;340353
+8210;19938;OBBLIGAZIONI E CONTRATTI NEL SETTORE SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340355;modulo;340355
+8210;34473;SERVIZI PUBBLICI E GESTIONE DEGLI APPALTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340356;modulo;340356
+8210;34477;IDONEIT?Ç LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340361;;340361
+8210;34513;ISTITUZIONI E MERCATO NELLE ATTIVIT?Ç MOTORIE E SPORTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340414;;340414
+8210;34514;SISTEMATICA DELLE ATTIVIT?Ç MOTORIE PER L'EFFICIENZA FISICA E LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340415;;340415
+8210;34521;ORGANIZZAZIONE E GESTIONE DELLO SPORT: PROFILI GIURIDICO-AMMINISTRATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340425;;340425
+8210;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340434;;340434
+8210;37227;IGIENE DEGLI IMPIANTI SPORTIVI E TUTELA DELLA SALUTE NELLO SPORT C.I.;;;349962
+8210;20615;IGIENE E SICUREZZA DEGLI IMPIANTI SPORTIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349967;modulo;349967
+8210;37231;TOSSICOLOGIA E PREVENZIONE DEL DOPING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349968;modulo;349968
+8210;65778;ECONOMIA E GESTIONE DELLE IMPRESE SPORTIVE C. I.;;;364109
+8210;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364112;modulo;364112
+8210;67915;STRATEGIA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364113;modulo;364113
+8210;65895;ISTITUZIONI DI ECONOMIA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364115;;364115
+8210;70404;SOCIOLOGIA DELLA WELLNESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379014;;379014
+8210;72713;SOCIOLOGIA DELLO SPORT E DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384859;;384859
+8210;72715;ORGANIZZAZIONE DELL'ATTIVIT?Ç MOTORIA E DEGLI EVENTI SPORTIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384863;;384863
+8210;34516;ECONOMIA AZIENDALE C. I.;;;394138
+8210;65781;BILANCI AZIENDALI E CONTROLLO DI GESTIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394139;modulo;394139
+8210;42492;MARKETING AVANZATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394140;modulo;394140
+8210;66140;FINANZA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394141;;394141
+8210;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394142;;394142
+8210;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394143;;394143
+8210;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394144;;394144
+8210;77947;PSICOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400688;;400688
+8210;15540;GIORNALISMO SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402743;;402743
+8210;78987;SOCIOLOGIA DELLA WELLNESS E GIORNALISMO SPORTIVO C.I.;;;402751
+8210;70404;SOCIOLOGIA DELLA WELLNESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402753;modulo;402753
+8210;15540;GIORNALISMO SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402754;modulo;402754
+8210;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406072;;406072
+8210;37807;LABORATORIO DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412747;;412747
+8412;36073;ACQUISIZIONE DI CAPACIT?Ç INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349243;;349243
+8412;49754;BIOLOGIA VEGETALE CON ELEMENTI DI BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349723;;349723
+8412;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349724;;349724
+8412;150;CHIMICA ORGANICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349728;;349728
+8412;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349729;;349729
+8412;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349737;;349737
+8412;57359;ANALISI DEI MEDICINALI I;;;349739
+8412;18039;CARATTERIZZAZIONE STRUTTURALE DI COMPOSTI ORGANICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349748;;349748
+8412;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349751;;349751
+8412;122;CHIMICA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349752;;349752
+8412;152;CHIMICA ORGANICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349754;;349754
+8412;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349755;;349755
+8412;11438;ANALISI DEI MEDICINALI II;;;349757
+8412;11784;ANALISI DEI MEDICINALI III;;;349759
+8412;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349761;;349761
+8412;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349781;;349781
+8412;18040;FARMACOLOGIA GENERALE E FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349788;;349788
+8412;5181;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349793;;349793
+8412;37722;METODOLOGIE SPERIMENTALI PER LA PREPARAZIONE DI FARMACI;;;349796
+8412;18041;PATOLOGIA GENERALE E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349797;;349797
+8412;37187;ANALISI STRUMENTALE DI FARMACI;;;349798
+8412;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349800;;349800
+8412;37189;FABBRICAZIONE INDUSTRIALE DEI MEDICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349802;;349802
+8412;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349858;;349858
+8412;37259;SISTEMI FARMACEUTICI A RILASCIO MODIFICATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350122;;350122
+8412;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350151;;350151
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE;;;351358
+8412;66117;ANATOMIA UMANA E BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365007;;365007
+8412;44113;BIOCHIMICA E BIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365014;;365014
+8412;66123;METODI AVANZATI IN CHIMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365019;;365019
+8412;72966;RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388627;;388627
+8412;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388628;;388628
+8412;73056;METODI PER LO STUDIO DELLA CHIRALIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388629;;388629
+8412;73057;METODI DI CARATTERIZZAZIONE STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388630;;388630
+8412;1651;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388631;;388631
+8412;55954;CHIMICA ANALITICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388632;;388632
+8412;74458;SOCIO-ECONOMIA E BREVETTISTICA FARMACEUTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394129;;394129
+8412;72961;RICERCA E SVILUPPO DI FARMACI E BIOLOGICI C.I.;;;394327
+8412;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394328;modulo;394328
+8412;72966;RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394329;modulo;394329
+8412;73055;METODI INNOVATIVI DELLA CHIMICA ORGANICA NELLO STUDIO DEL FARMACO C.I.;;;394330
+8412;73056;METODI PER LO STUDIO DELLA CHIRALIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394331;modulo;394331
+8412;73057;METODI DI CARATTERIZZAZIONE STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394332;modulo;394332
+8412;73060;CHIMICA ANALITICA CLINICA ED AMBIENTALE C.I.;;;394337
+8412;1651;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394338;modulo;394338
+8412;55954;CHIMICA ANALITICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394339;modulo;394339
+8413;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349705;;349705
+8413;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349706;;349706
+8413;13520;BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349711;;349711
+8413;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349712;;349712
+8413;37179;BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.);;;349713
+8413;12818;BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349714;modulo;349714
+8413;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349715;modulo;349715
+8413;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349716;;349716
+8413;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349717;;349717
+8413;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349726;;349726
+8413;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349727;;349727
+8413;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349730;;349730
+8413;57359;ANALISI DEI MEDICINALI I;;;349731
+8413;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349735;;349735
+8413;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349736;;349736
+8413;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349738;;349738
+8413;1234;FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349740;;349740
+8413;11438;ANALISI DEI MEDICINALI II;;;349741
+8413;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349744;;349744
+8413;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA;;;349747
+8413;2359;PATOLOGIA E FISIOPATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349750;;349750
+8413;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349760;;349760
+8413;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349762;;349762
+8413;37182;FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.);;;349766
+8413;2715;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349775;modulo;349775
+8413;13952;BIOCHIMICA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349776;modulo;349776
+8413;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349784;;349784
+8413;32481;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349792;;349792
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I;;;349799
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II;;;349801
+8413;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349804;;349804
+8413;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349806;;349806
+8413;20629;PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354447;;354447
+8413;47942;FISIOLOGIA DELLA SENESCENZA E DELLA LONGEVITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385665;;385665
+8413;73078;CHIMICA E TECNOLOGIE NUTRACEUTICO-ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385666;;385666
+8413;14513;FARMACOLOGIA CELLULARE E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385669;;385669
+8413;47941;FARMACOTERAPIA DEI DISTURBI METABOLICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385670;;385670
+8413;47946;NEUROFISIOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385675;;385675
+8413;57338;PRECORSO DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420932;;420932
+8414;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349896;;349896
+8414;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349899;;349899
+8414;13520;BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349904;;349904
+8414;37179;BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.);;;349907
+8414;12818;BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349908;modulo;349908
+8414;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349909;modulo;349909
+8414;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349912;;349912
+8414;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349915;;349915
+8414;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349916;;349916
+8414;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349920;;349920
+8414;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349923;;349923
+8414;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349924;;349924
+8414;57359;ANALISI DEI MEDICINALI I;;;349925
+8414;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349931;;349931
+8414;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349960;;349960
+8414;1234;FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349961;;349961
+8414;11438;ANALISI DEI MEDICINALI II;;;349963
+8414;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349964;;349964
+8414;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349965;;349965
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA;;;349966
+8414;2359;PATOLOGIA E FISIOPATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349969;;349969
+8414;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349970;;349970
+8414;37182;FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.);;;349973
+8414;2715;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349976;modulo;349976
+8414;13952;BIOCHIMICA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349977;modulo;349977
+8414;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349981;;349981
+8414;32481;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349982;;349982
+8414;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349983;;349983
+8414;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349984;;349984
+8414;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349985;;349985
+8414;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349986;;349986
+8414;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351311;;351311
+8414;20629;PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354432;;354432
+8414;41667;FINALITA' E GESTIONE DELLA FARMACIA OSPEDALIERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387515;;387515
+8414;36420;ACQUISIZIONE DI CAPACIT?Ç GESTIONALI ED INFORMATICHE IN FARMACIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387516;;387516
+8414;76274;RADIOFARMACI PER IMAGING MOLECOLARE CLINICO E SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394145;;394145
+8414;79013;COMPLEMENTI DI GALENICA IN FARMACIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402863;;402863
+8414;644;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403380;;403380
+8414;82103;ADVANCED ANALYTICAL METHODOLOGIES FOR BIOTECHNOLOGICAL/BIOLOGICAL MEDICINAL PRODUCTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413138;;413138
+8414;6944;COMPLEMENTI DI CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421007;;421007
+8414;3599;METODI FISICI IN CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421015;;421015
+8512;30595;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;363980
+8512;61;BIOCHIMICA;;modulo;363982
+8512;24234;NUTRIZIONE UMANA;;modulo;363981
+8512;30748;ANATOMIA UMANA C. I.;;;363983
+8512;66052;ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363985;modulo;363985
+8512;65787;ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363984;modulo;363984
+8512;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363995;;363995
+8512;30643;PEDAGOGIA GENERALE E DEL GIOCO C. I.;;;364000
+8512;5760;PEDAGOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364002;modulo;364002
+8512;22367;PEDAGOGIA DEL GIOCO E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364001;modulo;364001
+8512;14030;ANTROPOMETRIA ED ERGONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364004;;364004
+8512;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364837;;364837
+8512;7309;DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364839;;364839
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364844;;364844
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4);;modulo;380527
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (5);;modulo;380528
+8512;66060;TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.;;;364863
+8512;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364873;modulo;364873
+8512;66064;DIDATTICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364874;modulo;364874
+8512;30830;IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.;;;364892
+8512;57138;IGIENE GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364895;modulo;364895
+8512;30832;TRAUMATOLOGIA E PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364896;modulo;364896
+8512;72533;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;384281
+8512;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384282;modulo;384282
+8512;24234;NUTRIZIONE UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384284;modulo;384284
+8512;37201;BIOCHIMICA METABOLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384283;modulo;384283
+8512;57113;BIOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384285;;384285
+8512;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384330;;384330
+8512;72562;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.;;;384332
+8512;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384333;modulo;384333
+8512;72563;CINESIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384334;modulo;384334
+8512;72565;TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?Ç MOTORIA PREVENTIVA E PER L'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384336;;384336
+8512;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384338;;384338
+8512;72567;ATTIVIT?Ç MOTORIA E SALUTE C.I.;;;384340
+8512;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384345;modulo;384345
+8512;9151;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384346;modulo;384346
+8512;46248;FARMACOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384348;modulo;384348
+8512;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384350;;384350
+8512;70471;ULTIMATE FRISBEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386678;;386678
+8512;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386679;;386679
+8512;38650;BASEBALL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386684;;386684
+8512;38700;TENNIS TAVOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386687;;386687
+8512;70512;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386688;;386688
+8512;1992;STORIA DELL'EDUCAZIONE FISICA E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386698;;386698
+8512;12513;PSICOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401362;;401362
+8512;30761;FISIOLOGIA UMANA C. I.;;;401363
+8512;78450;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401364;modulo;401364
+8512;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401365;modulo;401365
+8517;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368458;;368458
+8517;67136;ANALISI DEI PRODOTTI PER LA SALUTE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368461;;368461
+8517;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368463;;368463
+8517;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368464;;368464
+8517;67320;CHIMICA GENERALE E INORGANICA, CHIMICA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368468;;368468
+8517;644;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368512;;368512
+8517;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368518;;368518
+8517;67138;ANALISI DEI PRODOTTI PER LA SALUTE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368520;;368520
+8517;67174;BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368755;;368755
+8517;67176;FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368766;;368766
+8517;4318;CHIMICA FARMACEUTICA E TOSSICOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368769;;368769
+8517;67022;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368772;;368772
+8517;46203;MICROBIOLOGIA E ANALISI MICROBIOLOGICA;;;368781
+8517;67178;IGIENE E PATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368785;;368785
+8517;67188;ANALISI DEI PRODOTTI PER LA SALUTE III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368825;;368825
+8517;67190;GESTIONE DEL SISTEMA QUALITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368831;;368831
+8517;35074;PROVA FINALE L;;;368832
+8517;18622;TIROCINIO L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368836;;368836
+8517;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368839;;368839
+8517;67193;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368840;;368840
+8517;67194;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368843;;368843
+8517;73741;CHIMICA DEGLI ALIMENTI E DEGLI ANTIOSSIDANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387517;;387517
+8517;21336;MALATTIE CUTANEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387518;;387518
+8517;75931;IDONEIT?Ç DI LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394157;;394157
+8517;79054;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402992;;402992
+8518;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368207;;368207
+8518;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368235;;368235
+8518;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368236;;368236
+8518;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368238;;368238
+8518;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368245;;368245
+8518;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368259;;368259
+8518;31567;ANALISI DEI FITODERIVATI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368260;;368260
+8518;31571;ANALISI DEI FITODERIVATI II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368262;;368262
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368263;;368263
+8518;67119;CHIMICA FARMACEUTICA E DELLE SOSTANZE NATURALI (C.I.);;;368267
+8518;118;CHIMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368269;modulo;368269
+8518;111;CHIMICA DELLE SOSTANZE ORGANICHE NATURALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368270;modulo;368270
+8518;31578;FARMACOGNOSIA E FITOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368273;;368273
+8518;59620;PATOLOGIA E MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368274;;368274
+8518;5181;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368275;;368275
+8518;3469;FARMACOLOGIA E TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368286;;368286
+8518;17952;CONTROLLO E VALIDAZIONE DEI FITODERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368288;;368288
+8518;67121;FORMULAZIONI FITOCOSMETICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368289;;368289
+8518;67123;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI ERBORISTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368317;;368317
+8518;35074;PROVA FINALE L;;;368319
+8518;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368322;;368322
+8518;13622;BIOLOGIA VEGETALE E ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368325;;368325
+8518;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368326;;368326
+8518;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368330;;368330
+8518;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368340;;368340
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368341;;368341
+8518;31930;CHIMICA DEGLI INQUINANTI (C.I.);;;368343
+8518;11268;CHIMICA ANALITICA DEGLI INQUINANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368344;modulo;368344
+8518;55002;CHIMICA DELLE SOSTANZE ORGANICHE INQUINANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368345;modulo;368345
+8518;67128;FONDAMENTI DI FISIOLOGIA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368357;;368357
+8518;67130;MICROBIOLOGIA E PATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368408;;368408
+8518;67131;CHIMICA E ANALISI DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368409;;368409
+8518;55007;ANALISI CHIMICO TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368410;;368410
+8518;67132;BIOTECNOLOGIE MICROBICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368412;;368412
+8518;11967;TOSSICOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368413;;368413
+8518;67133;NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368414;;368414
+8518;35074;PROVA FINALE L;;;368417
+8518;31867;FARMACOLOGIA (C.I.);;;368425
+8518;14163;FARMACOLOGIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368426;modulo;368426
+8518;14159;FARMACOLOGIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368427;modulo;368427
+8518;31864;ESTRAZIONE DEI FITODERIVATI (C.I.);;;368446
+8518;31865;ESTRAZIONE DEI FITODERIVATI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368448;modulo;368448
+8518;31866;ESTRAZIONE DEI FITODERIVATI II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368449;modulo;368449
+8518;43049;CHIMICA GENERALE E INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368984;;368984
+8518;43049;CHIMICA GENERALE E INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368990;;368990
+8518;55006;ANALISI CHIMICO TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369052;;369052
+8518;2307;CHIMICA TOSSICOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369055;;369055
+8518;17944;MARKETING DEI PRODOTTI ERBORISTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385783;;385783
+8518;73101;ERBORISTERIA APPLICATA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385785;;385785
+8518;73102;ERBORISTERIA APPLICATA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385787;;385787
+8518;55003;CHIMICA FISICA PER L'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385788;;385788
+8518;49236;ECONOMIA E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385791;;385791
+8518;73819;APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388181;;388181
+8518;76364;DISCIPLINE PROFESSIONALIZZANTI DEL SETTORE TOSSICOLOGICO-AMBIENTALE (C.I.);;;394287
+8518;55003;CHIMICA FISICA PER L'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394288;modulo;394288
+8518;73103;SOSTANZE TOSSICHE DELLA MATRICE ACQUA;;modulo;394289
+8518;73819;APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394290;modulo;394290
+8518;49236;ECONOMIA E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394291;modulo;394291
+8518;76365;COLTIVAZIONE, RACCOLTA E TRASFORMAZIONE DELLE PIANTE OFFICINALI (C.I.);;;394292
+8518;76337;COLTIVAZIONE DELLE PIANTE OFFICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394293;modulo;394293
+8518;76363;RACCOLTA E PRIMA TRASFORMAZIONE DELLE PIANTE OFFICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394294;modulo;394294
+8518;41669;TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402581;;402581
+8518;82695;biologia vegetale e animale;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413886;;413886
+8518;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413887;;413887
+8518;82777;SICUREZZA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416160;;416160
+8518;82778;SOSTANZE TOSSICHE DELLA MATRICE ARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416161;;416161
+8519;67161;BASI MOLECOLARI E GENETICHE DELLE MALATTIE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368698;;368698
+8519;35345;BIOCHIMICA E FISIOLOGIA CELLULARI (C.I.);;;368699
+8519;67321;BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368700;modulo;368700
+8519;35461;FISIOLOGIA CELLULARE CON ESERCITAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368701;modulo;368701
+8519;67163;BIOSENSORI (C.I.);;;368704
+8519;67164;BIOSENSORI OTTICI E LUMINESCENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368705;modulo;368705
+8519;67165;BIOSENSORI ELETTROCHIMICI E PIEZOELETTRICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368706;modulo;368706
+8519;35499;BIOTECNOLOGIE DI MICROORGANISMI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368707;;368707
+8519;67166;BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368708;;368708
+8519;67167;GENOMICA FUNZIONALE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368714;;368714
+8519;35477;NANOTECNOLOGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368715;;368715
+8519;35491;SVILUPPO DI VACCINI (C.I.);;;368717
+8519;3377;IMMUNOGENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368718;modulo;368718
+8519;67168;MICROBIOLOGIA GENOMICA E VACCINI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368719;modulo;368719
+8519;67172;PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368734;;368734
+8519;70385;CHEMICAL AND GENOMICS-BASED STRATEGIES IN THE DISCOVERY OF NOVEL DRUG TARGETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378958;;378958
+8519;70387;ATTIVIT?Ç FORMATIVA IN AZIENDA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378959;;378959
+8519;71166;METODI E STRUMENTI DI RICERCA PER LA TESI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381034;;381034
+8519;32731;NEUROFARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388434;;388434
+8519;6551;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/389286;;389286
+8519;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402777;;402777
+8519;67169;NANO E MICRO-SISTEMI FARMACEUTICI CON ESERCITAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415286;;415286
+8766;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384920;;384920
+8766;72562;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.;;;384921
+8766;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384922;modulo;384922
+8766;72563;CINESIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384923;modulo;384923
+8766;72565;TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?Ç MOTORIA PREVENTIVA E PER L'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384924;;384924
+8766;72567;ATTIVIT?Ç MOTORIA E SALUTE C.I.;;;384925
+8766;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384926;modulo;384926
+8766;9151;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384927;modulo;384927
+8766;46248;FARMACOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384928;modulo;384928
+8766;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384929;;384929
+8766;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384930;;384930
+8766;72533;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;384931
+8766;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384932;modulo;384932
+8766;24234;NUTRIZIONE UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384933;modulo;384933
+8766;37201;BIOCHIMICA METABOLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384934;modulo;384934
+8766;57113;BIOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384935;;384935
+8766;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384937;;384937
+8766;66060;TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.;;;384938
+8766;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384939;modulo;384939
+8766;66064;DIDATTICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384940;modulo;384940
+8766;30748;ANATOMIA UMANA C. I.;;;384947
+8766;66052;ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384948;modulo;384948
+8766;65787;ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384949;modulo;384949
+8766;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384955;;384955
+8766;30851;TIROCINIO 1 L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384959;;384959
+8766;30643;PEDAGOGIA GENERALE E DEL GIOCO C. I.;;;384960
+8766;5760;PEDAGOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384961;modulo;384961
+8766;22367;PEDAGOGIA DEL GIOCO E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384962;modulo;384962
+8766;14030;ANTROPOMETRIA ED ERGONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384963;;384963
+8766;30852;TIROCINIO 2 L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384965;;384965
+8766;30830;IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.;;;384971
+8766;57138;IGIENE GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384972;modulo;384972
+8766;30832;TRAUMATOLOGIA E PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384973;modulo;384973
+8766;7309;DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384974;;384974
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384976;;384976
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4);;modulo;394413
+8766;73899;OUTDOOR EDUCATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394115;;394115
+8766;68468;MANAGEMENT DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394116;;394116
+8766;33595;GIUSTIZIA SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394121;;394121
+8766;70471;ULTIMATE FRISBEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394125;;394125
+8766;30761;FISIOLOGIA UMANA C. I.;;;402757
+8766;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402758;modulo;402758
+8766;78450;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402759;modulo;402759
+8766;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402763;;402763
+8766;78990;MANAGEMENT E MARKETING DELLO SPORT C.I.;;;402764
+8766;68468;MANAGEMENT DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402765;modulo;402765
+8766;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402766;modulo;402766
+8766;70512;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402767;;402767
+8766;70474;TENNIS E BEACH TENNIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402795;;402795
+8766;81864;TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413980;;413980
+8766;82375;SPORT DI RACCHETTA C.I.;;;414004
+8766;70474;TENNIS E BEACH TENNIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414005;modulo;414005
+8766;81864;TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414006;modulo;414006
