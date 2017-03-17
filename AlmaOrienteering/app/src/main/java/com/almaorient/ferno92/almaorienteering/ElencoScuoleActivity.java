@@ -2,10 +2,15 @@ package com.almaorient.ferno92.almaorienteering;
 
 import android.app.ActionBar;
 import android.content.Intent;
+import android.graphics.Paint;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutCompat;
+import android.text.Layout;
+import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -14,6 +19,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
@@ -29,16 +35,20 @@ import java.util.ArrayList;
 
 import static android.R.drawable.btn_minus;
 import static android.R.drawable.btn_plus;
+import static com.almaorient.ferno92.almaorienteering.R.id.agrarialayout;
 import static com.almaorient.ferno92.almaorienteering.R.id.agrariaplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.economiaplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.farmaciaplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.giuriplus;
+
 import static com.almaorient.ferno92.almaorienteering.R.id.plustre;
+import static com.almaorient.ferno92.almaorienteering.R.id.top;
+import static com.almaorient.ferno92.almaorienteering.R.id.topPanel;
 import static com.almaorient.ferno92.almaorienteering.R.id.wrap_content;
 
 public class ElencoScuoleActivity extends AppCompatActivity {
 
-    private void richiamoPaginaInterna(String nomecorso, String codicecorso, String url,String nomescuola, String tipo, String campus) {
+    private void richiamoPaginaInterna(String nomecorso, String codicecorso, String url,String nomescuola, String tipo, String campus, String accesso) {
         Intent nuovapagina = new Intent(this, DettagliCorsoActivity.class);
         nuovapagina.putExtra("Vocecliccata", nomecorso);
         nuovapagina.putExtra("Codicecorso", codicecorso);
@@ -46,6 +56,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         nuovapagina.putExtra("Nomescuola", nomescuola);
         nuovapagina.putExtra("Tipocorso", tipo);
         nuovapagina.putExtra("Campus", campus);
+        nuovapagina.putExtra("Accesso", accesso);
         startActivity(nuovapagina);
     }
 
@@ -72,6 +83,8 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.elenco_scuole);
 
+        setTitle("Scuole");
+
         final ListView elencoagraria = (ListView) findViewById(R.id.listagraria);
 
         final ArrayList<Corso> mListaCorsiAgraria = new ArrayList<Corso>();
@@ -89,8 +102,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     String sito = (String) data.child("url").getValue();
                     String tipo = (String) data.child("tipologia").getValue();
                     String campus =(String) data.child("campus").getValue();
+                    String accesso =(String) data.child("accesso").getValue();
 
-                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo,campus);
+                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo,campus, accesso);
                     mListaCorsiAgraria.add(corso);
                 }
 
@@ -121,11 +135,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         public void onClick(View view) {
               if (elencoagraria.getVisibility() == View.GONE) {
                elencoagraria.setVisibility(view.VISIBLE);
-               agrariaplusButton.setImageResource(btn_minus);
+               agrariaplusButton.setImageResource(R.drawable.meno);
 
         } else {
              elencoagraria.setVisibility(view.GONE);
-             agrariaplusButton.setImageResource(btn_plus);
+             agrariaplusButton.setImageResource(R.drawable.piu);
         }
         }
 
@@ -142,7 +156,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                   String url = mListaCorsiAgraria.get(i).getUrl();
                   String tipo = mListaCorsiAgraria.get(i).getTipo();
                   String campus = mListaCorsiAgraria.get(i).getCampus();
-                  richiamoPaginaInterna(titoloriga, codicecorsoagraria,url,"agraria", tipo, campus);
+                  String accesso = mListaCorsiAgraria.get(i).getAccesso();
+
+                  richiamoPaginaInterna(titoloriga, codicecorsoagraria,url,"agraria", tipo, campus,accesso);
                   break;
               }
           }
@@ -168,8 +184,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     String sito = (String) data.child("url").getValue();
                     String tipo = (String) data.child("tipologia").getValue();
                     String campus =(String) data.child("campus").getValue();
+                    String accesso =(String) data.child("accesso").getValue();
 
-                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus);
+                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus, accesso);
                     mListaCorsiEconomia.add(corso);
                 }
 
@@ -201,11 +218,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (elencoeconomia.getVisibility() == View.GONE) {
                     elencoeconomia.setVisibility(view.VISIBLE);
-                    economiaplusButton.setImageResource(btn_minus);
+                    economiaplusButton.setImageResource(R.drawable.meno);
 
                 } else {
                     elencoeconomia.setVisibility(view.GONE);
-                    economiaplusButton.setImageResource(btn_plus);
+                    economiaplusButton.setImageResource(R.drawable.piu);
                 }
             }
 
@@ -222,7 +239,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                         String url = mListaCorsiEconomia.get(i).getUrl();
                         String tipo = mListaCorsiEconomia.get(i).getTipo();
                         String campus = mListaCorsiEconomia.get(i).getCampus();
-                        richiamoPaginaInterna(titoloriga, codicecorsoeconomia,url,"economia",tipo, campus);
+                        String accesso = mListaCorsiAgraria.get(i).getAccesso();
+
+                        richiamoPaginaInterna(titoloriga, codicecorsoeconomia,url,"economia",tipo, campus,accesso);
                         break;
                     }
                 }
@@ -248,8 +267,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     String sito = (String) data.child("url").getValue();
                     String tipo = (String) data.child("tipologia").getValue();
                     String campus =(String) data.child("campus").getValue();
+                    String accesso =(String) data.child("accesso").getValue();
 
-                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus);
+                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus, accesso);
                     mListaCorsiFarmacia.add(corso);
                 }
 
@@ -281,11 +301,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (elencofarmacia.getVisibility() == View.GONE) {
                     elencofarmacia.setVisibility(view.VISIBLE);
-                    farmaciaplusButton.setImageResource(btn_minus);
+                    farmaciaplusButton.setImageResource(R.drawable.meno);
 
                 } else {
                     elencofarmacia.setVisibility(view.GONE);
-                    farmaciaplusButton.setImageResource(btn_plus);
+                    farmaciaplusButton.setImageResource(R.drawable.piu);
                 }
             }
 
@@ -302,7 +322,8 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                         String url = mListaCorsiFarmacia.get(i).getUrl();
                         String tipo = mListaCorsiFarmacia.get(i).getTipo();
                         String campus = mListaCorsiFarmacia.get(i).getCampus();
-                        richiamoPaginaInterna(titoloriga, codicecorsofarmacia,url,"farmacia",tipo, campus);
+                        String accesso = mListaCorsiAgraria.get(i).getAccesso();
+                        richiamoPaginaInterna(titoloriga, codicecorsofarmacia,url,"farmacia",tipo, campus, accesso);
                         break;
                     }
                 }
@@ -328,8 +349,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     String sito = (String) data.child("url").getValue();
                     String tipo = (String) data.child("tipologia").getValue();
                     String campus =(String) data.child("campus").getValue();
+                    String accesso =(String) data.child("accesso").getValue();
 
-                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus);
+                    Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus, accesso);
                     mListaCorsiGiuri.add(corso);
                 }
 
@@ -361,11 +383,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (elencogiuri.getVisibility() == View.GONE) {
                     elencogiuri.setVisibility(view.VISIBLE);
-                    giuriplusButton.setImageResource(btn_minus);
+                    giuriplusButton.setImageResource(R.drawable.meno);
 
                 } else {
                     elencogiuri.setVisibility(view.GONE);
-                    giuriplusButton.setImageResource(btn_plus);
+                    giuriplusButton.setImageResource(R.drawable.piu);
                 }
             }
 
@@ -382,7 +404,8 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                         String url = mListaCorsiGiuri.get(i).getUrl();
                         String tipo = mListaCorsiGiuri.get(i).getTipo();
                         String campus = mListaCorsiGiuri.get(i).getCampus();
-                        richiamoPaginaInterna(titoloriga, codicecorsogiuri,url,"giurisprudenza", tipo, campus);
+                        String accesso = mListaCorsiAgraria.get(i).getAccesso();
+                        richiamoPaginaInterna(titoloriga, codicecorsogiuri,url,"giurisprudenza", tipo, campus, accesso);
                         break;
                     }
                 }

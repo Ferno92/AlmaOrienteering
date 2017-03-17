@@ -278,9 +278,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="Requisiti di iscrizione"
+                android:text="Tipologia accesso"
                 android:textSize="20sp"
                 android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tipoaccessoview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textSize="16sp" />
 
             <Button
                 android:id="@+id/button2"
@@ -304,7 +311,7 @@
                 android:id="@+id/sitocorsobtn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Sito del corso" />
+                android:text="Pagina dedicata" />
         </LinearLayout>
     </ScrollView>
 

@@ -62,6 +62,13 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         listView.setLayoutParams(params);
     }
 
+    //////BROWSER
+    private void richiamoBrowser(String url) {
+        Intent browser = new Intent(this, EmbedBrowser.class);
+        browser.putExtra("url", url);
+        startActivity(browser);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -70,6 +77,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         TextView nomecorsoText = (TextView) findViewById(R.id.nomecorso);
         TextView tipocorsoText = (TextView) findViewById(R.id.tipotxtview);
         TextView campuscorsoText = (TextView) findViewById(R.id.campustxtview);
+        TextView accessoText = (TextView) findViewById(R.id.tipoaccessoview);
         Button sitocorsobtn = (Button) findViewById(R.id.sitocorsobtn);
 
         String corso = getIntent().getExtras().getString("Vocecliccata");
@@ -78,17 +86,18 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         final String urlcorso = getIntent().getExtras().getString("Sitocorso");
         final String tipo = getIntent().getExtras().getString("Tipocorso");
         String campus = getIntent().getExtras().getString("Campus");
+        String accesso = getIntent().getExtras().getString("Accesso");
 
         nomecorsoText.setText(corso);
         tipocorsoText.setText(tipo);
         campuscorsoText.setText(campus);
+        accessoText.setText(accesso);
+
 
         sitocorsobtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse(urlcorso));
-                startActivity(i);
+                richiamoBrowser(urlcorso);
             }
         });
 
@@ -214,9 +223,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 for (int i=0; i<mListaEsami1.size(); i++) {
                     if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato)) {
                         if(mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                            final String urlesame = mListaEsami1.get(i).getIndirizzoWeb();
-                            Intent a = new Intent(Intent.ACTION_VIEW, Uri.parse(urlesame));
-                            startActivity(a);
+                            richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
                         }
                         break;
                     }
@@ -250,9 +257,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 for (int i=5; i<mListaEsami1.size(); i++) {
                     if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato2)) {
                         if(mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                            final String urlesame2 = mListaEsami1.get(i).getIndirizzoWeb();
-                            Intent a = new Intent(Intent.ACTION_VIEW, Uri.parse(urlesame2));
-                            startActivity(a);
+                            richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
                         }
                         break;
                     }
@@ -292,9 +297,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                     for (int i = 10; i < mListaEsami1.size(); i++) {
                         if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato3)) {
                             if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                final String urlesame3 = mListaEsami1.get(i).getIndirizzoWeb();
-                                Intent a = new Intent(Intent.ACTION_VIEW, Uri.parse(urlesame3));
-                                startActivity(a);
+                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
                             }
                             break;
                         }
@@ -336,9 +339,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                     for (int i = 15; i < mListaEsami1.size(); i++) {
                         if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato4)) {
                             if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                final String urlesame4 = mListaEsami1.get(i).getIndirizzoWeb();
-                                Intent a = new Intent(Intent.ACTION_VIEW, Uri.parse(urlesame4));
-                                startActivity(a);
+                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
                             }
                             break;
                         }
@@ -372,9 +373,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                     for (int i = 20; i < mListaEsami1.size(); i++) {
                         if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato5)) {
                             if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                final String urlesame4 = mListaEsami1.get(i).getIndirizzoWeb();
-                                Intent a = new Intent(Intent.ACTION_VIEW, Uri.parse(urlesame4));
-                                startActivity(a);
+                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
                             }
                             break;
                         }

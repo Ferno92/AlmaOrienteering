@@ -10,13 +10,15 @@ public class Corso {
     public String mUrl;
     public String mTipo;
     public String mCampus;
+    public String mAccesso;
 
-    public Corso(String id, String nome, String url, String tipo, String campus){
+    public Corso(String id, String nome, String url, String tipo, String campus, String accesso){
         this.mCodiceCorso = id;
         this.mNome = nome;
         this.mUrl = url;
         this.mTipo = tipo;
         this.mCampus = campus;
+        this.mAccesso = accesso;
     }
 
     public String getNome(){
@@ -36,6 +38,8 @@ public class Corso {
     public String getCampus(){
         return this.mCampus;
     }
+
+    public String getAccesso() { return this.mAccesso; }
 
     public String toString()
     {
