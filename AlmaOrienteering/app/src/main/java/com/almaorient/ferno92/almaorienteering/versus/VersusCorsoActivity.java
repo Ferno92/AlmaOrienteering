@@ -53,7 +53,7 @@ public class VersusCorsoActivity extends AppCompatActivity {
 
         mProgress = new ProgressDialog(this);
         mProgress.setTitle("Loading");
-        mProgress.setMessage("Stiamo cercando le aule più belle...");
+        mProgress.setMessage("Stiamo cercando i corsi...");
         mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
         mProgress.show();
 
@@ -114,6 +114,7 @@ public class VersusCorsoActivity extends AppCompatActivity {
         query.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
+                mProgress.dismiss();
                 int i = 0;
                 for(DataSnapshot data : dataSnapshot.getChildren()){
                     String nome = (String) data.child("corso").getValue();
