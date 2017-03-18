@@ -119,7 +119,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_ems" />
 
             </RelativeLayout>
 
@@ -172,7 +172,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_farmacia" />
             </RelativeLayout>
 
             <ListView
@@ -224,7 +224,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_icona_giurisprudenza" />
 
             </RelativeLayout>
 
@@ -278,7 +278,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_icona_ingegneria_e_architettura" />
 
             </RelativeLayout>
 
@@ -332,7 +332,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_lettere_e_beni_culturali" />
 
             </RelativeLayout>
 
@@ -385,7 +385,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_icona_lingue_e_letterature_traduzione_e_interpretazione" />
 
             </RelativeLayout>
 
@@ -438,7 +438,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_medicina_e_chirurgia" />
 
             </RelativeLayout>
 
@@ -491,7 +491,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_psicologia" />
 
             </RelativeLayout>
 
@@ -544,7 +544,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_icona_scienze" />
 
             </RelativeLayout>
 
@@ -597,7 +597,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_icona_scienze_politiche" />
 
             </RelativeLayout>
 
