@@ -29,7 +29,7 @@ public class VersusSelectorActivity extends AppCompatActivity {
     Spinner mScuola2Spinner;
     Scuola mSelectedScuola1;
     Scuola mSelectedScuola2;
-    Scuola[] mElencoScuola1 = new Scuola[]{
+    public static final Scuola[] mElencoScuola1 = new Scuola[]{
             new Scuola("tutte", "Tutte le scuole"),
             new Scuola("agraria", "Agraria e Medicina veterinaria"),
             new Scuola("economia", "Economia, Mangement e Statistica"),

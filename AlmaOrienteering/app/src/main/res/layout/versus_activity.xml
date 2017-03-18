@@ -38,11 +38,12 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Nome corso A"
+            android:text="Nome corso ANome corso ANome corso A"
             android:textAlignment="center"
             android:textSize="18sp"
             android:paddingTop="10dp"
-            android:paddingBottom="10dp"/>
+            android:paddingBottom="10dp"
+            android:maxLines="1"/>
         <TextView
             android:id="@+id/nome_corso_b"
             android:layout_width="0dp"
@@ -68,7 +69,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:visibility="gone">
+            android:visibility="visible">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -96,7 +97,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -111,7 +112,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
@@ -144,7 +145,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -159,7 +160,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
@@ -192,7 +193,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -207,7 +208,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
@@ -240,7 +241,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -255,7 +256,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
@@ -288,7 +289,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -303,7 +304,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
@@ -336,7 +337,7 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="26,6/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
 
@@ -351,12 +352,68 @@
                         android:layout_weight="1"
                         android:paddingBottom="10dp"
                         android:paddingTop="10dp"
-                        android:text="24,2/30"
+                        android:text="*"
                         android:textAlignment="center"
                         android:textSize="30dp" />
                 </LinearLayout>
 
             </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp"
+                    android:text="Sono soddisfatti del corso che hanno scelto(%)"
+                    android:textAlignment="center"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:id="@+id/stat_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:text="*"
+                        android:textAlignment="center"
+                        android:textSize="30dp" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@android:color/darker_gray"></View>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:text="*"
+                        android:textAlignment="center"
+                        android:textSize="30dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/link_almalaurea"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vuoi saperne di più?"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"/>
 
         </LinearLayout>
 

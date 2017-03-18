@@ -1,5 +1,6 @@
 package com.almaorient.ferno92.almaorienteering.versus;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -33,21 +34,28 @@ import java.util.List;
 
 public class VersusCorsoActivity extends AppCompatActivity {
 
-    String mScuola1;
-    String mScuola2;
-    Spinner mCorso1Spinner;
-    Spinner mCorso2Spinner;
-    DatabaseReference mRef;
-    List<Corso> mListaCorsi1 = new ArrayList<Corso>();
-    List<Corso> mListaCorsi2 = new ArrayList<Corso>();
-    Corso mSelectedCorso1;
+    private String mScuola1;
+    private String mScuola2;
+    private Spinner mCorso1Spinner;
+    private Spinner mCorso2Spinner;
+    private DatabaseReference mRef;
+    private List<Corso> mListaCorsi1 = new ArrayList<Corso>();
+    private List<Corso> mListaCorsi2 = new ArrayList<Corso>();
+    private Corso mSelectedCorso1;
     Corso mSelectedCorso2;
+    ProgressDialog mProgress;
 
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.versus_corso_activity);
+
+        mProgress = new ProgressDialog(this);
+        mProgress.setTitle("Loading");
+        mProgress.setMessage("Stiamo cercando le aule più belle...");
+        mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
+        mProgress.show();
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         this.mRef = database.getReference();

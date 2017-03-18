@@ -1,13 +1,16 @@
 package com.almaorient.ferno92.almaorienteering.versus;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.almaorient.ferno92.almaorienteering.EmbedBrowser;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -48,6 +51,25 @@ public class VersusActivity extends AppCompatActivity {
         this.mPosCorso1 = getIntent().getExtras().getInt("pos1");
         this.mPosCorso2 = getIntent().getExtras().getInt("pos2");
 
+        for(int i = 0; i < VersusSelectorActivity.mElencoScuola1.length; i++){
+            if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola1)){
+                TextView nomeScuola1 = (TextView) findViewById(R.id.nome_scuola_a);
+                nomeScuola1.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
+            }else if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola2)){
+                TextView nomeScuola2 = (TextView) findViewById(R.id.nome_scuola_b);
+                nomeScuola2.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
+            }
+        }
+        AppCompatButton linkButton = (AppCompatButton) findViewById(R.id.link_almalaurea);
+        linkButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent browser = new Intent(VersusActivity.this, EmbedBrowser.class);
+                browser.putExtra("url", "http://www2.almalaurea.it/cgi-php/lau/sondaggi/intro.php?config=profilo");
+                startActivity(browser);
+            }
+        });
+
         this.mStatScroll = (LinearLayout) findViewById(R.id.stat_scroll);
         if(mScuola1 == "tutte"){
             //recupera statistiche generali
@@ -65,7 +87,8 @@ public class VersusActivity extends AppCompatActivity {
                         //Switch loop
                         switch(key){
                             case StatCorsoModel.CORSO:
-
+                                TextView corsoText1 = (TextView) findViewById(R.id.nome_corso_a);
+                                corsoText1.setText(value);
                                 break;
                             case StatCorsoModel.DURATA:
                                 LinearLayout stat3 = (LinearLayout) findViewById(R.id.stat_3);
@@ -85,7 +108,7 @@ public class VersusActivity extends AppCompatActivity {
                             case StatCorsoModel.INCORSO:
                                 LinearLayout stat4 = (LinearLayout) findViewById(R.id.stat_4);
                                 TextView esamiText4 = (TextView) stat4.getChildAt(0);
-                                esamiText4.setText(value);
+                                esamiText4.setText(value + " %");
                                 break;
                             case StatCorsoModel.LAUREA:
                                 LinearLayout stat2 = (LinearLayout) findViewById(R.id.stat_2);
@@ -95,11 +118,14 @@ public class VersusActivity extends AppCompatActivity {
                             case StatCorsoModel.RITARDO:
                                 break;
                             case StatCorsoModel.SODDISFAZIONE:
+                                LinearLayout stat7 = (LinearLayout) findViewById(R.id.stat_7);
+                                TextView esamiText7 = (TextView) stat7.getChildAt(0);
+                                esamiText7.setText(value + " %");
                                 break;
                             case StatCorsoModel.STAGE:
                                 LinearLayout stat6 = (LinearLayout) findViewById(R.id.stat_6);
                                 TextView esamiText6 = (TextView) stat6.getChildAt(0);
-                                esamiText6.setText(value);
+                                esamiText6.setText(value + " %");
                                 break;
                             default:
                                 break;
@@ -134,7 +160,8 @@ public class VersusActivity extends AppCompatActivity {
                         //Switch loop
                         switch(key){
                             case StatCorsoModel.CORSO:
-
+                                TextView corsoText2 = (TextView) findViewById(R.id.nome_corso_b);
+                                corsoText2.setText(value);
                                 break;
                             case StatCorsoModel.DURATA:
                                 LinearLayout stat3 = (LinearLayout) findViewById(R.id.stat_3);
@@ -154,7 +181,7 @@ public class VersusActivity extends AppCompatActivity {
                             case StatCorsoModel.INCORSO:
                                 LinearLayout stat4 = (LinearLayout) findViewById(R.id.stat_4);
                                 TextView esamiText4 = (TextView) stat4.getChildAt(2);
-                                esamiText4.setText(value);
+                                esamiText4.setText(value + " %");
                                 break;
                             case StatCorsoModel.LAUREA:
                                 LinearLayout stat2 = (LinearLayout) findViewById(R.id.stat_2);
@@ -164,11 +191,14 @@ public class VersusActivity extends AppCompatActivity {
                             case StatCorsoModel.RITARDO:
                                 break;
                             case StatCorsoModel.SODDISFAZIONE:
+                                LinearLayout stat7 = (LinearLayout) findViewById(R.id.stat_7);
+                                TextView esamiText7 = (TextView) stat7.getChildAt(2);
+                                esamiText7.setText(value + " %");
                                 break;
                             case StatCorsoModel.STAGE:
                                 LinearLayout stat6 = (LinearLayout) findViewById(R.id.stat_6);
-                                TextView esamiText6 = (TextView) stat6.getChildAt(0);
-                                esamiText6.setText(value);
+                                TextView esamiText6 = (TextView) stat6.getChildAt(2);
+                                esamiText6.setText(value + " %");
                                 break;
                             default:
                                 break;
