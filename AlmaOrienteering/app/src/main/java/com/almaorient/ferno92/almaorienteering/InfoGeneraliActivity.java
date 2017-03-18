@@ -24,10 +24,19 @@ import static com.almaorient.ferno92.almaorienteering.R.id.webview2;
 
 public class InfoGeneraliActivity extends AppCompatActivity {
 
+    //////BROWSER
+    private void richiamoBrowser(String url) {
+        Intent browser = new Intent(this, EmbedBrowser.class);
+        browser.putExtra("url", url);
+        startActivity(browser);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.info_generali);
+
+
 
         final WebView unoWebView = (WebView) findViewById(R.id.webview1);
         unoWebView.loadData(getString(R.string.contatti), "text/html; charset=utf-8", "utf-8");
@@ -52,9 +61,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         ulterioriinfo2Button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("http://www.unibo.it/it/internazionale/studiare-all-estero"));
-                startActivity(i);
+               richiamoBrowser("http://www.unibo.it/it/internazionale/studiare-all-estero");
             }
         });
         final WebView dueWebView = (WebView) findViewById(R.id.webview2);
@@ -104,14 +111,15 @@ public class InfoGeneraliActivity extends AppCompatActivity {
         final ImageView schemaImageView = (ImageView) findViewById(R.id.schema);
         final WebView quattro4WebView = (WebView) findViewById(R.id.webview44);
         final Button ulterioriinfo4Button = (Button) findViewById(R.id.ulterioriinfo4);
+
         ulterioriinfo4Button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario/il-sistema-universitario"));
-                startActivity(i);
+                richiamoBrowser("http://www.unibo.it/it/didattica/iscrizioni-trasferimenti-e-laurea/il-sistema-universitario/il-sistema-universitario");
+
             }
         });
+
 
         quattro4WebView.loadData(getString(R.string.sistemauniv2), "text/html; charset=utf-8", "utf-8");
         final ImageButton quartoplusImageButton = (ImageButton) findViewById(plusquattro);
