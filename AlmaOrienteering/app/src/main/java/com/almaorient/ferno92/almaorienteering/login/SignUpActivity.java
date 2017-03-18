@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.MainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
+import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -22,6 +23,15 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Query;
+import com.google.firebase.database.ValueEventListener;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
@@ -39,10 +49,14 @@ public class SignUpActivity extends AppCompatActivity {
     private FirebaseAnalytics mFirebaseAnalytics;
     private String TAG = "Sign UP";
     private String BASE_EMAIL_TYPE = "@studio.unibo.it";
+    private DatabaseReference mRef;
     EditText mEmailEdit;
     EditText mPwdEdit;
     Spinner mScuolaSpinner;
+    Spinner mCorsoSpinner;
     Scuola mSelectedScuola;
+    Corso mSelectedCorso;
+    private List<Corso> mListaCorsi = new ArrayList<Corso>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +65,9 @@ public class SignUpActivity extends AppCompatActivity {
         setContentView(R.layout.signup_activity);
         mAuth = FirebaseAuth.getInstance();
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
+        final FirebaseDatabase database = FirebaseDatabase.getInstance();
+        this.mRef = database.getReference();
 
         mAuthListener = new FirebaseAuth.AuthStateListener() {
             @Override
@@ -97,6 +114,7 @@ public class SignUpActivity extends AppCompatActivity {
         mEmailEdit = (EditText) findViewById(R.id.email);
         mPwdEdit = (EditText) findViewById(R.id.pwd);
         mScuolaSpinner = (Spinner) findViewById(R.id.scuola_spinner);
+        mCorsoSpinner = (Spinner) findViewById(R.id.corso_spinner);
     }
 
     private void initScuolaArray(){
@@ -118,11 +136,37 @@ public class SignUpActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 mSelectedScuola = (Scuola) mScuolaSpinner.getSelectedItem();
+                mListaCorsi.clear();
+                setSpinnerCorso();
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
 
+            }
+        });
+    }
+
+    private void setSpinnerCorso() {
+        Query query = mRef.child("corso").child(this.mSelectedScuola.getScuolaId()).orderByKey();
+        query.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for(DataSnapshot data : dataSnapshot.getChildren()){
+                    String nome = (String) data.child("corso_descrizione").getValue();
+                    String id = String.valueOf(data.child("corso_codice").getValue());
+
+                    Corso corso = new Corso(id, nome,"","","","");
+                    mListaCorsi.add(corso);
+                }
+                fillSpinner();
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                if(databaseError != null){
+
+                }
             }
         });
     }
@@ -170,6 +214,22 @@ public class SignUpActivity extends AppCompatActivity {
                     Toast.LENGTH_SHORT).show();
         }
 
+    }
+
+    private void fillSpinner(){
+        ArrayAdapter spinnerCorsoArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, mListaCorsi);
+        mCorsoSpinner.setAdapter(spinnerCorsoArrayAdapter);
+        mCorsoSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                mSelectedCorso = (Corso) mCorsoSpinner.getSelectedItem();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
     }
 }
 

@@ -14,6 +14,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -88,6 +89,14 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, VersusSelectorActivity.class);
+                startActivity(i);
+            }
+        });
+        AppCompatButton recensioniButton = (AppCompatButton) findViewById(R.id.recensioni);
+        recensioniButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, RecensioniActivity.class);
                 startActivity(i);
             }
         });
