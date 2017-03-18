@@ -65,7 +65,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentStart="true"
                     android:layout_centerVertical="true"
-                    app:srcCompat="@drawable/logo_unibo" />
+                    app:srcCompat="@drawable/ic_agraria" />
 
             </RelativeLayout>
 
