@@ -4,6 +4,7 @@ import android.content.ClipData;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.AppCompatButton;
+import android.support.v7.widget.AppCompatImageButton;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -13,6 +14,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.RelativeLayout;
 
 import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
@@ -35,6 +37,58 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        RelativeLayout mapButton = (RelativeLayout) findViewById(R.id.mappa);
+        mapButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, MapsActivity.class);
+                startActivity(i);
+            }
+        });
+
+        RelativeLayout elencoscuoleButton = (RelativeLayout) findViewById(R.id.elencoscuole);
+        elencoscuoleButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, ElencoScuoleActivity.class);
+                startActivity(i);
+            }
+        });
+
+        RelativeLayout infoButton = (RelativeLayout) findViewById(R.id.unibo);
+        infoButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, InfoGeneraliActivity.class);
+                startActivity(i);
+            }
+        });
+
+        RelativeLayout calendarButton = (RelativeLayout) findViewById(R.id.calendario);
+        calendarButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, CalendarActivity.class);
+                startActivity(i);
+            }
+        });
+        RelativeLayout statButton = (RelativeLayout) findViewById(R.id.statistiche);
+        statButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, VersusSelectorActivity.class);
+                startActivity(i);
+            }
+        });
+        RelativeLayout recensioniButton = (RelativeLayout) findViewById(R.id.recensioni);
+        recensioniButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, RecensioniActivity.class);
+                startActivity(i);
+            }
+        });
+
         if(this.mAuth.getCurrentUser() != null) {
             DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
             ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -45,61 +99,11 @@ public class MainActivity extends AppCompatActivity
             NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
             navigationView.setNavigationItemSelectedListener(this);
             navigationView.setVisibility(View.VISIBLE);
+
+            recensioniButton.setVisibility(View.VISIBLE);
         }else{
 
         }
-
-        AppCompatButton mapButton = (AppCompatButton) findViewById(R.id.appCompatButton);
-        mapButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, MapsActivity.class);
-                startActivity(i);
-            }
-        });
-
-        AppCompatButton elencoscuoleButton = (AppCompatButton) findViewById(R.id.elencoscuole);
-        elencoscuoleButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, ElencoScuoleActivity.class);
-                startActivity(i);
-            }
-        });
-
-        AppCompatButton infoButton = (AppCompatButton) findViewById(R.id.appCompatButton3);
-        infoButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, InfoGeneraliActivity.class);
-                startActivity(i);
-            }
-        });
-
-        AppCompatButton calendarButton = (AppCompatButton) findViewById(R.id.calendario);
-        calendarButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, CalendarActivity.class);
-                startActivity(i);
-            }
-        });
-        AppCompatButton statButton = (AppCompatButton) findViewById(R.id.statistiche);
-        statButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, VersusSelectorActivity.class);
-                startActivity(i);
-            }
-        });
-        AppCompatButton recensioniButton = (AppCompatButton) findViewById(R.id.recensioni);
-        recensioniButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, RecensioniActivity.class);
-                startActivity(i);
-            }
-        });
     }
 
     @Override

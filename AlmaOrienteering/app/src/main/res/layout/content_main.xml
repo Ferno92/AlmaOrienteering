@@ -17,86 +17,62 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="150dp"
             android:orientation="horizontal">
 
             <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="0"
-                android:padding="150dp">
-
-            </RelativeLayout>
-
-            <RelativeLayout
+                android:id="@+id/unibo"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/appCompatButton3"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_orange_light"-->
-                <!--android:text="L'Unibo si presenta"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/appCompatButton3"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_unibo" />
 
                 <TextView
-                    android:id="@+id/textView49"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton16"
+                    android:layout_below="@id/appCompatButton3"
                     android:layout_marginTop="10dp"
                     android:text="L'Unibo si presenta"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton16"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_unibo" />
 
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/elencoscuole"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/elencoscuole"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_purple"-->
-                <!--android:text="Offerta formativa"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/elencoscuoleButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_elenco_scuole" />
 
                 <TextView
-                    android:id="@+id/textView50"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton17"
+                    android:layout_below="@id/elencoscuoleButton"
                     android:layout_marginTop="10dp"
                     android:text="Offerta formativa"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton17"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_elenco_scuole" />
 
             </RelativeLayout>
 
@@ -104,86 +80,63 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="150dp"
             android:orientation="horizontal">
 
             <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="0"
-                android:padding="150dp">
-
-            </RelativeLayout>
-
-            <RelativeLayout
+                android:id="@+id/mappa"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/appCompatButton"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_blue_light"-->
-                <!--android:text="Mappa"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/mappaButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_mappa" />
 
                 <TextView
-                    android:id="@+id/textView49"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton16"
+                    android:layout_below="@id/mappaButton"
                     android:layout_marginTop="10dp"
                     android:text="Mappa"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton16"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_mappa" />
 
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/scelta"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/appCompatButton4"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_green_light"-->
-                <!--android:text="Perchè scegliere unibo"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/sceltaButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_agraria" />
 
                 <TextView
                     android:id="@+id/textView50"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton17"
+                    android:layout_below="@id/sceltaButton"
                     android:layout_marginTop="10dp"
                     android:text="Perchè scegliere unibo"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton17"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_agraria" />
 
             </RelativeLayout>
 
@@ -191,89 +144,62 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="150dp"
             android:orientation="horizontal">
 
             <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="0"
-                android:padding="150dp">
-
-            </RelativeLayout>
-
-            <RelativeLayout
+                android:id="@+id/statistiche"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/statistiche"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@color/giallo_light"-->
-                <!--android:rotation="0"-->
-                <!--android:text="Statistiche"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp"-->
-                <!--android:translationY="0dp"-->
-                <!--android:translationZ="0dp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/statisticheButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_statistica" />
 
                 <TextView
-                    android:id="@+id/textView49"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton16"
+                    android:layout_below="@id/statisticheButton"
                     android:layout_marginTop="10dp"
                     android:text="Statistiche"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton16"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_statistica" />
 
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/calendario"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/calendario"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@color/unibo_white"-->
-                <!--android:text="calendario"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/calendarioButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_calendario_icona" />
 
                 <TextView
-                    android:id="@+id/textView50"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton17"
+                    android:layout_below="@id/calendarioButton"
                     android:layout_marginTop="10dp"
                     android:text="Calendario"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton17"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_calendario_icona" />
 
             </RelativeLayout>
 
@@ -281,86 +207,63 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="150dp"
             android:orientation="horizontal">
 
             <RelativeLayout
+                android:id="@+id/recensioni"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="0"
-                android:padding="150dp">
+                android:layout_weight="1"
+                android:visibility="gone">
 
-            </RelativeLayout>
-
-            <RelativeLayout
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1">
-
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/recensioni"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_red_light"-->
-                <!--android:text="Recensioni"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/recensioniButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_recensioni" />
 
                 <TextView
-                    android:id="@+id/textView49"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton16"
+                    android:layout_below="@id/recensioniButton"
                     android:layout_marginTop="10dp"
                     android:text="Recensioni"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton16"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_recensioni" />
 
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/guida"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1">
 
-                <!--<android.support.v7.widget.AppCompatButton-->
-                <!--android:id="@+id/guida"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="0dp"-->
-                <!--android:layout_weight="1"-->
-                <!--android:background="@android:color/holo_red_light"-->
-                <!--android:text="guida applicazione"-->
-                <!--android:textColor="@android:color/black"-->
-                <!--android:textSize="24sp" />-->
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/guidaButton"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_centerInParent="true"
+                    android:background="@null"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/ic_guida" />
 
                 <TextView
-                    android:id="@+id/textView50"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/imageButton17"
+                    android:layout_below="@id/guidaButton"
                     android:layout_marginTop="10dp"
                     android:text="Guida Applicazione"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />
 
-                <ImageButton
-                    android:id="@+id/imageButton17"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_guida" />
 
             </RelativeLayout>
 

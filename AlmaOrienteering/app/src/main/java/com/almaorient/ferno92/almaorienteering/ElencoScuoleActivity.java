@@ -1,6 +1,7 @@
 package com.almaorient.ferno92.almaorienteering;
 
 import android.app.ActionBar;
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Paint;
 import android.support.v7.app.AppCompatActivity;
@@ -56,6 +57,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
     private int mPosition = 0;
     private ArrayList<Scuola> mListaScuole = new ArrayList<>();
     private ListView mElencoAgraria;
+    private ProgressDialog mProgress;
 
     private void richiamoPaginaInterna(String nomecorso, String codicecorso, String url, String nomescuola, String tipo, String campus, String accesso) {
         Intent nuovapagina = new Intent(this, DettagliCorsoActivity.class);
@@ -94,6 +96,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         setContentView(R.layout.elenco_scuole);
 
         setTitle("Scuole");
+        mProgress = new ProgressDialog(this);
+        mProgress.setTitle("Loading");
+        mProgress.setMessage("Stiamo recuperando i dati...");
+        mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
+        mProgress.show();
 
         mElencoAgraria = (ListView) findViewById(R.id.listagraria);
 
@@ -227,6 +234,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     }
                 }
                 Log.d("scuole: ", String.valueOf(mListaScuole.size()));
+                mProgress.dismiss();
             }
 
             @Override
