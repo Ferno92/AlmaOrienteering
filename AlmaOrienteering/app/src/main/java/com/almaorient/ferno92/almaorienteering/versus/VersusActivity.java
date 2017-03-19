@@ -78,7 +78,6 @@ public class VersusActivity extends AppCompatActivity {
             query.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    Log.d("prova", "prova");
                     HashMap meMap = (HashMap) dataSnapshot.getValue();
                     Iterator corsoIterator = meMap.keySet().iterator();
                     while(corsoIterator.hasNext()) {
