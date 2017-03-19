@@ -60,7 +60,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_farmacia" />
+                    app:srcCompat="@drawable/ic_unibo" />
 
             </RelativeLayout>
 
@@ -96,7 +96,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_agraria" />
+                    app:srcCompat="@drawable/ic_elenco_scuole" />
 
             </RelativeLayout>
 
@@ -147,7 +147,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_farmacia" />
+                    app:srcCompat="@drawable/ic_mappa" />
 
             </RelativeLayout>
 
@@ -237,7 +237,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_farmacia" />
+                    app:srcCompat="@drawable/ic_statistica" />
 
             </RelativeLayout>
 
@@ -273,7 +273,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_agraria" />
+                    app:srcCompat="@drawable/ic_calendario_icona" />
 
             </RelativeLayout>
 
@@ -324,7 +324,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_farmacia" />
+                    app:srcCompat="@drawable/ic_recensioni" />
 
             </RelativeLayout>
 
@@ -360,7 +360,7 @@
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
                     android:backgroundTint=""
-                    app:srcCompat="@drawable/ic_agraria" />
+                    app:srcCompat="@drawable/ic_guida" />
 
             </RelativeLayout>
 
