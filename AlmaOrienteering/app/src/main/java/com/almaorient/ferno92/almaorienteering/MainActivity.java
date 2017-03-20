@@ -3,8 +3,10 @@ package com.almaorient.ferno92.almaorienteering;
 import android.content.ClipData;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.widget.AppCompatButton;
 import android.support.v7.widget.AppCompatImageButton;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -14,11 +16,25 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Query;
+import com.google.firebase.database.ValueEventListener;
+
+import java.util.HashMap;
+import java.util.Iterator;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
@@ -101,6 +117,38 @@ public class MainActivity extends AppCompatActivity
             navigationView.setVisibility(View.VISIBLE);
 
             recensioniButton.setVisibility(View.VISIBLE);
+
+            LinearLayout navigationHeader =(LinearLayout) navigationView.getHeaderView(0);
+            TextView mailText = (TextView) navigationHeader.findViewById(R.id.logged_user_email);
+            mailText.setText(String.valueOf(this.mAuth.getCurrentUser().getEmail()));
+            Menu navigationMenu = (Menu)navigationView.getMenu();
+            final MenuItem scuolaItem = (MenuItem) navigationMenu.findItem(R.id.nav_share);
+            final MenuItem corsoItem = (MenuItem) navigationMenu.findItem(R.id.nav_send);
+
+
+            final FirebaseDatabase database = FirebaseDatabase.getInstance();
+            DatabaseReference ref = database.getReference();
+            Query query = ref.child("users");
+            query.addListenerForSingleValueEvent(new ValueEventListener() {
+                @Override
+                public void onDataChange(DataSnapshot dataSnapshot) {
+                    for(DataSnapshot data : dataSnapshot.getChildren()){
+                        String id = (String) data.child("userId").getValue();
+                        if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
+                            scuolaItem.setTitle((String) data.child("scuola").getValue());
+                            corsoItem.setTitle((String) data.child("corso").getValue());
+                        }
+                    }
+
+
+                }
+
+                @Override
+                public void onCancelled(DatabaseError databaseError) {
+
+                }
+            });
+
         }else{
 
         }
@@ -123,6 +171,8 @@ public class MainActivity extends AppCompatActivity
         if(this.mAuth.getCurrentUser() != null) {
             MenuItem logout = (MenuItem) menu.findItem(R.id.logout);
             logout.setVisible(true);
+            MenuItem delete = (MenuItem) menu.findItem(R.id.delete_user);
+            delete.setVisible(true);
         }
         return true;
     }
@@ -145,6 +195,20 @@ public class MainActivity extends AppCompatActivity
                 startActivity(i);
                 finish();
             }
+        }else if(id == R.id.delete_user){
+            this.mAuth.getCurrentUser().delete().addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    if (task.isSuccessful()) {
+                        Log.d("Delete:", "User account deleted.");
+                        Intent i = new Intent(MainActivity.this, ChooseActivity.class);
+                        i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
+                        startActivity(i);
+                        finish();
+                    }
+                }
+            });
+
         }
 
         return super.onOptionsItemSelected(item);
@@ -156,15 +220,16 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-
-        } else if (id == R.id.nav_slideshow) {
-
-        } else if (id == R.id.nav_manage) {
-
-        } else if (id == R.id.nav_share) {
+//        if (id == R.id.nav_camera) {
+//            // Handle the camera action
+//        } else if (id == R.id.nav_gallery) {
+//
+//        } else if (id == R.id.nav_slideshow) {
+//
+//        } else if (id == R.id.nav_manage) {
+//
+//        } else
+            if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
 

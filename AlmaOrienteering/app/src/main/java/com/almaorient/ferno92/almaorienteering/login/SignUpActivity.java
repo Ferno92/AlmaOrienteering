@@ -173,7 +173,7 @@ public class SignUpActivity extends AppCompatActivity {
 
     private void createNewUser(){
 
-        String email = mEmailEdit.getText().toString();
+        final String email = mEmailEdit.getText().toString();
         String password = mPwdEdit.getText().toString();
 
         if(!email.isEmpty() && !password.isEmpty()){
@@ -192,9 +192,10 @@ public class SignUpActivity extends AppCompatActivity {
                                             Toast.LENGTH_SHORT).show();
                                 }else{
                                     // Add user properties
-                                    mFirebaseAnalytics.setUserProperty("Scuola", mSelectedScuola.getNome());
-//                                    mFirebaseAnalytics.setUserProperty("Corso", mCorso);
-
+//                                    mFirebaseAnalytics.setUserProperty("Scuola", mSelectedScuola.getNome());
+//                                    mFirebaseAnalytics.setUserProperty("Corso", mSelectedCorso.getNome());
+                                    StudenteUnibo user = new StudenteUnibo(email, "", "", mSelectedCorso.getNome(), mSelectedScuola.getNome());
+                                    mRef.child("users").push().setValue(user);
 
                                     Toast.makeText(SignUpActivity.this, "Authentication succeded",
                                             Toast.LENGTH_SHORT).show();
