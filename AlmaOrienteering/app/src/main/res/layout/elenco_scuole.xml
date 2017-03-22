@@ -70,7 +70,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listagraria"
+                android:id="@+id/listaagraria"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
@@ -124,7 +124,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listeconomia"
+                android:id="@+id/listaeconomia"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
@@ -200,14 +200,14 @@
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="11dp"
                         android:layout_marginStart="11dp"
-                        android:layout_toLeftOf="@+id/giuriplus"
-                        android:layout_toStartOf="@+id/giuriplus"
+                        android:layout_toLeftOf="@+id/giurisprudenzaplus"
+                        android:layout_toStartOf="@+id/giurisprudenzaplus"
                         android:text="Giurisprudenza"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <ImageButton
-                        android:id="@+id/giuriplus"
+                        android:id="@+id/giurisprudenzaplus"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
@@ -229,7 +229,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listagiuri"
+                android:id="@+id/listagiurisprudenza"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
@@ -254,14 +254,14 @@
                         android:layout_alignParentStart="true"
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="11dp"
-                        android:layout_toLeftOf="@+id/ingplus"
-                        android:layout_toStartOf="@+id/ingplus"
+                        android:layout_toLeftOf="@+id/ingegneriaplus"
+                        android:layout_toStartOf="@+id/ingegneriaplus"
                         android:text="Ingegneria e Architettura"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <ImageButton
-                        android:id="@+id/ingplus"
+                        android:id="@+id/ingegneriaplus"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
@@ -283,7 +283,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listaing"
+                android:id="@+id/listaingegneria"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
@@ -467,14 +467,14 @@
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="11dp"
                         android:layout_marginStart="11dp"
-                        android:layout_toLeftOf="@+id/psicoplus"
-                        android:layout_toStartOf="@+id/psicoplus"
+                        android:layout_toLeftOf="@+id/psicologiaplus"
+                        android:layout_toStartOf="@+id/psicologiaplus"
                         android:text="Psicologia e Scienze della Formazione"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <ImageButton
-                        android:id="@+id/psicoplus"
+                        android:id="@+id/psicologiaplus"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
@@ -496,7 +496,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listapsico"
+                android:id="@+id/listapsicologia"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
@@ -573,14 +573,14 @@
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="11dp"
                         android:layout_marginStart="11dp"
-                        android:layout_toLeftOf="@+id/scipolplus"
-                        android:layout_toStartOf="@+id/scipolplus"
+                        android:layout_toLeftOf="@+id/scienze_politicheplus"
+                        android:layout_toStartOf="@+id/scienze_politicheplus"
                         android:text="Scienze Politiche"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
                     <ImageButton
-                        android:id="@+id/scipolplus"
+                        android:id="@+id/scienze_politicheplus"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
@@ -602,7 +602,7 @@
             </RelativeLayout>
 
             <ListView
-                android:id="@+id/listascipol"
+                android:id="@+id/listascienze_politiche"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:visibility="gone" />
