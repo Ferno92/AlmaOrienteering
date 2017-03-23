@@ -55,7 +55,8 @@ public class VersusActivity extends AppCompatActivity {
             if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola1)){
                 TextView nomeScuola1 = (TextView) findViewById(R.id.nome_scuola_a);
                 nomeScuola1.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
-            }else if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola2)){
+            }
+            if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola2)){
                 TextView nomeScuola2 = (TextView) findViewById(R.id.nome_scuola_b);
                 nomeScuola2.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
             }
@@ -82,7 +83,7 @@ public class VersusActivity extends AppCompatActivity {
                     Iterator corsoIterator = meMap.keySet().iterator();
                     while(corsoIterator.hasNext()) {
                         String key=(String)corsoIterator.next();
-                        String value=(String)meMap.get(key);
+                        String value=String.valueOf(meMap.get(key));
                         //Switch loop
                         switch(key){
                             case StatCorsoModel.CORSO:
@@ -155,7 +156,7 @@ public class VersusActivity extends AppCompatActivity {
                     Iterator corsoIterator = meMap.keySet().iterator();
                     while(corsoIterator.hasNext()) {
                         String key=(String)corsoIterator.next();
-                        String value=(String)meMap.get(key);
+                        String value=String.valueOf(meMap.get(key));
                         //Switch loop
                         switch(key){
                             case StatCorsoModel.CORSO:

@@ -38,10 +38,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
     private void pressbutton(String key, final ListView listView) {
         String buttonIDname = key + "plus";
         int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
-        //String listViewIDname = "lista"+key;
-        //int listViewID= getResources().getIdentifier(listViewIDname, "id", getPackageName());
         final ImageButton plusButton = (ImageButton) findViewById(buttonID);
-        //mElenco = (ListView) findViewById(listViewID);
         plusButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -187,7 +184,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaAgraria);
                             mElenco = (ListView) findViewById(listaagraria);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaAgraria.getListaCorsi());
+                            ArrayAdapter<String> adapter = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaAgraria.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter);
@@ -204,7 +201,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaEconomia);
                             mElenco = (ListView) findViewById(R.id.listaeconomia);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaEconomia.getListaCorsi());
+                            ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaEconomia.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter2);
@@ -221,7 +218,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaFarmacia);
                             mElenco = (ListView) findViewById(R.id.listafarmacia);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaFarmacia.getListaCorsi());
+                            ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaFarmacia.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter3);
@@ -238,7 +235,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaGiurisprudenza);
                             mElenco = (ListView) findViewById(R.id.listagiurisprudenza);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter4 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaGiurisprudenza.getListaCorsi());
+                            ArrayAdapter<String> adapter4 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaGiurisprudenza.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter4);
@@ -255,7 +252,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaIngegneria);
                             mElenco = (ListView) findViewById(R.id.listaingegneria);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter5 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaIngegneria.getListaCorsi());
+                            ArrayAdapter<String> adapter5 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaIngegneria.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter5);
@@ -272,7 +269,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaLettere);
                             mElenco = (ListView) findViewById(R.id.listalettere);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter6 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaLettere.getListaCorsi());
+                            ArrayAdapter<String> adapter6 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaLettere.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter6);
@@ -289,7 +286,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolalingue);
                             mElenco = (ListView) findViewById(R.id.listalingue);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter7 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolalingue.getListaCorsi());
+                            ArrayAdapter<String> adapter7 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolalingue.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter7);
@@ -306,7 +303,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaMedicina);
                             mElenco = (ListView) findViewById(R.id.listamedicina);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaMedicina.getListaCorsi());
+                            ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaMedicina.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter8);
@@ -323,7 +320,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaPsicologia);
                             mElenco = (ListView) findViewById(R.id.listapsicologia);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter9 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaPsicologia.getListaCorsi());
+                            ArrayAdapter<String> adapter9 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaPsicologia.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter9);
@@ -340,7 +337,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaScienze);
                             mElenco = (ListView) findViewById(R.id.listascienze);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter10 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaScienze.getListaCorsi());
+                            ArrayAdapter<String> adapter10 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaScienze.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter10);
@@ -357,7 +354,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             mListaScuole.add(scuolaScienze_politiche);
                             mElenco = (ListView) findViewById(R.id.listascienze_politiche);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter11 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, scuolaScienze_politiche.getListaCorsi());
+                            ArrayAdapter<String> adapter11 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaScienze_politiche.getListaCorsi());
 
                             //inietto i dati
                             mElenco.setAdapter(adapter11);

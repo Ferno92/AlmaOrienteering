@@ -70,10 +70,17 @@ public class VersusCorsoActivity extends AppCompatActivity {
     private void initView(){
         mCorso1Spinner = (Spinner) findViewById(R.id.spinner_scuola1);
         mCorso2Spinner = (Spinner) findViewById(R.id.spinner_scuola2);
-        TextView scuola1 = (TextView) findViewById(R.id.text_scuola1);
-        scuola1.setText(this.mScuola1);
-        TextView scuola2 = (TextView) findViewById(R.id.text_scuola2);
-        scuola2.setText(this.mScuola2);
+
+        for(int i = 0; i < VersusSelectorActivity.mElencoScuola1.length; i++){
+            if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola1)){
+                TextView scuola1 = (TextView) findViewById(R.id.text_scuola1);
+                scuola1.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
+            }
+            if(VersusSelectorActivity.mElencoScuola1[i].getScuolaId().equals(this.mScuola2)){
+                TextView scuola2 = (TextView) findViewById(R.id.text_scuola2);
+                scuola2.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
+            }
+        }
 
         if (!this.mScuola1.equals("tutte")) {
             LinearLayout corso1Layout = (LinearLayout) findViewById(R.id.corso1);

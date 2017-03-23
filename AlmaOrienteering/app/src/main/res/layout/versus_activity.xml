@@ -16,7 +16,7 @@
             android:textAlignment="center"
             android:textSize="18sp"
             android:paddingTop="10dp"
-            android:paddingBottom="10dp"/>
+            android:paddingBottom="10dp" />
         <TextView
             android:id="@+id/nome_scuola_b"
             android:layout_width="0dp"
@@ -38,12 +38,11 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Nome corso ANome corso ANome corso A"
-            android:textAlignment="center"
+            android:text="Nome corso A"
             android:textSize="18sp"
+            android:textAlignment="center"
             android:paddingTop="10dp"
-            android:paddingBottom="10dp"
-            android:maxLines="1"/>
+            android:paddingBottom="10dp"/>
         <TextView
             android:id="@+id/nome_corso_b"
             android:layout_width="0dp"
