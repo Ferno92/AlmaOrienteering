@@ -1,11 +1,8 @@
 package com.almaorient.ferno92.almaorienteering;
 
-import android.content.ClipData;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
-import android.support.v7.widget.AppCompatButton;
-import android.support.v7.widget.AppCompatImageButton;
 import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -24,7 +21,6 @@ import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
-import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -32,9 +28,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
-
-import java.util.HashMap;
-import java.util.Iterator;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
@@ -67,6 +60,15 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, ElencoScuoleActivity.class);
+                startActivity(i);
+            }
+        });
+
+        RelativeLayout domusbutton = (RelativeLayout) findViewById(R.id.scelta);
+        domusbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, ModusActivity.class);
                 startActivity(i);
             }
         });

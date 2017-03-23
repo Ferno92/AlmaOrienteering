@@ -60,6 +60,10 @@
             android:name=".recensioni.RecensioniActivity"
             android:label="Recensioni"
             android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ModusActivity"
+            android:label="Modus"
+            android:theme="@style/AppTheme" />
         <activity android:name=".InfoGeneraliActivity" />
         <activity android:name=".ElencoScuoleActivity" />
         <activity android:name=".DettagliCorsoActivity" />
