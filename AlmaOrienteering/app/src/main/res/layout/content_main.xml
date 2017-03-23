@@ -124,7 +124,7 @@
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
-                    app:srcCompat="@drawable/ic_agraria" />
+                    app:srcCompat="@drawable/ic_icona_chat" />
 
                 <TextView
                     android:id="@+id/textView50"
@@ -132,7 +132,7 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/sceltaButton"
                     android:layout_marginTop="10dp"
-                    android:text="Perchè scegliere unibo"
+                    android:text="Modus"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="17sp" />

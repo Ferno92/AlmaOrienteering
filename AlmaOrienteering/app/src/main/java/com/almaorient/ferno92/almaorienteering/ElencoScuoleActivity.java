@@ -47,11 +47,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (listView.getVisibility() == View.GONE) {
                     listView.setVisibility(view.VISIBLE);
-                    plusButton.setImageResource(R.drawable.meno);
+                    plusButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     listView.setVisibility(view.GONE);
-                    plusButton.setImageResource(R.drawable.piu);
+                    plusButton.setImageResource(R.drawable.ic_expand_more);
                 }
             }
 
