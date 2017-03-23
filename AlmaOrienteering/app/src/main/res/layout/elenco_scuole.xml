@@ -54,7 +54,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -108,7 +108,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -161,7 +161,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -214,7 +214,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -268,7 +268,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -322,7 +322,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -375,7 +375,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -428,7 +428,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -481,7 +481,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -534,7 +534,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -587,7 +587,7 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/piu" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
