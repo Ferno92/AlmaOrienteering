@@ -7,11 +7,13 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
@@ -36,20 +38,23 @@ public class ElencoScuoleActivity extends AppCompatActivity {
     private ProgressDialog mProgress;
 
     private void pressbutton(String key, final ListView listView) {
-        String buttonIDname = key + "plus";
+        String buttonIDname = key + "layout";
         int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
-        final ImageButton plusButton = (ImageButton) findViewById(buttonID);
-        plusButton.setOnClickListener(new View.OnClickListener() {
+        final RelativeLayout scuolaLayout = (RelativeLayout) findViewById(buttonID);
+
+        int arrowButtonID = getResources().getIdentifier(key + "plus", "id", getPackageName());
+        final ImageButton arrowButton = (ImageButton) scuolaLayout.findViewById(arrowButtonID);
+        scuolaLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (listView.getVisibility() == View.GONE) {
                     listView.setVisibility(view.VISIBLE);
-                    plusButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     listView.setVisibility(view.GONE);
-                    plusButton.setImageResource(R.drawable.ic_expand_more);
                 }
+                float deg = arrowButton.getRotation() + 180F;
+                arrowButton.animate().rotation(deg).setInterpolator(new AccelerateDecelerateInterpolator());
             }
 
         });
