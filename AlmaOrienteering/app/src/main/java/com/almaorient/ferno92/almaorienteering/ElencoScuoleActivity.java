@@ -14,7 +14,9 @@ import android.widget.ImageButton;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
+import android.widget.ScrollView;
 
+import com.airbnb.lottie.LottieAnimationView;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.google.firebase.database.DataSnapshot;
@@ -35,7 +37,6 @@ public class ElencoScuoleActivity extends AppCompatActivity {
     //private int mPosition = 0;
     private ArrayList<Scuola> mListaScuole = new ArrayList<>();
     private ListView mElenco;
-    private ProgressDialog mProgress;
 
     private void pressbutton(String key, final ListView listView) {
         String buttonIDname = key + "layout";
@@ -125,13 +126,6 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         setContentView(R.layout.elenco_scuole);
 
         setTitle("Scuole");
-        mProgress = new ProgressDialog(this);
-        mProgress.setTitle("Loading");
-        mProgress.setMessage("Stiamo recuperando i dati...");
-        mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
-        mProgress.show();
-
-
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
@@ -376,7 +370,10 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     }
                 }
                 Log.d("scuole: ", String.valueOf(mListaScuole.size()));
-                mProgress.dismiss();
+                LottieAnimationView spiderLoader = (LottieAnimationView)findViewById(R.id.spider_loader) ;
+                spiderLoader.setVisibility(View.GONE);
+                ScrollView scuoleScrollView = (ScrollView) findViewById(R.id.scuoleScrollView);
+                scuoleScrollView.setVisibility(View.VISIBLE);
             }
 
             @Override
