@@ -21,6 +21,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
+import com.almaorient.ferno92.almaorienteering.versus.VersusActivity;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -69,6 +70,15 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         startActivity(browser);
     }
 
+    private void statistiche(String scuola1, String scuola2, int corso1, int corso2) {
+        Intent statistiche = new Intent(this, VersusActivity.class);
+        statistiche.putExtra("scuola1", scuola1);
+        statistiche.putExtra("scuola2", scuola2);
+        statistiche.putExtra("pos1", corso1);
+        statistiche.putExtra("pos2", corso2);
+        startActivity(statistiche);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -81,7 +91,7 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         Button sitocorsobtn = (Button) findViewById(R.id.sitocorsobtn);
 
         String corso = getIntent().getExtras().getString("Vocecliccata");
-        String scuola = getIntent().getExtras().getString("Nomescuola");
+        final String scuola = getIntent().getExtras().getString("Nomescuola");
         final String corsocodice = getIntent().getExtras().getString("Codicecorso");
         final String urlcorso = getIntent().getExtras().getString("Sitocorso");
         final String tipo = getIntent().getExtras().getString("Tipocorso");
@@ -101,6 +111,8 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             }
         });
 
+
+
         final ListView esamiprimoanno = (ListView) findViewById(R.id.primoannolistview);
         final ListView esamisecondoanno = (ListView) findViewById(R.id.secondoannolistview);
         final ListView esamiterzoanno = (ListView) findViewById(R.id.terzoannolistview);
@@ -114,6 +126,34 @@ public class DettagliCorsoActivity extends AppCompatActivity {
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
+
+        final Query posstats =  ref.child("statistiche/"+scuola).orderByChild("codice_corso").equalTo(Integer.parseInt(corsocodice));
+
+        posstats.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for (DataSnapshot data1 : dataSnapshot.getChildren()) {
+                    final String pos = (String) String.valueOf(data1.getKey());
+
+                    final Button buttonstats = (Button) findViewById(R.id.buttonstats);
+
+                    buttonstats.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View view) {
+                                int a = Integer.parseInt(pos);
+                                statistiche(scuola, scuola, a , 0);
+
+                            }
+                        });
+
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+            }
+        });
+
         Query query =  ref.child("esami/"+scuola);
 
         query.addListenerForSingleValueEvent(new ValueEventListener() {
