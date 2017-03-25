@@ -1,0 +1,702 @@
+[
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria dei Processi e dei Sistemi Edilizi",
+    "latitude": 44.414897,
+    "longitude": 12.202986,
+    "indirizzo": "Via Tombesi dell'Ova 55, Ravenna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "bologna",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Ingegneria Edile/Architettura",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "bologna",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Ingegneria Edile/Architettura",
+    "latitude": 44.490224,
+    "longitude": 11.336308,
+    "indirizzo": "Via Saragozza 8, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Design del prodotto industriale",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Design del prodotto industriale",
+    "latitude": 44.491839,
+    "longitude": 11.330174,
+    "indirizzo": "Via Ugo Foscolo, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "cesena",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Architettura",
+    "latitude": 44.145417,
+    "longitude": 12.240676,
+    "indirizzo": "Via Cavalcavia 61, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "cesena",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Architettura",
+    "latitude": 44.145215,
+    "longitude": 12.242034,
+    "indirizzo": "Viale Europa 596, Cesena"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Beni culturali",
+    "latitude": 44.417228,
+    "longitude": 12.201935,
+    "indirizzo": "Via Mariani 5, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Beni culturali",
+    "latitude": 44.418471,
+    "longitude": 12.196938,
+    "indirizzo": "Via Giuseppe Pasolini 23, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Beni culturali",
+    "latitude": 44.419673,
+    "longitude": 12.196863,
+    "indirizzo": "Via S. Vitale 28, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali",
+    "latitude": 44.417228,
+    "longitude": 12.201935,
+    "indirizzo": "Via Mariani 5, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali",
+    "latitude": 44.418471,
+    "longitude": 12.196938,
+    "indirizzo": "Via Giuseppe Pasolini 23, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Cooperazione internazionale, tutela dei diritti umani e dei beni etno-culturali",
+    "latitude": 44.415986,
+    "longitude": 12.195895,
+    "indirizzo": "Piazza Duomo 4 - Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione",
+    "latitude": 44.417228,
+    "longitude": 12.201935,
+    "indirizzo": "Via Mariani 5, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione",
+    "latitude": 44.418471,
+    "longitude": 12.196938,
+    "indirizzo": "Via Giuseppe Pasolini 23, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione",
+    "latitude": 44.419673,
+    "longitude": 12.196863,
+    "indirizzo": "Via S. Vitale 28, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Scienze del libro e del documento",
+    "latitude": 44.417228,
+    "longitude": 12.201935,
+    "indirizzo": "Via Mariani 5, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Scienze del libro e del documento",
+    "latitude": 44.418471,
+    "longitude": 12.196938,
+    "indirizzo": "Via Giuseppe Pasolini 23, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Conservazione e restauro dei beni culturali",
+    "latitude": 44.415756,
+    "longitude": 12.202888,
+    "indirizzo": "VIA Guaccimanni, 42 - Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Conservazione e restauro dei beni culturali",
+    "latitude": 44.420003,
+    "longitude": 12.196164,
+    "indirizzo": "Via S. Vitale 17, Ravenna"
+  },
+  {
+    "Scuola": "lettere",
+    "Dipartimento": "beni culturali",
+    "Sede": "ravenna",
+    "tipo corso": "LMCU",
+    "Corso di laurea": "Conservazione e restauro dei beni culturali",
+    "latitude": 44.420781,
+    "longitude": 12.19534,
+    "indirizzo": "Via Fiandrini, Ravenna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Aerospaziale",
+    "latitude": 44.200129,
+    "longitude": 12.063314,
+    "indirizzo": "Via Fontanelle 40, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Aerospaziale",
+    "latitude": 44.217469,
+    "longitude": 12.044429,
+    "indirizzo": "Via Corridoni 20, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Meccanica (forli)",
+    "latitude": 44.200129,
+    "longitude": 12.063314,
+    "indirizzo": "Via Fontanelle 40, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Meccanica (forli)",
+    "latitude": 44.217469,
+    "longitude": 12.044429,
+    "indirizzo": "Via Corridoni 20, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LM",
+    "Corso di laurea": "Aerospace Engineering",
+    "latitude": 44.200129,
+    "longitude": 12.063314,
+    "indirizzo": "Via Fontanelle 40, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "forli",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Meccanica (forli)",
+    "latitude": 44.200129,
+    "longitude": 12.063314,
+    "indirizzo": "Via Fontanelle 40, Forl?"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Energetica",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Energetica",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Gestionale",
+    "latitude": 44.514822,
+    "longitude": 11.320071,
+    "indirizzo": "Via Terracini 26, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Gestionale",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Gestionale",
+    "latitude": 44.514822,
+    "longitude": 11.320071,
+    "indirizzo": "Via Terracini 26, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Gestionale",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Meccanica (bologna)",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "Ingegneria indutriale",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Meccanica (bologna)",
+    "latitude": 44.487829,
+    "longitude": 11.328905,
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Civile",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Civile",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Chimica e Biochimica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Chimica e Biochimica",
+    "latitude": 44.514669,
+    "longitude": 11.319726,
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio",
+    "latitude": 44.514669,
+    "longitude": 11.319726,
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio",
+    "latitude": 44.514669,
+    "longitude": 11.319726,
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "ravenna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Edile",
+    "latitude": 44.414897,
+    "longitude": 12.202986,
+    "indirizzo": "Via Tombesi dell'Ova 55, Ravenna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Civil Engeneering",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Chimica e di Processo",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dicam",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Chimica e di Processo",
+    "latitude": 44.514669,
+    "longitude": 11.319726,
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Informatica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria e scienze informatiche",
+    "latitude": 44.139776,
+    "longitude": 12.243192,
+    "indirizzo": "Via Sacchi 3, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria e scienze informatiche",
+    "latitude": 44.138561,
+    "longitude": 12.242953,
+    "indirizzo": "Vicolo Carbonari 2, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria e scienze informatiche",
+    "latitude": 44.151295,
+    "longitude": 12.241249,
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria e scienze informatiche",
+    "latitude": 44.151875,
+    "longitude": 12.240651,
+    "indirizzo": "Via Genova 181, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Informatica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "disi",
+    "Sede": "cesena",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria e scienze informatiche",
+    "latitude": 44.139776,
+    "longitude": 12.243192,
+    "indirizzo": "Via Sacchi 3, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria dell'Automazione",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria dell'energia elettrica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria dell'energia elettrica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Elettronica e Telecomunicazioni",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Elettronica",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Elettronica e Telecomunicazioni per l'Energia",
+    "latitude": 44.143352,
+    "longitude": 12.241587,
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria elettronica per l'energia e l'informazione",
+    "latitude": 44.151295,
+    "longitude": 12.241249,
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria elettronica per l'energia e l'informazione",
+    "latitude": 44.151875,
+    "longitude": 12.240651,
+    "indirizzo": "Via Genova 181, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Biomedica",
+    "latitude": 44.151875,
+    "longitude": 12.240651,
+    "indirizzo": "Via Genova 181, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Biomedica",
+    "latitude": 44.143352,
+    "longitude": 12.241587,
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LT",
+    "Corso di laurea": "Ingegneria Biomedica",
+    "latitude": 44.151295,
+    "longitude": 12.241249,
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Automation Engeneering",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Biomedica",
+    "latitude": 44.143352,
+    "longitude": 12.241587,
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "cesena",
+    "tipo corso": "LM",
+    "Corso di laurea": "Ingegneria Biomedica",
+    "latitude": 44.151295,
+    "longitude": 12.241249,
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "dei",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Telecommunications Engeneering",
+    "latitude": 44.488113,
+    "longitude": 11.328422,
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Scuola": "ingegneria",
+    "Dipartimento": "architettura",
+    "Sede": "bologna",
+    "tipo corso": "LM",
+    "Corso di laurea": "Advanced Design",
+    "latitude": 44.490224,
+    "longitude": 11.336308,
+    "indirizzo": "Via Saragozza 8, Bologna"
+  }
+]
