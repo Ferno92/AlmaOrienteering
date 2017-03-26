@@ -68,6 +68,10 @@
             android:name=".ModusActivity"
             android:label="Modus"
             android:theme="@style/AppTheme" />
+        <activity
+            android:name=".InfoAppActivity"
+            android:label="InfoApp"
+            android:theme="@style/AppTheme" />
         <activity android:name=".InfoGeneraliActivity" />
         <activity android:name=".ElencoScuoleActivity" />
         <activity android:name=".DettagliCorsoActivity" />

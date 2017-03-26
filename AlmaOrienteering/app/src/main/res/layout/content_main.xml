@@ -17,7 +17,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_height="190dp"
             android:orientation="horizontal">
 
             <RelativeLayout
@@ -28,8 +28,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/appCompatButton3"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -40,10 +40,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/appCompatButton3"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="L'Unibo si presenta"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -56,8 +58,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/elencoscuoleButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -68,10 +70,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/elencoscuoleButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Offerta formativa"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -80,7 +84,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_height="190dp"
             android:orientation="horizontal">
 
             <RelativeLayout
@@ -91,8 +95,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/mappaButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -103,10 +107,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/mappaButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Mappa"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -119,8 +125,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/sceltaButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -132,10 +138,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/sceltaButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Modus"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -144,7 +152,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_height="190dp"
             android:orientation="horizontal">
 
             <RelativeLayout
@@ -155,8 +163,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/statisticheButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -167,10 +175,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/statisticheButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Statistiche"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -183,8 +193,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/calendarioButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -195,10 +205,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/calendarioButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Calendario"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -207,7 +219,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_height="190dp"
             android:orientation="horizontal">
 
             <RelativeLayout
@@ -219,8 +231,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/recensioniButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -234,7 +246,7 @@
                     android:text="Recensioni"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp" />
 
 
             </RelativeLayout>
@@ -247,8 +259,8 @@
 
                 <android.support.v7.widget.AppCompatImageView
                     android:id="@+id/guidaButton"
-                    android:layout_width="75dp"
-                    android:layout_height="75dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     android:layout_centerInParent="true"
                     android:background="@null"
                     android:scaleType="fitCenter"
@@ -259,10 +271,12 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@id/guidaButton"
                     android:layout_marginTop="10dp"
+                    android:fontFamily="cursive"
                     android:text="Guida Applicazione"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
-                    android:textSize="17sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>

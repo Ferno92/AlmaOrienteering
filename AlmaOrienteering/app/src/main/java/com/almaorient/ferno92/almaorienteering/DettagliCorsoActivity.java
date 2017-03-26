@@ -254,11 +254,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (esamiprimoanno.getVisibility() == View.GONE) {
                     esamiprimoanno.setVisibility(view.VISIBLE);
-                    primoannoplusbtn.setImageResource(R.drawable.meno);
+                    primoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     esamiprimoanno.setVisibility(view.GONE);
-                    primoannoplusbtn.setImageResource(R.drawable.piu);
+                    primoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
                 }
             }
 
@@ -288,11 +288,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (esamisecondoanno.getVisibility() == View.GONE) {
                     esamisecondoanno.setVisibility(view.VISIBLE);
-                    secondoannoplusbtn.setImageResource(R.drawable.meno);
+                    secondoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     esamisecondoanno.setVisibility(view.GONE);
-                    secondoannoplusbtn.setImageResource(R.drawable.piu);
+                    secondoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
                 }
             }
 
@@ -327,11 +327,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 public void onClick(View view) {
                     if (esamiterzoanno.getVisibility() == View.GONE) {
                         esamiterzoanno.setVisibility(view.VISIBLE);
-                        terzoannoplusbtn.setImageResource(R.drawable.meno);
+                        terzoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
 
                     } else {
                         esamiterzoanno.setVisibility(view.GONE);
-                        terzoannoplusbtn.setImageResource(R.drawable.piu);
+                        terzoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
                     }
                 }
 
@@ -370,11 +370,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 public void onClick(View view) {
                     if (esamiquartoanno.getVisibility() == View.GONE) {
                         esamiquartoanno.setVisibility(view.VISIBLE);
-                        quartoannoplusbtn.setImageResource(R.drawable.meno);
+                        quartoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
 
                     } else {
                         esamiquartoanno.setVisibility(view.GONE);
-                        quartoannoplusbtn.setImageResource(R.drawable.piu);
+                        quartoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
                     }
                 }
 
@@ -404,11 +404,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 public void onClick(View view) {
                     if (esamiquintoanno.getVisibility() == View.GONE) {
                         esamiquintoanno.setVisibility(view.VISIBLE);
-                        quintoannoplusbtn.setImageResource(R.drawable.meno);
+                        quintoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
 
                     } else {
                         esamiquintoanno.setVisibility(view.GONE);
-                        quintoannoplusbtn.setImageResource(R.drawable.piu);
+                        quintoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
                     }
                 }
 

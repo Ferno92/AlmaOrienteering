@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Entrando come utente potrai sia informarti su altre facoltà che potrebbero interessarti sia partecipare al nostro super gioco, votando e valutando la tua facoltà e i tuoi corsi"
+        android:text="Registrandoti potrai sia informarti su altre facoltà che potrebbero interessarti, sia partecipare al nostro super gioco votando e valutando la tua facoltà e i tuoi corsi"
         />
 
     <EditText

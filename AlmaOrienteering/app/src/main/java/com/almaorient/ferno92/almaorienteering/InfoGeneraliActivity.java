@@ -47,11 +47,11 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 if (unoWebView.getVisibility() == View.GONE)
                 {
                     unoWebView.setVisibility(view.VISIBLE);
-                    primoplusImageButton.setImageResource(R.drawable.meno);
+                    primoplusImageButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     unoWebView.setVisibility(view.GONE);
-                    primoplusImageButton.setImageResource(R.drawable.piu);
+                    primoplusImageButton.setImageResource(R.drawable.ic_expand_more);
                 }
 
             }
@@ -74,12 +74,12 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 {
                     dueWebView.setVisibility(view.VISIBLE);
                     ulterioriinfo2Button.setVisibility(view.VISIBLE);
-                    secondoplusImageButton.setImageResource(R.drawable.meno);
+                    secondoplusImageButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     dueWebView.setVisibility(view.GONE);
                     ulterioriinfo2Button.setVisibility(view.GONE);
-                    secondoplusImageButton.setImageResource(R.drawable.piu);
+                    secondoplusImageButton.setImageResource(R.drawable.ic_expand_more);
                 }
 
             }
@@ -95,11 +95,11 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                 if (treWebView.getVisibility() == View.GONE)
                 {
                     treWebView.setVisibility(view.VISIBLE);
-                    terzoplusImageButton.setImageResource(R.drawable.meno);
+                    terzoplusImageButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     treWebView.setVisibility(view.GONE);
-                    terzoplusImageButton.setImageResource(R.drawable.piu);
+                    terzoplusImageButton.setImageResource(R.drawable.ic_expand_more);
                 }
 
             }
@@ -132,7 +132,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                     quattro4WebView.setVisibility(view.VISIBLE);
                     schemaImageView.setVisibility(View.VISIBLE);
                     ulterioriinfo4Button.setVisibility(view.VISIBLE);
-                    quartoplusImageButton.setImageResource(R.drawable.meno);
+                    quartoplusImageButton.setImageResource(R.drawable.ic_expand_less);
 
 
                 } else {
@@ -140,7 +140,7 @@ public class InfoGeneraliActivity extends AppCompatActivity {
                     quattro4WebView.setVisibility(view.GONE);
                     schemaImageView.setVisibility(View.GONE);
                     ulterioriinfo4Button.setVisibility(view.GONE);
-                    quartoplusImageButton.setImageResource(R.drawable.piu);
+                    quartoplusImageButton.setImageResource(R.drawable.ic_expand_more);
                 }
 
             }
