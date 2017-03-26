@@ -1,0 +1,52 @@
+Sede;tipo corso;corso_codice;Corso di laurea;latitude;longitude;indirizzo
+Bologna;LM;9021;Advanced Design [LM];44.490.224;11.336.308;Via Saragozza 8, Bologna
+Forli;LM;8769;Aerospace Engineering [LM];44.200.129;12.063.314;Via Fontanelle 40, Forli
+Bologna;LM;8891;Automation Engeneering [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LM;8895;Civil Engeneering [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Cesena;LM;8198;Ingegneria Biomedica [LM];44.143.352;12.241.587;Via Spinelli 176, Cesena
+Cesena;LM;8198;Ingegneria Biomedica [LM];44.151.295;12.241.249;Via Venezia 42, Cesena
+Bologna;LM;8896;Ingegneria Chimica e di Processo [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LM;8896;Ingegneria Chimica e di Processo [LM];44.514.669;11.319.726;Via Terracini 28, Bologna
+Bologna;LM;930;Ingegneria Civile [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Ravenna;LM;8829;Ingegneria dei Processi e dei Sistemi Edilizi [LM];44.414.897;12.202.986;Via Tombesi dell'Ova 55, Ravenna
+Bologna;LM;8611;Ingegneria dell'energia elettrica [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LM;934;Ingegneria Elettronica [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Cesena;LM;8770;Ingegneria Elettronica e Telecomunicazioni per l'Energia [LM];44.143.352;12.241.587;Via Spinelli 176, Cesena
+Bologna;LM;935;Ingegneria Energetica [LM];44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Bologna;LM;936;Ingegneria Gestionale [LM];44.514.822;11.320.071;Via Terracini 26, Bologna
+Bologna;LM;936;Ingegneria Gestionale [LM];44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Bologna;LM;937;Ingegneria Informatica [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LM;938;Ingegneria Meccanica [LM] (Bologna);44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Forli;LM;8771;Ingegneria Meccanica [LM] (Forli);44.200.129;12.063.314;Via Fontanelle 40, Forli
+Bologna;LM;8894;Ingegneria Per l'Ambiente e il territorio [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LM;8894;Ingegneria Per l'Ambiente e il territorio [LM];44.514.669;11.319.726;Via Terracini 28, Bologna
+Bologna;LM;9205;Telecommunications Engeneering [LM];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Cesena;LMCU;881;Architettura [LMCU];44.145.417;12.240.676;Via Cavalcavia 61, Cesena
+Cesena;LMCU;881;Architettura [LMCU];44.145.215;12.242.034;Viale Europa 596, Cesena
+Bologna;LMCU;940;Ingegneria Edile/Architettura [LMCU];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;LMCU;940;Ingegneria Edile/Architettura [LMCU];44.490.224;11.336.308;Via Saragozza 8, Bologna
+Bologna;L;8182;Design del prodotto industriale [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;8182;Design del prodotto industriale [L];44.491.839;11.330.174;Via Ugo Foscolo, Bologna
+Forli;L;8263;Ingegneria Aerospaziale [L];44.200.129;12.063.314;Via Fontanelle 40, Forli
+Forli;L;8263;Ingegneria Aerospaziale [L];44.217.469;12.044.429;Via Corridoni 20, Forli
+Cesena;L;946;Ingegneria Biomedica [L];44.151.875;12.240.651;Via Genova 181, Cesena
+Cesena;L;946;Ingegneria Biomedica [L];44.143.352;12.241.587;Via Spinelli 176, Cesena
+Cesena;L;946;Ingegneria Biomedica [L];44.151.295;12.241.249;Via Venezia 42, Cesena
+Bologna;L;8887;Ingegneria Chimica e Biochimica [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;8887;Ingegneria Chimica e Biochimica [L];44.514.669;11.319.726;Via Terracini 28, Bologna
+Bologna;L;8888;Ingegneria Civile [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;920;Ingegneria dell'Automazione [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;8610;Ingegneria dell'energia elettrica [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Ravenna;L;9199;Ingegneria Edile [L];44.414.897;12.202.986;Via Tombesi dell'Ova 55, Ravenna
+Bologna;L;923;Ingegneria Elettronica e Telecomunicazioni [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Cesena;L;8767;Ingegneria elettronica per l'energia e l'informazione [L];44.151.295;12.241.249;Via Venezia 42, Cesena
+Cesena;L;8767;Ingegneria elettronica per l'energia e l'informazione [L];44.151.875;12.240.651;Via Genova 181, Cesena
+Bologna;L;924;Ingegneria Energetica [L];44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Bologna;L;925;Ingegneria Gestionale [L];44.514.822;11.320.071;Via Terracini 26, Bologna
+Bologna;L;925;Ingegneria Gestionale [L];44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Bologna;L;926;Ingegneria Informatica [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;927;Ingegneria Meccanica [L] (Bologna);44.487.829;11.328.905;Viale Risorgimento 4, Bologna
+Forli;L;949;Ingegneria Meccanica [L] (Forli);44.200.129;12.063.314;Via Fontanelle 40, Forli
+Forli;L;949;Ingegneria Meccanica [L] (Forli);44.217.469;12.044.429;Via Corridoni 20, Forli
+Bologna;L;9198;Ingegneria Per l'Ambiente e il territorio [L];44.488.113;11.328.422;Viale Risorgimento 2, Bologna
+Bologna;L;9198;Ingegneria Per l'Ambiente e il territorio [L];44.514.669;11.319.726;Via Terracini 28, Bologna

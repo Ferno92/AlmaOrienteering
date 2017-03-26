@@ -7,12 +7,16 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
+import android.widget.ScrollView;
 
+import com.airbnb.lottie.LottieAnimationView;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.google.firebase.database.DataSnapshot;
@@ -33,23 +37,25 @@ public class ElencoScuoleActivity extends AppCompatActivity {
     //private int mPosition = 0;
     private ArrayList<Scuola> mListaScuole = new ArrayList<>();
     private ListView mElenco;
-    private ProgressDialog mProgress;
 
     private void pressbutton(String key, final ListView listView) {
-        String buttonIDname = key + "plus";
+        String buttonIDname = key + "layout";
         int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
-        final ImageButton plusButton = (ImageButton) findViewById(buttonID);
-        plusButton.setOnClickListener(new View.OnClickListener() {
+        final RelativeLayout scuolaLayout = (RelativeLayout) findViewById(buttonID);
+
+        int arrowButtonID = getResources().getIdentifier(key + "plus", "id", getPackageName());
+        final ImageButton arrowButton = (ImageButton) scuolaLayout.findViewById(arrowButtonID);
+        scuolaLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (listView.getVisibility() == View.GONE) {
                     listView.setVisibility(view.VISIBLE);
-                    plusButton.setImageResource(R.drawable.ic_expand_less);
 
                 } else {
                     listView.setVisibility(view.GONE);
-                    plusButton.setImageResource(R.drawable.ic_expand_more);
                 }
+                float deg = arrowButton.getRotation() + 180F;
+                arrowButton.animate().rotation(deg).setInterpolator(new AccelerateDecelerateInterpolator());
             }
 
         });
@@ -120,13 +126,6 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         setContentView(R.layout.elenco_scuole);
 
         setTitle("Scuole");
-        mProgress = new ProgressDialog(this);
-        mProgress.setTitle("Loading");
-        mProgress.setMessage("Stiamo recuperando i dati...");
-        mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
-        mProgress.show();
-
-
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
@@ -371,7 +370,10 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                     }
                 }
                 Log.d("scuole: ", String.valueOf(mListaScuole.size()));
-                mProgress.dismiss();
+                LottieAnimationView spiderLoader = (LottieAnimationView)findViewById(R.id.spider_loader) ;
+                spiderLoader.setVisibility(View.GONE);
+                ScrollView scuoleScrollView = (ScrollView) findViewById(R.id.scuoleScrollView);
+                scuoleScrollView.setVisibility(View.VISIBLE);
             }
 
             @Override

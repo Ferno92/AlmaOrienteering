@@ -6,10 +6,20 @@
     android:layout_margin="5dp"
     android:orientation="vertical">
 
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/spider_loader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:lottie_fileName="spider-loader.json"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true" />
+
     <ScrollView
+        android:id="@+id/scuoleScrollView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scrollbars="none">
+        android:scrollbars="none"
+        android:visibility="gone">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -54,7 +64,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
 
                 </RelativeLayout>
 
@@ -76,6 +87,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/economialayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -108,7 +120,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp"/>
 
                 </RelativeLayout>
 
@@ -130,6 +143,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/farmacialayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -161,7 +175,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
 
                 </RelativeLayout>
 
@@ -182,6 +197,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/giurisprudenzalayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -214,7 +230,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp"/>
                 </RelativeLayout>
 
                 <ImageView
@@ -235,12 +252,14 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
                 android:background="@color/SfondoGrigioLight">
 
                 <RelativeLayout
+                    android:id="@+id/ingegnerialayout"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_toEndOf="@+id/logoing"
@@ -268,7 +287,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -289,6 +309,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/letterelayout"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -322,7 +343,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -343,6 +365,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/linguelayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -375,7 +398,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -396,6 +420,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/medicinalayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -428,7 +453,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -449,6 +475,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/psicologialayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -481,7 +508,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -502,6 +530,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/scienzelayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -534,7 +563,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView
@@ -555,6 +585,7 @@
                 android:visibility="gone" />
 
             <RelativeLayout
+                android:id="@+id/scienze_politichelayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
@@ -587,7 +618,8 @@
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more" />
+                        app:srcCompat="@drawable/ic_expand_more"
+                        android:layout_margin="15dp" />
                 </RelativeLayout>
 
                 <ImageView

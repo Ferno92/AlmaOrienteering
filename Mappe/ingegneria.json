@@ -1,0 +1,461 @@
+[
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 9021,
+    "Corso di laurea": "Advanced Design [LM]",
+    "latitude": "44.490.224",
+    "longitude": "11.336.308",
+    "indirizzo": "Via Saragozza 8, Bologna"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "LM",
+    "corso_codice": 8769,
+    "Corso di laurea": "Aerospace Engineering [LM]",
+    "latitude": "44.200.129",
+    "longitude": "12.063.314",
+    "indirizzo": "Via Fontanelle 40, Forli"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8891,
+    "Corso di laurea": "Automation Engeneering [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8895,
+    "Corso di laurea": "Civil Engeneering [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "LM",
+    "corso_codice": 8198,
+    "Corso di laurea": "Ingegneria Biomedica [LM]",
+    "latitude": "44.143.352",
+    "longitude": "12.241.587",
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "LM",
+    "corso_codice": 8198,
+    "Corso di laurea": "Ingegneria Biomedica [LM]",
+    "latitude": "44.151.295",
+    "longitude": "12.241.249",
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8896,
+    "Corso di laurea": "Ingegneria Chimica e di Processo [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8896,
+    "Corso di laurea": "Ingegneria Chimica e di Processo [LM]",
+    "latitude": "44.514.669",
+    "longitude": "11.319.726",
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 930,
+    "Corso di laurea": "Ingegneria Civile [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Ravenna",
+    "tipo corso": "LM",
+    "corso_codice": 8829,
+    "Corso di laurea": "Ingegneria dei Processi e dei Sistemi Edilizi [LM]",
+    "latitude": "44.414.897",
+    "longitude": "12.202.986",
+    "indirizzo": "Via Tombesi dell'Ova 55, Ravenna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8611,
+    "Corso di laurea": "Ingegneria dell'energia elettrica [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 934,
+    "Corso di laurea": "Ingegneria Elettronica [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "LM",
+    "corso_codice": 8770,
+    "Corso di laurea": "Ingegneria Elettronica e Telecomunicazioni per l'Energia [LM]",
+    "latitude": "44.143.352",
+    "longitude": "12.241.587",
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 935,
+    "Corso di laurea": "Ingegneria Energetica [LM]",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 936,
+    "Corso di laurea": "Ingegneria Gestionale [LM]",
+    "latitude": "44.514.822",
+    "longitude": "11.320.071",
+    "indirizzo": "Via Terracini 26, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 936,
+    "Corso di laurea": "Ingegneria Gestionale [LM]",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 937,
+    "Corso di laurea": "Ingegneria Informatica [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 938,
+    "Corso di laurea": "Ingegneria Meccanica [LM] (Bologna)",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "LM",
+    "corso_codice": 8771,
+    "Corso di laurea": "Ingegneria Meccanica [LM] (Forli)",
+    "latitude": "44.200.129",
+    "longitude": "12.063.314",
+    "indirizzo": "Via Fontanelle 40, Forli"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8894,
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 8894,
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio [LM]",
+    "latitude": "44.514.669",
+    "longitude": "11.319.726",
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LM",
+    "corso_codice": 9205,
+    "Corso di laurea": "Telecommunications Engeneering [LM]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "LMCU",
+    "corso_codice": 881,
+    "Corso di laurea": "Architettura [LMCU]",
+    "latitude": "44.145.417",
+    "longitude": "12.240.676",
+    "indirizzo": "Via Cavalcavia 61, Cesena"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "LMCU",
+    "corso_codice": 881,
+    "Corso di laurea": "Architettura [LMCU]",
+    "latitude": "44.145.215",
+    "longitude": "12.242.034",
+    "indirizzo": "Viale Europa 596, Cesena"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LMCU",
+    "corso_codice": 940,
+    "Corso di laurea": "Ingegneria Edile/Architettura [LMCU]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "LMCU",
+    "corso_codice": 940,
+    "Corso di laurea": "Ingegneria Edile/Architettura [LMCU]",
+    "latitude": "44.490.224",
+    "longitude": "11.336.308",
+    "indirizzo": "Via Saragozza 8, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8182,
+    "Corso di laurea": "Design del prodotto industriale [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8182,
+    "Corso di laurea": "Design del prodotto industriale [L]",
+    "latitude": "44.491.839",
+    "longitude": "11.330.174",
+    "indirizzo": "Via Ugo Foscolo, Bologna"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "L",
+    "corso_codice": 8263,
+    "Corso di laurea": "Ingegneria Aerospaziale [L]",
+    "latitude": "44.200.129",
+    "longitude": "12.063.314",
+    "indirizzo": "Via Fontanelle 40, Forli"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "L",
+    "corso_codice": 8263,
+    "Corso di laurea": "Ingegneria Aerospaziale [L]",
+    "latitude": "44.217.469",
+    "longitude": "12.044.429",
+    "indirizzo": "Via Corridoni 20, Forli"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "L",
+    "corso_codice": 946,
+    "Corso di laurea": "Ingegneria Biomedica [L]",
+    "latitude": "44.151.875",
+    "longitude": "12.240.651",
+    "indirizzo": "Via Genova 181, Cesena"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "L",
+    "corso_codice": 946,
+    "Corso di laurea": "Ingegneria Biomedica [L]",
+    "latitude": "44.143.352",
+    "longitude": "12.241.587",
+    "indirizzo": "Via Spinelli 176, Cesena"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "L",
+    "corso_codice": 946,
+    "Corso di laurea": "Ingegneria Biomedica [L]",
+    "latitude": "44.151.295",
+    "longitude": "12.241.249",
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8887,
+    "Corso di laurea": "Ingegneria Chimica e Biochimica [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8887,
+    "Corso di laurea": "Ingegneria Chimica e Biochimica [L]",
+    "latitude": "44.514.669",
+    "longitude": "11.319.726",
+    "indirizzo": "Via Terracini 28, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8888,
+    "Corso di laurea": "Ingegneria Civile [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 920,
+    "Corso di laurea": "Ingegneria dell'Automazione [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 8610,
+    "Corso di laurea": "Ingegneria dell'energia elettrica [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Ravenna",
+    "tipo corso": "L",
+    "corso_codice": 9199,
+    "Corso di laurea": "Ingegneria Edile [L]",
+    "latitude": "44.414.897",
+    "longitude": "12.202.986",
+    "indirizzo": "Via Tombesi dell'Ova 55, Ravenna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 923,
+    "Corso di laurea": "Ingegneria Elettronica e Telecomunicazioni [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "L",
+    "corso_codice": 8767,
+    "Corso di laurea": "Ingegneria elettronica per l'energia e l'informazione [L]",
+    "latitude": "44.151.295",
+    "longitude": "12.241.249",
+    "indirizzo": "Via Venezia 42, Cesena"
+  },
+  {
+    "Sede": "Cesena",
+    "tipo corso": "L",
+    "corso_codice": 8767,
+    "Corso di laurea": "Ingegneria elettronica per l'energia e l'informazione [L]",
+    "latitude": "44.151.875",
+    "longitude": "12.240.651",
+    "indirizzo": "Via Genova 181, Cesena"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 924,
+    "Corso di laurea": "Ingegneria Energetica [L]",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 925,
+    "Corso di laurea": "Ingegneria Gestionale [L]",
+    "latitude": "44.514.822",
+    "longitude": "11.320.071",
+    "indirizzo": "Via Terracini 26, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 925,
+    "Corso di laurea": "Ingegneria Gestionale [L]",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 926,
+    "Corso di laurea": "Ingegneria Informatica [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 927,
+    "Corso di laurea": "Ingegneria Meccanica [L] (Bologna)",
+    "latitude": "44.487.829",
+    "longitude": "11.328.905",
+    "indirizzo": "Viale Risorgimento 4, Bologna"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "L",
+    "corso_codice": 949,
+    "Corso di laurea": "Ingegneria Meccanica [L] (Forli)",
+    "latitude": "44.200.129",
+    "longitude": "12.063.314",
+    "indirizzo": "Via Fontanelle 40, Forli"
+  },
+  {
+    "Sede": "Forli",
+    "tipo corso": "L",
+    "corso_codice": 949,
+    "Corso di laurea": "Ingegneria Meccanica [L] (Forli)",
+    "latitude": "44.217.469",
+    "longitude": "12.044.429",
+    "indirizzo": "Via Corridoni 20, Forli"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 9198,
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio [L]",
+    "latitude": "44.488.113",
+    "longitude": "11.328.422",
+    "indirizzo": "Viale Risorgimento 2, Bologna"
+  },
+  {
+    "Sede": "Bologna",
+    "tipo corso": "L",
+    "corso_codice": 9198,
+    "Corso di laurea": "Ingegneria Per l'Ambiente e il territorio [L]",
+    "latitude": "44.514.669",
+    "longitude": "11.319.726",
+    "indirizzo": "Via Terracini 28, Bologna"
+  }
+]
