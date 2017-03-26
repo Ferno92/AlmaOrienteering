@@ -39,7 +39,7 @@
         <activity
             android:name=".MapsActivity"
             android:label="Map"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.Browser" />
         <activity
             android:name=".CalendarActivity"
             android:label="Eventi AlmaOrienta"

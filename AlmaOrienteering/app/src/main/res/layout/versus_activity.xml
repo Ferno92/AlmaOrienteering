@@ -368,7 +368,7 @@
                     android:layout_height="wrap_content"
                     android:paddingBottom="10dp"
                     android:paddingTop="10dp"
-                    android:text="Sono soddisfatti del corso che hanno scelto(%)"
+                    android:text="Sono decisamente soddisfatti del corso che hanno scelto(%)"
                     android:textAlignment="center"
                     android:textSize="18sp" />
 

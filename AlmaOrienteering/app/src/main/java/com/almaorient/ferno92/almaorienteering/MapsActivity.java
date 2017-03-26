@@ -136,7 +136,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         ArrayAdapter spinnerScuolaArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, this.mScuolaadatt);
         mScuolaSpinner = (Spinner) findViewById(R.id.spinnerscuola);
         mScuolaSpinner.setAdapter(spinnerScuolaArrayAdapter);
+        initMap();
         mScuolaSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 mSelectedScuola = (Scuola) mScuolaSpinner.getSelectedItem();
@@ -251,14 +253,21 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap map) {
         this.mMap = map;
+        //this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.496233,11.354185), 13.0f));
 
 
         for (IndirizziModel indirizzi : this.mListaIndirizzi) {
             if (indirizzi.getLatitudine() != null) {
                 map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine())));
             }
+            if (mScuolaSpinner.getSelectedItemPosition()!=0) {
+                this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 18.0f));
+            }
+            else {
+                this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.496233,11.354185), 18.0f));
+            }
         }
-        this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.32, 11.78), 8.0f));
+
         //map.addMarker(LatLng)
 
         //map.addMarker()
