@@ -9,10 +9,10 @@ public class StudenteUnibo {
     private String mId;
     private String mNome;
     private String mCognome;
-    private String mCorso;
+    private CorsoSignUp mCorso;
     private String mScuola;
 
-    public StudenteUnibo(String id, String nome, String cognome, String corso, String scuola){
+    public StudenteUnibo(String id, String nome, String cognome, CorsoSignUp corso, String scuola){
         this.mId = id;
         this.mNome = nome;
         this.mCognome = cognome;
@@ -24,7 +24,7 @@ public class StudenteUnibo {
         return mCognome;
     }
 
-    public String getCorso() {
+    public CorsoSignUp getCorso() {
         return mCorso;
     }
 
@@ -39,4 +39,5 @@ public class StudenteUnibo {
     public String getScuola() {
         return mScuola;
     }
+
 }

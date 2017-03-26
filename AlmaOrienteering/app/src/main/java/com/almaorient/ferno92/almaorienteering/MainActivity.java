@@ -29,6 +29,9 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
+import java.util.HashMap;
+import java.util.Iterator;
+
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
 public class MainActivity extends AppCompatActivity
@@ -147,7 +150,24 @@ public class MainActivity extends AppCompatActivity
                         String id = (String) data.child("userId").getValue();
                         if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
                             scuolaItem.setTitle((String) data.child("scuola").getValue());
-                            corsoItem.setTitle((String) data.child("corso").getValue());
+                            HashMap corsoMap = (HashMap) data.child("corso").getValue();
+                            Iterator corsoIterator = corsoMap.keySet().iterator();
+                            String nomeCorso = "";
+                            while (corsoIterator.hasNext()) {
+                                String corsoKey = (String) corsoIterator.next();
+                                switch (corsoKey) {
+                                    case "id":
+
+                                        break;
+                                    case "nome":
+                                        nomeCorso = String.valueOf(corsoMap.get(corsoKey));
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+
+                            corsoItem.setTitle(nomeCorso);
                         }
                     }
 

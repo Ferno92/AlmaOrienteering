@@ -194,7 +194,9 @@ public class SignUpActivity extends AppCompatActivity {
                                     // Add user properties
 //                                    mFirebaseAnalytics.setUserProperty("Scuola", mSelectedScuola.getNome());
 //                                    mFirebaseAnalytics.setUserProperty("Corso", mSelectedCorso.getNome());
-                                    StudenteUnibo user = new StudenteUnibo(email, "", "", mSelectedCorso.getNome(), mSelectedScuola.getNome());
+                                    StudenteUnibo user = new StudenteUnibo(email, "", "",
+                                            new CorsoSignUp(Integer.valueOf(mSelectedCorso.getScuolaId()), mSelectedCorso.getNome()),
+                                            mSelectedScuola.getNome());
                                     mRef.child("users").push().setValue(user);
 
                                     Toast.makeText(SignUpActivity.this, "Authentication succeded",
