@@ -210,6 +210,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //int i = 0;
                         mListaIndirizzi.clear();
+                        if(mMap != null){
+                            mMap.clear();
+                        }
                         for (DataSnapshot data : dataSnapshot.getChildren()) {
                             final String codicecorso = String.valueOf(data.child("corso_codice").getValue());
 
@@ -254,8 +257,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             if (indirizzi.getLatitudine() != null) {
                 map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine())));
             }
-            this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 11.0f));
         }
+        this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.32, 11.78), 8.0f));
         //map.addMarker(LatLng)
 
         //map.addMarker()
@@ -265,7 +268,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void initMap(){
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(map);
-        //mapFragment.getMapAsync(this);
+
         mapFragment.getMapAsync(this);
 
 
