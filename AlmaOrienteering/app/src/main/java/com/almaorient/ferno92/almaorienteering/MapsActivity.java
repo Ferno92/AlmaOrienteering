@@ -37,6 +37,7 @@ import com.google.firebase.database.ValueEventListener;
 import com.google.maps.android.clustering.Cluster;
 import com.google.maps.android.clustering.ClusterManager;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -62,6 +63,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
 
+
+
     public static final Scuola[] mScuolaadatt = new Scuola[]{
             new Scuola("", "Seleziona scuola"),
             new Scuola("agraria", "Agraria e Medicina veterinaria"),
@@ -80,12 +83,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private List<Corso> mListaCorsi = new ArrayList<Corso>();
     private ArrayList<IndirizziModel> mListaIndirizzi = new ArrayList<IndirizziModel>();
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.maps_activity);
-
-
 
 //        mProgress = new ProgressDialog(this);
 //        mProgress.setTitle("Loading");
@@ -196,15 +198,18 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 mSelectedCorso = (Corso) mCorsoSpinner.getSelectedItem();
+                String codicecorso = mSelectedCorso.getScuolaId();
 
                 final FirebaseDatabase database = FirebaseDatabase.getInstance();
                 DatabaseReference ref = database.getReference();
 
-                Query query2 = ref.child("mappe/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId());
+                Query query2 = ref.child("mappe/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId())
+                        .orderByChild("corso_codice").equalTo(Integer.parseInt(codicecorso));
                 query2.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //int i = 0;
+                        mListaIndirizzi.clear();
                         for (DataSnapshot data : dataSnapshot.getChildren()) {
                             final String codicecorso = String.valueOf(data.child("corso_codice").getValue());
 
@@ -249,6 +254,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             if (indirizzi.getLatitudine() != null) {
                 map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine())));
             }
+            this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 11.0f));
         }
         //map.addMarker(LatLng)
 
