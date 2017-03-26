@@ -302,7 +302,7 @@
                 android:text="Il corso in numeri: statistiche da Almalaurea" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/button_recensioni"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Cosa ne pensano gli studenti" />

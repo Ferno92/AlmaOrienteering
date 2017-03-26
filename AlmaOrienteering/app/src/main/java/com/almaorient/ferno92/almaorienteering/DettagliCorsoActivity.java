@@ -21,6 +21,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
+import com.almaorient.ferno92.almaorienteering.recensioni.ListaRecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusActivity;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -89,8 +90,9 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         TextView campuscorsoText = (TextView) findViewById(R.id.campustxtview);
         TextView accessoText = (TextView) findViewById(R.id.tipoaccessoview);
         Button sitocorsobtn = (Button) findViewById(R.id.sitocorsobtn);
+        Button recensioniCorsoButton = (Button) findViewById(R.id.button_recensioni);
 
-        String corso = getIntent().getExtras().getString("Vocecliccata");
+        final String corso = getIntent().getExtras().getString("Vocecliccata");
         final String scuola = getIntent().getExtras().getString("Nomescuola");
         final String corsocodice = getIntent().getExtras().getString("Codicecorso");
         final String urlcorso = getIntent().getExtras().getString("Sitocorso");
@@ -111,7 +113,14 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             }
         });
 
-
+        recensioniCorsoButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent recensioniIntent = new Intent(getApplicationContext(), ListaRecensioniActivity.class);
+                recensioniIntent.putExtra("nome_corso", corso);
+                startActivity(recensioniIntent);
+            }
+        });
 
         final ListView esamiprimoanno = (ListView) findViewById(R.id.primoannolistview);
         final ListView esamisecondoanno = (ListView) findViewById(R.id.secondoannolistview);

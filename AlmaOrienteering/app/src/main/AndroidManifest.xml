@@ -61,6 +61,10 @@
             android:label="Recensioni"
             android:theme="@style/AppTheme" />
         <activity
+            android:name=".recensioni.ListaRecensioniActivity"
+            android:label="Recensioni"
+            android:theme="@style/AppTheme" />
+        <activity
             android:name=".ModusActivity"
             android:label="Modus"
             android:theme="@style/AppTheme" />
