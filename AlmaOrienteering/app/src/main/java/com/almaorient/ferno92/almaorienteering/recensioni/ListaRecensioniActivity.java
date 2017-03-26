@@ -55,7 +55,7 @@ public class ListaRecensioniActivity extends BaseActivity {
         }
         float ratingMedio = round((sum / recensioni.length), 2);
         TextView media = (TextView)findViewById(R.id.media_rating);
-        media.setText(String.valueOf(ratingMedio));
+        media.setText(String.valueOf(ratingMedio) + " / 5");
 
         //Questa è la lista che rappresenta la sorgente dei dati della listview
         //ogni elemento è una mappa(chiave->valore)
