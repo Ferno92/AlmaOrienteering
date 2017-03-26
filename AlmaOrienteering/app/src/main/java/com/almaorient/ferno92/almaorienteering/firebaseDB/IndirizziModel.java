@@ -6,11 +6,11 @@ package com.almaorient.ferno92.almaorienteering.firebaseDB;
 
 public class IndirizziModel {
     public String mCodice;
-    public String mLatitudine;
-    public String mLongitudine;
+    public Double mLatitudine;
+    public Double mLongitudine;
 
 
-    public IndirizziModel(String codice, String latitudine, String longitudine){
+    public IndirizziModel(String codice, Double latitudine, Double longitudine){
         this.mCodice = codice;
         this.mLatitudine = latitudine;
         this.mLongitudine = longitudine;
@@ -21,10 +21,10 @@ public class IndirizziModel {
     }
 
 
-    public String getLatitudine(){
+    public Double getLatitudine(){
         return this.mLatitudine;
     }
-    public String getLongitudine(){
+    public Double getLongitudine(){
         return this.mLongitudine;
     }
 

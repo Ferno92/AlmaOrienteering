@@ -208,8 +208,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         for (DataSnapshot data : dataSnapshot.getChildren()) {
                             final String codicecorso = String.valueOf(data.child("corso_codice").getValue());
 
-                            String latitude = (String) data.child("latitude").getValue();
-                            String longitude = (String) data.child("longitude").getValue();
+                            Double latitude = (Double) data.child("latitude").getValue();
+                            Double longitude = (Double) data.child("longitude").getValue();
 
                             IndirizziModel address = new IndirizziModel(codicecorso, latitude, longitude);
                             mListaIndirizzi.add(address);
@@ -246,8 +246,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
         for (IndirizziModel indirizzi : this.mListaIndirizzi) {
-            if (!indirizzi.getLatitudine().isEmpty()) {
-                map.addMarker(new MarkerOptions().position(new LatLng(Double.valueOf(indirizzi.getLatitudine()), 44)));
+            if (indirizzi.getLatitudine() != null) {
+                map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine())));
             }
         }
         //map.addMarker(LatLng)
