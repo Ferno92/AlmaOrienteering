@@ -7,9 +7,15 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.FragmentActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 
 import com.almaorient.ferno92.almaorienteering.firebaseDB.AulaMarker;
 import com.almaorient.ferno92.almaorienteering.firebaseDB.AulaModel;
+import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
+import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
@@ -36,9 +42,34 @@ import java.util.List;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
     List<AulaModel> mListaAule = new ArrayList<AulaModel>();
+
     private ClusterManager<AulaMarker> mClusterManager;
     ProgressDialog mProgress;
     GoogleMap mMap;
+
+    Spinner mScuolaSpinner;
+    Spinner mCorsoSpinner;
+    Scuola mSelectedScuola;
+    Corso mSelectedCorso;
+
+    final List Corsi = new ArrayList();
+
+    public static final Scuola[] mScuolaadatt = new Scuola[]{
+            //new Scuola("tutte", "Tutte le scuole"),
+            new Scuola("agraria", "Agraria e Medicina veterinaria"),
+            new Scuola("economia", "Economia, Mangement e Statistica"),
+            new Scuola("farmacia", "Farmacia, Biotecnologie e Scienze motorie"),
+            new Scuola("giurisprudenza", "Giurisprudenza"),
+            new Scuola("ingegneria", "Ingegneria e architettura"),
+            new Scuola("lettere", "Lettere e Beni culturali"),
+            new Scuola("lingue", "Lingue e letterature, Traduzione e Interpretazione"),
+            new Scuola("medicina", "Medicina e Chirurgia"),
+            new Scuola("psicologia", "Psicologia e Scienze della formazione"),
+            new Scuola("scienze", "Scienze"),
+            new Scuola("scienze_politiche", "Scienze politiche")
+    };
+
+    private List<Corso> mListaCorsi = new ArrayList<Corso>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,18 +78,21 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         mProgress = new ProgressDialog(this);
         mProgress.setTitle("Loading");
-        mProgress.setMessage("Stiamo cercando le aule più belle...");
+        mProgress.setMessage("Stiamo caricando i dati");
         mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
         mProgress.show();
+
+        initScuolaArray();
+
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
 
-        Query query = ref.child("aule").orderByKey();
-        query.addListenerForSingleValueEvent(new ValueEventListener() {
+        Query query2 = ref.child("aule").orderByKey();
+        query2.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                for(DataSnapshot data : dataSnapshot.getChildren()){
+                for (DataSnapshot data : dataSnapshot.getChildren()) {
                     String codice = (String) data.child("aula_codice").getValue();
                     String nome = (String) data.child("aula_nome").getValue();
                     String indirizzo = (String) data.child("aula_indirizzo").getValue();
@@ -75,12 +109,76 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
             @Override
             public void onCancelled(DatabaseError databaseError) {
-                if(databaseError != null){
+                if (databaseError != null) {
 
                 }
             }
         });
 
+    }
+
+    private void initScuolaArray(){
+        ArrayAdapter spinnerScuolaArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, this.mScuolaadatt);
+        mScuolaSpinner = (Spinner) findViewById(R.id.spinnerscuola);
+        mScuolaSpinner.setAdapter(spinnerScuolaArrayAdapter);
+        mScuolaSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                mSelectedScuola = (Scuola) mScuolaSpinner.getSelectedItem();
+
+                final FirebaseDatabase database = FirebaseDatabase.getInstance();
+                DatabaseReference ref = database.getReference();
+
+                Query query = ref.child("mappe/"+mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId());
+                query.addListenerForSingleValueEvent(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot dataSnapshot) {
+                        int i = 0;
+                        for (DataSnapshot data : dataSnapshot.getChildren()) {
+                            String nome = (String) data.child("Corso di laurea").getValue();
+                            String id = String.valueOf(i);
+
+                            Corso corso = new Corso(id, nome, "", "", "", "");
+                            mListaCorsi.add(corso);
+                            i++;
+                        }
+                        //Log.d("size lista aule", String.valueOf(mListaAule.size()));
+                        //initMap();
+                        initCorsoArray();
+                    }
+
+                    @Override
+                    public void onCancelled(DatabaseError databaseError) {
+                        if (databaseError != null) {
+
+                        }
+                    }
+                });
+            }
+
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+    }
+
+    private void initCorsoArray(){
+        ArrayAdapter spinnerCorsoArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, this.mListaCorsi);
+        mCorsoSpinner = (Spinner) findViewById(R.id.spinnercorso);
+        mCorsoSpinner.setAdapter(spinnerCorsoArrayAdapter);
+        mCorsoSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                mSelectedCorso = (Corso) mCorsoSpinner.getSelectedItem();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
     }
 
     @Override
