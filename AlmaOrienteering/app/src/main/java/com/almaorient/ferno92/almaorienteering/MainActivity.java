@@ -64,11 +64,20 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        RelativeLayout domusbutton = (RelativeLayout) findViewById(R.id.scelta);
-        domusbutton.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout modusButton = (RelativeLayout) findViewById(R.id.scelta);
+        modusButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, ModusActivity.class);
+                startActivity(i);
+            }
+        });
+
+        RelativeLayout guidaButton = (RelativeLayout) findViewById(R.id.guida);
+        guidaButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this, InfoAppActivity.class);
                 startActivity(i);
             }
         });
