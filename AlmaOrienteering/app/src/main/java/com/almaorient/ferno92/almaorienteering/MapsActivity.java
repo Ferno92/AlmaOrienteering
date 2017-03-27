@@ -22,6 +22,7 @@ import com.almaorient.ferno92.almaorienteering.firebaseDB.IndirizziModel;
 import com.almaorient.ferno92.almaorienteering.firebaseDB.ScuoleMarker;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
+import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
@@ -51,7 +52,10 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
+import static android.R.attr.fillType;
+import static android.R.attr.padding;
 import static com.almaorient.ferno92.almaorienteering.R.id.all;
+import static com.almaorient.ferno92.almaorienteering.R.id.center;
 import static com.almaorient.ferno92.almaorienteering.R.id.map;
 import static com.almaorient.ferno92.almaorienteering.R.id.suggestion;
 
@@ -368,15 +372,27 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void onMapReady(GoogleMap map) {
         this.mMap = map;
 
-        if (mCorsoSpinner.getSelectedItemPosition()!=0) {
+        if (mCorsoSpinner.getSelectedItemPosition()!=0 && !mListaIndirizzi.isEmpty()) {
+            LatLngBounds.Builder builder = new LatLngBounds.Builder();
             for (IndirizziModel indirizzi : this.mListaIndirizzi) {
                 if (indirizzi.getLatitudine() != null) {
                     map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()))
                             .title(indirizzi.getCorso()).snippet(indirizzi.getIndirizzo()));
+
                 }
-                this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 15.0f));
+
+                LatLng pos = new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine());
+                builder.include(pos);
+                //this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 15.0f));
             }
+            LatLngBounds bounds = builder.build();
+
+            CameraUpdate cu = CameraUpdateFactory.newLatLngBounds((bounds),300);
+            this.mMap.animateCamera(cu);
+            mMap.setMaxZoomPreference((float) 15);
         }
+
+
 
         if (mCorsoSpinner.getSelectedItemPosition()==0 && mScuolaSpinner.getSelectedItemPosition()!=0){
             setUpClusterer2();

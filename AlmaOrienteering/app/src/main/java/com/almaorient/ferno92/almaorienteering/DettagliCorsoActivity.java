@@ -127,7 +127,6 @@ public class DettagliCorsoActivity extends BaseActivity {
 
         setTitle(corso);
 
-        //nomecorsoText.setText(corso);
         tipocorsoText.setText(tipo);
         campuscorsoText.setText(campus);
         accessoText.setText(accesso);
@@ -177,6 +176,23 @@ public class DettagliCorsoActivity extends BaseActivity {
             @Override
             public void onCancelled(DatabaseError databaseError) {
             }
+        });
+
+        final ImageButton descrplus = (ImageButton) findViewById(R.id.descrizioneplus);
+        final TextView descrizione = (TextView) findViewById(R.id.introduziontetxt);
+        descrplus.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (descrizione.getVisibility() == View.GONE) {
+                    descrizione.setVisibility(view.VISIBLE);
+                    descrplus.setImageResource(R.drawable.ic_expand_less);
+
+                } else {
+                    descrizione.setVisibility(view.GONE);
+                    descrplus.setImageResource(R.drawable.ic_expand_more);
+                }
+            }
+
         });
 
         final Button maps = (Button) findViewById(R.id.mapsbutton);
