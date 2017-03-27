@@ -87,6 +87,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         mCount=0;
 
+        final TextView suggestion = (TextView) findViewById(R.id.suggestion);
+        suggestion.setText("Tutte le aule Unibo");
+
         initScuolaArray();
 
         mCorsoSpinner = (Spinner) findViewById(R.id.spinnercorso);
@@ -159,6 +162,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 DatabaseReference ref = database.getReference();
 
                 mCount=mCount+1;
+                final TextView suggestion = (TextView) findViewById(R.id.suggestion);
+                suggestion.setText("Tutte le aule Unibo");
 
                 if (mScuolaSpinner.getSelectedItemPosition()!=0) {
 
@@ -245,6 +250,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 mSelectedCorso = (Corso) mCorsoSpinner.getSelectedItem();
                 if (!mSelectedCorso.getNome().equals("Seleziona un corso")) {
                     String codicecorso = mSelectedCorso.getScuolaId();
+
+                    final TextView suggestion = (TextView) findViewById(R.id.suggestion);
+                    suggestion.setText("Sedi del corso selezionato");
 
                     final FirebaseDatabase database = FirebaseDatabase.getInstance();
                     DatabaseReference ref = database.getReference();
