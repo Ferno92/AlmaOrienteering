@@ -1,0 +1,83 @@
+[
+  {
+    "Corso di laurea": "Giurisprudenza (Bologna)",
+    "Sede": "Bologna",
+    "corso_codice": 659,
+    "indirizzo": "Via Belmeloro 14, Bologna",
+    "latitude": 44.495043,
+    "longitude": 11.356064,
+    "tipo corso": "LMCU"
+  },
+  {
+    "Corso di laurea": "Giurisprudenza (Bologna)",
+    "Sede": "Bologna",
+    "corso_codice": 659,
+    "indirizzo": "Via Zamboni 22, Bologna",
+    "latitude": 44.495782,
+    "longitude": 11.349171,
+    "tipo corso": "LMCU"
+  },
+  {
+    "Corso di laurea": "Giurisprudenza (Bologna)",
+    "Sede": "Bologna",
+    "corso_codice": 659,
+    "indirizzo": "Via Zamboni 33, Bologna",
+    "latitude": 44.496887,
+    "longitude": 11.352404,
+    "tipo corso": "LMCU"
+  },
+  {
+    "Corso di laurea": "Giurisprudenza (Ravenna)",
+    "Sede": "Ravenna",
+    "corso_codice": 660,
+    "indirizzo": "Piazza Duomo 4, Ravenna",
+    "latitude": 44.415986,
+    "longitude": 12.195874,
+    "tipo corso": "LMCU"
+  },
+  {
+    "Corso di laurea": "Giurisprudenza (Ravenna)",
+    "Sede": "Ravenna",
+    "corso_codice": 660,
+    "indirizzo": "Piazza Duomo 4, Ravenna",
+    "latitude": 44.415986,
+    "longitude": 12.195874,
+    "tipo corso": "LMCU"
+  },
+  {
+    "Corso di laurea": "Consulente del lavoro e delle relazioni aziendali",
+    "Sede": "Bologna",
+    "corso_codice": 915,
+    "indirizzo": "Via Belmeloro 10-12, Bologna",
+    "latitude": 44.495496,
+    "longitude": 11.354951,
+    "tipo corso": "L"
+  },
+  {
+    "Corso di laurea": "Consulente del lavoro e delle relazioni aziendali",
+    "Sede": "Bologna",
+    "corso_codice": 915,
+    "indirizzo": "Via Belmeloro 14, Bologna",
+    "latitude": 44.495043,
+    "longitude": 11.356064,
+    "tipo corso": "L"
+  },
+  {
+    "Corso di laurea": "Consulente del lavoro e delle relazioni aziendali",
+    "Sede": "Bologna",
+    "corso_codice": 915,
+    "indirizzo": "Via Zamboni 22, Bologna",
+    "latitude": 44.495782,
+    "longitude": 11.349171,
+    "tipo corso": "L"
+  },
+  {
+    "Corso di laurea": "Giurista d'impresa e delle amministrazioni pubbliche",
+    "Sede": "Ravenna",
+    "corso_codice": 916,
+    "indirizzo": "Piazza Duomo 4, Ravenna",
+    "latitude": 44.415986,
+    "longitude": 12.195874,
+    "tipo corso": "L"
+  }
+]

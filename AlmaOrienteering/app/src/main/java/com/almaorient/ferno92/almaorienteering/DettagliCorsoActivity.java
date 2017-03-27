@@ -44,7 +44,7 @@ import static com.almaorient.ferno92.almaorienteering.R.id.primoannoplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.terzoannolayout;
 import static com.almaorient.ferno92.almaorienteering.R.id.window;
 
-public class DettagliCorsoActivity extends AppCompatActivity {
+public class DettagliCorsoActivity extends BaseActivity {
 
     public static void setListViewHeightBasedOnChildren(ListView listView) {
         ListAdapter listAdapter = listView.getAdapter();
@@ -189,13 +189,13 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 //int i = 0;
                 for (DataSnapshot data : dataSnapshot.getChildren()) {
                     final Integer spinneridcorso = (Integer) Integer.parseInt(data.getKey());
-
+                    final Integer spinneridcorso2 = spinneridcorso+1;
                     //Log.d("size lista aule", String.valueOf(mListaAule.size()));
                     //initMap();
                     maps.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            mappe(scuolaid, spinneridcorso, "dettagliCorso");
+                            mappe(scuolaid, spinneridcorso2, "dettagliCorso");
                         }
 
                     });
