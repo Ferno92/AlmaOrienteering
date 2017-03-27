@@ -77,8 +77,9 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                                                     String tipo = listaCorsi.get(i).getTipo();
                                                     String campus = listaCorsi.get(i).getCampus();
                                                     String accesso = listaCorsi.get(i).getAccesso();
+                                                    Long scuolaid = listaCorsi.get(i).getIdScuola();
 
-                                                    richiamoPaginaInterna(titoloriga, codicecorsoagraria, url, key, tipo, campus, accesso);
+                                                    richiamoPaginaInterna(titoloriga, codicecorsoagraria, url, key, tipo, campus, accesso,scuolaid);
                                                     break;
                                                 }
                                             }
@@ -89,7 +90,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             });
     }
 
-    private void richiamoPaginaInterna(String nomecorso, String codicecorso, String url, String nomescuola, String tipo, String campus, String accesso) {
+    private void richiamoPaginaInterna(String nomecorso, String codicecorso, String url, String nomescuola, String tipo, String campus, String accesso,Long idscuola) {
         Intent nuovapagina = new Intent(this, DettagliCorsoActivity.class);
         nuovapagina.putExtra("Vocecliccata", nomecorso);
         nuovapagina.putExtra("Codicecorso", codicecorso);
@@ -98,6 +99,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         nuovapagina.putExtra("Tipocorso", tipo);
         nuovapagina.putExtra("Campus", campus);
         nuovapagina.putExtra("Accesso", accesso);
+        nuovapagina.putExtra("IdScuola",idscuola);
         startActivity(nuovapagina);
     }
 
@@ -149,6 +151,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                         String tipo = "";
                         String campus = "";
                         String accesso = "";
+                        Long idscuola= null;
                         while (corsoIterator.hasNext()) {
                             String corsoKey = (String) corsoIterator.next();
 
@@ -171,9 +174,12 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                                 case "accesso":
                                     accesso = (String) corsoMap.get(corsoKey);
                                     break;
+                                case "cod_scuola":
+                                    idscuola= (Long) corsoMap.get(corsoKey);
+                                    break;
                             }
                         }
-                        Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus, accesso);
+                        Corso corso = new Corso(codicedelcorso, nomecorso, sito, tipo, campus, accesso, idscuola);
                         tempCorsoList.add(corso);
                     }
                     //Switch loop

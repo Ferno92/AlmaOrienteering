@@ -11,14 +11,16 @@ public class Corso {
     public String mTipo;
     public String mCampus;
     public String mAccesso;
+    public Long mIdScuola;
 
-    public Corso(String id, String nome, String url, String tipo, String campus, String accesso){
+    public Corso(String id, String nome, String url, String tipo, String campus, String accesso, Long idscuola){
         this.mCodiceCorso = id;
         this.mNome = nome;
         this.mUrl = url;
         this.mTipo = tipo;
         this.mCampus = campus;
         this.mAccesso = accesso;
+        this.mIdScuola=idscuola;
     }
 
     public String getNome(){
@@ -40,6 +42,8 @@ public class Corso {
     }
 
     public String getAccesso() { return this.mAccesso; }
+
+    public Long getIdScuola() {return this.mIdScuola;}
 
     public String toString()
     {

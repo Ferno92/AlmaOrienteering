@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, MapsActivity.class);
+                i.putExtra("CallingActivity","main");
                 startActivity(i);
             }
         });

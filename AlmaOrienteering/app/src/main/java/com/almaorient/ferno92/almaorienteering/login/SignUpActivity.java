@@ -156,7 +156,7 @@ public class SignUpActivity extends AppCompatActivity {
                     String nome = (String) data.child("corso_descrizione").getValue();
                     String id = String.valueOf(data.child("corso_codice").getValue());
 
-                    Corso corso = new Corso(id, nome,"","","","");
+                    Corso corso = new Corso(id, nome,"","","","",null);
                     mListaCorsi.add(corso);
                 }
                 fillSpinner();

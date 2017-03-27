@@ -16,31 +16,6 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <TextView
-                    android:id="@+id/nomecorso"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentEnd="true"
-                    android:layout_alignParentRight="true"
-                    android:layout_centerVertical="true"
-                    android:layout_toEndOf="@+id/imageView2"
-                    android:layout_toRightOf="@+id/imageView2"
-                    android:text="Nome corso"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
-
-                <ImageView
-                    android:id="@+id/imageView2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    app:srcCompat="@drawable/logo_unibo" />
-            </RelativeLayout>
-
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -52,7 +27,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Tipo:"
-                    android:textSize="15sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold|italic" />
 
                 <TextView
                     android:id="@+id/tipotxtview"
@@ -60,7 +36,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="TextView"
-                    android:textSize="15sp" />
+                    android:textSize="16sp" />
 
             </LinearLayout>
 
@@ -75,7 +51,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Campus:"
-                    android:textSize="15sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold|italic" />
 
                 <TextView
                     android:id="@+id/campustxtview"
@@ -83,7 +60,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="TextView"
-                    android:textSize="15sp" />
+                    android:textSize="16sp" />
 
             </LinearLayout>
 
@@ -290,7 +267,7 @@
                 android:textSize="16sp" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/mapsbutton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Mappa aule, scopri dove si svologono le lezioni!" />

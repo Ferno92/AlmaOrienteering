@@ -22,6 +22,7 @@ import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
 import com.almaorient.ferno92.almaorienteering.recensioni.ListaRecensioniActivity;
+import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.almaorient.ferno92.almaorienteering.versus.VersusActivity;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -64,6 +65,21 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         listView.setLayoutParams(params);
     }
 
+    public static final Scuola[] mScuolaadatt = new Scuola[]{
+            new Scuola("", "Seleziona scuola"),
+            new Scuola("agraria", "Agraria e Medicina veterinaria"),
+            new Scuola("economia", "Economia, Mangement e Statistica"),
+            new Scuola("farmacia", "Farmacia, Biotecnologie e Scienze motorie"),
+            new Scuola("giurisprudenza", "Giurisprudenza"),
+            new Scuola("ingegneria", "Ingegneria e architettura"),
+            new Scuola("lettere", "Lettere e Beni culturali"),
+            new Scuola("lingue", "Lingue e letterature, Traduzione e Interpretazione"),
+            new Scuola("medicina", "Medicina e Chirurgia"),
+            new Scuola("psicologia", "Psicologia e Scienze della formazione"),
+            new Scuola("scienze", "Scienze"),
+            new Scuola("scienze_politiche", "Scienze politiche")
+    };
+
     //////BROWSER
     private void richiamoBrowser(String url) {
         Intent browser = new Intent(this, EmbedBrowser.class);
@@ -80,12 +96,20 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         startActivity(statistiche);
     }
 
+    private void mappe(Long idscuola, Integer codcorso, String Activity) {
+        Intent maps = new Intent(this, MapsActivity.class);
+        maps.putExtra("idscuola", idscuola);
+        maps.putExtra("codcorso", codcorso);
+        maps.putExtra("CallingActivity",Activity);
+        startActivity(maps);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dettagli_corso);
 
-        TextView nomecorsoText = (TextView) findViewById(R.id.nomecorso);
+        //TextView nomecorsoText = (TextView) findViewById(R.id.nomecorso);
         TextView tipocorsoText = (TextView) findViewById(R.id.tipotxtview);
         TextView campuscorsoText = (TextView) findViewById(R.id.campustxtview);
         TextView accessoText = (TextView) findViewById(R.id.tipoaccessoview);
@@ -99,8 +123,11 @@ public class DettagliCorsoActivity extends AppCompatActivity {
         final String tipo = getIntent().getExtras().getString("Tipocorso");
         String campus = getIntent().getExtras().getString("Campus");
         String accesso = getIntent().getExtras().getString("Accesso");
+        final Long scuolaid = getIntent().getExtras().getLong("IdScuola");
 
-        nomecorsoText.setText(corso);
+        setTitle(corso);
+
+        //nomecorsoText.setText(corso);
         tipocorsoText.setText(tipo);
         campuscorsoText.setText(campus);
         accessoText.setText(accesso);
@@ -122,17 +149,6 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             }
         });
 
-        final ListView esamiprimoanno = (ListView) findViewById(R.id.primoannolistview);
-        final ListView esamisecondoanno = (ListView) findViewById(R.id.secondoannolistview);
-        final ListView esamiterzoanno = (ListView) findViewById(R.id.terzoannolistview);
-        final ListView esamiquartoanno = (ListView) findViewById(R.id.quartoannolistview);
-        final ListView esamiquintoanno = (ListView) findViewById(R.id.quintoannolistview);
-
-
-//PIANI DI STUDIO FIREBASE
-
-        final ArrayList<PianoStudiModel2> mListaEsami1 = new ArrayList<PianoStudiModel2>();
-
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
 
@@ -147,13 +163,13 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                     final Button buttonstats = (Button) findViewById(R.id.buttonstats);
 
                     buttonstats.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View view) {
-                                int a = Integer.parseInt(pos);
-                                statistiche(scuola, scuola, a , 0);
+                        @Override
+                        public void onClick(View view) {
+                            int a = Integer.parseInt(pos);
+                            statistiche(scuola, scuola, a , 0);
 
-                            }
-                        });
+                        }
+                    });
 
                 }
             }
@@ -162,6 +178,52 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             public void onCancelled(DatabaseError databaseError) {
             }
         });
+
+        final Button maps = (Button) findViewById(R.id.mapsbutton);
+
+        Query query4 = ref.child("corso/" + mScuolaadatt[(int) (long) scuolaid].getScuolaId()).orderByChild("corso_codice")
+                .equalTo(Integer.parseInt(corsocodice));
+        query4.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                //int i = 0;
+                for (DataSnapshot data : dataSnapshot.getChildren()) {
+                    final Integer spinneridcorso = (Integer) Integer.parseInt(data.getKey());
+
+                    //Log.d("size lista aule", String.valueOf(mListaAule.size()));
+                    //initMap();
+                    maps.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            mappe(scuolaid, spinneridcorso, "dettagliCorso");
+                        }
+
+                    });
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                if (databaseError != null) {
+
+                }
+            }
+        });
+
+
+
+        final ListView esamiprimoanno = (ListView) findViewById(R.id.primoannolistview);
+        final ListView esamisecondoanno = (ListView) findViewById(R.id.secondoannolistview);
+        final ListView esamiterzoanno = (ListView) findViewById(R.id.terzoannolistview);
+        final ListView esamiquartoanno = (ListView) findViewById(R.id.quartoannolistview);
+        final ListView esamiquintoanno = (ListView) findViewById(R.id.quintoannolistview);
+
+
+//PIANI DI STUDIO FIREBASE
+
+        final ArrayList<PianoStudiModel2> mListaEsami1 = new ArrayList<PianoStudiModel2>();
+
+
 
         Query query =  ref.child("esami/"+scuola);
 

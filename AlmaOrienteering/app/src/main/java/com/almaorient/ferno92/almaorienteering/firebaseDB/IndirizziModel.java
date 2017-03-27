@@ -8,12 +8,16 @@ public class IndirizziModel {
     public String mCodice;
     public Double mLatitudine;
     public Double mLongitudine;
+    public String mCorsoLaurea;
+    public String mIndirizzo;
 
 
-    public IndirizziModel(String codice, Double latitudine, Double longitudine){
+    public IndirizziModel(String codice, Double latitudine, Double longitudine, String corsodilaurea, String indirizzo){
         this.mCodice = codice;
         this.mLatitudine = latitudine;
         this.mLongitudine = longitudine;
+        this.mCorsoLaurea = corsodilaurea;
+        this.mIndirizzo = indirizzo;
     }
 
     public String getCodice(){
@@ -28,9 +32,14 @@ public class IndirizziModel {
         return this.mLongitudine;
     }
 
-//    public String toStringa ()
-//    {
-//        return this.mCodice;
-//    }
+    public String getCorso(){
+        return this.mCorsoLaurea;
+    }
+
+    public String getIndirizzo(){
+        return this.mIndirizzo;
+    }
+
+
 }
 

@@ -12,6 +12,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.firebaseDB.AulaMarker;
 import com.almaorient.ferno92.almaorienteering.firebaseDB.AulaModel;
@@ -58,12 +59,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     Spinner mCorsoSpinner;
     Scuola mSelectedScuola;
     Corso mSelectedCorso;
-
-    final List Corsi = new ArrayList();
-
-
-
-
+    Integer mCount;
 
     public static final Scuola[] mScuolaadatt = new Scuola[]{
             new Scuola("", "Seleziona scuola"),
@@ -89,46 +85,42 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         super.onCreate(savedInstanceState);
         setContentView(R.layout.maps_activity);
 
-//        mProgress = new ProgressDialog(this);
-//        mProgress.setTitle("Loading");
-//        mProgress.setMessage("Stiamo caricando i dati");
-//        mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
-//        mProgress.show();
+        mCount=0;
 
         initScuolaArray();
 
         mCorsoSpinner = (Spinner) findViewById(R.id.spinnercorso);
 
+        final FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference ref = database.getReference();
+//
+        Query query2 = ref.child("aule").orderByKey();
+        query2.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for (DataSnapshot data : dataSnapshot.getChildren()) {
+                    String codice = (String) data.child("aula_codice").getValue();
+                    String nome = (String) data.child("aula_nome").getValue();
+                    String indirizzo = (String) data.child("aula_indirizzo").getValue();
+                    String piano = (String) data.child("aula_piano").getValue();
+                    String latitudine = (String) data.child("latitude").getValue();
+                    String longitudine = (String) data.child("longitude").getValue();
 
-//        final FirebaseDatabase database = FirebaseDatabase.getInstance();
-//        DatabaseReference ref = database.getReference();
-//
-//        Query query2 = ref.child("aule").orderByKey();
-//        query2.addListenerForSingleValueEvent(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(DataSnapshot dataSnapshot) {
-//                for (DataSnapshot data : dataSnapshot.getChildren()) {
-//                    String codice = (String) data.child("aula_codice").getValue();
-//                    String nome = (String) data.child("aula_nome").getValue();
-//                    String indirizzo = (String) data.child("aula_indirizzo").getValue();
-//                    String piano = (String) data.child("aula_piano").getValue();
-//                    String latitudine = (String) data.child("latitude").getValue();
-//                    String longitudine = (String) data.child("longitude").getValue();
-//
-//                    AulaModel aula = new AulaModel(codice, nome, indirizzo, piano, latitudine, longitudine);
-//                    mListaAule.add(aula);
-//                }
-//                Log.d("size lista aule", String.valueOf(mListaAule.size()));
-//                //initMap();
-//            }
-//
-//            @Override
-//            public void onCancelled(DatabaseError databaseError) {
-//                if (databaseError != null) {
-//
-//                }
-//            }
-//        });
+                    AulaModel aula = new AulaModel(codice, nome, indirizzo, piano, latitudine, longitudine);
+                    mListaAule.add(aula);
+                }
+                Log.d("size lista aule", String.valueOf(mListaAule.size()));
+                initMap();
+                mProgress.dismiss();
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                if (databaseError != null) {
+
+                }
+            }
+        });
 
     }
 
@@ -136,7 +128,27 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         ArrayAdapter spinnerScuolaArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, this.mScuolaadatt);
         mScuolaSpinner = (Spinner) findViewById(R.id.spinnerscuola);
         mScuolaSpinner.setAdapter(spinnerScuolaArrayAdapter);
+        final String callingactivity = getIntent().getExtras().getString("CallingActivity");
+        if (callingactivity.equals("dettagliCorso")) {
+            final Long idscuola = getIntent().getExtras().getLong("idscuola");
+            mScuolaSpinner.setSelection((int) (long) idscuola);
+            mProgress = new ProgressDialog(this);
+            mProgress.setTitle("Loading");
+            mProgress.setMessage("Stiamo caricando i dati");
+            mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
+            mProgress.show();
+        }
+
+        if (callingactivity.equals("main")) {
+            mProgress = new ProgressDialog(this);
+            mProgress.setTitle("Loading");
+            mProgress.setMessage("Stiamo caricando i dati");
+            mProgress.setCancelable(false); // disable dismiss by tapping outside of the dialog
+            mProgress.show();
+        }
+
         initMap();
+
         mScuolaSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
             @Override
@@ -146,27 +158,32 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 final FirebaseDatabase database = FirebaseDatabase.getInstance();
                 DatabaseReference ref = database.getReference();
 
+                mCount=mCount+1;
+
                 if (mScuolaSpinner.getSelectedItemPosition()!=0) {
+
+                    mCorsoSpinner.setClickable(true);
 
                     Query query = ref.child("corso/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId());
                     query.addListenerForSingleValueEvent(new ValueEventListener() {
                         @Override
                         public void onDataChange(DataSnapshot dataSnapshot) {
-                            //int i = 0;
                             mListaCorsi.clear();
+                            Corso vuoto = new Corso("","Seleziona un corso","","","","",null);
+                            String callingactivity = getIntent().getExtras().getString("CallingActivity");
+                            if (!callingactivity.equals("dettagliCorso")) {
+                                mListaCorsi.add(vuoto);
+                                initMap();
+                            }
 
                             for (DataSnapshot data : dataSnapshot.getChildren()) {
                                 String nome = (String) data.child("corso_descrizione").getValue();
                                 String codicecorso = String.valueOf(data.child("corso_codice").getValue());
 
-                                Corso corso = new Corso(codicecorso, nome, "", "", "", "");
+                                Corso corso = new Corso(codicecorso, nome, "", "", "", "",null);
                                 mListaCorsi.add(corso);
-                                //i++;
 
                             }
-                            //Log.d("size lista aule", String.valueOf(mListaAule.size()));
-                            //initMap();
-
                             initCorsoArray();
                             mCorsoSpinner.setVisibility(View.VISIBLE);
                         }
@@ -179,8 +196,25 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         }
                     });
                 }
-                else {
+                else if (mCount==1 || callingactivity.equals("dettagliCorso")) {
                     mCorsoSpinner.setVisibility(View.GONE);
+                    initMap();
+                }
+                else {
+                    mCorsoSpinner.setSelection(0);
+                    mCorsoSpinner.setClickable(false);
+                    initMap();
+//
+//                    mCorsoSpinner.setOnClickListener(new View.OnClickListener() {
+//                        @Override
+//                        public void onClick(View view) {
+//                            Toast.makeText(
+//                                    MapsActivity.this,
+//                                    "Selezionare prima una scuola",
+//                                    Toast.LENGTH_SHORT
+//                            ).show();
+//                        }
+//                    });
                 }
             }
 
@@ -196,51 +230,75 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         ArrayAdapter spinnerCorsoArrayAdapter = new ArrayAdapter(this, R.layout.spinner_item, this.mListaCorsi);
 
         mCorsoSpinner.setAdapter(spinnerCorsoArrayAdapter);
+
+        final String callingactivity = getIntent().getExtras().getString("CallingActivity");
+        if (callingactivity.equals("dettagliCorso")) {
+            final Long idscuola = getIntent().getExtras().getLong("idscuola");
+            Integer codcorso = getIntent().getExtras().getInt("codcorso");
+            mCorsoSpinner.setSelection(codcorso);
+            mProgress.dismiss();
+        }
+
         mCorsoSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 mSelectedCorso = (Corso) mCorsoSpinner.getSelectedItem();
-                String codicecorso = mSelectedCorso.getScuolaId();
+                if (!mSelectedCorso.getNome().equals("Seleziona un corso")) {
+                    String codicecorso = mSelectedCorso.getScuolaId();
 
-                final FirebaseDatabase database = FirebaseDatabase.getInstance();
-                DatabaseReference ref = database.getReference();
+                    final FirebaseDatabase database = FirebaseDatabase.getInstance();
+                    DatabaseReference ref = database.getReference();
 
-                Query query2 = ref.child("mappe/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId())
-                        .orderByChild("corso_codice").equalTo(Integer.parseInt(codicecorso));
-                query2.addListenerForSingleValueEvent(new ValueEventListener() {
-                    @Override
-                    public void onDataChange(DataSnapshot dataSnapshot) {
-                        //int i = 0;
-                        mListaIndirizzi.clear();
-                        if(mMap != null){
-                            mMap.clear();
+                    Query query2 = ref.child("mappe/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId())
+                            .orderByChild("corso_codice").equalTo(Integer.parseInt(codicecorso));
+                    query2.addListenerForSingleValueEvent(new ValueEventListener() {
+                        @Override
+                        public void onDataChange(DataSnapshot dataSnapshot) {
+                            //int i = 0;
+                            mListaIndirizzi.clear();
+
+                            if (callingactivity.equals("main")) {
+                                mClusterManager.clearItems();
+                            }
+                            if (mMap != null) {
+                                mMap.clear();
+                            }
+                            for (DataSnapshot data : dataSnapshot.getChildren()) {
+                                final String codicecorso = String.valueOf(data.child("corso_codice").getValue());
+
+                                Double latitude = (Double) data.child("latitude").getValue();
+                                Double longitude = (Double) data.child("longitude").getValue();
+                                String corsolaurea = (String) data.child("Corso di laurea").getValue();
+                                String indirizzo = (String) data.child("indirizzo").getValue();
+
+                                IndirizziModel address = new IndirizziModel(codicecorso, latitude, longitude,corsolaurea,indirizzo);
+                                mListaIndirizzi.add(address);
+
+                                //i++;
+                            }
+
+
+                            //Log.d("size lista aule", String.valueOf(mListaAule.size()));
+
+                            initMap();
+
                         }
-                        for (DataSnapshot data : dataSnapshot.getChildren()) {
-                            final String codicecorso = String.valueOf(data.child("corso_codice").getValue());
 
-                            Double latitude = (Double) data.child("latitude").getValue();
-                            Double longitude = (Double) data.child("longitude").getValue();
 
-                            IndirizziModel address = new IndirizziModel(codicecorso, latitude, longitude);
-                            mListaIndirizzi.add(address);
+                        @Override
+                        public void onCancelled(DatabaseError databaseError) {
+                            if (databaseError != null) {
 
-                            //i++;
+                            }
                         }
+                    });
 
-                        //Log.d("size lista aule", String.valueOf(mListaAule.size()));
-
-                        initMap();
-
+                }
+                else {
+                    if (mMap != null) {
+                        mMap.clear();
                     }
-
-
-                    @Override
-                    public void onCancelled(DatabaseError databaseError) {
-                        if (databaseError != null) {
-
-                        }
-                    }
-                });
+                }
             }
 
             @Override
@@ -253,112 +311,115 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap map) {
         this.mMap = map;
-        //this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.496233,11.354185), 13.0f));
-
-
+        String callingactivity = getIntent().getExtras().getString("CallingActivity");
+//        if (!callingactivity.equals("dettagliCorso")) {
+//            this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.496233, 11.354185), 13.0f));
+//        }
         for (IndirizziModel indirizzi : this.mListaIndirizzi) {
             if (indirizzi.getLatitudine() != null) {
-                map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine())));
+                map.addMarker(new MarkerOptions().position(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()))
+                .title(indirizzi.getCorso()).snippet(indirizzi.getIndirizzo()));
             }
-            if (mScuolaSpinner.getSelectedItemPosition()!=0) {
-                this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 18.0f));
-            }
-            else {
-                this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.496233,11.354185), 18.0f));
-            }
+            this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 15.0f));
+
+        }
+        if (mScuolaSpinner.getSelectedItemPosition()==0 ) {
+            setUpClusterer();
+        }
+        else if (mCorsoSpinner.getSelectedItemPosition()==0 && callingactivity.equals("main")){
+            setUpClusterer();
         }
 
-        //map.addMarker(LatLng)
-
-        //map.addMarker()
-        //this.setUpClusterer();
     }
 
     public void initMap(){
+
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(map);
 
         mapFragment.getMapAsync(this);
 
-
-
     }
 
 
-//
-//    private void setUpClusterer() {
+////
+    private void setUpClusterer() {
 //
 //        // To dismiss the dialog
 //        mProgress.dismiss();
-//        this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.32, 11.78), 8.0f));
-//        // Initialize the manager with the context and the map.
-//        // (Activity extends context, so we can pass 'this' in the constructor.)
-//        mClusterManager = new ClusterManager<AulaMarker>(this, this.mMap);
-//
-//        // Point the map's listeners at the listeners implemented by the cluster
-//        // manager.
-//        this.mMap.setOnCameraIdleListener(mClusterManager);
-//        this.mMap.setOnMarkerClickListener(mClusterManager);
-//
-//        mClusterManager
-//                .setOnClusterClickListener(new ClusterManager.OnClusterClickListener<AulaMarker>() {
-//                    @Override
-//                    public boolean onClusterClick(Cluster<AulaMarker> cluster) {
-//                        LatLng latLng = null;
-//                        int i = 0;
-//                        Boolean isDifferent = false;
-//                        String nomiAule = "";
-//                        for(AulaMarker marker : cluster.getItems()){
-//                            if(i == 0){
-//                                latLng = marker.getPosition();
-//                            }
-//                            if(i != 0 && !marker.getPosition().equals(latLng)){
-//                                isDifferent = true;
-//                                break;
-//                            }else{
-//                                nomiAule += marker.getTitle() + "\r\n";
-//                            }
-//                            i++;
-//                        }
-//                        if(isDifferent){
-//                            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(
-//                                    cluster.getPosition(), (float) Math.floor(mMap
-//                                            .getCameraPosition().zoom + 1)), 300,
-//                                    null);
-//                        }else{
-//                            new AlertDialog.Builder(MapsActivity.this)
-//                                    .setTitle("Gruppo di aule")
-//                                    .setMessage(nomiAule)
-//                                    .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
-//                                        public void onClick(DialogInterface dialog, int which) {
-//                                            // continue with delete
-//                                        }
-//                                    })
-//                                    .setIcon(android.R.drawable.ic_dialog_alert)
-//                                    .show();
-//                        }
-//
-//                        return true;
-//                    }
-//
-//                });
-//
-//        // Add cluster items (markers) to the cluster manager.
-//        addMarkers();
-//    }
-//
-//    private void addMarkers() {
 //
 //
-//        for(AulaModel aula : this.mListaAule){
-//            if(!aula.getLatitudine().isEmpty() && !aula.getLongitudine().isEmpty()){
-//                AulaMarker marker = new AulaMarker(Double.valueOf(aula.getLatitudine()), Double.valueOf(aula.getLongitudine()), aula.getNome(), aula.getPiano());
-//                mClusterManager.addItem(marker);
-//            }
-//
-//        }
-//
-//    }
+        this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(44.32, 11.78), 8.0f));
+        // Initialize the manager with the context and the map.
+        // (Activity extends context, so we can pass 'this' in the constructor.)
+
+
+        mClusterManager = new ClusterManager<AulaMarker>(this, this.mMap);
+
+        // Point the map's listeners at the listeners implemented by the cluster
+        // manager.
+        this.mMap.setOnCameraIdleListener(mClusterManager);
+        this.mMap.setOnMarkerClickListener(mClusterManager);
+
+        mClusterManager
+                .setOnClusterClickListener(new ClusterManager.OnClusterClickListener<AulaMarker>() {
+                    @Override
+                    public boolean onClusterClick(Cluster<AulaMarker> cluster) {
+                        LatLng latLng = null;
+                        int i = 0;
+                        Boolean isDifferent = false;
+                        String nomiAule = "";
+                        for(AulaMarker marker : cluster.getItems()){
+                            if(i == 0){
+                                latLng = marker.getPosition();
+                            }
+                            if(i != 0 && !marker.getPosition().equals(latLng)){
+                                isDifferent = true;
+                                break;
+                            }else{
+                                nomiAule += marker.getTitle() + "\r\n";
+                            }
+                            i++;
+                        }
+                        if(isDifferent){
+                            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(
+                                    cluster.getPosition(), (float) Math.floor(mMap
+                                            .getCameraPosition().zoom + 1)), 300,
+                                    null);
+                        }else{
+                            new AlertDialog.Builder(MapsActivity.this)
+                                    .setTitle("Gruppo di aule")
+                                    .setMessage(nomiAule)
+                                    .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                                        public void onClick(DialogInterface dialog, int which) {
+                                            // continue with delete
+                                        }
+                                    })
+                                    .setIcon(android.R.drawable.ic_dialog_alert)
+                                    .show();
+                        }
+
+                        return true;
+                    }
+
+                });
+
+        // Add cluster items (markers) to the cluster manager.
+        addMarkers();
+    }
+
+    private void addMarkers() {
+
+
+        for(AulaModel aula : this.mListaAule){
+            if(!aula.getLatitudine().isEmpty() && !aula.getLongitudine().isEmpty()){
+                AulaMarker marker = new AulaMarker(Double.valueOf(aula.getLatitudine()), Double.valueOf(aula.getLongitudine()), aula.getNome(), aula.getPiano());
+                mClusterManager.addItem(marker);
+            }
+
+        }
+
+    }
 
     //    https://developers.google.com/maps/documentation/android-api/config
 //    https://developers.google.com/maps/documentation/android-api/map

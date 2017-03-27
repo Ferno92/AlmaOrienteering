@@ -127,7 +127,7 @@ public class VersusCorsoActivity extends AppCompatActivity {
                     String nome = (String) data.child("corso").getValue();
                     String id = String.valueOf(i);
 
-                    Corso corso = new Corso(id, nome,"","","","");
+                    Corso corso = new Corso(id, nome,"","","","",null);
                     mListaCorsi1.add(corso);
                     i++;
                 }
@@ -170,7 +170,7 @@ public class VersusCorsoActivity extends AppCompatActivity {
                     String nome = (String) data.child("corso").getValue();
                     String id = String.valueOf(i);
 
-                    Corso corso = new Corso(id, nome,"","","","");
+                    Corso corso = new Corso(id, nome,"","","","",null);
                     mListaCorsi2.add(corso);
                     i++;
                 }
