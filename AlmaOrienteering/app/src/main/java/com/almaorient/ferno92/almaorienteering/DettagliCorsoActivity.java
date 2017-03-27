@@ -145,6 +145,8 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent recensioniIntent = new Intent(getApplicationContext(), ListaRecensioniActivity.class);
                 recensioniIntent.putExtra("nome_corso", corso);
+                recensioniIntent.putExtra("scuola", scuola);
+                recensioniIntent.putExtra("codice_corso", corsocodice);
                 startActivity(recensioniIntent);
             }
         });
