@@ -57,13 +57,12 @@ import static android.R.attr.padding;
 import static com.almaorient.ferno92.almaorienteering.R.id.all;
 import static com.almaorient.ferno92.almaorienteering.R.id.center;
 import static com.almaorient.ferno92.almaorienteering.R.id.map;
-import static com.almaorient.ferno92.almaorienteering.R.id.suggestion;
 
 /**
  * Created by luca.fernandez on 07/03/2017.
  */
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+public class MapsActivity extends BaseActivity implements OnMapReadyCallback {
     List<AulaModel> mListaAule = new ArrayList<AulaModel>();
 
     private ClusterManager<AulaMarker> mClusterManager;
@@ -77,10 +76,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     Corso mSelectedCorso;
     Integer mCount;
     Integer mCountResetScuola;
-    Integer a;
-
-
-
 
     public static final Scuola[] mScuolaadatt = new Scuola[]{
             new Scuola("", "Seleziona scuola"),
@@ -100,9 +95,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private List<Corso> mListaCorsi = new ArrayList<Corso>();
     private ArrayList<IndirizziModel> mListaIndirizzi = new ArrayList<IndirizziModel>();
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -111,10 +103,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mCount=0;
         mCountResetScuola=0;
 
-
-
-        final TextView suggestion = (TextView) findViewById(R.id.suggestion);
-        suggestion.setText("Tutte le aule Unibo");
+        setTitle("Tutte le aule Unibo");
 
         initScuolaArray();
 
@@ -189,9 +178,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                 mCount=mCount+1;
                 mCountResetScuola=mCountResetScuola+1;
-                a=0;
-                final TextView suggestion = (TextView) findViewById(R.id.suggestion);
-                suggestion.setText("Tutte le aule Unibo");
+                setTitle("Tutte le aule Unibo");
 
                 if (mScuolaSpinner.getSelectedItemPosition()!=0) {
 
@@ -203,12 +190,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         public void onDataChange(DataSnapshot dataSnapshot) {
                             mListaCorsi.clear();
                             Corso vuoto = new Corso("","Seleziona un corso","","","","",null);
-                            String callingactivity = getIntent().getExtras().getString("CallingActivity");
-                            //if (!callingactivity.equals("dettagliCorso")) {
                                 mListaCorsi.add(vuoto);
                                 initMap();
-
-                           // }
 
                             for (DataSnapshot data : dataSnapshot.getChildren()) {
                                 String nome = (String) data.child("corso_descrizione").getValue();
@@ -273,8 +256,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 if (mCorsoSpinner.getSelectedItemPosition()!=0) {
                     String codicecorso = mSelectedCorso.getScuolaId();
 
-                    final TextView suggestion = (TextView) findViewById(R.id.suggestion);
-                    suggestion.setText("Sedi del corso selezionato");
+                    setTitle("Sedi del corso selezionato");
 
                     final FirebaseDatabase database = FirebaseDatabase.getInstance();
                     DatabaseReference ref = database.getReference();
@@ -321,8 +303,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     final FirebaseDatabase database = FirebaseDatabase.getInstance();
                     DatabaseReference ref = database.getReference();
 
-                    final TextView suggestion = (TextView) findViewById(R.id.suggestion);
-                    suggestion.setText("Sedi della scuola");
+                    setTitle("Sedi della scuola");
 
                     Query query2 = ref.child("mappe/" + mScuolaadatt[mScuolaSpinner.getSelectedItemPosition()].getScuolaId()).orderByKey();
                     query2.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -383,16 +364,13 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                 LatLng pos = new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine());
                 builder.include(pos);
-                //this.mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(indirizzi.getLatitudine(), indirizzi.getLongitudine()), 15.0f));
             }
             LatLngBounds bounds = builder.build();
 
             CameraUpdate cu = CameraUpdateFactory.newLatLngBounds((bounds),300);
             this.mMap.animateCamera(cu);
-            mMap.setMaxZoomPreference((float) 15);
+            mMap.setMaxZoomPreference((float) 16.5);
         }
-
-
 
         if (mCorsoSpinner.getSelectedItemPosition()==0 && mScuolaSpinner.getSelectedItemPosition()!=0){
             setUpClusterer2();
@@ -400,8 +378,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         if (mScuolaSpinner.getSelectedItemPosition()==0) {
             setUpClusterer();
-            final TextView suggestion = (TextView) findViewById(R.id.suggestion);
-            suggestion.setText("Tutte le aule Unibo");
+            setTitle("Tutte le aule Unibo");
         }
 
     }

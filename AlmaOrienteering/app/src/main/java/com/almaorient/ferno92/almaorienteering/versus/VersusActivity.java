@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.EmbedBrowser;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.google.firebase.database.DataSnapshot;
@@ -26,7 +27,7 @@ import java.util.Iterator;
  * Created by lucas on 12/03/2017.
  */
 
-public class VersusActivity extends AppCompatActivity {
+public class VersusActivity extends BaseActivity {
     String mScuola1;
     String mScuola2;
     int mPosCorso1;
