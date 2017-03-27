@@ -13,8 +13,8 @@ public class Corso {
     public String mAccesso;
     public Long mIdScuola;
 
-    public Corso(String id, String nome, String url, String tipo, String campus, String accesso, Long idscuola){
-        this.mCodiceCorso = id;
+    public Corso(String codice, String nome, String url, String tipo, String campus, String accesso, Long idscuola){
+        this.mCodiceCorso = codice;
         this.mNome = nome;
         this.mUrl = url;
         this.mTipo = tipo;

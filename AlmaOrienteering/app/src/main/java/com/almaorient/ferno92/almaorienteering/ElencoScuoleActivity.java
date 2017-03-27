@@ -32,7 +32,7 @@ import java.util.Iterator;
 
 import static com.almaorient.ferno92.almaorienteering.R.id.listaagraria;
 
-public class ElencoScuoleActivity extends AppCompatActivity {
+public class ElencoScuoleActivity extends BaseActivity {
 
     //private int mPosition = 0;
     private ArrayList<Scuola> mListaScuole = new ArrayList<>();

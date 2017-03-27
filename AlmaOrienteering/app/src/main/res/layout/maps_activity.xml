@@ -1,33 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="fill_parent"
     android:layout_margin="0dp"
-    android:layout_marginTop="0dp"
     android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"
+            app:toolbarId="@+id/toolbar">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"></android.support.v7.widget.Toolbar>
+
+            <TextView
+                android:id="@+id/suggestion"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="center_vertical"
+                android:textAlignment="center"
+                android:textColor="@color/unibo_white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
 
     <Spinner
         android:id="@+id/spinnerscuola"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
         android:spinnerMode="dialog" />
 
     <Spinner
         android:id="@+id/spinnercorso"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_gravity="top"
         android:spinnerMode="dialog" />
-
-    <TextView
-        android:id="@+id/suggestion"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:textAlignment="center"
-        android:textSize="16sp" />
 
     <fragment
         android:id="@+id/map"
