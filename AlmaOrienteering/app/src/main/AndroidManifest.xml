@@ -27,11 +27,11 @@
         <activity
             android:name=".login.LoginActivity"
             android:label="Login"
-            android:theme="@style/NoTitleTheme" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".login.SignUpActivity"
             android:label="Registrazione"
-            android:theme="@style/NoTitleTheme" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".MainActivity"
             android:label="Homepage"

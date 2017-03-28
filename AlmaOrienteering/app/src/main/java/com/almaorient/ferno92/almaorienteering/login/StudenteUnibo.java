@@ -1,5 +1,7 @@
 package com.almaorient.ferno92.almaorienteering.login;
 
+import java.util.Map;
+
 /**
  * Created by lucas on 19/03/2017.
  */
@@ -9,10 +11,10 @@ public class StudenteUnibo {
     private String mId;
     private String mNome;
     private String mCognome;
-    private CorsoSignUp mCorso;
+    private Map<String, String> mCorso;
     private String mScuola;
 
-    public StudenteUnibo(String id, String nome, String cognome, CorsoSignUp corso, String scuola){
+    public StudenteUnibo(String id, String nome, String cognome, Map<String, String> corso, String scuola){
         this.mId = id;
         this.mNome = nome;
         this.mCognome = cognome;
@@ -24,7 +26,7 @@ public class StudenteUnibo {
         return mCognome;
     }
 
-    public CorsoSignUp getCorso() {
+    public Map<String, String> getCorso() {
         return mCorso;
     }
 
