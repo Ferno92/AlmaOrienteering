@@ -1,9 +1,12 @@
 package com.almaorient.ferno92.almaorienteering;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -13,10 +16,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.almaorient.ferno92.almaorienteering.login.LoginActivity;
 import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -131,8 +137,6 @@ public class MainActivity extends AppCompatActivity
             navigationView.setNavigationItemSelectedListener(this);
             navigationView.setVisibility(View.VISIBLE);
 
-            recensioniButton.setVisibility(View.VISIBLE);
-
             LinearLayout navigationHeader =(LinearLayout) navigationView.getHeaderView(0);
             TextView mailText = (TextView) navigationHeader.findViewById(R.id.logged_user_email);
             mailText.setText(String.valueOf(this.mAuth.getCurrentUser().getEmail()));
@@ -181,9 +185,46 @@ public class MainActivity extends AppCompatActivity
                 }
             });
 
-        }else{
+            if(!mAuth.getCurrentUser().isEmailVerified()){
+                showMissingVerifyAlert();
+            }else{
 
+                recensioniButton.setVisibility(View.VISIBLE);
+            }
         }
+    }
+
+    private void showMissingVerifyAlert() {
+
+        final AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
+        String message = "Non hai ancora verificato la tua email, alcune funzionalità dell'app non saranno accessibili fino ad avvenuta conferma! \n ";
+        message += "Se invece hai già confermato allora premi Logout e loggati nuovamente per poter accedere ai contenuti esclusivi ;)";
+        builder.setTitle("Recupera password");
+        builder.setMessage(message);
+        builder.setPositiveButton("Invia di nuovo", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+
+                    mAuth.getCurrentUser().sendEmailVerification()
+                            .addOnCompleteListener(new OnCompleteListener<Void>() {
+                                @Override
+                                public void onComplete(@NonNull Task<Void> task) {
+                                    Toast.makeText(MainActivity.this, "Email inviata! Controlla la tua casella di posta",
+                                            Toast.LENGTH_SHORT).show();
+                                }
+                            });
+            }
+        });
+        builder.setNegativeButton("Logout", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                mAuth.signOut();
+                Intent i = new Intent(MainActivity.this, ChooseActivity.class);
+                i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
+                startActivity(i);
+                finish();
+
+            }
+        });
+        builder.show();
     }
 
     @Override
