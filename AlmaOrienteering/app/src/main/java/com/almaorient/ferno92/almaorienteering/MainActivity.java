@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity
         elencoscuoleButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(MainActivity.this, ElencoScuoleActivity.class);
+                Intent i = new Intent(MainActivity.this, FilterCorsoActivity.class);
                 startActivity(i);
             }
         });
