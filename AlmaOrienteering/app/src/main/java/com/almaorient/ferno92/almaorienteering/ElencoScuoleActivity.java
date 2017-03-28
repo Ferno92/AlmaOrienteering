@@ -434,18 +434,29 @@ public class ElencoScuoleActivity extends BaseActivity {
                             mListaScuole.add(scuolaMedicina);
                             mElenco = (ListView) findViewById(R.id.listamedicina);
                             // riempio la lista arrayadapter sua
+                            Integer a=0;
 
                             for (int i=0; i<defCorsoList.size(); i++){
                                 if (defCorsoList.get(i).getNome().contains("Tecniche")){
+                                    a=0;
+                                    break;
+                                }
+                                else {
+                                    a=1;
+                                }
+                            }
+
+                            switch (a){
+                                case 0:
                                     ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item_long_corsi, scuolaMedicina.getListaCorsi());
                                     mElenco.setAdapter(adapter8);
                                     setListViewHeightBasedOnChildren(mElenco,adapter8);
-                                }
-                                else {
-                                    ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaMedicina.getListaCorsi());
-                                    mElenco.setAdapter(adapter8);
-                                    setListViewHeightBasedOnChildren(mElenco,adapter8);
-                                }
+                                    break;
+                                case 1:
+                                    ArrayAdapter<String> adapter12 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item_long_corsi, scuolaMedicina.getListaCorsi());
+                                    mElenco.setAdapter(adapter12);
+                                    setListViewHeightBasedOnChildren(mElenco,adapter12);
+                                    break;
                             }
 
                             //inietto i dati
