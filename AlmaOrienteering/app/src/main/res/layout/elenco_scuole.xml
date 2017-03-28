@@ -63,9 +63,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -119,9 +119,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp"/>
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -174,9 +174,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
 
                 </RelativeLayout>
 
@@ -229,9 +229,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp"/>
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -252,32 +252,24 @@
                 android:visibility="gone" />
 
             <RelativeLayout
-
+                android:id="@+id/ingegnerialayout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_gravity="top|start"
                 android:layout_margin="5dp"
-                android:background="@color/SfondoGrigioLight">
+                android:background="@color/SfondoGrigioLight"
+                app:layout_anchorGravity="top|start">
 
                 <RelativeLayout
-                    android:id="@+id/ingegnerialayout"
+
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
                     android:layout_toEndOf="@+id/logoing"
-                    android:layout_toRightOf="@+id/logoing">
-
-                    <TextView
-                        android:id="@+id/titoloing"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentLeft="true"
-                        android:layout_alignParentStart="true"
-                        android:layout_centerVertical="true"
-                        android:layout_marginLeft="11dp"
-                        android:layout_toLeftOf="@+id/ingegneriaplus"
-                        android:layout_toStartOf="@+id/ingegneriaplus"
-                        android:text="Ingegneria e Architettura"
-                        android:textSize="18sp"
-                        android:textStyle="bold" />
+                    android:layout_toRightOf="@+id/logoing"
+                    android:background="@color/SfondoGrigioLight">
 
                     <ImageButton
                         android:id="@+id/ingegneriaplus"
@@ -286,9 +278,23 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
+
+                    <TextView
+                        android:id="@+id/titoloing"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="11dp"
+                        android:layout_marginStart="11dp"
+                        android:layout_toLeftOf="@+id/ingegneriaplus"
+                        android:layout_toStartOf="@+id/ingegneriaplus"
+                        android:text="Ingegneria e Architettura"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+
                 </RelativeLayout>
 
                 <ImageView
@@ -342,9 +348,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -397,9 +403,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -452,9 +458,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -507,9 +513,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -562,9 +568,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView
@@ -617,9 +623,9 @@
                         android:layout_alignParentEnd="true"
                         android:layout_alignParentRight="true"
                         android:layout_alignParentTop="true"
+                        android:layout_margin="15dp"
                         android:background="@android:color/transparent"
-                        app:srcCompat="@drawable/ic_expand_more"
-                        android:layout_margin="15dp" />
+                        app:srcCompat="@drawable/ic_expand_more" />
                 </RelativeLayout>
 
                 <ImageView

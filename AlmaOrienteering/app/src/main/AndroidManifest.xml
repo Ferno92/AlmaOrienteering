@@ -83,9 +83,10 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".EmbedBrowser"
-            android:theme="@style/AppTheme.Browser">
-        </activity>
+        <activity
+            android:name=".EmbedBrowser"
+            android:theme="@style/AppTheme.Browser"></activity>
+        <activity android:name=".FilterCorsoActivity"></activity>
     </application>
 
 </manifest>
