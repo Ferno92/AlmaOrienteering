@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.MainActivity;
+import com.almaorient.ferno92.almaorienteering.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
@@ -213,7 +214,7 @@ public class SignUpActivity extends BaseActivity {
                                             if (task.isSuccessful()) {
                                                 Toast.makeText(SignUpActivity.this, "Registrazione avvenuta! Conferma la tua effettiva identità con la mail che ti abbiamo appena inviato",
                                                         Toast.LENGTH_LONG).show();
-                                                Intent i = new Intent(SignUpActivity.this, MainActivity.class);
+                                                Intent i = new Intent(SignUpActivity.this, NewMainActivity.class);
                                                 i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
                                                 startActivity(i);
                                                 finish();

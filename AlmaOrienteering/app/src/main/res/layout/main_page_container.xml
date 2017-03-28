@@ -1,4 +1,4 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/volley_match_fragment"
     xmlns:tools="http://schemas.android.com/tools"
@@ -10,17 +10,18 @@
         android:id="@+id/indicator"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
         app:dotDiameter="12dp"
         app:dotGap="12dp"
         app:animationDuration="320"
         app:pageIndicatorColor="@color/colorPrimaryDark"
-        app:currentPageIndicatorColor="@color/colorPrimary"/>
+        app:currentPageIndicatorColor="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        />
 
     <android.support.v4.view.ViewPager
         android:id="@+id/vpPager"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp">
+        android:layout_height="wrap_content">
     </android.support.v4.view.ViewPager>
-</FrameLayout>
+</RelativeLayout>

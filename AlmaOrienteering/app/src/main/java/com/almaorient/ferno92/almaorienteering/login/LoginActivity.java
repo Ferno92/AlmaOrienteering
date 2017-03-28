@@ -20,6 +20,7 @@ import android.widget.Toast;
 import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.ChooseActivity;
 import com.almaorient.ferno92.almaorienteering.MainActivity;
+import com.almaorient.ferno92.almaorienteering.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -88,7 +89,7 @@ public class LoginActivity extends BaseActivity {
                     // User is signed in
                     Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
 
-                    Intent i = new Intent(LoginActivity.this, MainActivity.class);
+                    Intent i = new Intent(LoginActivity.this, NewMainActivity.class);
                     i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(i);
                     finish();
