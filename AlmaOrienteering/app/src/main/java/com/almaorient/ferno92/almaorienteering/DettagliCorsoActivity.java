@@ -35,6 +35,8 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 
 import static android.R.attr.data;
@@ -579,33 +581,31 @@ public class DettagliCorsoActivity extends BaseActivity {
                 //int i = 0;
                 for (DataSnapshot data : dataSnapshot.getChildren()) {
                     String curriculum = (String) data.child("nomecurr").getValue();
-                    //Log.d("size lista aule", String.valueOf(mListaAule.size()));
-                    //initMap();
-                    //a[0] = a[0] +1;
+
                     //prendo dal database i nomi dei diversi curriculum
-                    if(nomicurriculum.isEmpty() || !nomicurriculum.contains(curriculum)){
-                        nomicurriculum.add(curriculum);
-                    }
+//                    if(nomicurriculum.isEmpty() || !nomicurriculum.contains(curriculum)){
+//                        nomicurriculum.add(curriculum);
+//                    }
 //
                 }
 
-                TextView prova = (TextView) findViewById(R.id.prova);
-                prova.setText(String.valueOf(nomicurriculum.size()));
+//                TextView prova = (TextView) findViewById(R.id.prova);
+//                prova.setText(String.valueOf(nomicurriculum.size()));
 
                 for (int i=0; i<nomicurriculum.size(); i++){
                     int a=i+1;
-                    String buttonIDname = "curr" + String.valueOf(a);
-                    int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
-                    final Button curr = (Button) findViewById(buttonID);
-                    curr.setVisibility(View.VISIBLE);
-                    curr.setText(nomicurriculum.get(i));
-                    curr.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View view) {
-                            ExpandableListView curr1anno1 = (ExpandableListView) findViewById(R.id.curr1anno1);
-                            curr1anno1.setVisibility(View.VISIBLE);
-                        }
-                    });
+//                    String buttonIDname = "curr" + String.valueOf(a);
+//                    int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
+//                    final Button curr = (Button) findViewById(buttonID);
+//                    curr.setVisibility(View.VISIBLE);
+//                    curr.setText(nomicurriculum.get(i));
+//                    curr.setOnClickListener(new View.OnClickListener() {
+//                        @Override
+//                        public void onClick(View view) {
+//                            ExpandableListView curr1anno1 = (ExpandableListView) findViewById(R.id.curr1anno1);
+//                            curr1anno1.setVisibility(View.VISIBLE);
+//                        }
+//                    });
                 }
             }
 
@@ -617,6 +617,28 @@ public class DettagliCorsoActivity extends BaseActivity {
             }
         });
 
+        ExpandableListView anno1 = (ExpandableListView) findViewById(R.id.anno1);
+
+
+
+        final Query query6 = ref.child("piani_studio/economia/9202/curriculum");
+        query6.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                HashMap meMap = (HashMap) dataSnapshot.getValue();
+                Iterator insegnamento = meMap.keySet().iterator();
+                while (insegnamento.hasNext()){
+
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                if (databaseError != null) {
+
+                }
+            }
+        });
 
 
     }
