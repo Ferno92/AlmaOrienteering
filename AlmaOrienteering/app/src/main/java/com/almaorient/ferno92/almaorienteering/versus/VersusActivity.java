@@ -73,8 +73,8 @@ public class VersusActivity extends BaseActivity {
         });
 
         this.mStatScroll = (LinearLayout) findViewById(R.id.stat_scroll);
-        if(mScuola1 == "tutte"){
-            //recupera statistiche generali
+        if(mScuola1 == "seleziona"){
+            //predisposizione per recuperare statistiche generali
         }else{
             Query query = mRef.child("statistiche").child(mScuola1).child(String.valueOf(this.mPosCorso1)).orderByKey();
             query.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -145,8 +145,8 @@ public class VersusActivity extends BaseActivity {
                 }
             });
         }
-        if(mScuola2 == "tutte"){
-            //recupera statistiche generali
+        if(mScuola2 == "seleziona"){
+            //predisposizione per recuperare statistiche generali
 
         }else{
             Query query = mRef.child("statistiche").child(mScuola2).child(String.valueOf(this.mPosCorso2)).orderByKey();
