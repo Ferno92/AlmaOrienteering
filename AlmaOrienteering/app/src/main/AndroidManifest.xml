@@ -85,8 +85,10 @@
 
         <activity
             android:name=".EmbedBrowser"
-            android:theme="@style/AppTheme.Browser"></activity>
-        <activity android:name=".FilterCorsoActivity"></activity>
+            android:theme="@style/AppTheme.Browser" />
+        <activity android:name=".FilterCorsoActivity" />
+        <activity android:name=".DettagliCorsoTabs.Tab1Activity" />
+        <activity android:name=".DettagliCorsoTabs.Tab2Activity"></activity>
     </application>
 
 </manifest>

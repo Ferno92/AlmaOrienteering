@@ -2,6 +2,7 @@ package com.almaorient.ferno92.almaorienteering;
 
 import android.content.ClipData;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -14,10 +15,12 @@ import android.webkit.WebViewClient;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ExpandableListView;
 import android.widget.ImageButton;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
+import android.widget.TabHost;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
@@ -41,6 +44,8 @@ import static android.R.drawable.btn_plus;
 import static com.almaorient.ferno92.almaorienteering.R.id.agrariaplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.primoannolistview;
 import static com.almaorient.ferno92.almaorienteering.R.id.primoannoplus;
+import static com.almaorient.ferno92.almaorienteering.R.id.tab1;
+import static com.almaorient.ferno92.almaorienteering.R.id.tab_host;
 import static com.almaorient.ferno92.almaorienteering.R.id.terzoannolayout;
 import static com.almaorient.ferno92.almaorienteering.R.id.window;
 
@@ -104,6 +109,8 @@ public class DettagliCorsoActivity extends BaseActivity {
         startActivity(maps);
     }
 
+    TabHost tabhost;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -124,6 +131,50 @@ public class DettagliCorsoActivity extends BaseActivity {
         String campus = getIntent().getExtras().getString("Campus");
         String accesso = getIntent().getExtras().getString("Accesso");
         final Long scuolaid = getIntent().getExtras().getLong("IdScuola");
+
+
+        Resources res = getResources();
+        TabHost tab = (TabHost) findViewById(R.id.tab_host);
+        tab.setup();
+        TabHost.TabSpec spec;
+
+//        tab.setup();
+
+        //Tab 1
+        spec=tab.newTabSpec("Tab 1");
+        spec.setContent(R.id.tab1);
+        spec.setIndicator("Info");
+        tab.addTab(spec);
+
+        //Tab 1
+        spec=tab.newTabSpec("Tab 2");
+        spec.setContent(R.id.tab2);
+        spec.setIndicator("Descrizione");
+        tab.addTab(spec);
+
+        //Tab 1
+        spec=tab.newTabSpec("Tab 3");
+        spec.setContent(R.id.tab3);
+        spec.setIndicator("Piano didattico");
+        tab.addTab(spec);
+
+        //Tab 1
+        spec=tab.newTabSpec("Tab 4");
+        spec.setContent(R.id.tab4);
+        spec.setIndicator("Sbocchi");
+        tab.addTab(spec);
+
+
+//        tab.setOnTabChangedListener(new TabHost.OnTabChangeListener() {
+//            @Override
+//            public void onTabChanged(String s) {
+//
+//            }
+//        });
+
+        tab.setCurrentTab(0);
+
+
 
         setTitle(corso);
 
@@ -151,7 +202,7 @@ public class DettagliCorsoActivity extends BaseActivity {
         });
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference ref = database.getReference();
+        final DatabaseReference ref = database.getReference();
 
         final Query posstats =  ref.child("statistiche/"+scuola).orderByChild("codice_corso").equalTo(Integer.parseInt(corsocodice));
 
@@ -182,20 +233,20 @@ public class DettagliCorsoActivity extends BaseActivity {
 
         final ImageButton descrplus = (ImageButton) findViewById(R.id.descrizioneplus);
         final TextView descrizione = (TextView) findViewById(R.id.introduziontetxt);
-        descrplus.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (descrizione.getVisibility() == View.GONE) {
-                    descrizione.setVisibility(view.VISIBLE);
-                    descrplus.setImageResource(R.drawable.ic_expand_less);
-
-                } else {
-                    descrizione.setVisibility(view.GONE);
-                    descrplus.setImageResource(R.drawable.ic_expand_more);
-                }
-            }
-
-        });
+//        descrplus.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                if (descrizione.getVisibility() == View.GONE) {
+//                    descrizione.setVisibility(view.VISIBLE);
+//                    descrplus.setImageResource(R.drawable.ic_expand_less);
+//
+//                } else {
+//                    descrizione.setVisibility(view.GONE);
+//                    descrplus.setImageResource(R.drawable.ic_expand_more);
+//                }
+//            }
+//
+//        });
 
         final Button maps = (Button) findViewById(R.id.mapsbutton);
 
@@ -515,6 +566,58 @@ public class DettagliCorsoActivity extends BaseActivity {
 
 
 //FINE PARTE PIANI DI STUDIO FIREBASE
+
+        ///PIANI STUDIO CON TABHOST
+
+        final ArrayList <String> nomicurriculum = new ArrayList();
+            ///mScuolaadatt[(int) (long) scuolaid].getScuolaId()+"/"+Integer.parseInt(corsocodice)+
+        final Integer[] a = {0};
+        final Query query5 = ref.child("piani_studio/economia/9202/curriculum");
+        query5.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                //int i = 0;
+                for (DataSnapshot data : dataSnapshot.getChildren()) {
+                    String curriculum = (String) data.child("nomecurr").getValue();
+                    //Log.d("size lista aule", String.valueOf(mListaAule.size()));
+                    //initMap();
+                    //a[0] = a[0] +1;
+                    //prendo dal database i nomi dei diversi curriculum
+                    if(nomicurriculum.isEmpty() || !nomicurriculum.contains(curriculum)){
+                        nomicurriculum.add(curriculum);
+                    }
+//
+                }
+
+                TextView prova = (TextView) findViewById(R.id.prova);
+                prova.setText(String.valueOf(nomicurriculum.size()));
+
+                for (int i=0; i<nomicurriculum.size(); i++){
+                    int a=i+1;
+                    String buttonIDname = "curr" + String.valueOf(a);
+                    int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
+                    final Button curr = (Button) findViewById(buttonID);
+                    curr.setVisibility(View.VISIBLE);
+                    curr.setText(nomicurriculum.get(i));
+                    curr.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            ExpandableListView curr1anno1 = (ExpandableListView) findViewById(R.id.curr1anno1);
+                            curr1anno1.setVisibility(View.VISIBLE);
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                if (databaseError != null) {
+
+                }
+            }
+        });
+
+
 
     }
 }
