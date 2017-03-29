@@ -33,6 +33,10 @@
             android:label="Registrazione"
             android:theme="@style/AppTheme" />
         <activity
+            android:name=".login.SettingsActivity"
+            android:label="Settings"
+            android:theme="@style/AppTheme" />
+        <activity
             android:name=".MainActivity"
             android:label="Homepage"
             android:theme="@style/AppTheme.NoActionBar" />

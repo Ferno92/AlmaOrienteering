@@ -23,6 +23,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.homepage.HomePagerAdapter;
+import com.almaorient.ferno92.almaorienteering.login.SettingsActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
@@ -43,6 +44,11 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     private ViewPager mViewPager;
     private HomePagerAdapter mPagerAdapter;
     private FirebaseAuth mAuth;
+    private String mUserName;
+    private String mUserSurname;
+    private String mCorso;
+    private String mCorsoId;
+    private String mScuola;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -83,26 +89,34 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
                 public void onDataChange(DataSnapshot dataSnapshot) {
                     for(DataSnapshot data : dataSnapshot.getChildren()){
                         String id = (String) data.child("userId").getValue();
-                        if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
-                            scuolaItem.setTitle((String) data.child("scuola").getValue());
-                            HashMap corsoMap = (HashMap) data.child("corso").getValue();
-                            Iterator corsoIterator = corsoMap.keySet().iterator();
-                            String nomeCorso = "";
-                            while (corsoIterator.hasNext()) {
-                                String corsoKey = (String) corsoIterator.next();
-                                switch (corsoKey) {
-                                    case "id":
+                        if(mAuth.getCurrentUser() != null){
+                            if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
+                                mUserName = (String) data.child("nome").getValue();
+                                mUserSurname = (String) data.child("cognome").getValue();
+                                mScuola = (String) data.child("scuola").getValue();
 
-                                        break;
-                                    case "nome":
-                                        nomeCorso = String.valueOf(corsoMap.get(corsoKey));
-                                        break;
-                                    default:
-                                        break;
+                                scuolaItem.setTitle((String) data.child("scuola").getValue());
+                                HashMap corsoMap = (HashMap) data.child("corso").getValue();
+                                Iterator corsoIterator = corsoMap.keySet().iterator();
+                                String nomeCorso = "";
+                                while (corsoIterator.hasNext()) {
+                                    String corsoKey = (String) corsoIterator.next();
+                                    switch (corsoKey) {
+                                        case "id":
+                                            mCorsoId = String.valueOf(corsoMap.get(corsoKey));
+                                            break;
+                                        case "nome":
+                                            nomeCorso = String.valueOf(corsoMap.get(corsoKey));
+                                            mCorso = nomeCorso;
+                                            break;
+                                        default:
+                                            break;
+                                    }
                                 }
+
+                                corsoItem.setTitle(nomeCorso);
                             }
 
-                            corsoItem.setTitle(nomeCorso);
                         }
                     }
 
@@ -198,6 +212,14 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent i = new Intent(NewMainActivity.this, SettingsActivity.class);
+            i.putExtra("nome", mUserName);
+            i.putExtra("cognome", mUserSurname);
+            i.putExtra("corsoId", mCorsoId);
+            i.putExtra("corso", mCorso);
+            i.putExtra("scuola", mScuola);
+            startActivity(i);
+
             return true;
         }else if(id == R.id.logout){
             if(this.mAuth.getCurrentUser() != null){
