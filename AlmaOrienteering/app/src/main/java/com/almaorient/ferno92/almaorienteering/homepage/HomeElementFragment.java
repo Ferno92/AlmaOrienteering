@@ -30,14 +30,14 @@ public class HomeElementFragment extends Fragment {
     private View mRootView;
     private int mPosition;
     private HomeElementModel[] mElementList = new HomeElementModel[]{
-            new HomeElementModel(0, "L'unibo si presenta", "Breve descrizione", "ic_unibo"),
-            new HomeElementModel(1, "Offerta formativa", "Breve descrizione", "ic_elenco_scuole"),
-            new HomeElementModel(2, "Mappa", "Breve descrizione", "ic_mappa"),
-            new HomeElementModel(3, "Modus", "Breve descrizione", "ic_icona_chat"),
-            new HomeElementModel(4, "Statistiche", "Breve descrizione", "ic_statistica"),
-            new HomeElementModel(5, "Calendario", "Breve descrizione", "ic_calendario_icona"),
-            new HomeElementModel(6, "Guida applicazione", "Breve descrizione", "ic_guida"),
-            new HomeElementModel(7, "Recensioni", "Breve descrizione", "ic_recensioni")
+            new HomeElementModel(0, "L'unibo si presenta", "Informatevi sul funzionamento dell'ateneo e sui vari aspetti che lo caratterizzano.", "ic_unibo_big"),
+            new HomeElementModel(1, "Offerta formativa", "Accedete alle 11 Scuole presenti all'interno dell'Università di Bologna", "ic_elenco_scuole_big"),
+            new HomeElementModel(2, "Mappa", "Prendete visione della posizione delle aule dell'Ateneo. Per evidenziare le aule di un corso specifico, utilizzate l'apposito filtro.", "ic_mappa_big"),
+            new HomeElementModel(3, "Modus", "Grazie alla collaborazione\n con l'associazione culturale Modus,\n potrete avere un contatto supplementare per eventuali domande irrisolte.", "ic_icona_chat_big"),
+            new HomeElementModel(4, "Statistiche", "Mettete a confronto Scuole o Corsi per avere un riscontro immediato sulle statistiche raccolte dall'Unibo.", "ic_statistica_big"),
+            new HomeElementModel(5, "Calendario", "Siate sempre aggiornati su eventuali incontri/orientamenti organizzati dalle 11 Scuole.", "ic_calendario_icona_big"),
+            new HomeElementModel(6, "Guida applicazione", "Non sapete come funziona? Consultate la guida dettagliata su Almaorienteering", "ic_guida_big"),
+            new HomeElementModel(7, "Recensioni", "Accedete alle valutazioni redatte dagli studenti iscritti, per ottenere informazioni di gradimento su corsi o esami", "ic_recensioni_big")
     };
 
 
