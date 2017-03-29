@@ -38,7 +38,7 @@ public class ChooseActivity extends AppCompatActivity {
             // authenticate with your backend server, if you have one. Use
             // FirebaseUser.getToken() instead.
             String uid = user.getUid();
-            Intent i = new Intent(ChooseActivity.this, MainActivity.class);
+            Intent i = new Intent(ChooseActivity.this, NewMainActivity.class);
             i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(i);
             finish();
@@ -61,7 +61,7 @@ public class ChooseActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View view) {
 
-                    Intent i = new Intent(ChooseActivity.this, MainActivity.class);
+                    Intent i = new Intent(ChooseActivity.this, NewMainActivity.class);
                     startActivity(i);
                 }
             });
