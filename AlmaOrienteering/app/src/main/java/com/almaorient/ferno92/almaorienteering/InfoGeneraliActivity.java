@@ -22,7 +22,7 @@ import static com.almaorient.ferno92.almaorienteering.R.id.plusuno;
 import static com.almaorient.ferno92.almaorienteering.R.id.ulterioriinfo4;
 import static com.almaorient.ferno92.almaorienteering.R.id.webview2;
 
-public class InfoGeneraliActivity extends AppCompatActivity {
+public class InfoGeneraliActivity extends BaseActivity {
 
     //////BROWSER
     private void richiamoBrowser(String url) {

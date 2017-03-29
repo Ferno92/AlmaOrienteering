@@ -125,6 +125,21 @@
             </android.support.design.widget.CollapsingToolbarLayout>
         </android.support.design.widget.AppBarLayout>
 
+        <LinearLayout
+            android:id="@+id/layoutprogressbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="2dp" />
+        </LinearLayout>
+
         <WebView
             android:id="@+id/embedwebview"
             android:layout_width="match_parent"

@@ -1,7 +1,12 @@
 package com.almaorient.ferno92.almaorienteering;
 
 import android.content.Intent;
+import android.content.res.ColorStateList;
+import android.graphics.Color;
+import android.graphics.PorterDuff;
 import android.net.Uri;
+import android.os.Build;
+import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.PopupMenu;
@@ -9,12 +14,15 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -35,6 +43,7 @@ public class EmbedBrowser extends AppCompatActivity implements PopupMenu.OnMenuI
         }
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,6 +56,29 @@ public class EmbedBrowser extends AppCompatActivity implements PopupMenu.OnMenuI
         webviewsettings.setJavaScriptEnabled(true);
         embeddedwebview.loadUrl(url);
         embeddedwebview.setWebViewClient(new MyWebViewClient());
+
+        final ProgressBar Pbar;
+        Pbar = (ProgressBar) findViewById(R.id.progressBar2);
+        //Pbar.getProgressDrawable().setColorFilter(Color.WHITE, android.graphics.PorterDuff.Mode.SRC_IN);
+        final LinearLayout progressbarlayout = (LinearLayout) findViewById(R.id.layoutprogressbar);
+        Pbar.setProgressTintList(ColorStateList.valueOf(Color.WHITE));
+
+
+        embeddedwebview.setWebChromeClient(new WebChromeClient() {
+            public void onProgressChanged(WebView view, int progress) {
+                if(progress < 100 && Pbar.getVisibility() == ProgressBar.GONE){
+                    progressbarlayout.setVisibility(View.VISIBLE);
+                    Pbar.setVisibility(ProgressBar.VISIBLE);
+                }
+
+                Pbar.setProgress(progress);
+                if(progress == 100) {
+                    Pbar.setVisibility(ProgressBar.GONE);
+                    progressbarlayout.setVisibility(View.GONE);
+                }
+            }
+        });
+
 
         ImageButton closbtn = (ImageButton) findViewById(R.id.closebutton);
 

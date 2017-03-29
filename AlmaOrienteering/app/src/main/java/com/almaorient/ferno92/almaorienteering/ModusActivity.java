@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
  * Created by Marco on 23/03/2017.
  */
 
-public class ModusActivity extends AppCompatActivity {
+public class ModusActivity extends BaseActivity {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

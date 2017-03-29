@@ -44,7 +44,7 @@ import static com.almaorient.ferno92.almaorienteering.R.id.primoannoplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.terzoannolayout;
 import static com.almaorient.ferno92.almaorienteering.R.id.window;
 
-public class DettagliCorsoActivity extends AppCompatActivity {
+public class DettagliCorsoActivity extends BaseActivity {
 
     public static void setListViewHeightBasedOnChildren(ListView listView) {
         ListAdapter listAdapter = listView.getAdapter();
@@ -127,7 +127,6 @@ public class DettagliCorsoActivity extends AppCompatActivity {
 
         setTitle(corso);
 
-        //nomecorsoText.setText(corso);
         tipocorsoText.setText(tipo);
         campuscorsoText.setText(campus);
         accessoText.setText(accesso);
@@ -145,6 +144,8 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent recensioniIntent = new Intent(getApplicationContext(), ListaRecensioniActivity.class);
                 recensioniIntent.putExtra("nome_corso", corso);
+                recensioniIntent.putExtra("scuola", scuola);
+                recensioniIntent.putExtra("codice_corso", corsocodice);
                 startActivity(recensioniIntent);
             }
         });
@@ -179,6 +180,23 @@ public class DettagliCorsoActivity extends AppCompatActivity {
             }
         });
 
+        final ImageButton descrplus = (ImageButton) findViewById(R.id.descrizioneplus);
+        final TextView descrizione = (TextView) findViewById(R.id.introduziontetxt);
+        descrplus.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (descrizione.getVisibility() == View.GONE) {
+                    descrizione.setVisibility(view.VISIBLE);
+                    descrplus.setImageResource(R.drawable.ic_expand_less);
+
+                } else {
+                    descrizione.setVisibility(view.GONE);
+                    descrplus.setImageResource(R.drawable.ic_expand_more);
+                }
+            }
+
+        });
+
         final Button maps = (Button) findViewById(R.id.mapsbutton);
 
         Query query4 = ref.child("corso/" + mScuolaadatt[(int) (long) scuolaid].getScuolaId()).orderByChild("corso_codice")
@@ -189,13 +207,13 @@ public class DettagliCorsoActivity extends AppCompatActivity {
                 //int i = 0;
                 for (DataSnapshot data : dataSnapshot.getChildren()) {
                     final Integer spinneridcorso = (Integer) Integer.parseInt(data.getKey());
-
+                    final Integer spinneridcorso2 = spinneridcorso+1;
                     //Log.d("size lista aule", String.valueOf(mListaAule.size()));
                     //initMap();
                     maps.setOnClickListener(new View.OnClickListener() {
                         @Override
                         public void onClick(View view) {
-                            mappe(scuolaid, spinneridcorso, "dettagliCorso");
+                            mappe(scuolaid, spinneridcorso2, "dettagliCorso");
                         }
 
                     });

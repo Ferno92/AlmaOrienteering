@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 
+import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.MainActivity;
 import com.almaorient.ferno92.almaorienteering.MapsActivity;
 import com.almaorient.ferno92.almaorienteering.R;
@@ -23,7 +24,7 @@ import com.google.firebase.database.Query;
  * Created by lucas on 13/03/2017.
  */
 
-public class VersusSelectorActivity extends AppCompatActivity {
+public class VersusSelectorActivity extends BaseActivity {
 
     Spinner mScuola1Spinner;
     Spinner mScuola2Spinner;

@@ -64,22 +64,41 @@
 
             </LinearLayout>
 
-            <TextView
-                android:id="@+id/textView6"
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:text="Breve introduzione"
-                android:textAllCaps="false"
-                android:textSize="20sp"
-                android:textStyle="bold|italic" />
+                android:layout_height="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/descrizioneplus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    app:srcCompat="@drawable/ic_expand_more" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/descrizioneplus"
+                    android:layout_toStartOf="@+id/descrizioneplus"
+                    android:text="Breve introduzione"
+                    android:textAllCaps="false"
+                    android:textSize="20sp"
+                    android:textStyle="bold|italic" />
+            </RelativeLayout>
 
             <TextView
-                android:id="@+id/textView5"
+                android:id="@+id/introduziontetxt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
-                android:textSize="16sp" />
+                android:text="La Laurea in Ingegneria biomedica si pone l’obiettivo di fornire agli studenti la padronanza di contenuti scientifici e metodi generali per acquisire specifiche conoscenze professionali negli ambiti multidisciplinari afferenti all’ ingegneria biomedica. Il processo di formazione è quindi progettato in modo da preparare figure professionali polivalenti in possesso di una solida cultura tecnico-biologica, basata sull’integrazione tra ingegneria dell’ informazione, ingegneria industriale e cultura medico-biologica. Su queste basi si intende costruire una figura professionale in grado di inserirsi nel variegato mondo del lavoro e delle professioni, ed abbia gli strumenti per orientarsi tra le successive possibilità di approfondimento culturale. è prevista infatti anche una consistente ed articolata offerta didattica di tipo avanzato (Laurea Magistrale, Master, Dottorato di Ricerca) con particolare attenzione alla collaborazione con il mondo industriale,"
+                android:textSize="16sp"
+                android:visibility="gone" />
 
             <TextView
                 android:id="@+id/textView10"

@@ -13,7 +13,9 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.MainActivity;
+import com.almaorient.ferno92.almaorienteering.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
@@ -31,7 +33,11 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
@@ -39,7 +45,7 @@ import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
  * Created by luca.fernandez on 10/03/2017.
  */
 
-public class SignUpActivity extends AppCompatActivity {
+public class SignUpActivity extends BaseActivity {
 //    https://firebase.google.com/docs/analytics/android/properties
 //    https://firebase.google.com/docs/auth/android/password-auth
 //    https://firebase.google.com/docs/auth/android/manage-users
@@ -57,6 +63,7 @@ public class SignUpActivity extends AppCompatActivity {
     Scuola mSelectedScuola;
     Corso mSelectedCorso;
     private List<Corso> mListaCorsi = new ArrayList<Corso>();
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -177,8 +184,8 @@ public class SignUpActivity extends AppCompatActivity {
         String password = mPwdEdit.getText().toString();
 
         if(!email.isEmpty() && !password.isEmpty()){
-            if(email.contains(this.BASE_EMAIL_TYPE)){
-                mAuth.createUserWithEmailAndPassword(email, password)
+
+                mAuth.createUserWithEmailAndPassword(email + BASE_EMAIL_TYPE, password)
                         .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                             @Override
                             public void onComplete(@NonNull Task<AuthResult> task) {
@@ -192,26 +199,33 @@ public class SignUpActivity extends AppCompatActivity {
                                             Toast.LENGTH_SHORT).show();
                                 }else{
                                     // Add user properties
-//                                    mFirebaseAnalytics.setUserProperty("Scuola", mSelectedScuola.getNome());
-//                                    mFirebaseAnalytics.setUserProperty("Corso", mSelectedCorso.getNome());
+                                    Map<String, String> corso = new HashMap<String, String>();
+                                    corso.put("id", mSelectedCorso.getScuolaId());
+                                    corso.put("nome", mSelectedCorso.getNome());
+
                                     StudenteUnibo user = new StudenteUnibo(email, "", "",
-                                            new CorsoSignUp(Integer.valueOf(mSelectedCorso.getScuolaId()), mSelectedCorso.getNome()),
+                                            corso,
                                             mSelectedScuola.getNome());
                                     mRef.child("users").push().setValue(user);
 
-                                    Toast.makeText(SignUpActivity.this, "Authentication succeded",
-                                            Toast.LENGTH_SHORT).show();
-                                    Intent i = new Intent(SignUpActivity.this, MainActivity.class);
-                                    i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
-                                    startActivity(i);
-                                    finish();
+                                    mAuth.getCurrentUser().sendEmailVerification().addOnCompleteListener(new OnCompleteListener<Void>() {
+                                        @Override
+                                        public void onComplete(@NonNull Task<Void> task) {
+                                            if (task.isSuccessful()) {
+                                                Toast.makeText(SignUpActivity.this, "Registrazione avvenuta! Conferma la tua effettiva identità con la mail che ti abbiamo appena inviato",
+                                                        Toast.LENGTH_LONG).show();
+                                                Intent i = new Intent(SignUpActivity.this, NewMainActivity.class);
+                                                i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
+                                                startActivity(i);
+                                                finish();
+                                            }
+                                        }
+                                    });
+
+
                                 }
                             }
                         });
-            }else{
-                Toast.makeText(SignUpActivity.this, "L'email deve essere del tipo @studio.unibo.it",
-                        Toast.LENGTH_SHORT).show();
-            }
         }else{
             Toast.makeText(SignUpActivity.this, "Mancano dei dati obbligatori",
                     Toast.LENGTH_SHORT).show();

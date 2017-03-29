@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AccelerateDecelerateInterpolator;
+import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
@@ -30,9 +31,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
+import static android.R.attr.maxWidth;
 import static com.almaorient.ferno92.almaorienteering.R.id.listaagraria;
+import static com.almaorient.ferno92.almaorienteering.R.id.wrap;
+import static com.almaorient.ferno92.almaorienteering.R.id.wrap_content;
 
-public class ElencoScuoleActivity extends AppCompatActivity {
+public class ElencoScuoleActivity extends BaseActivity {
 
     //private int mPosition = 0;
     private ArrayList<Scuola> mListaScuole = new ArrayList<>();
@@ -103,8 +107,8 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         startActivity(nuovapagina);
     }
 
-    public static void setListViewHeightBasedOnChildren(ListView listView) {
-        ListAdapter listAdapter = listView.getAdapter();
+    public static void setListViewHeightBasedOnChildren(ListView listView, ListAdapter listAdapter) {
+        //ListAdapter listAdapter = listView.getAdapter();
         if (listAdapter == null) {
             // pre-condition
             return;
@@ -112,7 +116,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
 
         int totalHeight = 0;
         for (int i = 0; i < listAdapter.getCount(); i++) {
-            View listItem = listAdapter.getView(i, null, listView);
+            View listItem = listAdapter.getView(i,null, listView);
             listItem.measure(0, 0);
             totalHeight += listItem.getMeasuredHeight();
         }
@@ -128,6 +132,25 @@ public class ElencoScuoleActivity extends AppCompatActivity {
         setContentView(R.layout.elenco_scuole);
 
         setTitle("Scuole");
+
+        final Integer a = 0;
+
+        final String tipo_laurea = getIntent().getExtras().getString("tipo_laurea");
+        final String campus_selezionato = getIntent().getExtras().getString("campus");
+
+        final RelativeLayout agrarialayout = (RelativeLayout) findViewById(R.id.agrarialayout);
+        final RelativeLayout economialayout = (RelativeLayout) findViewById(R.id.economialayout);
+        final RelativeLayout farmacialayout = (RelativeLayout) findViewById(R.id.farmacialayout);
+        final RelativeLayout giurisprudenzalayout = (RelativeLayout) findViewById(R.id.giurisprudenzalayout);
+        final RelativeLayout ingegnerialayout = (RelativeLayout) findViewById(R.id.ingegnerialayout);
+        final RelativeLayout letterelayout = (RelativeLayout) findViewById(R.id.letterelayout);
+        final RelativeLayout linguelayout = (RelativeLayout) findViewById(R.id.linguelayout);
+        final RelativeLayout medicinalayout = (RelativeLayout) findViewById(R.id.medicinalayout);
+        final RelativeLayout psicologialayout = (RelativeLayout) findViewById(R.id.psicologialayout);
+        final RelativeLayout scienzelayout = (RelativeLayout) findViewById(R.id.scienzelayout);
+        final RelativeLayout scienze_politichelayout = (RelativeLayout) findViewById(R.id.scienze_politichelayout);
+
+
 
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference ref = database.getReference();
@@ -183,9 +206,84 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                         tempCorsoList.add(corso);
                     }
                     //Switch loop
+                    ArrayList<Corso> tempCorsoList2 = new ArrayList<Corso>();
+                    ArrayList<Corso> defCorsoList = new ArrayList<Corso>();
+
+                    switch (tipo_laurea) {
+                        case "Laurea":
+                            for (int i=0; i<tempCorsoList.size(); i++) {
+                                if (tempCorsoList.get(i).getTipo().equals("Laurea")) {
+                                    tempCorsoList2.add(tempCorsoList.get(i));
+                                }
+                            }
+                            break;
+                        case "Laurea Magistrale":
+                            for (int i=0; i<tempCorsoList.size(); i++) {
+                                if (tempCorsoList.get(i).getTipo().equals("Laurea Magistrale")) {
+                                    tempCorsoList2.add(tempCorsoList.get(i));
+                                }
+                            }
+                            break;
+                        case "Laurea Magistrale a ciclo unico":
+                            for (int i=0; i<tempCorsoList.size(); i++) {
+                                if (tempCorsoList.get(i).getTipo().equals("Laurea Magistrale a ciclo unico")) {
+                                    tempCorsoList2.add(tempCorsoList.get(i));
+                                }
+                            }
+                            break;
+                        case "":
+                            for (int i=0; i<tempCorsoList.size(); i++) {
+                                    tempCorsoList2.add(tempCorsoList.get(i));
+                            }
+                            break;
+                    }
+
+                    switch (campus_selezionato){
+                        case "Bologna":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                if (tempCorsoList2.get(i).getCampus().equals("Bologna")) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                                }
+                            }
+                            break;
+                        case "Ravenna":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                if (tempCorsoList2.get(i).getCampus().equals("Ravenna")) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                                }
+                            }
+                            break;
+                        case "Cesena":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                if (tempCorsoList2.get(i).getCampus().equals("Cesena")) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                                }
+                            }
+                            break;
+                        case "Forli'":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                if (tempCorsoList2.get(i).getCampus().equals("Forli'") || tempCorsoList2.get(i).getCampus().equals("Forli")) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                                }
+                            }
+                            break;
+                        case "Rimini":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                if (tempCorsoList2.get(i).getCampus().equals("Rimini")) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                                }
+                            }
+                            break;
+                        case "":
+                            for (int i=0; i<tempCorsoList2.size(); i++) {
+                                    defCorsoList.add(tempCorsoList2.get(i));
+                            }
+                            break;
+                    }
+
                     switch (key) {
                         case "agraria":
-                            Scuola scuolaAgraria = new Scuola(key, "Scuola di Agraria", tempCorsoList);
+                            Scuola scuolaAgraria = new Scuola(key, "Scuola di Agraria", defCorsoList);
                             mListaScuole.add(scuolaAgraria);
                             mElenco = (ListView) findViewById(listaagraria);
                             // riempio la lista arrayadapter sua
@@ -194,7 +292,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            if (adapter.isEmpty()){
+                                agrarialayout.setVisibility(View.GONE);
+                            }
+
+                            setListViewHeightBasedOnChildren(mElenco,adapter);
 
                             pressbutton(key,mElenco);
 
@@ -202,7 +304,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "economia":
-                            Scuola scuolaEconomia = new Scuola(key, "Scuola di Economia, Management e Statistica", tempCorsoList);
+                            Scuola scuolaEconomia = new Scuola(key, "Scuola di Economia, Management e Statistica", defCorsoList);
                             mListaScuole.add(scuolaEconomia);
                             mElenco = (ListView) findViewById(R.id.listaeconomia);
                             // riempio la lista arrayadapter sua
@@ -211,7 +313,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter2);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter2);
+
+                            if (adapter2.isEmpty()){
+                                economialayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -219,7 +325,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "farmacia":
-                            Scuola scuolaFarmacia = new Scuola(key, "Scuola di Farmacia, Biotecnologie e Scienze motorie", tempCorsoList);
+                            Scuola scuolaFarmacia = new Scuola(key, "Scuola di Farmacia, Biotecnologie e Scienze motorie", defCorsoList);
                             mListaScuole.add(scuolaFarmacia);
                             mElenco = (ListView) findViewById(R.id.listafarmacia);
                             // riempio la lista arrayadapter sua
@@ -228,7 +334,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter3);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter3);
+
+                            if (adapter3.isEmpty()){
+                                farmacialayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -236,7 +346,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "giurisprudenza":
-                            Scuola scuolaGiurisprudenza = new Scuola(key, "Scuola di Giurisprudenza", tempCorsoList);
+                            Scuola scuolaGiurisprudenza = new Scuola(key, "Scuola di Giurisprudenza", defCorsoList);
                             mListaScuole.add(scuolaGiurisprudenza);
                             mElenco = (ListView) findViewById(R.id.listagiurisprudenza);
                             // riempio la lista arrayadapter sua
@@ -245,7 +355,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter4);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter4);
+
+                            if (adapter4.isEmpty()){
+                                giurisprudenzalayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -253,7 +367,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "ingegneria":
-                            Scuola scuolaIngegneria = new Scuola(key, "Scuola di Ingegneria e Architettura", tempCorsoList);
+                            Scuola scuolaIngegneria = new Scuola(key, "Scuola di Ingegneria e Architettura", defCorsoList);
                             mListaScuole.add(scuolaIngegneria);
                             mElenco = (ListView) findViewById(R.id.listaingegneria);
                             // riempio la lista arrayadapter sua
@@ -262,7 +376,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter5);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter5);
+
+                            if (adapter5.isEmpty()){
+                                ingegnerialayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -270,7 +388,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "lettere":
-                            Scuola scuolaLettere = new Scuola(key, "Scuola di Lettere e Beni culturali", tempCorsoList);
+                            Scuola scuolaLettere = new Scuola(key, "Scuola di Lettere e Beni culturali", defCorsoList);
                             mListaScuole.add(scuolaLettere);
                             mElenco = (ListView) findViewById(R.id.listalettere);
                             // riempio la lista arrayadapter sua
@@ -279,7 +397,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter6);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter6);
+
+                            if (adapter6.isEmpty()){
+                                letterelayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -287,7 +409,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "lingue":
-                            Scuola scuolalingue = new Scuola(key, "Scuola di Lingue e Letterature, Traduzione e Interpretazione", tempCorsoList);
+                            Scuola scuolalingue = new Scuola(key, "Scuola di Lingue e Letterature, Traduzione e Interpretazione", defCorsoList);
                             mListaScuole.add(scuolalingue);
                             mElenco = (ListView) findViewById(R.id.listalingue);
                             // riempio la lista arrayadapter sua
@@ -296,7 +418,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter7);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter7);
+
+                            if (adapter7.isEmpty()){
+                                linguelayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -304,16 +430,40 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "medicina":
-                            Scuola scuolaMedicina = new Scuola(key, "Scuola di Medicina e Chirurgia", tempCorsoList);
+                            Scuola scuolaMedicina = new Scuola(key, "Scuola di Medicina e Chirurgia", defCorsoList);
                             mListaScuole.add(scuolaMedicina);
                             mElenco = (ListView) findViewById(R.id.listamedicina);
                             // riempio la lista arrayadapter sua
-                            ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item, scuolaMedicina.getListaCorsi());
+                            Integer a=0;
+
+                            for (int i=0; i<defCorsoList.size(); i++){
+                                if (defCorsoList.get(i).getNome().contains("Tecniche")){
+                                    a=0;
+                                    break;
+                                }
+                                else {
+                                    a=1;
+                                }
+                            }
+
+                            switch (a){
+                                case 0:
+                                    ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item_long_corsi, scuolaMedicina.getListaCorsi());
+                                    mElenco.setAdapter(adapter8);
+                                    setListViewHeightBasedOnChildren(mElenco,adapter8);
+                                    break;
+                                case 1:
+                                    ArrayAdapter<String> adapter12 = new ArrayAdapter<String>(getApplicationContext(), R.layout.simple_list_item_long_corsi, scuolaMedicina.getListaCorsi());
+                                    mElenco.setAdapter(adapter12);
+                                    setListViewHeightBasedOnChildren(mElenco,adapter12);
+                                    break;
+                            }
 
                             //inietto i dati
-                            mElenco.setAdapter(adapter8);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            if (defCorsoList.isEmpty()){
+                                medicinalayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -321,7 +471,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "psicologia":
-                            Scuola scuolaPsicologia = new Scuola(key, "Scuola di Psicologia", tempCorsoList);
+                            Scuola scuolaPsicologia = new Scuola(key, "Scuola di Psicologia", defCorsoList);
                             mListaScuole.add(scuolaPsicologia);
                             mElenco = (ListView) findViewById(R.id.listapsicologia);
                             // riempio la lista arrayadapter sua
@@ -330,7 +480,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter9);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            if (adapter9.isEmpty()){
+                                psicologialayout.setVisibility(View.GONE);
+                            }
+
+                            setListViewHeightBasedOnChildren(mElenco,adapter9);
 
                             pressbutton(key,mElenco);
 
@@ -338,7 +492,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "scienze":
-                            Scuola scuolaScienze = new Scuola(key, "Scuola di Scienze", tempCorsoList);
+                            Scuola scuolaScienze = new Scuola(key, "Scuola di Scienze", defCorsoList);
                             mListaScuole.add(scuolaScienze);
                             mElenco = (ListView) findViewById(R.id.listascienze);
                             // riempio la lista arrayadapter sua
@@ -347,7 +501,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter10);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter10);
+
+                            if (adapter10.isEmpty()){
+                                scienzelayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 
@@ -355,7 +513,7 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             break;
 
                         case "scienze_politiche":
-                            Scuola scuolaScienze_politiche = new Scuola(key, "Scuola di Scienze Politiche", tempCorsoList);
+                            Scuola scuolaScienze_politiche = new Scuola(key, "Scuola di Scienze Politiche", defCorsoList);
                             mListaScuole.add(scuolaScienze_politiche);
                             mElenco = (ListView) findViewById(R.id.listascienze_politiche);
                             // riempio la lista arrayadapter sua
@@ -364,7 +522,11 @@ public class ElencoScuoleActivity extends AppCompatActivity {
                             //inietto i dati
                             mElenco.setAdapter(adapter11);
 
-                            setListViewHeightBasedOnChildren(mElenco);
+                            setListViewHeightBasedOnChildren(mElenco,adapter11);
+
+                            if (adapter11.isEmpty()){
+                                scienze_politichelayout.setVisibility(View.GONE);
+                            }
 
                             pressbutton(key,mElenco);
 

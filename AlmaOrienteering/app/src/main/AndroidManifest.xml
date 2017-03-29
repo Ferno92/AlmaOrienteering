@@ -27,19 +27,23 @@
         <activity
             android:name=".login.LoginActivity"
             android:label="Login"
-            android:theme="@style/NoTitleTheme" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".login.SignUpActivity"
             android:label="Registrazione"
-            android:theme="@style/NoTitleTheme" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".MainActivity"
             android:label="Homepage"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
+            android:name=".NewMainActivity"
+            android:label="Homepage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".MapsActivity"
             android:label="Map"
-            android:theme="@style/AppTheme.Browser" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".CalendarActivity"
             android:label="Eventi AlmaOrienta"
@@ -83,9 +87,10 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".EmbedBrowser"
-            android:theme="@style/AppTheme.Browser">
-        </activity>
+        <activity
+            android:name=".EmbedBrowser"
+            android:theme="@style/AppTheme.Browser"></activity>
+        <activity android:name=".FilterCorsoActivity"></activity>
     </application>
 
 </manifest>

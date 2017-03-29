@@ -11,7 +11,7 @@ import java.util.Date;
  * Created by luca.fernandez on 13/03/2017.
  */
 
-public class CalendarActivity extends AppCompatActivity {
+public class CalendarActivity extends BaseActivity {
 //    http://stackoverflow.com/questions/21255158/want-to-add-custom-event-on-calendar-view-in-android
 
     @Override
