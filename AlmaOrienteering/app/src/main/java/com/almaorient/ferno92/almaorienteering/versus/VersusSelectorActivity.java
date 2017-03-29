@@ -10,6 +10,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.MainActivity;
@@ -31,7 +32,7 @@ public class VersusSelectorActivity extends BaseActivity {
     Scuola mSelectedScuola1;
     Scuola mSelectedScuola2;
     public static final Scuola[] mElencoScuola1 = new Scuola[]{
-            new Scuola("tutte", "Tutte le scuole"),
+            new Scuola("seleziona", "Seleziona una scuola"),
             new Scuola("agraria", "Agraria e Medicina veterinaria"),
             new Scuola("economia", "Economia, Mangement e Statistica"),
             new Scuola("farmacia", "Farmacia, Biotecnologie e Scienze motorie"),
@@ -62,10 +63,18 @@ public class VersusSelectorActivity extends BaseActivity {
         nextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(VersusSelectorActivity.this, VersusCorsoActivity.class);
-                i.putExtra("scuola1", mSelectedScuola1.getScuolaId());
-                i.putExtra("scuola2", mSelectedScuola2.getScuolaId());
-                startActivity(i);
+                if(mScuola1Spinner.getSelectedItemPosition()==0){
+                    Toast.makeText(VersusSelectorActivity.this, "Seleziona scuola n°1", Toast.LENGTH_SHORT).show();
+                }
+                else if (mScuola2Spinner.getSelectedItemPosition()==0){
+                    Toast.makeText(VersusSelectorActivity.this, "Seleziona scuola n°2", Toast.LENGTH_SHORT).show();
+                }
+                else {
+                    Intent i = new Intent(VersusSelectorActivity.this, VersusCorsoActivity.class);
+                    i.putExtra("scuola1", mSelectedScuola1.getScuolaId());
+                    i.putExtra("scuola2", mSelectedScuola2.getScuolaId());
+                    startActivity(i);
+                }
             }
         });
     }

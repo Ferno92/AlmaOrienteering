@@ -14,6 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.almaorient.ferno92.almaorienteering.BaseActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.firebaseDB.AulaModel;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
@@ -32,7 +33,7 @@ import java.util.List;
  * Created by lucas on 14/03/2017.
  */
 
-public class VersusCorsoActivity extends AppCompatActivity {
+public class VersusCorsoActivity extends BaseActivity {
 
     private String mScuola1;
     private String mScuola2;
@@ -81,13 +82,13 @@ public class VersusCorsoActivity extends AppCompatActivity {
                 scuola2.setText(VersusSelectorActivity.mElencoScuola1[i].getNome());
             }
         }
-
-        if (!this.mScuola1.equals("tutte")) {
+// Qui sarà possibile implementare dati "tutte le scuole" al posto di seleziona scuola
+        if (!this.mScuola1.equals("seleziona")) {
             LinearLayout corso1Layout = (LinearLayout) findViewById(R.id.corso1);
             corso1Layout.setVisibility(View.VISIBLE);
             fillSpinner1();
         }
-        if (!this.mScuola2.equals("tutte")) {
+        if (!this.mScuola2.equals("seleziona")) {
             LinearLayout corso2Layout = (LinearLayout) findViewById(R.id.corso2);
             corso2Layout.setVisibility(View.VISIBLE);
             fillSpinner2();
