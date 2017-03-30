@@ -195,7 +195,7 @@ public class SignUpActivity extends BaseActivity {
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
                                 if (!task.isSuccessful()) {
-                                    Toast.makeText(SignUpActivity.this, "Authentication failed",
+                                    Toast.makeText(SignUpActivity.this, "Authentication failed: " + task.getException().getMessage(),
                                             Toast.LENGTH_SHORT).show();
                                 }else{
                                     // Add user properties

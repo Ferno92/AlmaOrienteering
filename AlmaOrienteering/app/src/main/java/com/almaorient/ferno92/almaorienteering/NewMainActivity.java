@@ -49,34 +49,43 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     private String mCorso;
     private String mCorsoId;
     private String mScuola;
+    private Toolbar mToolbar;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mAuth = FirebaseAuth.getInstance();
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(mToolbar);
 
         mViewPager = (ViewPager) findViewById(R.id.vpPager);
         mPagerAdapter = new HomePagerAdapter(getSupportFragmentManager());
-        mPagerAdapter.setNumItems(7);
 
-        if(this.mAuth.getCurrentUser() != null) {
-            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-            ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                    this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        mPagerAdapter.setNumItems(7);
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+                this, drawer, mToolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+
+
+        if (this.mAuth.getCurrentUser() != null) {
             drawer.setDrawerListener(toggle);
             toggle.syncState();
+            drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED);
 
             NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
             navigationView.setNavigationItemSelectedListener(this);
             navigationView.setVisibility(View.VISIBLE);
 
-            LinearLayout navigationHeader =(LinearLayout) navigationView.getHeaderView(0);
+            LinearLayout navigationHeader = (LinearLayout) navigationView.getHeaderView(0);
             TextView mailText = (TextView) navigationHeader.findViewById(R.id.logged_user_email);
             mailText.setText(String.valueOf(this.mAuth.getCurrentUser().getEmail()));
-            Menu navigationMenu = (Menu)navigationView.getMenu();
+            Menu navigationMenu = (Menu) navigationView.getMenu();
             final MenuItem scuolaItem = (MenuItem) navigationMenu.findItem(R.id.nav_share);
             final MenuItem corsoItem = (MenuItem) navigationMenu.findItem(R.id.nav_send);
 
@@ -87,10 +96,10 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             query.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    for(DataSnapshot data : dataSnapshot.getChildren()){
+                    for (DataSnapshot data : dataSnapshot.getChildren()) {
                         String id = (String) data.child("userId").getValue();
-                        if(mAuth.getCurrentUser() != null){
-                            if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
+                        if (mAuth.getCurrentUser() != null) {
+                            if (id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))) {
                                 mUserName = (String) data.child("nome").getValue();
                                 mUserSurname = (String) data.child("cognome").getValue();
                                 mScuola = (String) data.child("scuola").getValue();
@@ -129,15 +138,18 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
                 }
             });
 
-            if(!mAuth.getCurrentUser().isEmailVerified()){
+            if (!mAuth.getCurrentUser().isEmailVerified()) {
 
                 mPagerAdapter.setNumItems(7);
                 showMissingVerifyAlert();
-            }else{
+            } else {
 
                 mPagerAdapter.setNumItems(8);
 
             }
+        } else {
+
+            drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
         }
 
         mViewPager.setAdapter(mPagerAdapter);
@@ -192,12 +204,8 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        if(this.mAuth.getCurrentUser() != null) {
-            MenuItem logout = (MenuItem) menu.findItem(R.id.logout);
-            logout.setVisible(true);
-            MenuItem delete = (MenuItem) menu.findItem(R.id.delete_user);
-            delete.setVisible(true);
+        if (this.mAuth.getCurrentUser() != null) {
+            getMenuInflater().inflate(R.menu.main, menu);
         }
         return true;
     }
@@ -221,15 +229,15 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             startActivity(i);
 
             return true;
-        }else if(id == R.id.logout){
-            if(this.mAuth.getCurrentUser() != null){
+        } else if (id == R.id.logout) {
+            if (this.mAuth.getCurrentUser() != null) {
                 this.mAuth.signOut();
                 Intent i = new Intent(NewMainActivity.this, ChooseActivity.class);
                 i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(i);
                 finish();
             }
-        }else if(id == R.id.delete_user){
+        } else if (id == R.id.delete_user) {
             this.mAuth.getCurrentUser().delete().addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
