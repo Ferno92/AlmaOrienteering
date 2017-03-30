@@ -179,58 +179,80 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
-                    <TextView
-                        android:id="@+id/textView15"
+                    <ScrollView
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Curriculm:"
-                        android:textSize="20sp"
-                        android:textStyle="bold|italic" />
+                        android:layout_height="match_parent">
 
-                    <TextView
-                        android:id="@+id/prova"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="TextView" />
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" >
 
-                    <Button
-                        android:id="@+id/curr1"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Button"
-                        android:visibility="gone" />
+                            <ExpandableListView
+                                android:id="@+id/anno2"
+                                android:layout_width="match_parent"
+                                android:layout_height="900dp" />
 
-                    <ExpandableListView
-                        android:id="@+id/anno1"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
+                            <Button
+                                android:id="@+id/curr2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Button"
+                                android:visibility="gone" />
 
-                    <Button
-                        android:id="@+id/curr2"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Button"
-                        android:visibility="gone" />
+                            <TextView
+                                android:id="@+id/prova"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="TextView" />
 
-                    <Button
-                        android:id="@+id/curr3"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Button"
-                        android:visibility="gone" />
+                            <ListView
+                                android:id="@+id/listviewprova"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent" />
 
-                    <TextView
-                        android:id="@+id/textView10"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Piano degli studi"
-                        android:textSize="20sp"
-                        android:textStyle="bold|italic" />
+                            <TextView
+                                android:id="@+id/textView15"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Curriculm:"
+                                android:textSize="20sp"
+                                android:textStyle="bold|italic" />
+
+                            <ExpandableListView
+                                android:id="@+id/anno1"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:visibility="gone" />
+
+                            <Button
+                                android:id="@+id/curr1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Button"
+                                android:visibility="gone" />
+
+                            <TextView
+                                android:id="@+id/textView10"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Piano degli studi"
+                                android:textSize="20sp"
+                                android:textStyle="bold|italic" />
+
+                            <Button
+                                android:id="@+id/curr3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Button"
+                                android:visibility="gone" />
+                        </LinearLayout>
+                    </ScrollView>
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
+                        android:layout_height="wrap_content"
+                        android:visibility="gone">
 
                         <ImageButton
                             android:id="@+id/primoannoplus"
@@ -239,6 +261,7 @@
                             android:layout_alignParentEnd="true"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
+                            android:visibility="gone"
                             app:srcCompat="@drawable/ic_expand_more" />
 
                         <TextView
@@ -250,7 +273,8 @@
                             android:layout_centerVertical="true"
                             android:text="1° anno"
                             android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                            android:textStyle="bold|italic"
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <ListView
@@ -261,7 +285,8 @@
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
+                        android:layout_height="wrap_content"
+                        android:visibility="gone">
 
                         <ImageButton
                             android:id="@+id/secondoannoplus"
@@ -270,6 +295,7 @@
                             android:layout_alignParentEnd="true"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
+                            android:visibility="gone"
                             app:srcCompat="@drawable/ic_expand_more" />
 
                         <TextView
@@ -281,7 +307,8 @@
                             android:layout_centerVertical="true"
                             android:text="2° anno"
                             android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                            android:textStyle="bold|italic"
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <ListView
@@ -303,6 +330,7 @@
                             android:layout_alignParentEnd="true"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
+                            android:visibility="gone"
                             app:srcCompat="@drawable/piu" />
 
                         <TextView
@@ -314,7 +342,8 @@
                             android:layout_centerVertical="true"
                             android:text="3° anno"
                             android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                            android:textStyle="bold|italic"
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <ListView
@@ -336,6 +365,7 @@
                             android:layout_alignParentEnd="true"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
+                            android:visibility="gone"
                             app:srcCompat="@drawable/piu" />
 
                         <TextView
@@ -347,7 +377,8 @@
                             android:layout_centerVertical="true"
                             android:text="4° anno"
                             android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                            android:textStyle="bold|italic"
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <ListView
@@ -369,6 +400,7 @@
                             android:layout_alignParentEnd="true"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
+                            android:visibility="gone"
                             app:srcCompat="@drawable/piu" />
 
                         <TextView
@@ -380,7 +412,8 @@
                             android:layout_centerVertical="true"
                             android:text="5° anno"
                             android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                            android:textStyle="bold|italic"
+                            android:visibility="gone" />
                     </RelativeLayout>
 
                     <ListView

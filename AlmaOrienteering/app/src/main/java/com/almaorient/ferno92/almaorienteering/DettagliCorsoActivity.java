@@ -3,10 +3,12 @@ package com.almaorient.ferno92.almaorienteering;
 import android.content.ClipData;
 import android.content.Intent;
 import android.content.res.Resources;
+import android.database.DataSetObserver;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebChromeClient;
@@ -14,7 +16,9 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.BaseExpandableListAdapter;
 import android.widget.Button;
+import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ImageButton;
 import android.widget.ListAdapter;
@@ -23,6 +27,8 @@ import android.widget.RelativeLayout;
 import android.widget.TabHost;
 import android.widget.TextView;
 
+import com.almaorient.ferno92.almaorienteering.PianoStudi.ExpandableListAdapter1;
+import com.almaorient.ferno92.almaorienteering.PianoStudi.NewPianoStudiModel;
 import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
 import com.almaorient.ferno92.almaorienteering.recensioni.ListaRecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
@@ -44,6 +50,7 @@ import static android.R.attr.logo;
 import static android.R.drawable.btn_minus;
 import static android.R.drawable.btn_plus;
 import static com.almaorient.ferno92.almaorienteering.R.id.agrariaplus;
+import static com.almaorient.ferno92.almaorienteering.R.id.default_activity_button;
 import static com.almaorient.ferno92.almaorienteering.R.id.primoannolistview;
 import static com.almaorient.ferno92.almaorienteering.R.id.primoannoplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.tab1;
@@ -113,10 +120,18 @@ public class DettagliCorsoActivity extends BaseActivity {
 
     TabHost tabhost;
 
+
+    private ExpandableListView listView;
+    private ExpandableListAdapter1 listAdapter;
+    private List<String> listDataHeader;
+    private HashMap<String,List<String>> listHash;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dettagli_corso);
+
+
 
         //TextView nomecorsoText = (TextView) findViewById(R.id.nomecorso);
         TextView tipocorsoText = (TextView) findViewById(R.id.tipotxtview);
@@ -617,20 +632,101 @@ public class DettagliCorsoActivity extends BaseActivity {
             }
         });
 
-        ExpandableListView anno1 = (ExpandableListView) findViewById(R.id.anno1);
 
 
 
-        final Query query6 = ref.child("piani_studio/economia/9202/curriculum");
+        final ArrayList <NewPianoStudiModel> elencoinsegnamenti = new ArrayList<>();
+
+        //HashMap<Integer,>
+
+        final Query query6 = ref.child("piani_studio/ingegneria/").child(corsocodice);
         query6.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                HashMap meMap = (HashMap) dataSnapshot.getValue();
-                Iterator insegnamento = meMap.keySet().iterator();
-                while (insegnamento.hasNext()){
 
+                ArrayList chiavi = (ArrayList) dataSnapshot.getValue();
+
+                for (int i = 0; i < chiavi.size(); i++) {
+                    HashMap meMap = (HashMap) chiavi.get(i);
+                    Iterator elenco = meMap.keySet().iterator();
+
+                    String nomeinsegnamento = "";
+                    Integer padre = 0;
+                    Integer radice = 0;
+                    String url = "";
+
+                    while (elenco.hasNext()) {
+                        String esamiKey = (String) elenco.next();
+                        switch (esamiKey) {
+                            case NewPianoStudiModel.NOME_INSEGNAMENTO:
+                                nomeinsegnamento = (String) meMap.get(esamiKey);
+                                break;
+                            case NewPianoStudiModel.PADRE:
+                                padre = (Integer) (int) (long) meMap.get(esamiKey);
+                                break;
+                            case NewPianoStudiModel.RADICE:
+                                radice = (Integer) (int) (long) meMap.get(esamiKey);
+                                break;
+                            case NewPianoStudiModel.URL:
+                                url = (String) meMap.get(esamiKey);
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+                    NewPianoStudiModel insegnamento = new NewPianoStudiModel(nomeinsegnamento, padre, radice, url);
+                    elencoinsegnamenti.add(insegnamento);
                 }
+
+                ListView prova = (ListView) findViewById(R.id.listviewprova);
+                ArrayAdapter<NewPianoStudiModel> provaadapter = new ArrayAdapter<NewPianoStudiModel>(getApplicationContext(), R.layout.simple_list_item_long_corsi, elencoinsegnamenti);
+
+                prova.setAdapter(provaadapter);
+
+                ArrayList <String> corsipadrititle = new ArrayList<String>();
+                ArrayList <NewPianoStudiModel> corsipadri = new ArrayList<NewPianoStudiModel>();
+
+                HashMap mappa = new HashMap<>();
+                Integer b=-1;
+
+                for (int i=0; i<elencoinsegnamenti.size();i++){
+                    if (elencoinsegnamenti.get(i).getPadre()==0){
+                        corsipadrititle.add(elencoinsegnamenti.get(i).getCorsoNome());
+                        corsipadri.add(elencoinsegnamenti.get(i));
+                        b=b+1;
+                        List <String> listafigli = new ArrayList<String>();
+                        for (int a=0; a<elencoinsegnamenti.size(); a++){
+                            if (elencoinsegnamenti.get(a).getPadre().equals(elencoinsegnamenti.get(i).getRadice())){
+                                listafigli.add(elencoinsegnamenti.get(a).getCorsoNome());
+                                TextView prova2 = (TextView) findViewById(R.id.prova);
+                                prova2.setText(String.valueOf(listafigli.size()));
+                            }
+                        }
+                        mappa.put(corsipadrititle.get(b),listafigli);
+
+
+                    }
+                }
+
+                listView = (ExpandableListView)findViewById(R.id.anno2);
+                //initData();
+                listAdapter = new ExpandableListAdapter1(getApplicationContext(),corsipadrititle,mappa);
+                listView.setAdapter(listAdapter);
+
+
             }
+
+
+//                    ExpandableListView anno1 = (ExpandableListView) findViewById(R.id.anno1);
+//
+//                    ArrayAdapter <NewPianoStudiModel> esami1 = new ArrayAdapter<NewPianoStudiModel>(getApplicationContext(),R.layout.simple_list_item,elencoinsegnamenti);
+//
+//                    anno1.setAdapter(esami1);
+
+                //}
+
+
+
 
             @Override
             public void onCancelled(DatabaseError databaseError) {
@@ -641,5 +737,48 @@ public class DettagliCorsoActivity extends BaseActivity {
         });
 
 
+
+
     }
+
+//    private void initData(ArrayList<String> Arraylist, List<String> list, HashMap hashmap) {
+//        listDataHeader = Arraylist;
+//        listHash = hashmap;
+//
+////        listDataHeader.add("EDMTDev");
+////        listDataHeader.add("Android");
+////        listDataHeader.add("Xamarin");
+////        listDataHeader.add("UWP");
+//
+//        List<String> edmtDev = new ArrayList<>();
+//        edmtDev.add("This is Expandable ListView");
+//
+//        List<String> androidStudio = new ArrayList<>();
+//        androidStudio.add("Expandable ListView");
+//        androidStudio.add("Google Map");
+//        androidStudio.add("Chat Application");
+//        androidStudio.add("Firebase ");
+//
+//        List<String> xamarin = new ArrayList<>();
+//        xamarin.add("Xamarin Expandable ListView");
+//        xamarin.add("Xamarin Google Map");
+//        xamarin.add("Xamarin Chat Application");
+//        xamarin.add("Xamarin Firebase ");
+//
+//        List<String> uwp = new ArrayList<>();
+//        uwp.add("UWP Expandable ListView");
+//        uwp.add("UWP Google Map");
+//        uwp.add("UWP Chat Application");
+//        uwp.add("UWP Firebase ");
+//
+//        listHash.put(listDataHeader.get(0),edmtDev);
+//        listHash.put(listDataHeader.get(1),androidStudio);
+//        listHash.put(listDataHeader.get(2),xamarin);
+//        listHash.put(listDataHeader.get(3),uwp);
+//    }
 }
+
+
+
+
+
