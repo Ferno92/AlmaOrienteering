@@ -1,7 +1,9 @@
 package com.almaorient.ferno92.almaorienteering;
 
+import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -151,11 +153,14 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
 
             drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
         }
-
+        SharedPreferences sp = getSharedPreferences("your_prefs", Activity.MODE_PRIVATE);
+        int pager_position = sp.getInt("pager_position", 0);
         mViewPager.setAdapter(mPagerAdapter);
+        mViewPager.setCurrentItem(pager_position);
 
         InkPageIndicator inkPageIndicator = (InkPageIndicator) findViewById(R.id.indicator);
         inkPageIndicator.setViewPager(mViewPager);
+
     }
 
     @Override
@@ -289,4 +294,6 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
         });
         builder.show();
     }
+
+
 }
