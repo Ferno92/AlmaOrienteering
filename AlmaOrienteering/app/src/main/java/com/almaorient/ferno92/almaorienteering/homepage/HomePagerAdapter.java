@@ -4,8 +4,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.almaorient.ferno92.almaorienteering.NewMainActivity;
-
 /**
  * Created by lucas on 28/03/2017.
  */

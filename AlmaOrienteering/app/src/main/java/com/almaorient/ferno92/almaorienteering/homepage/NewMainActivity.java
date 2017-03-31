@@ -1,4 +1,4 @@
-package com.almaorient.ferno92.almaorienteering;
+package com.almaorient.ferno92.almaorienteering.homepage;
 
 import android.app.Activity;
 import android.content.DialogInterface;
@@ -9,7 +9,6 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
-import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -24,7 +23,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.almaorient.ferno92.almaorienteering.homepage.HomePagerAdapter;
+import com.almaorient.ferno92.almaorienteering.ChooseActivity;
+import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.login.SettingsActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -173,6 +173,11 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             if (drawer.isDrawerOpen(GravityCompat.START)) {
                 drawer.closeDrawer(GravityCompat.START);
             } else {
+
+                SharedPreferences sp = getSharedPreferences("your_prefs", Activity.MODE_PRIVATE);
+                SharedPreferences.Editor editor = sp.edit();
+                editor.putInt("pager_position", mViewPager.getCurrentItem());
+                editor.commit();
                 super.onBackPressed();
             }
         } else {
