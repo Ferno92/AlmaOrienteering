@@ -41,7 +41,7 @@
             android:label="Homepage"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".NewMainActivity"
+            android:name=".homepage.NewMainActivity"
             android:label="Homepage"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity

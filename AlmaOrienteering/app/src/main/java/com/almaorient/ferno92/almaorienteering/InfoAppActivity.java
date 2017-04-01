@@ -12,6 +12,6 @@ public class InfoAppActivity extends BaseActivity {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_infoapp);
+        setContentView(R.layout.infoapp_homepage_activity);
     }
 }

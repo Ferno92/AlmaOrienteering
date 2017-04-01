@@ -7,8 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatButton;
 import android.view.View;
 
+import com.almaorient.ferno92.almaorienteering.homepage.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.login.LoginActivity;
-import com.almaorient.ferno92.almaorienteering.login.SignUpActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
