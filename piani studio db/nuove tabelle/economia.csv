@@ -1,0 +1,1409 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+897;10432;DIRITTO COMMERCIALE INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324907;;31836;Lamandini Marco;Italiano;;324907;0;324907;
+897;10432;DIRITTO COMMERCIALE INTERNAZIONALE (1);;modulo;31836;Lamandini Marco;Italiano;;400866;324907;324907;
+897;10432;DIRITTO COMMERCIALE INTERNAZIONALE (2);;modulo;92046;Dalle Nogare Fabrizio;;;400867;324907;324907;
+897;10529;COMPORTAMENTO ORGANIZZATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324913;;30940;Bergami Massimo;Italiano;;324913;0;324913;
+897;30373;ECONOMICS (I.C.);;;;;;;327366;0;327366;
+897;25751;INTERNATIONAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327368;modulo;36091;Mantovani Andrea;Inglese;;327368;327366;327366;
+897;25752;INTERNATIONAL FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327369;modulo;48293;Hillier David John;Inglese;;327369;327366;327366;
+897;30376;BUSINESS INTELLIGENCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327370;;30376;Camillo Furio;Inglese;;327370;0;327370;
+897;34537;CORPORATE STRATEGY (I.C.);;;;;;;359536;0;359536;
+897;34538;DIVERSIFICATION AND ACQUISITION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359537;modulo;42631;Lanzolla Gianvito;Inglese;;359537;359536;359536;
+897;34539;INTERNATIONAL MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359538;modulo;40783;Forti Enrico;Inglese;;359538;359536;359536;
+897;34544;CORPORATE FINANCE (I.C.);;;;;;;359539;0;359539;
+897;37729;FINANCE LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359540;modulo;42975;Angelillo Antonio;;;359540;359539;359539;
+897;34546;INTERNATIONAL CORPORATE GOVERNANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359541;modulo;31434;Bigelli Marco;Inglese;;359541;359539;359539;
+897;34547;RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359542;modulo;33819;Bajo Emanuele;Inglese;;359542;359539;359539;
+897;39050;MANAGEMENT CONSULTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368572;;34125;Amadesi Laura;Inglese;;368572;0;368572;
+897;37995;CRASH COURSE IN FINANCIAL AND MANAGEMENT ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378068;;36975;Bonini Baraldi Sara;Inglese;;378068;0;378068;354492
+897;72882;ECONOMETRIA ED ECONOMIA DELL'IMPRESA (C.I.);;;;;;;385278;0;385278;
+897;72883;MODELLI ECONOMETRICI PER LE DECISIONI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385279;modulo;74364;Arduini Tiziano;Italiano;;385279;385278;385278;
+897;1567;ECONOMIA DELL'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385280;modulo;30790;Franzoni Luigi Alberto;Italiano;;385280;385278;385278;
+897;72917;PRINCIPI CONTABILI INTERNAZIONALI E GESTIONE DEI COSTI (C.I.);;;;;;;385284;0;385284;
+897;40292;PRINCIPI CONTABILI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385285;modulo;39957;Gianfelici Cristina;Italiano;;385285;385284;385284;
+897;72889;LABORATORIO DI GESTIONE DEI COSTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385286;modulo;33065;Paletta Angelo;Italiano;;385286;385284;385284;
+897;72895;IMPRENDITORIALIT?Ç E BUSINESS PLAN (C.I.);;;;;;;385292;0;385292;
+897;37388;ENTREPRENEURSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385294;modulo;35212;Ferriani Simone;Italiano;;385294;385292;385292;
+897;72896;LABORATORIO DI BUSINESS PLAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385295;modulo;35212;Ferriani Simone;Italiano;;385295;385292;385292;
+897;72897;STRATEGIA DI CORPORATE E DI INTERNAZIONALIZZAZIONE (C.I.);;;;;;;385296;0;385296;
+897;23719;GESTIONE DELLE IMPRESE INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385297;modulo;33182;Odorici Vincenza;Italiano;;385297;385296;385296;
+897;72898;LABORATORIO DI STRATEGIA DI CORPORATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385298;modulo;36974;Colucci Mariachiara;Italiano;;385298;385296;385296;
+897;72902;FINANZA STRAORDINARIA E VALUTAZIONI AZIENDALI (C.I.);;;;;;;385304;0;385304;
+897;24318;FINANZA STRAORDINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385305;modulo;15938;Sandri Sandro;Italiano;;385305;385304;385304;
+897;72905;LABORATORIO DI VALUTAZIONI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385306;modulo;35018;Mengoli Stefano;Italiano;;385306;385304;385304;
+897;23709;GESTIONE DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385308;;30797;Lipparini Andrea;Italiano;;385308;0;385308;
+897;72908;ALLEANZE STRATEGICHE E RETI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385312;;30797;Lipparini Andrea;Italiano;;385312;0;385312;
+897;72913;GESTIONE DEI SERVIZI NELL'INDUSTRIA MANIFATTURIERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385317;;31400;Orsingher Chiara;Italiano;;385317;0;385317;
+897;72916;LABORATORIO D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385321;;34125;Amadesi Laura;;;385321;0;385321;
+897;72919;INTERNATIONAL STRATEGIC ACCOUNTING (I.C.);;;;;;;385322;0;385322;
+897;30380;INTERNATIONAL ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385324;modulo;40052;Mattei Marco Maria;Inglese;;385324;385322;385322;
+897;72920;FINANCIAL STATEMENT ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385325;modulo;47638;Peek Erik;Inglese;;385325;385322;385322;
+897;72922;ENTREPREUNERSHIP (I.C.);;;;;;;385330;0;385330;
+897;34542;BUSINESS VENTURING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385331;modulo;35212;Ferriani Simone;Inglese;;385331;385330;385330;
+897;37394;FIRM LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385332;modulo;42669;Weinberg Caren Helene;Inglese;;385332;385330;385330;
+897;39051;INTERNATIONAL SUPPLY CHAIN MANAGEMENT (I.C.);;;;;;;385334;0;385334;
+897;72923;STRATEGIC ALLIANCES AND NETWORK;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385335;modulo;30797;Lipparini Andrea;Inglese;;385335;385334;385334;
+897;72927;INTERNATIONAL SUPPLY CHAIN MANAGEMENT LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385336;modulo;30797;Lipparini Andrea;Inglese;;385336;385334;385334;
+897;72925;SUSTAINABLE INNOVATION LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385337;;50747;Massa Lorenzo;Inglese;;385337;0;385337;
+897;72926;PROJECT MANAGEMENT LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385338;;38227;Gherardi Giuseppe;Inglese;;385338;0;385338;
+897;73033;PROJECT MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385514;;36248;Di Marco Paolo;Italiano;;385514;0;385514;
+897;73422;CRASH COURSE IN CORPORATE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388432;;46936;Raimondo Carlo;Inglese;;388432;0;388432;
+897;75424;ANALISI DI PRODOTTO E MERCATO (C.I.);;;;;;;391837;0;391837;
+897;75422;DATA MINING E DECISIONI DI IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391838;modulo;33317;Freo Marzia;Italiano;;391838;391837;391837;
+897;75423;SVILUPPO E MARKETING DI PRODOTTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391839;modulo;31650;Montaguti Elisa;Italiano;;391839;391837;391837;
+897;75425;SOCIAL MEDIA ED ETICA PER LE DECISIONI DI IMPRESA (C.I.);;;;;;;391840;0;391840;
+897;75426;LABORATORIO DI SOCIAL MEDIA MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391841;modulo;37491;Valentini Sara;Italiano;;391841;391840;391840;
+897;75427;ETICA PER LE DECISIONI DI IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391842;modulo;34786;Visentin Marco;Italiano;;391842;391840;391840;
+897;76530;STRATEGIC MANAGEMENT COACHING LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395320;;43818;Pinotti Federica;Inglese;;395320;0;395320;
+897;79588;CRASH COURSE IN STRATEGIC MANAGEMENT ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404553;;53327;Bergamaschi Francesco;Inglese;;404553;0;404553;
+897;79852;CRASH COURSE IN FINANZA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406324;;43448;Arf?¿ Antonio;Italiano;;406324;0;406324;
+897;81114;SEM. ETICA E IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/410078;;34786;Visentin Marco;Italiano;;410078;0;410078;
+897;82155;INTERNATIONAL LAW FOR MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413341;;39581;Golino Claudia;Inglese;;413341;0;413341;
+897;82156;CUSTOMER VALUE MANAGEMENT (I.C.);;;;;;;413342;0;413342;
+897;34536;CUSTOMER VALUE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413343;modulo;16720;Marzocchi Gian Luca;Inglese;;413343;413342;413342;
+897;82157;DATA ANALYSIS FOR MARKETING DECISIONS LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413344;modulo;40460;Pizzi Gabriele;Inglese;;413344;413342;413342;
+897;82157;DATA ANALYSIS FOR MARKETING DECISIONS LABORATORY (1);;modulo;40460;Pizzi Gabriele;Inglese;;416034;413344;413342;
+897;82157;DATA ANALYSIS FOR MARKETING DECISIONS LABORATORY (2);;modulo;40460;Pizzi Gabriele;;;416035;413344;413342;
+897;82205;PROBLEM SOLVING IN INDUSTRIAL COMPANIES: REAL BUSINESS CASES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413489;;39959;Lelli Alessandro;Inglese;;413489;0;413489;
+897;82987;JOB PLACEMENT LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416895;;43818;Pinotti Federica;Inglese;;416895;0;416895;
+897;79420;SEM. FONDAMENTI DI DIRITTO COMMERCIALE EUROPEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421160;;31836;Lamandini Marco;Italiano;;421160;0;421160;
+897;85224;SEM. ORGANIZATIONAL BEHAVIOUR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423722;;87313;Russo Marcello;Inglese;;423722;0;423722;
+897;85697;SEM. TEATRO D'IMPRESA E CREATIVITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/426061;;16708;Boschetti Carlo;;;426061;0;426061;
+899;29239;ECONOMIA E GESTIONE DELLE IMPRESE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325485;;33182;Odorici Vincenza;Italiano;;325485;0;325485;
+899;37323;STATISTICA ED ECONOMETRIA APPLICATA (C.I.);;;;;;;350281;0;350281;
+899;2038;STATISTICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350292;modulo;39904;Roverato Alberto;Italiano;;350292;350281;350281;
+899;10532;ECONOMETRIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350293;modulo;34010;Monfardini Chiara;Italiano;;350293;350281;350281;
+899;10532;ECONOMETRIA APPLICATA (1);;modulo;34010;Monfardini Chiara;Italiano;;403135;350293;350281;
+899;10532;ECONOMETRIA APPLICATA (2);;modulo;40717;Mammi Irene;;;403136;350293;350281;
+899;37327;ANALISI DI BILANCIO E ANALISI DEI COSTI (C.I.);;;;;;;350294;0;350294;
+899;59128;ANALISI DI BILANCIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350295;modulo;16727;Tieghi Marco;Italiano;;350295;350294;350294;
+899;12825;ANALISI DEI COSTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350296;modulo;16727;Tieghi Marco;Italiano;;350296;350294;350294;
+899;29252;ANALISI ECONOMICA DEI CONTRATTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350297;;40086;Parisi Francesco;Italiano;;350297;0;350297;350297
+899;29251;DIRITTO DEI CONTRATTI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350298;;36108;Zorzi Nadia;Italiano;;350298;0;350298;
+899;37329;DIRITTO DELLE SOCIETA' E DEI MERCATI DEI CAPITALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350300;;31836;Lamandini Marco;Italiano;;350300;0;350300;
+899;37329;DIRITTO DELLE SOCIETA' E DEI MERCATI DEI CAPITALI (1);;modulo;31836;Lamandini Marco;Italiano;;354458;350300;350300;350489
+899;37329;DIRITTO DELLE SOCIETA' E DEI MERCATI DEI CAPITALI (2);;modulo;31836;Lamandini Marco;;;354459;350300;350300;
+899;23690;ECONOMIA DELLA REGOLAMENTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350302;;30467;Fiorentini Gianluca;Italiano;;350302;0;350302;350302
+899;29265;ECONOMIA DELLA CONCORRENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350304;;32045;Carbonara Emanuela;Italiano;;350304;0;350304;350304
+899;29261;ECONOMIA DELLA PROPRIET?Ç INTELLETTUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350305;;15950;Denicol?? Vincenzo;Italiano;;350305;0;350305;
+899;37333;ECONOMIA CIVILE E SISTEMI DI WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350309;;15827;Zamagni Stefano;Italiano;;350309;0;350309;
+899;46306;PROJECT FINANCING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350310;;36774;Baccolini Renzo;Italiano;;350310;0;350310;
+899;44475;ECONOMIA E REGOLAZIONE DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350312;;50755;Zanchi Marco;Italiano;;350312;0;350312;349922
+899;37334;DIRITTO DEI MERCATI E SOCIET?Ç PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350314;;36776;Nicodemo Silvia;Italiano;;350314;0;350314;
+899;2589;DIRITTO DELLA SICUREZZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350317;;32615;Pizzoferrato Alberto;Italiano;;350317;0;350317;
+899;2589;DIRITTO DELLA SICUREZZA SOCIALE (1);;modulo;32615;Pizzoferrato Alberto;Italiano;;401986;350317;350317;
+899;2589;DIRITTO DELLA SICUREZZA SOCIALE (2);;modulo;42759;Lima Alessandro;;;401987;350317;350317;
+899;29287;DIRITTO PUBBLICO DELLA CONCORRENZA E DEGLI APPALTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350320;;31977;Senzani Daniele;Italiano;;350320;0;350320;
+899;16103;ORDINAMENTO DEL CREDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350321;;30346;Stefanelli Maria Alessandra;Italiano;;350321;0;350321;
+899;4519;DIRITTO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350326;;39581;Golino Claudia;Italiano;;350326;0;350326;
+899;37335;DIRITTO DEI CONTRATTI E DELLA PROPRIETA' IMMOBILIARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350329;;15360;Zanelli Pietro;Italiano;;350329;0;350329;
+899;23680;DIRITTO DEL CONSUMATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373209;;36108;Zorzi Nadia;Italiano;;373209;0;373209;
+899;68519;DIRITTO PUBBLICO DEL FEDERALISMO E DELLA SUSSIDIARIET?Ç ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373705;;36776;Nicodemo Silvia;Italiano;;373705;0;373705;
+899;4880;DIRITTO PENALE DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384123;;34200;Manes Vittorio;Italiano;;384123;0;384123;
+899;72855;DIRITTO TRIBUTARIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385234;;33340;Tundo Francesco;Italiano;;385234;0;385234;
+899;72855;DIRITTO TRIBUTARIO LM (1);;modulo;33340;Tundo Francesco;Italiano;;396429;385234;385234;396429
+899;72855;DIRITTO TRIBUTARIO LM (2);;modulo;43506;Baboro Roberto;;;396430;385234;385234;396430
+899;23425;DIRITTO TRIBUTARIO EUROPEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387031;;33340;Tundo Francesco;Italiano;;387031;0;387031;
+899;76862;REGOLAMENTAZIONE GIURIDICA DEL MERCATO UNICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397209;;15978;Marchian?? Giovanna;Italiano;;397209;0;397209;
+899;18054;ANALISI ECONOMICA DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412124;;30790;Franzoni Luigi Alberto;Italiano;;412124;0;412124;
+899;81742;ECONOMIA E POLITICHE DI WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412127;;30467;Fiorentini Gianluca;Italiano;;412127;0;412127;
+899;71136;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417821;;31977;Senzani Daniele;;;417821;0;417821;
+899;83808;CRASH COURSE IN STATISTICA ED ECONOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419816;;39143;Cagnone Silvia;Italiano;;419816;0;419816;
+899;83808;CRASH COURSE IN STATISTICA ED ECONOMETRIA (1);;modulo;39143;Cagnone Silvia;Italiano;;419817;419816;419816;
+899;83808;CRASH COURSE IN STATISTICA ED ECONOMETRIA (2);;modulo;40717;Mammi Irene;;;419818;419816;419816;
+899;85225;SEM. SHARING ECONOMY E INDUSTRIA 4.0;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/424487;;15827;Zamagni Stefano;Italiano;;424487;0;424487;
+900;32355;DIRITTO DELLE CRISI DI IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323764;;30257;Gandini Carla;Italiano;;323764;0;323764;
+900;32355;DIRITTO DELLE CRISI DI IMPRESA (1);;modulo;30257;Gandini Carla;Italiano;;395396;323764;323764;395396
+900;32355;DIRITTO DELLE CRISI DI IMPRESA (2);;modulo;30959;Bernardi Elena;;;395397;323764;323764;395397
+900;67104;VALUTAZIONE DEL CAPITALE ECONOMICO E OPERAZIONI STRAORDINARIE (C.I.);;;;;;;323777;0;323777;
+900;28320;METODI DI VALUTAZIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323795;modulo;14586;Matacena Antonio;Italiano;;323795;323777;323777;
+900;45130;BILANCI STRAORDINARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323796;modulo;33334;Petrolati Patrizia;Italiano;;323796;323777;323777;
+900;67107;SISTEMI DINAMICI PER IL CONTROLLO STRATEGICO (LABORATORIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328715;;39985;Supino Enrico;Italiano;;328715;0;328715;326574
+900;37321;STATISTICA PER L'ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350276;;41741;Lupparelli Monia;Italiano;;350276;0;350276;
+900;37322;TASSAZIONE INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350277;;41392;Rossi Villiam;Italiano;;350277;0;350277;
+900;217;DIRITTO AMMINISTRATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350284;;14857;Pini Rolando;Italiano;;350284;0;350284;
+900;37324;AUDITING (LABORATORIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350286;;40463;Ramenghi Giacomo;Italiano;;350286;0;350286;
+900;37326;CONTENZIOSO TRIBUTARIO (LABORATORIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350291;;41392;Rossi Villiam;Italiano;;350291;0;350291;
+900;37328;GESTIONE E FINANZA (C.I.);;;;;;;350301;0;350301;
+900;28064;STRATEGIE DI CORPORATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350460;modulo;;;Italiano;;350460;350301;350301;
+900;24318;FINANZA STRAORDINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350461;modulo;32121;Santini Renato;Italiano;;350461;350301;350301;
+900;67108;ADR. STRUMENTI ALTERNATIVI DI SOLUZIONE DELLE CONTROVERSIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368193;;15200;Giovannucci Chiara;;;368193;0;368193;
+900;69227;CONTRATTUALISTICA D'IMPRESA (LABORATORIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375905;;36067;Titi Eros;;;375905;0;375905;
+900;73430;CRISI E RISANAMENTO DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386769;;15883;Bastia Paolo;Italiano;;386769;0;386769;
+900;75817;ANALISI DI BILANCIO A MEZZO INDICI E FLUSSI (CORSO DI ALLINEAMENTO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386910;;14586;Matacena Antonio;Italiano;;386910;0;386910;
+900;76611;BILANCIO CIVILISTICO E REDDITO DI IMPRESA (CORSO DI ALLINEAMENTO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392735;;50748;Provaggi Luigi;;;392735;0;392735;
+900;78221;BUSINESS LANGUAGE - ACCOUNTING AND TAX TERMINOLOGY (LABORATORIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401022;;41327;Iacoviello Antonietta;Inglese;;401022;0;401022;
+900;78222;DIRITTO TRIBUTARIO E PROCEDURA CIVILE (C.I.);;;;;;;401023;0;401023;
+900;78223;DIRITTO TRIBUTARIO PROCESSUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401024;modulo;33340;Tundo Francesco;Italiano;;401024;401023;401023;
+900;78223;DIRITTO TRIBUTARIO PROCESSUALE (1);;modulo;33340;Tundo Francesco;Italiano;;416400;401024;401023;396429
+900;78223;DIRITTO TRIBUTARIO PROCESSUALE (2);;modulo;43506;Baboro Roberto;;;416401;401024;401023;396430
+900;28333;PROCEDURA CIVILE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401027;modulo;15027;Marzocchi Paola;Italiano;;401027;401023;401023;411714
+900;78226;BILANCIO E CONTROLLO (C.I.);;;;;;;401028;0;401028;
+900;78227;CONTROLLO DELLE PERFORMANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401029;modulo;34789;Zanigni Massimiliano;;;401029;401028;401028;
+900;40292;PRINCIPI CONTABILI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401030;modulo;40052;Mattei Marco Maria;Italiano;;401030;401028;401028;
+900;81502;DIRITTO COMMERCIALE E PROCEDURA CIVILE (C.I.);;;;;;;411712;0;411712;
+900;31996;DIRITTO COMMERCIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411713;modulo;30257;Gandini Carla;Italiano;;411713;411712;411712;
+900;28333;PROCEDURA CIVILE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411714;modulo;15027;Marzocchi Paola;Italiano;;411714;411712;411712;411714
+900;82913;TIROCINIO OPZIONALE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411924;;30257;Gandini Carla;Italiano;;411924;0;411924;
+900;81113;SEM. AUDIT E TAX: UNA COMPETIZIONE SU CASI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415943;;40052;Mattei Marco Maria;Italiano;;415943;0;415943;
+900;82914;TIROCINIO OPZIONALE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416758;;30257;Gandini Carla;;;416758;0;416758;
+901;67109;STORIA DELL'INDUSTRIA E DELLA FINANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328978;;16639;Negri Vera;Italiano;;328978;0;328978;
+901;37210;MODELLI MATEMATICI PER LA FINANZA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349888;;30508;Ritelli Daniele;Italiano;;349888;0;349888;
+901;37212;ECONOMIA DELLA BANCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349890;;33395;Torluccio Giuseppe;Italiano;;349890;0;349890;
+901;37835;FINANCIAL ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349900;;30763;Pastorello Sergio;Inglese;;349900;0;349900;
+901;24318;FINANZA STRAORDINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349906;;35018;Mengoli Stefano;Italiano;;349906;0;349906;
+901;23693;GESTIONE DEI RISCHI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349919;;33819;Bajo Emanuele;Italiano;;349919;0;349919;
+901;23693;GESTIONE DEI RISCHI FINANZIARI (1);;modulo;33819;Bajo Emanuele;Italiano;;369583;349919;349919;
+901;23693;GESTIONE DEI RISCHI FINANZIARI (2);;modulo;43448;Arf?¿ Antonio;;;369584;349919;349919;
+901;37218;ECONOMIA DEI MERCATI MOBILIARI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349921;;34783;Palmucci Fabrizio;Italiano;;349921;0;349921;
+901;37219;REGOLAZIONE DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349922;;50755;Zanchi Marco;Italiano;;349922;0;349922;349922
+901;47649;CORPORATE GOVERNANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349929;;31434;Bigelli Marco;Italiano;;349929;0;349929;
+901;37357;DIRITTO DEGLI INTERMEDIARI FINANZIARI E DELLE SOCIET?Ç QUOTATE (C.I.);;;;;;;350485;0;350485;
+901;37359;DIRITTO DEGLI INTERMEDIARI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350488;modulo;30346;Stefanelli Maria Alessandra;Italiano;;350488;350485;350485;
+901;37450;DIRITTO DELLE SOCIET?Ç QUOTATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350489;modulo;31836;Lamandini Marco;Italiano;;350489;350485;350485;350489
+901;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/352422;;33395;Torluccio Giuseppe;Italiano;;352422;0;352422;
+901;37838;LABORATORIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/352423;;33502;Cavazza Atos;Italiano;;352423;0;352423;
+901;29252;ANALISI ECONOMICA DEI CONTRATTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357325;;40086;Parisi Francesco;Italiano;;357325;0;357325;350297
+901;29265;ECONOMIA DELLA CONCORRENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357327;;32045;Carbonara Emanuela;Italiano;;357327;0;357327;350304
+901;23690;ECONOMIA DELLA REGOLAMENTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357328;;30467;Fiorentini Gianluca;Italiano;;357328;0;357328;350302
+901;32355;DIRITTO DELLE CRISI DI IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357329;;30257;Gandini Carla;Italiano;;357329;0;357329;
+901;32355;DIRITTO DELLE CRISI DI IMPRESA (1);;modulo;30257;Gandini Carla;Italiano;;402670;357329;357329;395396
+901;32355;DIRITTO DELLE CRISI DI IMPRESA (2);;modulo;30959;Bernardi Elena;;;402671;357329;357329;395397
+901;68835;MATEMATICA ATTUARIALE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374543;;16721;Spelta Dario;Italiano;;374543;0;374543;
+901;68836;MATEMATICA ATTUARIALE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374544;;16721;Spelta Dario;Italiano;;374544;0;374544;
+901;68837;MODELLI MATEMATICI PER LA FINANZA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374545;;31091;Romagnoli Silvia;Italiano;;374545;0;374545;
+901;68837;MODELLI MATEMATICI PER LA FINANZA 2 (1);;modulo;31091;Romagnoli Silvia;Italiano;;378065;374545;374545;
+901;68837;MODELLI MATEMATICI PER LA FINANZA 2 (2);;modulo;31091;Romagnoli Silvia;;;378066;374545;374545;
+901;30427;TEORIA DEL PORTAFOGLIO E ANALISI DEGLI INVESTIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374548;;16740;Lusignani Giuseppe;Italiano;;374548;0;374548;350768
+901;69062;METODI STATISTICI PER I MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375075;;16737;Costa Michele;Italiano;;375075;0;375075;
+901;70281;ANALISI DEI COSTI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378061;;34789;Zanigni Massimiliano;Italiano;;378061;0;378061;
+901;78658;VENTURE CAPITAL E PRIVATE EQUITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406323;;30872;Spisni Massimo;Italiano;;406323;0;406323;
+901;78658;VENTURE CAPITAL E PRIVATE EQUITY (1);;modulo;30872;Spisni Massimo;Italiano;;423803;406323;406323;
+901;78658;VENTURE CAPITAL E PRIVATE EQUITY (2);;modulo;61836;Castaldini Giada;;;423804;406323;406323;
+901;85228;SEM. APPLICAZIONE DEL GIOCO DEL BRIDGE ALLE SCELTE ECONOMICO-COMPORTAMENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423726;;34783;Palmucci Fabrizio;Italiano;;423726;0;423726;
+901;85268;SEM. GESTIONE ATTIVA E PASSIVA: STRATEGIE FLESSIBILI E EXCHANGE TRADES FUNDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423863;;33502;Cavazza Atos;Italiano;;423863;0;423863;
+902;32508;CULTURAL ECONOMICS (I.C.);;;;;;;323821;0;323821;
+902;28354;PRINCIPLES OF PUBLIC ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323856;modulo;41500;Vanin Paolo;Inglese;;323856;323821;323821;
+902;32500;CULTURAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323857;modulo;37736;Trimarchi Michele;Inglese;;323857;323821;323821;
+902;32519;PROJECT MANAGEMENT AND FUNDRAISING (I.C.);;;;;;;323877;0;323877;
+902;28367;PROJECT MANAGEMENT FOR ARTS ORGANIZATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323881;modulo;92015;Galloni Chiara;;;323881;323877;323877;
+902;18065;FUND RAISING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323882;modulo;53364;Crawford Brett;Inglese;;323882;323877;323877;
+902;32529;NETWORKING AND KNOWLEDGE MANAGEMENT IN THE ARTS (I.C.);;;;;;;323886;0;323886;
+902;28376;MANAGING NETWORKS IN THE ARTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323895;modulo;34989;Corrado Raffaele;Inglese;;323895;323886;323886;
+902;26222;KNOWLEDGE MANAGEMENT IN ARTS ORGANIZATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323896;modulo;35212;Ferriani Simone;Inglese;;323896;323886;323886;
+902;67149;REGIONAL CULTURAL DEVELOPMENT (I.C.);;;;;;;323898;0;323898;
+902;28380;REGIONAL CULTURAL POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323904;modulo;37256;Dal Pozzolo Luca;Italiano;;323904;323898;323898;
+902;28381;URBAN PLANNING AND DEVELOPMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323905;modulo;40838;Pini Daniele;Inglese;;323905;323898;323898;
+902;19475;QUANTITATIVE METHODS FOR DECISION ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328104;;35189;Mazzocchi Mario;Inglese;;328104;0;328104;
+902;32521;ANALYTICAL CUSTOMER RELATIONSHIP MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328106;;30376;Camillo Furio;Inglese;;328106;0;328106;
+902;32523;ART APPRECIATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328110;;36501;Naldi Fabiola;Inglese;;328110;0;328110;
+902;32517;LABORATORY OF MANAGEMENT OF VISUAL ART;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328162;;80241;Lahav Sylvia Joan;Italiano;;328162;0;328162;
+902;32510;LABORATORY OF MANAGEMENT OF PERFORMING ARTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328180;;37210;Tura Valerio;Inglese;;328180;0;328180;
+902;32531;LABORATORY OF MANAGEMENT OF THE FILM INDUSTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328183;;41765;Baker Jonathan Theodore;;;328183;0;328183;
+902;47505;PROJECT WORK;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/334650;;30823;Roversi Monaco Maria Giulia;;;334650;0;334650;
+902;37226;MUSEUM AND SCIENTIFIC INSTITUTIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349959;;31506;Guagnini Anna;Inglese;;349959;0;349959;
+902;37781;LABORATORY OF HERITAGE AND ARTS MANAGEMENT: A COUNTRY-SPECIFIC FOCUS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349978;;53681;Zhang Hanyu;;;349978;0;349978;
+902;28386;SOCIOLOGY OF TERRITORY & CULTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350003;;47619;Quemin Alain;Inglese;;350003;0;350003;
+902;37995;CRASH COURSE IN FINANCIAL AND MANAGEMENT ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354492;;36975;Bonini Baraldi Sara;Inglese;;354492;0;354492;354492
+902;38625;CRASH COURSE IN INTRODUCTION TO ORGANIZIATIONAL ANALYSIS AND DECISION MAKING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357227;;33161;Masino Giovanni;;;357227;0;357227;
+902;66261;LABORATORY OF MANAGEMENT OF MUSIC AND NEW MEDIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365319;;46663;Ellner David;;;365319;0;365319;
+902;66261;LABORATORY OF MANAGEMENT OF MUSIC AND NEW MEDIA (1);;modulo;46663;Ellner David;;;388500;365319;365319;
+902;66261;LABORATORY OF MANAGEMENT OF MUSIC AND NEW MEDIA (2);;modulo;41421;Bersaglia Luca;;;388501;365319;365319;
+902;66231;CRASH COURSE IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379342;;33558;Lanzi Diego;Italiano;;379342;0;379342;
+902;72978;ARTS, LAW AND THE PUBLIC SECTOR (I.C.);;;;;;;385433;0;385433;
+902;32503;LAW AND THE ARTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385434;modulo;30823;Roversi Monaco Maria Giulia;Inglese;;385434;385433;385433;
+902;23656;NEW PUBLIC MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385435;modulo;36975;Bonini Baraldi Sara;Inglese;;385435;385433;385433;
+902;28363;BUSINESS MODELS IN CREATIVE INDUSTRIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385436;;41286;Ferri Paolo;Inglese;;385436;0;385436;
+902;72986;HERITAGE, HISTORY AND THE ISSUE OF ORGANIZING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385446;;31046;Zan Luca;Inglese;;385446;0;385446;
+902;72991;NEW MEDIA AND INFORMATION TECHNOLOGY (I.C.);;;;;;;385451;0;385451;
+902;28385;LAW AND ECONOMICS OF NEW MEDIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385456;modulo;31977;Senzani Daniele;Inglese;;385456;385451;385451;
+902;72995;INFORMATION TECHNOLOGY AND ARTS ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385457;modulo;43032;Puglisi Antonio;Inglese;;385457;385451;385451;
+902;67151;REPORTING BUDGET AND BUSINESS PLAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385462;;54548;Demartini Daniele;Inglese;;385462;0;385462;
+902;73901;CRASH COURSE IN STRATEGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388504;;40203;Pareschi Luca;Inglese;;388504;0;388504;
+902;73901;CRASH COURSE IN STRATEGY (1);;modulo;40203;Pareschi Luca;Inglese;;388505;388504;388504;
+902;73901;CRASH COURSE IN STRATEGY (2);;modulo;40203;Pareschi Luca;;;388506;388504;388504;
+902;78118;LABORATORY OF NEW TRENDS IN ARTS MANAGEMENT AND TECHNOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400879;;33161;Masino Giovanni;;;400879;0;400879;
+902;78118;LABORATORY OF NEW TRENDS IN ARTS MANAGEMENT AND TECHNOLOGY (1);;modulo;33161;Masino Giovanni;;;406214;400879;400879;
+902;78118;LABORATORY OF NEW TRENDS IN ARTS MANAGEMENT AND TECHNOLOGY (2);;modulo;54590;Gaviani Gianmarco;;;406215;400879;400879;
+902;81974;GENERAL MANAGEMENT AND THE ARTS (I.C.);;;;;;;412840;0;412840;
+902;81975;GENERAL MANAGEMENT AND ARTS ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412841;modulo;31046;Zan Luca;Inglese;;412841;412840;412840;
+902;37228;SERVICES MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412842;modulo;31400;Orsingher Chiara;Inglese;;412842;412840;412840;
+905;2167;DIRITTO COMMERCIALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331654;;36510;Paolucci Maria Ginevra;Italiano;;331654;0;331654;
+905;58869;DIRITTO TRIBUTARIO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331704;;34329;Cicognani Filippo;Italiano;;331704;0;331704;
+905;6436;TECNICA PROFESSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331717;;30961;Savioli Giuseppe;Italiano;;331717;0;331717;
+905;6436;TECNICA PROFESSIONALE (1);;modulo;30961;Savioli Giuseppe;Italiano;;377002;331717;331717;
+905;6436;TECNICA PROFESSIONALE (2);;modulo;38954;Siboni Benedetta;;;377003;331717;331717;
+905;46639;BILANCIO CONSOLIDATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331734;;38954;Siboni Benedetta;Italiano;;331734;0;331734;
+905;46639;BILANCIO CONSOLIDATO (1);;modulo;38954;Siboni Benedetta;Italiano;;377008;331734;331734;
+905;46639;BILANCIO CONSOLIDATO (2);;modulo;41079;Gardini Silvia;;;377009;331734;331734;
+905;27083;PROVA FINALE LM;;;;;;;331742;0;331742;
+905;23491;METODI QUANTITATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366813;;14019;Corradi Corrado;Italiano;;366813;0;366813;
+905;9152;SCIENZA DELLE FINANZE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366814;;38557;Lippi Bruni Matteo;Italiano;;366814;0;366814;
+905;30172;INTERNAL AUDITING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366842;;31644;Mazzara Luca;Italiano;;366842;0;366842;
+905;66805;CRISI D'IMPRESA E RITORNO AL VALORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366849;;30961;Savioli Giuseppe;Italiano;;366849;0;366849;
+905;75329;PERFORMANCE MANAGEMENT SYSTEMS;;;;;;;366854;0;366854;
+905;26512;ELEMENTI DI PIANIFICAZIONE FISCALE INTERNA E INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377052;;34329;Cicognani Filippo;Italiano;;377052;0;377052;
+905;71801;DIRITTO DELLE PROCEDURE CONCORSUALI II (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383257;;31213;Soldati Nicola;Italiano;;383257;0;383257;
+905;71858;DIRITTO PENALE D'IMPRESA (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383350;;32014;Melchionda Alessandro;Italiano;;383350;0;383350;
+905;73415;STORIA DELLA FINANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386743;;30917;Fornasari Massimo;Italiano;;386743;0;386743;
+905;73415;STORIA DELLA FINANZA (1);;modulo;30917;Fornasari Massimo;Italiano;;386744;386743;386743;
+905;73415;STORIA DELLA FINANZA (2);;modulo;32683;Carboni Mauro;;;386745;386743;386743;
+905;75290;STRATEGIE E VALUTAZIONE DELLE AZIENDE (C.I.);;;;;;;391608;0;391608;
+905;24340;STRATEGIA DI CORPORATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391611;modulo;46980;Graziano Hermann;Italiano;;391611;391608;391608;
+905;75292;VALUTAZIONE DELLE AZIENDE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391612;modulo;15938;Sandri Sandro;Italiano;;391612;391608;391608;
+905;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391614;;30960;Silvi Riccardo;;;391614;0;391614;
+905;75294;STATISTICA PER L'ANALISI DI BILANCIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391616;;42108;Alboni Fabrizio;Italiano;;391616;0;391616;
+905;76544;TIROCINIO (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395449;;30960;Silvi Riccardo;Italiano;;395449;0;395449;
+905;30525;TIROCINIO (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395450;;30960;Silvi Riccardo;Italiano;;395450;0;395450;
+905;34547;RISK MANAGEMENT;;;;;;;413490;0;413490;
+905;66809;COST MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415676;;34326;Visani Franco;Italiano;;415676;0;415676;413526
+905;66798;SISTEMI DI CONTROLLO;;;;;;;416091;0;416091;
+905;82812;FISCALITA' D'IMPRESA E PROCEDURE TRIBUTARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416434;;34329;Cicognani Filippo;Italiano;;416434;0;416434;
+905;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE;;;;;;;418446;0;418446;
+905;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE (1);;modulo;;;;;418447;418446;418446;
+905;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE (2);;modulo;;;;;418448;418446;418446;
+905;44121;SIMULIMPRESA;;;;;;;418564;0;418564;
+905;44121;SIMULIMPRESA (1);;modulo;;;;;418565;418564;418564;
+905;44121;SIMULIMPRESA (2);;modulo;;;;;418566;418564;418564;
+905;4722;ECONOMIA PUBBLICA;;;;;;;418797;0;418797;
+905;82555;TIROCINIO 2 (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425674;;;;;;425674;0;425674;
+8038;534;ISTITUZIONI DI DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322541;;36776;Nicodemo Silvia;Italiano;;322541;0;322541;
+8038;75888;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323533;;50286;Iorio Daniela;Italiano;;323533;0;323533;
+8038;75905;TEORIA DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323544;;43205;Profeti Stefania;Italiano;;323544;0;323544;
+8038;895;SCIENZA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323545;;47572;Baracani Elena;Italiano;;323545;0;323545;
+8038;895;SCIENZA POLITICA (1);;modulo;47572;Baracani Elena;Italiano;;415819;323545;323545;
+8038;895;SCIENZA POLITICA (2);;modulo;46441;Pedrazzani Andrea;;;415820;323545;323545;
+8038;75899;STORIA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323552;;32070;Fauri Francesca;Italiano;;323552;0;323552;
+8038;75900;MACROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323598;;15097;Salituro Bruno;Italiano;;323598;0;323598;
+8038;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323599;;35183;Raggi Meri;Italiano;;323599;0;323599;
+8038;75901;BILANCI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323600;;34789;Zanigni Massimiliano;;;323600;0;323600;
+8038;75901;BILANCI AZIENDALI (1);;modulo;34789;Zanigni Massimiliano;;;415821;323600;323600;415821
+8038;75901;BILANCI AZIENDALI (2);;modulo;34789;Zanigni Massimiliano;;;415822;323600;323600;
+8038;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323601;;36594;Riccio Angelo;Italiano;;323601;0;323601;
+8038;75898;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323602;;41332;Sangiorgi Simona;Inglese;;323602;0;323602;
+8038;75908;ECONOMETRIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323604;;30247;Golinelli Roberto;Italiano;;323604;0;323604;323604
+8038;75909;ECONOMIA DEGLI INTERMEDIARI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323605;;16740;Lusignani Giuseppe;Italiano;;323605;0;323605;
+8038;75909;ECONOMIA DEGLI INTERMEDIARI FINANZIARI (1);;modulo;16740;Lusignani Giuseppe;Italiano;;415827;323605;323605;
+8038;75909;ECONOMIA DEGLI INTERMEDIARI FINANZIARI (2);;modulo;30895;Cenni Stefano;;;415828;323605;323605;
+8038;75910;ECONOMIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323606;;37301;Naghavi Alireza Jay;Italiano;;323606;0;323606;
+8038;75910;ECONOMIA INTERNAZIONALE (1);;modulo;37301;Naghavi Alireza Jay;Italiano;;418886;323606;323606;418886
+8038;75910;ECONOMIA INTERNAZIONALE (2);;modulo;50674;Bolatto Stefano Antonio;;;418887;323606;323606;
+8038;75903;SCIENZA DELLE FINANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323607;;30299;Toso Stefano;Italiano;;323607;0;323607;323607
+8038;17268;PROVA FINALE;;;;;;;323608;0;323608;
+8038;75902;ECONOMIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323609;;36091;Mantovani Andrea;Italiano;;323609;0;323609;
+8038;75911;ECONOMIA E POLITICA MONETARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324650;;14488;Stagni Anna;Italiano;;324650;0;324650;
+8038;75911;ECONOMIA E POLITICA MONETARIA (1);;modulo;14488;Stagni Anna;Italiano;;421143;324650;324650;421143
+8038;75911;ECONOMIA E POLITICA MONETARIA (2);;modulo;14488;Stagni Anna;;;421144;324650;324650;421144
+8038;75904;STORIA DELL'ANALISI ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331311;;30382;Mosca Manuela;Italiano;;331311;0;331311;
+8038;75918;DIRITTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331329;;41320;Mengozzi Pieralberto;Italiano;;331329;0;331329;402843
+8038;75906;ECONOMIA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364313;;30749;Lambertini Luca;Italiano;;364313;0;364313;
+8038;68325;MATEMATICA - 12 CFU - (C.I.);;;;;;;373185;0;373185;
+8038;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373186;modulo;40000;Mulinacci Sabrina;Italiano;;373186;373185;373185;
+8038;28181;MATEMATICA APPLICATA ALL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373187;modulo;38751;Tommasoli Andrea;;;373187;373185;373185;
+8038;2523;PSICOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387072;;41871;Balducci Cristian;Italiano;;387072;0;387072;392889
+8038;7957;MODELLI MATEMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393076;;40000;Mulinacci Sabrina;Italiano;;393076;0;393076;
+8038;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393084;;35229;De Pra Alberto;Italiano;;393084;0;393084;393084
+8038;32918;LABORATORIO DI ECONOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393089;;36775;Vincenzi Lorena;Italiano;;393089;0;393089;
+8038;75915;SEMINARIO DI POLITICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393098;;15097;Salituro Bruno;Italiano;;393098;0;393098;
+8038;18054;ANALISI ECONOMICA DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393103;;30790;Franzoni Luigi Alberto;Italiano;;393103;0;393103;
+8038;18054;ANALISI ECONOMICA DEL DIRITTO (1);;modulo;30790;Franzoni Luigi Alberto;Italiano;;395798;393103;393103;
+8038;18054;ANALISI ECONOMICA DEL DIRITTO (2);;modulo;40086;Parisi Francesco;;;395799;393103;393103;
+8038;639;LINGUA FRANCESE;;;;;;;395821;0;395821;
+8038;651;LINGUA SPAGNOLA;;;;;;;395822;0;395822;
+8038;656;LINGUA TEDESCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395823;;54403;Tatasciore Claudia;Tedesco;;395823;0;395823;392875
+8038;33546;CORSO DI ALLINEAMENTO DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405460;;43045;Ferrari Luca;Italiano;;405460;0;405460;405459
+8038;81857;SEMINARIO DI ETICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412623;;32489;Orsini Raimondello;Italiano;;412623;0;412623;412623
+8038;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;;;;;412631;0;412631;
+8038;26344;IDONEITA' LINGUA TEDESCA B - 1;;;;;;;412638;0;412638;
+8038;26356;IDONEITA' LINGUA FRANCESE B - 1;;;;;;;412640;0;412640;
+8038;26338;IDONEITA' LINGUA INGLESE B - 1;;;;;;;412669;0;412669;
+8038;26337;IDONEITA' LINGUA INGLESE B - 2;;;;;;;412670;0;412670;
+8038;81988;LABORATORIO DI PSICOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412869;;41871;Balducci Cristian;Italiano;;412869;0;412869;415568
+8038;26357;IDONEITA' LINGUA FRANCESE B - 2;;;;;;;413718;0;413718;
+8038;26351;IDONEITA' LINGUA SPAGNOLA B - 2;;;;;;;413719;0;413719;
+8038;26345;IDONEITA' LINGUA TEDESCA B - 2;;;;;;;413720;0;413720;
+8038;82781;SEMINARIO DI ANALISI ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415831;;15289;Scazzieri Roberto;Italiano;;415831;0;415831;
+8038;82773;ECONOMIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416114;;15561;Antonelli Gilberto;Italiano;;416114;0;416114;
+8038;82773;ECONOMIA DEL LAVORO (1);;modulo;34469;Guidetti Giovanni;Italiano;;416115;416114;416114;402845
+8038;82773;ECONOMIA DEL LAVORO (2);;modulo;15561;Antonelli Gilberto;Italiano;;416116;416114;416114;402846
+8038;82351;TIROCINIO ALL'ESTERO;;;;;;;420749;0;420749;
+8038;85226;SEM. EUROPA E GLOBALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423724;;32489;Orsini Raimondello;Italiano;;423724;0;423724;
+8406;73925;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350205;;36248;Di Marco Paolo;Italiano;;350205;0;350205;
+8406;37750;DIRITTO PRIVATO E DIRITTO PUBBLICO DELL'ECONOMIA (C.I.);;;;;;;350206;0;350206;
+8406;37302;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350207;modulo;30538;Tampieri Maura;Italiano;;350207;350206;350206;
+8406;2531;DIRITTO PUBBLICO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350208;modulo;30346;Stefanelli Maria Alessandra;Italiano;;350208;350206;350206;
+8406;2531;DIRITTO PUBBLICO DELL'ECONOMIA (1);;modulo;39581;Golino Claudia;Italiano;;414628;350208;350206;
+8406;2531;DIRITTO PUBBLICO DELL'ECONOMIA (2);;modulo;30346;Stefanelli Maria Alessandra;Italiano;;414629;350208;350206;
+8406;73923;BILANCI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350209;;38139;Gigli Sabrina;Italiano;;350209;0;350209;
+8406;73923;BILANCI AZIENDALI (1);;modulo;38139;Gigli Sabrina;Italiano;;386780;350209;350209;
+8406;73923;BILANCI AZIENDALI (2);;modulo;38139;Gigli Sabrina;;;386781;350209;350209;
+8406;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350210;;15911;Gozzi Giancarlo;Italiano;;350210;0;350210;
+8406;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350211;;16921;Parmeggiani Alberto;Italiano;;350211;0;350211;
+8406;679;MATEMATICA GENERALE (1);;modulo;16921;Parmeggiani Alberto;Italiano;;414630;350211;350211;
+8406;679;MATEMATICA GENERALE (2);;modulo;59664;Bormetti Giacomo;;;414631;350211;350211;
+8406;745;ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350212;;40011;Morandin Gabriele;Italiano;;350212;0;350212;
+8406;9511;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350215;;40764;Ancarani Fabio Guido Ulderico;Italiano;;350215;0;350215;
+8406;8795;MACROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350216;;83332;Masella Paolo;Italiano;;350216;0;350216;
+8406;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350217;;82390;Ramos Munoz David;Italiano;;350217;0;350217;
+8406;29113;ANALISI DI BILANCIO E ANALISI DEI COSTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350218;;16727;Tieghi Marco;Italiano;;350218;0;350218;
+8406;2528;ECONOMIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350230;;39892;Minniti Antonio;Italiano;;350230;0;350230;
+8406;23570;COMUNICAZIONE D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350231;;31400;Orsingher Chiara;Italiano;;350231;0;350231;
+8406;23570;COMUNICAZIONE D'IMPRESA (1);;modulo;31400;Orsingher Chiara;Italiano;;403894;350231;350231;
+8406;23570;COMUNICAZIONE D'IMPRESA (2);;modulo;56550;Masala Viviana;;;403895;350231;350231;
+8406;55804;STRATEGIA D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350232;;16708;Boschetti Carlo;Italiano;;350232;0;350232;
+8406;4521;FINANZA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350234;;33819;Bajo Emanuele;Italiano;;350234;0;350234;
+8406;4521;FINANZA AZIENDALE (1);;modulo;33819;Bajo Emanuele;Italiano;;377974;350234;350234;
+8406;4521;FINANZA AZIENDALE (2);;modulo;31434;Bigelli Marco;;;377975;350234;350234;
+8406;7573;CONTROLLO DI GESTIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350235;;33065;Paletta Angelo;Italiano;;350235;0;350235;
+8406;46626;STRUMENTI E SERVIZI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350237;;30895;Cenni Stefano;Italiano;;350237;0;350237;401881
+8406;17232;COMPORTAMENTO DEL CONSUMATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350238;;31400;Orsingher Chiara;Italiano;;350238;0;350238;
+8406;17232;COMPORTAMENTO DEL CONSUMATORE (1);;modulo;31400;Orsingher Chiara;Italiano;;403896;350238;350238;
+8406;17232;COMPORTAMENTO DEL CONSUMATORE (2);;modulo;34787;Lorenzini Barbara;;;403897;350238;350238;
+8406;44472;TRADE MARKETING E BUSINESS TO BUSINESS MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350239;;40764;Ancarani Fabio Guido Ulderico;Italiano;;350239;0;350239;
+8406;44472;TRADE MARKETING E BUSINESS TO BUSINESS MARKETING (1);;modulo;40764;Ancarani Fabio Guido Ulderico;Italiano;;416150;350239;350239;
+8406;44472;TRADE MARKETING E BUSINESS TO BUSINESS MARKETING (2);;modulo;42888;Tassinari Vincenzo;;;416151;350239;350239;
+8406;34634;PROVA FINALE;;;;;;;350242;0;350242;
+8406;18067;IDONEITA' INFORMATICA;;;;;;;352443;0;352443;
+8406;2935;LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/352444;;47161;Grisi Cesare Genesio Alessandro;Italiano;;352444;0;352444;352444
+8406;33546;CORSO DI ALLINEAMENTO DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354273;;43045;Ferrari Luca;Italiano;;354273;0;354273;405459
+8406;69018;INFORMATION SYSTEMS AND STRATEGIC DECISION MAKING (LABORATORY);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374347;;53327;Bergamaschi Francesco;Inglese;;374347;0;374347;
+8406;19747;STAGE;;;;;;;374348;0;374348;
+8406;68840;PRODUCTION MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/374550;;46764;Vecchi Alessandra;Inglese;;374550;0;374550;
+8406;75833;STATISTICA E MATEMATICA FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392949;;31135;Agati Patrizia;Italiano;;392949;0;392949;
+8406;75833;STATISTICA E MATEMATICA FINANZIARIA (1);;modulo;31135;Agati Patrizia;Italiano;;392956;392949;392949;
+8406;75833;STATISTICA E MATEMATICA FINANZIARIA (2);;modulo;31091;Romagnoli Silvia;;;392957;392949;392949;
+8406;75833;STATISTICA E MATEMATICA FINANZIARIA (3);;modulo;53327;Bergamaschi Francesco;;;392960;392949;392949;
+8406;75833;STATISTICA E MATEMATICA FINANZIARIA (4);;modulo;48260;Novelli Marco;;;419799;392949;392949;
+8406;37304;MODELLI ECONOMETRICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392961;;30763;Pastorello Sergio;Italiano;;392961;0;392961;
+8406;3558;ANALISI DI MERCATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392963;;15949;Tassinari Giorgio;Italiano;;392963;0;392963;
+8406;3558;ANALISI DI MERCATO (1);;modulo;15949;Tassinari Giorgio;Italiano;;416254;392963;392963;
+8406;3558;ANALISI DI MERCATO (2);;modulo;41681;D'Attoma Ida;;;416255;392963;392963;
+8406;3558;ANALISI DI MERCATO (3);;modulo;41681;D'Attoma Ida;;;416332;392963;392963;
+8406;75838;BUSINESS INTELLIGENCE E CUSTOMER RELATIONSHIP MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392971;;15949;Tassinari Giorgio;Italiano;;392971;0;392971;
+8406;75838;BUSINESS INTELLIGENCE E CUSTOMER RELATIONSHIP MANAGEMENT (MOD.1);;modulo;15949;Tassinari Giorgio;Italiano;;392972;392971;392971;
+8406;75838;BUSINESS INTELLIGENCE E CUSTOMER RELATIONSHIP MANAGEMENT (MOD.2);;modulo;36610;Vagnozzi Ercole;;;392973;392971;392971;
+8406;81971;DIRITTO DELLE RELAZIONI INDUSTRIALI E DEI RAPPORTI DI LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412830;;39969;Montanari Anna;Italiano;;412830;0;412830;
+8406;1645;ECONOMIA DEGLI INTERMEDIARI FINANZIARI;;;;;;;418815;0;418815;
+8406;83809;LOGISTICS AND OPERATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419819;;50175;Benzi Antonio;Inglese;;419819;0;419819;
+8408;32687;MICROECONOMICS (I.C.);;;;;;;350065;0;350065;
+8408;28873;MICROECONOMICS 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350066;modulo;33311;Calzolari Giacomo;Inglese;;350066;350065;350065;
+8408;28874;MICROECONOMICS 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350067;modulo;32684;Barigozzi Francesca;Inglese;;350067;350065;350065;
+8408;32686;MACROECONOMICS (I.C.);;;;;;;350072;0;350072;
+8408;28875;MACROECONOMICS 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350073;modulo;30817;Berti Ceroni Carlotta;Inglese;;350073;350072;350072;
+8408;28876;MACROECONOMICS 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350074;modulo;34481;Manasse Paolo Luciano Adalberto;Inglese;;350074;350072;350072;
+8408;34478;ECONOMETRICS (I.C.);;;;;;;350076;0;350076;
+8408;28885;ECONOMETRICS 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350077;modulo;34010;Monfardini Chiara;Inglese;;350077;350076;350076;
+8408;34481;ECONOMETRICS 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350078;modulo;14556;Orsi Renzo;Italiano;;350078;350076;350076;
+8408;32688;QUANTITATIVE METHODS FOR ECONOMIC ANALYSIS (I.C.);;;;;;;350079;0;350079;
+8408;28895;MATHEMATICAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350080;modulo;74420;Ballestra Luca Vincenzo;Inglese;;350080;350079;350079;
+8408;37679;STATISTICS LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350081;modulo;39143;Cagnone Silvia;Inglese;;350081;350079;350079;
+8408;32684;CAPITAL MARKETS REGULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350083;;31836;Lamandini Marco;Inglese;;350083;0;350083;392819
+8408;28904;MICROECONOMICS 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350086;;39295;Pietra Tito;Inglese;;350086;0;350086;
+8408;34487;MACROECONOMICS 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350087;;39291;Bottazzi Laura;Inglese;;350087;0;350087;
+8408;34490;ECONOMETRICS 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350088;;34010;Monfardini Chiara;Inglese;;350088;0;350088;
+8408;31526;ECONOMIC DEVELOPMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350102;;15416;Ricottilli Massimo;Inglese;;350102;0;350102;
+8408;31512;POLITICAL ECONOMY IN MACROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350105;;30453;Bellettini Giorgio;Inglese;;350105;0;350105;
+8408;24962;SEMINARS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350121;;30817;Berti Ceroni Carlotta;Inglese;;350121;0;350121;
+8408;34507;TOPICS IN MACROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357230;;83332;Masella Paolo;Italiano;;357230;0;357230;
+8408;33508;CRASH COURSE IN STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357231;;39414;Hewson Paul James;;;357231;0;357231;357231
+8408;33507;CRASH COURSE IN MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/357232;;36813;Palestini Arsen;;;357232;0;357232;
+8408;34504;TOPICS IN MICROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359185;;56967;Schram Arthur;Inglese;;359185;0;359185;
+8408;39069;LABOR ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359670;;42518;Zanella Giulio;Inglese;;359670;0;359670;
+8408;71204;INTERNSHIP FOR FINAL DISSERTATION - MASTER LEVEL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381171;;30817;Berti Ceroni Carlotta;Italiano;;381171;0;381171;
+8408;72936;THEORY AND EMPIRICS OF COMPARATIVE DEVELOPMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385356;;36414;Cervellati Matteo;Inglese;;385356;0;385356;
+8408;78172;FINANCE (I.C.);;;;;;;400959;0;400959;
+8408;78173;ASSET PRICING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400960;modulo;31758;Marzo Massimiliano;Inglese;;400960;400959;400959;
+8408;78369;FINANCIAL INSTITUTIONS MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400961;modulo;37925;Adami Roberta;Inglese;;400961;400959;400959;
+8408;78175;INTERNATIONAL TRADE: THEORY AND APPLICATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400963;;30914;Ottaviano Gianmarco Ireo Paolo;Inglese;;400963;0;400963;
+8408;78176;BEHAVIORAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400964;;40774;Bigoni Maria;Inglese;;400964;0;400964;
+8408;78177;IMPERFECT CAPITAL MARKETS, LIQUIDITY AND CRISES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400966;;15701;Chiesa Gabriella;Inglese;;400966;0;400966;400656
+8408;78178;INTRODUCTION TO THE ECONOMETRICS OF ASSET PRICING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400968;;30763;Pastorello Sergio;Inglese;;400968;0;400968;400968
+8408;78179;NUMERICAL METHODS IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400969;;39880;Bottazzi Renata;Inglese;;400969;0;400969;
+8408;81618;BIG DATA: NEW TOOLS FOR ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411913;;30763;Pastorello Sergio;Inglese;;411913;0;411913;
+8408;81619;INDUSTRIAL ORGANIZATION: THEORY AND APPLICATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411914;;33311;Calzolari Giacomo;Italiano;;411914;0;411914;
+8408;81619;INDUSTRIAL ORGANIZATION: THEORY AND APPLICATIONS (1);;modulo;33311;Calzolari Giacomo;Italiano;;416281;411914;411914;
+8408;81619;INDUSTRIAL ORGANIZATION: THEORY AND APPLICATIONS (2);;modulo;15950;Denicol?? Vincenzo;;;416282;411914;411914;
+8408;81620;INTERNSHIP I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411915;;30817;Berti Ceroni Carlotta;Italiano;;411915;0;411915;
+8408;81621;INTERNSHIP II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411916;;30817;Berti Ceroni Carlotta;Inglese;;411916;0;411916;
+8408;85823;SEM. A GENEALOGY OF PUBLIC ECONOMICS: A CRITICAL INQUIRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/426591;;30817;Berti Ceroni Carlotta;Inglese;;426591;0;426591;
+8420;32424;MICROECONOMIA AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350653;;36017;Burani Nadia;Italiano;;350653;0;350653;
+8420;32423;MACROECONOMIA AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350655;;34481;Manasse Paolo Luciano Adalberto;Italiano;;350655;0;350655;
+8420;32248;METODI QUANTITATIVI (C.I.);;;;;;;350656;0;350656;
+8420;2541;MATEMATICA PER ECONOMISTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350714;modulo;15530;Nardini Franco;Italiano;;350714;350656;350656;
+8420;41924;METODI STATISTICI PER L'ANALISI ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350715;modulo;24369;Brasili Cristina;Italiano;;350715;350656;350656;
+8420;32917;ECONOMETRIA AVANZATA (C.I.);;;;;;;350716;0;350716;
+8420;37454;MICROECONOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350717;modulo;30247;Golinelli Roberto;Italiano;;350717;350716;350716;
+8420;37455;MACROECONOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350718;modulo;30247;Golinelli Roberto;Italiano;;350718;350716;350716;
+8420;31932;ECONOMIA E TECNICA DEI MERCATI FINANZIARI (C.I.);;;;;;;350766;0;350766;
+8420;30426;OPZIONI, FUTURES E ALTRI DERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350767;modulo;16740;Lusignani Giuseppe;Italiano;;350767;350766;350766;
+8420;30426;OPZIONI, FUTURES E ALTRI DERIVATI (1);;modulo;16740;Lusignani Giuseppe;Italiano;;395781;350767;350766;
+8420;30426;OPZIONI, FUTURES E ALTRI DERIVATI (2);;modulo;39369;Tedeschi Riccardo;;;395782;350767;350766;
+8420;30427;TEORIA DEL PORTAFOGLIO E ANALISI DEGLI INVESTIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350768;modulo;16740;Lusignani Giuseppe;Italiano;;350768;350766;350766;350768
+8420;37498;CONTABILIT?Ç E CONTROLLO DI GESTIONE (C.I.);;;;;;;350811;0;350811;
+8420;59128;ANALISI DI BILANCIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350812;modulo;39957;Gianfelici Cristina;Italiano;;350812;350811;350811;
+8420;7573;CONTROLLO DI GESTIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350813;modulo;34789;Zanigni Massimiliano;;;350813;350811;350811;
+8420;7573;CONTROLLO DI GESTIONE (1);;modulo;39957;Gianfelici Cristina;;;395755;350813;350811;
+8420;7573;CONTROLLO DI GESTIONE (2);;modulo;34789;Zanigni Massimiliano;;;395756;350813;350811;
+8420;224;DIRITTO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350814;;34215;Vincieri Martina;Italiano;;350814;0;350814;
+8420;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350815;;35229;De Pra Alberto;Italiano;;350815;0;350815;393084
+8420;37499;POLITICHE COMUNITARIE E REGOLAZIONE GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350816;;15978;Marchian?? Giovanna;Italiano;;350816;0;350816;
+8420;37500;ECONOMIA INDUSTRIALE AVANZATA (C.I.);;;;;;;350817;0;350817;
+8420;3862;ORGANIZZAZIONE INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350818;modulo;30749;Lambertini Luca;Italiano;;350818;350817;350817;
+8420;37501;POLITICHE INDUSTRIALI E ANTITRUST;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350819;modulo;30749;Lambertini Luca;Italiano;;350819;350817;350817;
+8420;37502;METODI QUANTITATIVI PER LA FINANZA (C.I.);;;;;;;350820;0;350820;
+8420;37503;FINANZA QUANTITATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350821;modulo;40000;Mulinacci Sabrina;Italiano;;350821;350820;350820;
+8420;13178;ECONOMETRIA DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350822;modulo;30763;Pastorello Sergio;Inglese;;350822;350820;350820;400968
+8420;14630;ECONOMIA MONETARIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350823;;39291;Bottazzi Laura;Italiano;;350823;0;350823;
+8420;37538;ECONOMIA E POLITICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350887;;14292;Marzetti Silva;Italiano;;350887;0;350887;
+8420;23690;ECONOMIA DELLA REGOLAMENTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350889;;30467;Fiorentini Gianluca;Italiano;;350889;0;350889;350302
+8420;6281;ECONOMIA SANITARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350897;;30898;Fabbri Daniele;Italiano;;350897;0;350897;
+8420;17268;PROVA FINALE;;;;;;;351238;0;351238;
+8420;37683;INSEGNAMENTO PROPEDEUTICO IN MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351251;;15530;Nardini Franco;Italiano;;351251;0;351251;
+8420;37684;INSEGNAMENTO PROPEDEUTICO IN STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351253;;35214;Baldi Antognini Alessandro;Italiano;;351253;0;351253;
+8420;37534;ANALISI DEI DATI DI PANEL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376719;;41660;Bontempi Maria Elena;Italiano;;376719;0;376719;
+8420;46774;PREZZI, DISTRIBUZIONE E CRESCITA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376721;;15911;Gozzi Giancarlo;Italiano;;376721;0;376721;
+8420;7883;STORIA DELL'ANALISI ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376722;;14295;Gattei Giorgio;Italiano;;376722;0;376722;
+8420;24325;ANALISI ECONOMICA DELLE ISTITUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376724;;15289;Scazzieri Roberto;Italiano;;376724;0;376724;
+8420;37849;FINAL EXAMINATION LM;;;;;;;378046;0;378046;
+8420;70431;WELFARE STATE E TASSAZIONE (C.I.);;;;;;;379148;0;379148;
+8420;66250;POLITICHE PUBBLICHE E REDISTRIBUZIONE DEL REDDITO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379157;modulo;30299;Toso Stefano;Italiano;;379157;379148;379148;379157
+8420;23689;ECONOMIA DELLA TASSAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379158;modulo;33387;Mazzaferro Carlo;Italiano;;379158;379148;379148;
+8420;71204;INTERNSHIP FOR FINAL DISSERTATION - MASTER LEVEL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391151;;30898;Fabbri Daniele;;;391151;0;391151;
+8420;76616;CRASH COURSE IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395981;;36371;Dragone Davide;;;395981;0;395981;409631
+8420;76609;CRASH COURSE IN ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/398477;;51643;Katsikas Epameinondas;;;398477;0;398477;409632
+8420;78075;TECNICHE DI ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400815;;39904;Roverato Alberto;;;400815;0;400815;
+8420;70125;INTERNATIONAL LAW AND HEALTH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403023;;50459;Santuari Alceste;Inglese;;403023;0;403023;403772
+8420;79071;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403035;;42518;Zanella Giulio;Inglese;;403035;0;403035;
+8420;79071;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION (1);;modulo;42518;Zanella Giulio;Inglese;;403225;403035;403035;404223
+8420;79071;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION (2);;modulo;47073;Paolucci Francesco;;;403226;403035;403035;404224
+8420;79075;LEGAL ISSUES IN PHARMACEUTICAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403041;;39734;Desogus Claudia;Inglese;;403041;0;403041;404138
+8420;79076;ECONOMICS OF THE BIOPHARMACEUTICAL INDUSTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403042;;30898;Fabbri Daniele;Inglese;;403042;0;403042;404140
+8420;70138;LIFESTYLES AND HEALTH OUTCOMES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403043;;36371;Dragone Davide;Italiano;;403043;0;403043;404137
+8420;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403044;;86295;Niessen Louis;;;403044;0;403044;
+8420;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES (1);;modulo;86295;Niessen Louis;;;415803;403044;403044;415801
+8420;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES (2);;modulo;47946;Tediosi Fabrizio;;;415804;403044;403044;415802
+8420;70126;HEALTH SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403045;;39609;Toth Federico;Inglese;;403045;0;403045;403784
+8420;79078;WORKSHOP: BUILDING EMPIRICAL CASE STUDIES IN HEALTH ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403046;;43121;Capacci Sara;Inglese;;403046;0;403046;404142
+8420;79079;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403047;;30898;Fabbri Daniele;Inglese;;403047;0;403047;
+8420;79101;TOPICS IN HEALTH ECONOMICS, POLICY AND MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403076;;30467;Fiorentini Gianluca;Inglese;;403076;0;403076;
+8420;79102;WORKSHOP: THE LABOR MARKET FOR EU-HEM STUDENTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403079;;30898;Fabbri Daniele;Inglese;;403079;0;403079;404173
+8420;79156;HEALTH ECONOMICS AND MANAGEMENT (I.C.);;;;;;;403183;0;403183;
+8420;79060;FUNDAMENTALS IN HEALTH ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403184;modulo;30898;Fabbri Daniele;Inglese;;403184;403183;403183;403693
+8420;79061;FUNDAMENTALS IN HEALTHCARE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403185;modulo;50112;Mariani Laura;Italiano;;403185;403183;403183;403694
+8420;79157;RESEARCH METHODS IN HEALTH AND HEALTH CARE (I.C.);;;;;;;403186;0;403186;
+8420;74948;STATISTICS FOR HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403188;modulo;35189;Mazzocchi Mario;Inglese;;403188;403186;403186;403752
+8420;79062;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403189;modulo;39596;Raggi Davide;Inglese;;403189;403186;403186;403753
+8420;79158;ACCOUNTING AND MANAGEMENT IN HEALTHCARE (I.C.);;;;;;;403190;0;403190;
+8420;70135;ACCOUNTING IN HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403191;modulo;35629;Padovani Emanuele;Inglese;;403191;403190;403190;404167
+8420;79065;MANAGEMENT SYSTEMS IN HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403192;modulo;42761;Micheli Pietro;Inglese;;403192;403190;403190;404168
+8420;79159;REGULATION IN HEALTHCARE AND INSURANCE MARKETS (I.C.);;;;;;;403193;0;403193;
+8420;79067;REGULATION IN HEALTHCARE MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403195;modulo;38557;Lippi Bruni Matteo;Inglese;;403195;403193;403193;404170
+8420;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403196;modulo;32684;Barigozzi Francesca;Inglese;;403196;403193;403193;
+8420;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS (1);;modulo;32684;Barigozzi Francesca;Inglese;;403227;403196;403193;404221
+8420;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS (2);;modulo;47073;Paolucci Francesco;;;403228;403196;403193;404222
+8420;79160;HEALTH ECONOMETRICS AND EVALUATION OF HEALTH PROMOTION PROGRAMS (I.C.);;;;;;;403197;0;403197;
+8420;70139;PLANNING AND EVALUATION OF HEALTH PROMOTION PROGRAMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403199;modulo;35189;Mazzocchi Mario;Inglese;;403199;403197;403197;404136
+8420;70141;HEALTH ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403200;modulo;34010;Monfardini Chiara;Inglese;;403200;403197;403197;404139
+8420;81117;SEM. INTRODUZIONE ALL'USO DEI MICRODATI NELL'ANALISI APPLICATA DEGLI EFFETTI REDISTRIBUTIVI DELLE POLITICHE PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/410081;;30299;Toso Stefano;Italiano;;410081;0;410081;
+8420;81857;SEMINARIO DI ETICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412486;;32489;Orsini Raimondello;Italiano;;412486;0;412486;412623
+8420;81863;HEALTH SERVICES RESEARCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412530;;30467;Fiorentini Gianluca;Inglese;;412530;0;412530;412534
+8420;82330;TIROCINIO ALL'ESTERO LM;;;;;;;420748;0;420748;
+8609;69210;TOURISM MACROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375878;;32922;Figini Paolo;Inglese;;375878;0;375878;
+8609;69210;TOURISM MACROECONOMICS (1);;modulo;32922;Figini Paolo;Inglese;;375920;375878;375878;
+8609;69210;TOURISM MACROECONOMICS (2);;modulo;32922;Figini Paolo;;;375921;375878;375878;
+8609;69211;TOURISM MICROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375879;;38158;Mussoni Maurizio;Inglese;;375879;0;375879;
+8609;69211;TOURISM MICROECONOMICS (1);;modulo;38158;Mussoni Maurizio;Inglese;;375880;375879;375879;
+8609;69211;TOURISM MICROECONOMICS (2);;modulo;40013;Zirulia Lorenzo;Italiano;;375881;375879;375879;
+8609;69212;TIME SERIES ANALYSIS AND FORECASTING IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375882;;16731;Mignani Stefania;Italiano;;375882;0;375882;375882
+8609;69213;MATHEMATICS FOR SOCIAL SCIENCES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375883;;36002;Guerra Maria Letizia;Inglese;;375883;0;375883;
+8609;69230;MANAGERIAL ACCOUNTING AND REPORTING IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375922;;31029;Baldarelli Maria-Gabriella;Inglese;;375922;0;375922;
+8609;69230;MANAGERIAL ACCOUNTING AND REPORTING IN TOURISM (1);;modulo;31029;Baldarelli Maria-Gabriella;Inglese;;375923;375922;375922;
+8609;69230;MANAGERIAL ACCOUNTING AND REPORTING IN TOURISM (2);;modulo;31029;Baldarelli Maria-Gabriella;;;375924;375922;375922;
+8609;69231;TOURISM MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375925;;38743;Presutti Manuela;Inglese;;375925;0;375925;
+8609;69231;TOURISM MANAGEMENT (1);;modulo;38743;Presutti Manuela;Inglese;;375926;375925;375925;
+8609;69231;TOURISM MANAGEMENT (2);;modulo;38743;Presutti Manuela;;;375927;375925;375925;
+8609;69818;ECONOMICS OF TOURISM DESTINATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377253;;38579;Vici Laura;Inglese;;377253;0;377253;
+8609;69821;DESTINATION MARKETING AND MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377255;;42831;Ribaudo Giorgio;Inglese;;377255;0;377255;377255
+8609;69822;ORGANIZATION AND FINANCE IN TOURISM (C.I.);;;;;;;377257;0;377257;
+8609;69823;ORGANIZATION OF TOURISM ENTERPRISES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377258;modulo;37209;Barbini Francesco Maria;Inglese;;377258;377257;377257;
+8609;69824;CORPORATE FINANCE FOR TRAVEL AND TOURISM INDUSTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377259;modulo;38998;Della Bina Antonio Carlo Francesco;Inglese;;377259;377257;377257;
+8609;69825;INTERNATIONAL TOURISM LEGISLATION AND ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377260;;47176;D'Angelosante Melania;Inglese;;377260;0;377260;
+8609;67742;SEMINARS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377263;;40013;Zirulia Lorenzo;Inglese;;377263;0;377263;
+8609;76565;INNOVATION IN CULTURAL TOURISM (C.I.);;;;;;;395711;0;395711;
+8609;76566;NEW CULTURAL TOURISM PRODUCTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395712;modulo;32036;Battilani Patrizia;Inglese;;395712;395711;395711;
+8609;76567;LOCAL DEVELOPMENT AND CULTURAL ROUTES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395713;modulo;34328;Mariotti Alessia;Inglese;;395713;395711;395711;
+8609;76616;CRASH COURSE IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399267;;32922;Figini Paolo;Inglese;;399267;0;399267;
+8609;77282;CRASH COURSE IN JOB PLACEMENT IN THE TOURISM SECTOR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399273;;42896;Ferdinandi Massimo;Inglese;;399273;0;399273;
+8609;77284;CRASH COURSE AND LABORATORY IN STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399275;;50153;Baldi Simone;;;399275;0;399275;
+8609;73688;E-COMMERCE IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404074;;30905;Amoroso Alessandro;Inglese;;404074;0;404074;404074
+8609;79485;WEB AND REVENUE MANAGEMENT IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404075;;42831;Ribaudo Giorgio;Italiano;;404075;0;404075;404075
+8609;79486;MANAGEMENT OF DIVERSITIES IN THE INTERNATIONALIZATION PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404076;;42896;Ferdinandi Massimo;Inglese;;404076;0;404076;
+8609;75576;REGIONAL AND TRANSPORT ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404103;;43239;Patuelli Roberto;Inglese;;404103;0;404103;392052
+8609;37899;ENVIRONMENTAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404104;;30893;Zagonari Fabio;Inglese;;404104;0;404104;
+8609;82522;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417686;;38743;Presutti Manuela;;;417686;0;417686;
+8835;75660;CALCULUS AND LINEAR ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392306;;32964;Contucci Pierluigi;Inglese;;392306;0;392306;
+8835;75660;CALCULUS AND LINEAR ALGEBRA (1);;modulo;32964;Contucci Pierluigi;Inglese;;398478;392306;392306;
+8835;75660;CALCULUS AND LINEAR ALGEBRA (2);;modulo;49623;Mingione Emanuele;;;398479;392306;392306;
+8835;37293;MICROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392307;;41876;Wakefield Matthew John;Inglese;;392307;0;392307;
+8835;47736;ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392308;;34330;Farneti Federica;Inglese;;392308;0;392308;
+8835;69065;ECONOMIC HISTORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392309;;32036;Battilani Patrizia;Inglese;;392309;0;392309;
+8835;69065;ECONOMIC HISTORY (1);;modulo;16639;Negri Vera;Inglese;;395691;392309;392309;
+8835;69065;ECONOMIC HISTORY (2);;modulo;32036;Battilani Patrizia;Inglese;;395692;392309;392309;
+8835;59691;MACROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392310;;30292;Delbono Flavio;Inglese;;392310;0;392310;
+8835;75661;FOUNDATIONS OF LAW (I.C.);;;;;;;392311;0;392311;
+8835;65064;PRIVATE LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392313;modulo;36954;Al Mureden Enrico;Inglese;;392313;392311;392311;
+8835;65065;PUBLIC LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392312;modulo;31977;Senzani Daniele;Inglese;;392312;392311;392311;
+8835;75662;DATA PROCESSING FOR ECONOMICS AND FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392315;;53365;Tomasini Stefania;Inglese;;392315;0;392315;
+8835;75368;STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392316;;33309;Bortot Paola;Inglese;;392316;0;392316;
+8835;75663;ECONOMICS OF FINANCIAL INTERMEDIATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392317;;91321;Perdichizzi Salvatore;Inglese;;392317;0;392317;
+8835;75663;ECONOMICS OF FINANCIAL INTERMEDIATION (1);;modulo;91321;Perdichizzi Salvatore;Inglese;;425130;392317;392317;
+8835;75663;ECONOMICS OF FINANCIAL INTERMEDIATION (2);;modulo;47315;Dall'Olio Domenico;;;425131;392317;392317;
+8835;75318;FINANCIAL MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392318;;31091;Romagnoli Silvia;Inglese;;392318;0;392318;
+8835;75664;PUBLIC AND REGULATORY ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392319;;32045;Carbonara Emanuela;Inglese;;392319;0;392319;
+8835;37296;COMMERCIAL LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392320;;37624;Pomelli Alessandro;Inglese;;392320;0;392320;
+8835;59160;INDUSTRIAL ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392511;;33311;Calzolari Giacomo;Inglese;;392511;0;392511;
+8835;59160;INDUSTRIAL ORGANIZATION (1);;modulo;33311;Calzolari Giacomo;Inglese;;401465;392511;392511;
+8835;59160;INDUSTRIAL ORGANIZATION (2);;modulo;30790;Franzoni Luigi Alberto;Inglese;;401466;392511;392511;
+8835;47731;INTERNATIONAL TRADE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392512;;37301;Naghavi Alireza Jay;Inglese;;392512;0;392512;
+8835;47731;INTERNATIONAL TRADE (1);;modulo;30914;Ottaviano Gianmarco Ireo Paolo;;;401467;392512;392512;
+8835;47731;INTERNATIONAL TRADE (2);;modulo;37301;Naghavi Alireza Jay;Inglese;;401468;392512;392512;
+8835;39069;LABOR ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392513;;42518;Zanella Giulio;Inglese;;392513;0;392513;
+8835;67730;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392514;;14556;Orsi Renzo;Inglese;;392514;0;392514;
+8835;67730;ECONOMETRICS (1);;modulo;14556;Orsi Renzo;Inglese;;415530;392514;392514;
+8835;67730;ECONOMETRICS (2);;modulo;14556;Orsi Renzo;;;415531;392514;392514;
+8835;75363;CORPORATE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392515;;35018;Mengoli Stefano;Inglese;;392515;0;392515;
+8835;75363;CORPORATE FINANCE (1);;modulo;35018;Mengoli Stefano;Inglese;;416284;392515;392515;
+8835;75363;CORPORATE FINANCE (2);;modulo;57254;Pazzaglia Federica;;;416285;392515;392515;
+8835;75754;MONETARY AND FINANCIAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392516;;15701;Chiesa Gabriella;Inglese;;392516;0;392516;
+8835;25752;INTERNATIONAL FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392517;;30453;Bellettini Giorgio;Inglese;;392517;0;392517;
+8835;75755;FINANCIAL INSTRUMENTS AND FINANCIAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392518;;38416;Marattin Luigi;Italiano;;392518;0;392518;
+8835;75755;FINANCIAL INSTRUMENTS AND FINANCIAL MARKETS (1);;modulo;38416;Marattin Luigi;Italiano;;426616;392518;392518;
+8835;75755;FINANCIAL INSTRUMENTS AND FINANCIAL MARKETS (2);;modulo;;;;;426617;392518;392518;
+8835;75756;ECONOMIC ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392519;;15289;Scazzieri Roberto;Inglese;;392519;0;392519;
+8835;75757;BEHAVIORAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392520;;40774;Bigoni Maria;Inglese;;392520;0;392520;
+8835;75760;FINAL EXAM;;;;;;;392524;0;392524;
+8835;33507;CRASH COURSE IN MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397537;;49623;Mingione Emanuele;Italiano;;397537;0;397537;
+8835;79563;OPEN YOUR MIND: A CLASS WITHOUT BORDERS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404417;;33311;Calzolari Giacomo;Inglese;e-learning;404417;0;404417;
+8835;81794;FINANCIAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412292;;15950;Denicol?? Vincenzo;Inglese;;412292;0;412292;
+8839;75570;RESOURCE VALUATION AND DECISION-MAKING METHODS;;;;;;;392046;0;392046;
+8839;75570;RESOURCE VALUATION AND DECISION-MAKING METHODS (1);;modulo;33297;Montini Anna;;;394569;392046;392046;
+8839;75570;RESOURCE VALUATION AND DECISION-MAKING METHODS (2);;modulo;;;;;394570;392046;392046;
+8839;75571;FINANCIAL ECONOMICS AND RISK MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392047;;31063;Agliardi Elettra;Inglese;;392047;0;392047;
+8839;75572;GREEN TECHNOLOGY AND INNOVATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392048;;46894;Grazzi Marco;Inglese;;392048;0;392048;
+8839;75574;DEVELOPMENT ECONOMICS AND SUSTAINABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392050;;15416;Ricottilli Massimo;Inglese;;392050;0;392050;
+8839;75575;ECONOMICS OF WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392051;;30694;Benassi Corrado;Inglese;;392051;0;392051;
+8839;75576;REGIONAL AND TRANSPORT ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392052;;43239;Patuelli Roberto;Inglese;;392052;0;392052;392052
+8839;75577;ECONOMICS OF CLIMATE CHANGE;;;;;;;392053;0;392053;
+8839;75578;ECONOMICS OF ENVIRONMENTAL POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392054;;30893;Zagonari Fabio;Inglese;;392054;0;392054;
+8839;75584;GREEN STRATEGY AND SUSTAINABLE INNOVATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392060;;54585;Dal Fiore Filippo;Inglese;;392060;0;392060;392060
+8839;75586;ENVIRONMENTAL AUDITING AND CORPORATE SOCIAL RESPONSIBILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392063;;35228;Baraldi Monica;Inglese;;392063;0;392063;392063
+8839;75588;MATHEMATICAL TOOLS AND METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392065;;35704;Dieci Roberto;Inglese;;392065;0;392065;
+8839;75589;ENVIRONMENTAL LAW AND REGULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392066;;47176;D'Angelosante Melania;Inglese;;392066;0;392066;
+8839;32173;APPLIED ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392067;;33513;Fanelli Luca;Inglese;;392067;0;392067;
+8839;32173;APPLIED ECONOMETRICS (1);;modulo;33513;Fanelli Luca;Inglese;;404055;392067;392067;
+8839;32173;APPLIED ECONOMETRICS (2);;modulo;48309;Angelini Giovanni;;;404056;392067;392067;
+8839;75591;RENEWABLE ENERGY PRODUCTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392075;;55400;Chalvatzis Konstantinos;Inglese;;392075;0;392075;
+8839;77912;SUSTAINABLE RESOURCE ECONOMICS AND POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400627;;34339;Andergassen Rainer;Inglese;;400627;0;400627;
+8839;77912;SUSTAINABLE RESOURCE ECONOMICS AND POLICY (1);;modulo;37090;Bacchiega Emanuele;;;404053;400627;400627;
+8839;77912;SUSTAINABLE RESOURCE ECONOMICS AND POLICY (2);;modulo;34339;Andergassen Rainer;Inglese;;404054;400627;400627;
+8839;77913;ENVIRONMENTAL SUSTAINABILITY ASSESSMENT IN WASTE PREVENTION AND TREATMENTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400628;;35630;Passarini Fabrizio;Inglese;;400628;0;400628;
+8839;81531;ECONOMIC INEQUALITY AND SUSTAINABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411726;;30694;Benassi Corrado;Inglese;;411726;0;411726;
+8839;71201;INTERNSHIP FOR FINAL DISSERTATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418654;;38743;Presutti Manuela;;;418654;0;418654;
+8839;84147;SUSTAINABLE BUSINESS;;;;;;;425559;0;425559;
+8842;67722;BILANCI ORDINARI E STRAORDINARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392457;;14583;Capodaglio Gianfranco;Italiano;;392457;0;392457;
+8842;67722;BILANCI ORDINARI E STRAORDINARI (1);;modulo;14583;Capodaglio Gianfranco;Italiano;;414602;392457;392457;414602
+8842;67722;BILANCI ORDINARI E STRAORDINARI (2);;modulo;14583;Capodaglio Gianfranco;;;414603;392457;392457;
+8842;67722;BILANCI ORDINARI E STRAORDINARI (3);;modulo;42828;Semprini Lauretta;;;415921;392457;392457;
+8842;67713;FISCALIT?Ç NEL BILANCIO D'ESERCIZIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392459;;34058;Ricci Alessandro;Italiano;;392459;0;392459;
+8842;67721;REVISIONE CONTABILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392460;;39218;Sollevanti Roberto;Italiano;;392460;0;392460;392732
+8842;75738;ECONOMIA E GESTIONE DELLA BANCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392463;;32040;Brighi Paola;Italiano;;392463;0;392463;392463
+8842;75928;C.I. DI ECONOMIA;;;;;;;393131;0;393131;
+8842;32422;ECONOMIA INDUSTRIALE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393132;modulo;46894;Grazzi Marco;Italiano;;393132;393131;393131;393132
+8842;891;SCIENZA DELLE FINANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393133;modulo;38955;Randon Emanuela;Italiano;;393133;393131;393131;393133
+8842;37321;STATISTICA PER L'ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393134;;16735;Brizzi Maurizio;Italiano;;393134;0;393134;393134
+8842;49122;DIRITTO DEI CONTRATTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393135;;40562;Barill?á Giovanni Battista;Italiano;;393135;0;393135;393135
+8842;228;DIRITTO FALLIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393136;;31213;Soldati Nicola;Italiano;;393136;0;393136;
+8842;75929;DIRITTO TRIBUTARIO E PROCESSUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393137;;36987;Mondini Andrea;Italiano;;393137;0;393137;
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393138;;40775;Giuri Paola;Italiano;;393138;0;393138;
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE (1);;modulo;40775;Giuri Paola;Italiano;;404963;393138;393138;404963
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE (2);;modulo;40775;Giuri Paola;;;404964;393138;393138;404964
+8842;75931;IDONEIT?Ç DI LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393141;;;;;;393141;0;393141;370081
+8842;67722;BILANCI ORDINARI E STRAORDINARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393148;;14583;Capodaglio Gianfranco;Italiano;;393148;0;393148;414602
+8842;75738;ECONOMIA E GESTIONE DELLA BANCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393149;;32040;Brighi Paola;Italiano;;393149;0;393149;392463
+8842;75928;C.I. DI ECONOMIA;;;;;;;393153;0;393153;
+8842;32422;ECONOMIA INDUSTRIALE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393155;modulo;46894;Grazzi Marco;Italiano;;393155;393153;393153;393132
+8842;891;SCIENZA DELLE FINANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393156;modulo;38955;Randon Emanuela;Italiano;;393156;393153;393153;393133
+8842;37321;STATISTICA PER L'ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393158;;16735;Brizzi Maurizio;Italiano;;393158;0;393158;393134
+8842;49122;DIRITTO DEI CONTRATTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393159;;40562;Barill?á Giovanni Battista;Italiano;;393159;0;393159;393135
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393161;;40775;Giuri Paola;Italiano;;393161;0;393161;
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE (1);;modulo;40775;Giuri Paola;Italiano;;404554;393161;393161;404963
+8842;75930;STRATEGIE DI CORPORATE E INTERNAZIONALIZZAZIONE (2);;modulo;40775;Giuri Paola;;;404555;393161;393161;404964
+8842;75931;IDONEIT?Ç DI LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393162;;;;;;393162;0;393162;370081
+8842;75933;C.I. DI ORGANIZZAZIONE E MARKETING;;;;;;;393170;0;393170;
+8842;17232;COMPORTAMENTO DEL CONSUMATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393172;modulo;35719;Cenci Roberto;Italiano;;393172;393170;393170;
+8842;55361;GESTIONE RISORSE UMANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393173;modulo;37209;Barbini Francesco Maria;Italiano;;393173;393170;393170;
+8842;24318;FINANZA STRAORDINARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393175;;38998;Della Bina Antonio Carlo Francesco;Italiano;;393175;0;393175;
+8842;75935;REGOLE E CONTROLLI DEL SISTEMA FINANZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393176;;40747;Ricciardiello Edgardo;Italiano;;393176;0;393176;
+8842;75936;ECONOMIA DELLA CONCORRENZA E DELLA REGOLAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393177;;38158;Mussoni Maurizio;Italiano;;393177;0;393177;
+8842;75942;LABORATORIO DI METODI QUANTITATIVI PER L'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393184;;50153;Baldi Simone;;;393184;0;393184;
+8842;75945;I.C. OF ACCOUNTING;;;;;;;393216;0;393216;
+8842;42496;FINANCIAL REPORTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393219;modulo;47252;Aureli Selena;Inglese;;393219;393216;393216;
+8842;75946;MULTIDIMENSIONAL REPORTING;;modulo;;;;;393220;393216;393216;
+8842;75947;I.C. OF STRATEGIC MANAGEMENT;;;;;;;393223;0;393223;
+8842;75949;SERVICE BUSINESS MODELS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393230;modulo;38196;Torrisi Salvatore;Inglese;;393230;393223;393223;
+8842;75951;INNOVATION AND WEB-BASED BUSINESS MODELS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393231;modulo;38196;Torrisi Salvatore;Inglese;;393231;393223;393223;
+8842;75970;I.C. OF CUSTOMER RELATIONSHIP MANAGEMENT;;;;;;;393330;0;393330;
+8842;75971;MANAGING SATISFACTION AND DISSATISFACTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393331;modulo;40460;Pizzi Gabriele;Inglese;;393331;393330;393330;
+8842;75972;SERVICE PERFORMANCE METRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393332;modulo;34786;Visentin Marco;Italiano;;393332;393330;393330;
+8842;48144;CORPORATE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393333;;38548;Petracci Barbara;Inglese;;393333;0;393333;
+8842;75973;HUMAN RESOURCE MANAGEMENT AND LEADERSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393334;;87841;Mascia Daniele;Inglese;;393334;0;393334;
+8842;75974;I.C. OF ECONOMICS;;;;;;;393335;0;393335;
+8842;75975;BEHAVIOURAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393336;modulo;40013;Zirulia Lorenzo;Inglese;;393336;393335;393335;
+8842;59160;INDUSTRIAL ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393337;modulo;37090;Bacchiega Emanuele;Inglese;;393337;393335;393335;
+8842;75976;BUSINESS DATA ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393338;;83807;Dickson Maria Michela;Inglese;;393338;0;393338;
+8842;75977;INTERNATIONAL COMMERCIAL LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393339;;35868;Campione Riccardo;Inglese;;393339;0;393339;
+8842;75980;I.C. OF INTERNATIONAL BUSINESS;;;;;;;393342;0;393342;
+8842;34539;INTERNATIONAL MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393343;modulo;40775;Giuri Paola;Inglese;;393343;393342;393342;
+8842;23716;BUSINESS PLAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393344;modulo;38196;Torrisi Salvatore;Inglese;;393344;393342;393342;
+8842;23716;BUSINESS PLAN (1);;modulo;38196;Torrisi Salvatore;Inglese;;409580;393344;393342;
+8842;23716;BUSINESS PLAN (2);;modulo;83808;Kfuri German Nicolas;;;409581;393344;393342;
+8842;75981;LABORATORY OF SERVICE VALUE MANAGEMENT;;;;;;;393345;0;393345;
+8842;75982;STRATEGIC COST MANAGEMENT LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393348;modulo;51643;Katsikas Epameinondas;Inglese;;393348;393345;393345;
+8842;75983;VALUE PRICING LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393349;modulo;40460;Pizzi Gabriele;Inglese;;393349;393345;393345;
+8842;75983;VALUE PRICING LABORATORY (1);;modulo;40460;Pizzi Gabriele;Inglese;;416535;393349;393345;
+8842;75983;VALUE PRICING LABORATORY (2);;modulo;82023;Pichierri Marco;;;416536;393349;393345;
+8842;37394;FIRM LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393408;;42896;Ferdinandi Massimo;Inglese;;393408;0;393408;
+8842;33508;CRASH COURSE IN STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397155;;39219;Matteucci Mariagiulia;Inglese;;397155;0;397155;
+8842;76834;CRASH COURSE IN FINANCE;;;;;;;397156;0;397156;
+8842;76834;CRASH COURSE IN FINANCE (1);;modulo;;;;;426309;397156;397156;
+8842;76834;CRASH COURSE IN FINANCE (2);;modulo;;;;;426310;397156;397156;
+8842;40294;STATISTICA PER LA REVISIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404395;;31137;Bernini Cristina;Italiano;;404395;0;404395;404395
+8842;40294;STATISTICA PER LA REVISIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404398;;31137;Bernini Cristina;Italiano;;404398;0;404398;404395
+8842;79033;ECONOMIA E FINANZA DEL RISPARMIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404399;;33387;Mazzaferro Carlo;Italiano;;404399;0;404399;402892
+8842;79033;ECONOMIA E FINANZA DEL RISPARMIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404400;;33387;Mazzaferro Carlo;Italiano;;404400;0;404400;402892
+8842;79560;TRASPARENZA E COMPLIANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404405;;38158;Mussoni Maurizio;Italiano;;404405;0;404405;404405
+8842;79560;TRASPARENZA E COMPLIANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404406;;38158;Mussoni Maurizio;Italiano;;404406;0;404406;404405
+8842;79562;SOCIAL ENVIRONMENTAL REPORTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404414;;35228;Baraldi Monica;Inglese;;404414;0;404414;392063
+8842;79564;WEB AND REVENUE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404418;;42831;Ribaudo Giorgio;Italiano;;404418;0;404418;404075
+8842;69821;DESTINATION MARKETING AND MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404425;;42831;Ribaudo Giorgio;Inglese;;404425;0;404425;377255
+8842;60749;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414539;;38743;Presutti Manuela;;;414539;0;414539;
+8842;60749;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414540;;38743;Presutti Manuela;;;414540;0;414540;
+8842;72822;RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415826;;34368;Orelli Rebecca Levy;;;415826;0;415826;
+8842;75584;GREEN STRATEGY AND SUSTAINABLE INNOVATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416909;;54585;Dal Fiore Filippo;Inglese;;416909;0;416909;392060
+8842;73688;E-COMMERCE IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417650;;30905;Amoroso Alessandro;Inglese;;417650;0;417650;404074
+8842;70441;TIROCINIO IN PREPARAZIONE DELLA PROVA FINALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418649;;38743;Presutti Manuela;;;418649;0;418649;
+8842;69212;TIME SERIES ANALYSIS AND FORECASTING IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419319;;16731;Mignani Stefania;Italiano;;419319;0;419319;375882
+8842;84458;DISCIPLINA GIURIDICA DELLA CRISI D'IMPRESA;;;;;;;423839;0;423839;
+8843;32432;DIRITTO DEL TERZO SETTORE (C.I.);;;;;;;391844;0;391844;
+8843;23473;DIRITTO DELLA COOPERAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391845;modulo;32364;Vecchi Rosa;Italiano;;391845;391844;391844;
+8843;75429;DIRITTO DELL'ECONOMIA DEGLI ENTI NON PROFIT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391846;modulo;50459;Santuari Alceste;Italiano;;391846;391844;391844;
+8843;75430;ECONOMIA SOCIALE (C.I.);;;;;;;391847;0;391847;
+8843;47306;ECONOMIA CIVILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391848;modulo;15827;Zamagni Stefano;Italiano;;391848;391847;391847;
+8843;55170;SOCIOLOGIA DELLE ORGANIZZAZIONI NON PROFIT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391849;modulo;32917;Bassi Andrea;Italiano;;391849;391847;391847;
+8843;23520;ETICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391850;;32489;Orsini Raimondello;Italiano;;391850;0;391850;
+8843;75431;MISSION E ACCOUNTABILITY DELLE IMPRESE COOPERATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391851;;14586;Matacena Antonio;Italiano;;391851;0;391851;
+8843;67182;MANAGEMENT DELL'IMPRESA SOCIALE E COOPERATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391852;;32033;Bandini Federica;Italiano;;391852;0;391852;
+8843;32443;METODI STATISTICI PER L'ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391853;;24370;Lubisco Alessandro;Italiano;;391853;0;391853;
+8843;32443;METODI STATISTICI PER L'ANALISI DEI DATI (1);;modulo;24370;Lubisco Alessandro;Italiano;;425294;391853;391853;
+8843;32443;METODI STATISTICI PER L'ANALISI DEI DATI (2);;modulo;43558;Modugno Lucia;;;425295;391853;391853;
+8843;67185;POLITICHE DI WELFARE E TERZO SETTORE (C.I.);;;;;;;391854;0;391854;
+8843;75433;ECONOMIA DELLO STATO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391855;modulo;38557;Lippi Bruni Matteo;Italiano;;391855;391854;391854;
+8843;75434;ECONOMIA DELLA SANIT?Ç E DEI SERVIZI SOCIO-SANITARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391856;modulo;32133;Ugolini Cristina;Italiano;;391856;391854;391854;391856
+8843;75435;LABORATORIO DI BUSINESS PLAN PER L'IMPRENDITORIALIT?Ç SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391857;;32033;Bandini Federica;Italiano;;391857;0;391857;
+8843;75436;PROGRAMMAZIONE E RENDICONTAZIONE NELLE AZIENDE PUBBLICHE E NON PROFIT (C.I.);;;;;;;391858;0;391858;
+8843;75437;MANAGEMENT ACCOUNTING IN PUBLIC AND NON PROFIT SECTOR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391859;modulo;35629;Padovani Emanuele;Inglese;;391859;391858;391858;391859
+8843;75438;BILANCIO E SOSTENIBILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391860;modulo;34368;Orelli Rebecca Levy;Italiano;;391860;391858;391858;
+8843;75438;BILANCIO E SOSTENIBILIT?Ç (1);;modulo;34368;Orelli Rebecca Levy;Italiano;;416337;391860;391858;
+8843;75438;BILANCIO E SOSTENIBILIT?Ç (2);;modulo;36923;Del Sordo Carlotta;;;416338;391860;391858;
+8843;75439;FINANZA PER LE AZIENDE NON PROFIT (C.I.);;;;;;;391861;0;391861;
+8843;23698;FINANZA ETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391862;modulo;38548;Petracci Barbara;Italiano;;391862;391861;391861;
+8843;18065;FUND RAISING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391863;modulo;32101;Melandri Valerio;Inglese;;391863;391861;391861;391863
+8843;67235;IMPRENDITORIALIT?Ç SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391864;;16861;Ecchia Giulio;Inglese;;391864;0;391864;391864
+8843;11336;ECONOMIA DELLA CULTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391865;;35349;Pedrini Sabrina;Italiano;;391865;0;391865;
+8843;40711;ECONOMIA DELLO SVILUPPO E COOPERAZIONE INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391866;;36781;Mazzanti Giovanni Maria;Inglese;;391866;0;391866;391866
+8843;75440;VENTURE CAPITAL PHILANTHROPY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391867;;34342;Zambelli Simona;Inglese;;391867;0;391867;
+8843;17268;PROVA FINALE;;;;;;;391868;0;391868;
+8843;76949;ECONOMIA DELLA SANIT?Ç E DEI SERVIZI SOCIALI (D.D. VALENCIA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397502;;32133;Ugolini Cristina;Italiano;;397502;0;397502;391856
+8843;76544;TIROCINIO (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403351;;30960;Silvi Riccardo;Italiano;;403351;0;403351;
+8843;30525;TIROCINIO (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403352;;30960;Silvi Riccardo;Italiano;;403352;0;403352;
+8843;82791;I PARTENARIATI PUBBLICO-PRIVATI: LE PPPS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416347;;50459;Santuari Alceste;Italiano;;416347;0;416347;416347
+8843;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE;;;;;;;418438;0;418438;
+8843;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE (1);;modulo;;;;;418439;418438;418438;
+8843;83068;CONTABILITA' E ANALISI FINANZIARIA DELLA PUBBLICA AMMINISTRAZIONE (2);;modulo;;;;;418440;418438;418438;
+8843;57802;DIRITTO DELL'UNIONE EUROPEA;;;;;;;418441;0;418441;
+8843;17544;DIRITTO DELLE PROCEDURE CONCORSUALI;;;;;;;418442;0;418442;
+8843;76543;ECONOMIA, POLITICHE E SOSTENIBILIT?Ç AGROALIMENTARE;;;;;;;418444;0;418444;
+8843;3857;SOCIOLOGIA GENERALE;;;;;;;418445;0;418445;
+8843;44121;SIMULIMPRESA;;;;;;;418472;0;418472;
+8843;44121;SIMULIMPRESA (1);;modulo;;;;;418473;418472;418472;
+8843;44121;SIMULIMPRESA (2);;modulo;;;;;418474;418472;418472;
+8847;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392341;;33387;Mazzaferro Carlo;Italiano;;392341;0;392341;
+8847;75686;STORIA DEI CONSUMI E DELLE IMPRESE TURISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392345;;42823;Bagnaresi Davide;Italiano;;392345;0;392345;
+8847;29224;RAGIONERIA GENERALE E APPLICATA ALLE AZIENDE TURISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392352;;31029;Baldarelli Maria-Gabriella;Italiano;;392352;0;392352;
+8847;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392355;;36002;Guerra Maria Letizia;Italiano;;392355;0;392355;
+8847;17642;PROGRAMMAZIONE E CONTROLLO DELLE AZIENDE TURISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392358;;39985;Supino Enrico;Italiano;;392358;0;392358;
+8847;17642;PROGRAMMAZIONE E CONTROLLO DELLE AZIENDE TURISTICHE (1);;modulo;39985;Supino Enrico;Italiano;;392360;392358;392358;
+8847;17642;PROGRAMMAZIONE E CONTROLLO DELLE AZIENDE TURISTICHE (2);;modulo;47252;Aureli Selena;Italiano;;392361;392358;392358;
+8847;66093;STRATEGIE DELLE IMPRESE TURISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392362;;43204;Corsino Marco;Inglese;;392362;0;392362;401161
+8847;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392365;;38743;Presutti Manuela;Italiano;;392365;0;392365;
+8847;8795;MACROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392366;;38579;Vici Laura;Italiano;;392366;0;392366;
+8847;72492;POLITICA ECONOMICA E DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392367;;32922;Figini Paolo;Italiano;;392367;0;392367;
+8847;72492;POLITICA ECONOMICA E DELL'AMBIENTE (1);;modulo;32922;Figini Paolo;Italiano;;392369;392367;392367;
+8847;72492;POLITICA ECONOMICA E DELL'AMBIENTE (2);;modulo;30893;Zagonari Fabio;;;392370;392367;392367;
+8847;3416;ECONOMIA DEL TURISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392371;;43239;Patuelli Roberto;Italiano;;392371;0;392371;
+8847;11336;ECONOMIA DELLA CULTURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392376;;16824;Scorcu Antonello Eugenio;Italiano;;392376;0;392376;
+8847;75696;ECONOMIA DELLE RETI E DEI SISTEMI LOCALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392384;;40013;Zirulia Lorenzo;Italiano;;392384;0;392384;
+8847;75696;ECONOMIA DELLE RETI E DEI SISTEMI LOCALI (1);;modulo;40013;Zirulia Lorenzo;Italiano;;414057;392384;392384;
+8847;75696;ECONOMIA DELLE RETI E DEI SISTEMI LOCALI (2);;modulo;36781;Mazzanti Giovanni Maria;;;414058;392384;392384;
+8847;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392385;;41470;Ventrucci Massimo;Italiano;;392385;0;392385;
+8847;3558;ANALISI DI MERCATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392386;;23767;Brasini Sergio;Italiano;;392386;0;392386;322555
+8847;675;MATEMATICA FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392387;;15530;Nardini Franco;Italiano;;392387;0;392387;
+8847;75698;AMMINISTRAZIONE PUBBLICA E MERCATO DEL TURISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392388;;32010;Gola Marcella;Italiano;;392388;0;392388;
+8847;75698;AMMINISTRAZIONE PUBBLICA E MERCATO DEL TURISMO (1);;modulo;32010;Gola Marcella;Italiano;;392395;392388;392388;
+8847;75698;AMMINISTRAZIONE PUBBLICA E MERCATO DEL TURISMO (2);;modulo;38723;Cicchetti Anna;;;392396;392388;392388;
+8847;11314;INFORMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392397;;30905;Amoroso Alessandro;Italiano;;392397;0;392397;
+8847;66094;MARKETING DELLE IMPRESE TURISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392398;;32923;Lago Umberto;Italiano;;392398;0;392398;
+8847;75702;GEOGRAFIA DEL TURISMO SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392400;;34328;Mariotti Alessia;Italiano;;392400;0;392400;
+8847;78336;DIRITTO PRIVATO E DELL'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401148;;40562;Barill?á Giovanni Battista;Italiano;;401148;0;401148;
+8847;78352;CREATIVE INDUSTRY AND TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401155;;32036;Battilani Patrizia;Inglese;;401155;0;401155;
+8847;78352;CREATIVE INDUSTRY AND TOURISM (1);;modulo;32036;Battilani Patrizia;Inglese;;414488;401155;401155;
+8847;78352;CREATIVE INDUSTRY AND TOURISM (2);;modulo;34891;Calanca Daniela;;;414489;401155;401155;
+8847;78353;FINANCIAL ACCOUNTING AND REPORTING IN TOURISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401156;;34368;Orelli Rebecca Levy;Inglese;;401156;0;401156;
+8847;78353;FINANCIAL ACCOUNTING AND REPORTING IN TOURISM (1);;modulo;34368;Orelli Rebecca Levy;Inglese;;404066;401156;401156;
+8847;78353;FINANCIAL ACCOUNTING AND REPORTING IN TOURISM (2);;modulo;34368;Orelli Rebecca Levy;;;404067;401156;401156;
+8847;78353;FINANCIAL ACCOUNTING AND REPORTING IN TOURISM (3);;modulo;34368;Orelli Rebecca Levy;;;405596;401156;401156;
+8847;78354;FINANCIAL ANALYSIS FOR TOURISM I.C;;;;;;;401157;0;401157;
+8847;78355;QUANTITATIVE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401158;modulo;31063;Agliardi Elettra;Inglese;;401158;401157;401157;
+8847;78355;QUANTITATIVE FINANCE (1);;modulo;31063;Agliardi Elettra;Inglese;;410877;401158;401157;
+8847;31516;FINANCIAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401159;modulo;31063;Agliardi Elettra;Inglese;;401159;401157;401157;
+8847;31516;FINANCIAL ECONOMICS (1);;modulo;31063;Agliardi Elettra;Inglese;;410879;401159;401157;410879
+8847;31516;FINANCIAL ECONOMICS (2);;modulo;42808;Tassinari Gian Luca;;;410880;401159;401157;410880
+8847;78356;PRINCIPLES OF PRIVATE LAW IN BUSINESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401160;;34280;Manes Paola;Inglese;;401160;0;401160;
+8847;78356;PRINCIPLES OF PRIVATE LAW IN BUSINESS (1);;modulo;34280;Manes Paola;Inglese;;414533;401160;401160;
+8847;78356;PRINCIPLES OF PRIVATE LAW IN BUSINESS (2);;modulo;40747;Ricciardiello Edgardo;;;414534;401160;401160;
+8847;78357;STRATEGIC MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401161;;43204;Corsino Marco;Inglese;;401161;0;401161;401161
+8847;78359;TOURISM POLICY AND PLANNING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401166;;37301;Naghavi Alireza Jay;Inglese;;401166;0;401166;
+8847;78359;TOURISM POLICY AND PLANNING (1);;modulo;37301;Naghavi Alireza Jay;Inglese;;415528;401166;401166;
+8847;78362;TAXATION POLICIES AND ENVIRONMENTAL ISSUES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401171;;30893;Zagonari Fabio;Italiano;;401171;0;401171;
+8847;78362;TAXATION POLICIES AND ENVIRONMENTAL ISSUES (1);;modulo;38955;Randon Emanuela;;;414502;401171;401171;
+8847;78362;TAXATION POLICIES AND ENVIRONMENTAL ISSUES (2);;modulo;30893;Zagonari Fabio;Italiano;;414503;401171;401171;
+8847;48994;STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401172;;48764;Stacchini Annalisa;Italiano;;401172;0;401172;
+8847;37292;MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401173;;36002;Guerra Maria Letizia;Inglese;;401173;0;401173;
+8847;37292;MATHEMATICS (1);;modulo;36002;Guerra Maria Letizia;Inglese;;405594;401173;401173;
+8847;37292;MATHEMATICS (2);;modulo;50677;Lenti Elisa;;;405595;401173;401173;
+8847;78366;EUROPEAN CULTURAL ROUTES AND TOURISM SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401177;;34328;Mariotti Alessia;Inglese;;401177;0;401177;
+8847;78366;EUROPEAN CULTURAL ROUTES AND TOURISM SYSTEMS (1);;modulo;88516;R?átz Tamara;;;406182;401177;401177;
+8847;78366;EUROPEAN CULTURAL ROUTES AND TOURISM SYSTEMS (2);;modulo;34328;Mariotti Alessia;Inglese;;406183;401177;401177;
+8847;78367;PRINCIPLES OF MANAGEMENT AND ORGANIZATIONAL BEHAVIOR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401178;;83117;Fetahu Elvira;Inglese;;401178;0;401178;
+8847;78367;PRINCIPLES OF MANAGEMENT AND ORGANIZATIONAL BEHAVIOR (1);;modulo;83117;Fetahu Elvira;Inglese;;401179;401178;401178;
+8847;78367;PRINCIPLES OF MANAGEMENT AND ORGANIZATIONAL BEHAVIOR (2);;modulo;;;;;401180;401178;401178;
+8847;26356;IDONEITA' LINGUA FRANCESE B - 1;;;;;;;401949;0;401949;
+8847;26344;IDONEITA' LINGUA TEDESCA B - 1;;;;;;;401950;0;401950;
+8847;78719;ECONOMICS I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402088;;30694;Benassi Corrado;Inglese;;402088;0;402088;
+8847;78719;ECONOMICS I (1);;modulo;30694;Benassi Corrado;Inglese;;405592;402088;402088;
+8847;78719;ECONOMICS I (2);;modulo;36935;Cati Matteo Maria;;;405593;402088;402088;
+8847;15502;ABILITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414504;;30905;Amoroso Alessandro;Italiano;e-learning;414504;0;414504;
+8847;31516;FINANCIAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414510;;31063;Agliardi Elettra;Inglese;;414510;0;414510;
+8847;31516;FINANCIAL ECONOMICS (1);;modulo;31063;Agliardi Elettra;Inglese;;414511;414510;414510;410879
+8847;31516;FINANCIAL ECONOMICS (2);;modulo;42808;Tassinari Gian Luca;;;414512;414510;414510;410880
+8847;73392;MODELLI PER L'ANALISI FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414513;;36002;Guerra Maria Letizia;Italiano;;414513;0;414513;
+8847;884;RICERCA OPERATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414514;;15293;Spadoni Massimo;Italiano;;414514;0;414514;
+8847;6445;STATISTICA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414515;;31137;Bernini Cristina;Italiano;;414515;0;414515;322296
+8847;45121;STORIA DELL'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414516;;42824;Menzani Tito;Italiano;;414516;0;414516;414523
+8847;78365;WEB COMMUNICATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414518;;54372;Manescalchi Martina;Italiano;;414518;0;414518;
+8847;37169;RIDUZIONE COORDINAMENTO CONSIGLIO CAMPUS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415634;;16824;Scorcu Antonello Eugenio;;;415634;0;415634;
+8847;75813;ECONOMIA DEI SERVIZI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415765;;32040;Brighi Paola;Italiano;;415765;0;415765;392721
+8848;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392700;;34339;Andergassen Rainer;Italiano;;392700;0;392700;
+8848;2529;ECONOMIA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392701;;35851;Vignini Stefania;Italiano;;392701;0;392701;
+8848;2529;ECONOMIA AZIENDALE (1);;modulo;35851;Vignini Stefania;Italiano;;394418;392701;392701;
+8848;2529;ECONOMIA AZIENDALE (2);;modulo;35851;Vignini Stefania;;;394419;392701;392701;
+8848;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392702;;36763;Agliardi Rossella;Italiano;;392702;0;392702;
+8848;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392703;;31444;Pittalis Margherita;Italiano;;392703;0;392703;
+8848;75807;BILANCIO D'ESERCIZIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392705;;30252;Tozzi Ivanoe;Italiano;;392705;0;392705;
+8848;75808;ANALISI DEI COSTI E VALUTAZIONI DI BILANCIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392706;;33902;Santi Matteo;Italiano;;392706;0;392706;
+8848;75809;GESTIONE D'IMPRESA (C.I.);;;;;;;392708;0;392708;
+8848;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392711;modulo;38196;Torrisi Salvatore;Italiano;;392711;392708;392708;
+8848;745;ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392712;modulo;35033;Ferrari Filippo;;;392712;392708;392708;
+8848;55804;STRATEGIA D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392714;;36974;Colucci Mariachiara;Italiano;;392714;0;392714;
+8848;55804;STRATEGIA D'IMPRESA (1);;modulo;16708;Boschetti Carlo;;;415696;392714;392714;
+8848;55804;STRATEGIA D'IMPRESA (2);;modulo;36974;Colucci Mariachiara;Italiano;;415697;392714;392714;
+8848;9511;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392715;;36984;Cappiello Giuseppe;Italiano;;392715;0;392715;
+8848;9511;MARKETING (1);;modulo;36984;Cappiello Giuseppe;Italiano;;417809;392715;392715;
+8848;9511;MARKETING (2);;modulo;32978;Rimini Daniele;;;417810;392715;392715;
+8848;4521;FINANZA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392720;;34398;Cervellati Enrico Maria;Italiano;;392720;0;392720;392720
+8848;75813;ECONOMIA DEI SERVIZI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392721;;32040;Brighi Paola;Italiano;;392721;0;392721;392721
+8848;8795;MACROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392722;;36844;Pelloni Gianluigi;Italiano;;392722;0;392722;
+8848;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392723;;30377;Carfagna Elisabetta;Italiano;;392723;0;392723;
+8848;675;MATEMATICA FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392724;;35704;Dieci Roberto;Italiano;;392724;0;392724;
+8848;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392727;;31213;Soldati Nicola;Italiano;;392727;0;392727;
+8848;221;DIRITTO COMMERCIALE (1);;modulo;42754;Bodellini Marco;;;414519;392727;392727;
+8848;221;DIRITTO COMMERCIALE (2);;modulo;31213;Soldati Nicola;Italiano;;414520;392727;392727;
+8848;4519;DIRITTO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392728;;31213;Soldati Nicola;Italiano;;392728;0;392728;
+8848;4519;DIRITTO DELL'ECONOMIA (1);;modulo;31213;Soldati Nicola;Italiano;;416426;392728;392728;
+8848;4519;DIRITTO DELL'ECONOMIA (2);;modulo;41365;Forasassi Sara;;;416427;392728;392728;
+8848;239;DIRITTO TRIBUTARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392729;;40541;D'Angelo Giangiacomo;Italiano;;392729;0;392729;
+8848;3568;POLITICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392730;;36187;Castellani Massimiliano;Italiano;;392730;0;392730;
+8848;2528;ECONOMIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392731;;37090;Bacchiega Emanuele;Italiano;;392731;0;392731;
+8848;9512;REVISIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392732;;39218;Sollevanti Roberto;Italiano;;392732;0;392732;392732
+8848;2038;STATISTICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392733;;36065;Giannerini Simone;Italiano;;392733;0;392733;
+8848;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392771;;;;;;392771;0;392771;370086
+8848;67059;IDONEIT?Ç INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392773;;30905;Amoroso Alessandro;Italiano;;392773;0;392773;
+8848;45121;STORIA DELL'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414523;;42824;Menzani Tito;Italiano;;414523;0;414523;414523
+8848;36049;APPRENDIMENTO DI UN PROGRAMMA GESTIONALE DI CONTABILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414524;;36610;Vagnozzi Ercole;Italiano;;414524;0;414524;
+8848;37778;DOCUMENTI AZIENDALI E PROFESSIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414525;;38424;Tognacci Marco;Italiano;;414525;0;414525;
+8848;37798;LABORATORIO DI RICERCA OPERATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414528;;15293;Spadoni Massimo;Italiano;;414528;0;414528;
+8848;6436;TECNICA PROFESSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414529;;30252;Tozzi Ivanoe;Italiano;;414529;0;414529;
+8848;6436;TECNICA PROFESSIONALE (1);;modulo;39957;Gianfelici Cristina;;;419438;414529;414529;
+8848;6436;TECNICA PROFESSIONALE (2);;modulo;30252;Tozzi Ivanoe;Italiano;;419439;414529;414529;
+8848;82287;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415701;;;;;;415701;0;415701;
+8848;37856;DIRITTO FALLIMENTARE (L);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417755;;40562;Barill?á Giovanni Battista;Italiano;;417755;0;417755;
+8854;68356;LABORATORY IN MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368529;;43045;Ferrari Luca;Inglese;;368529;0;368529;
+8854;68357;LABORATORY IN PROBABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368530;;39414;Hewson Paul James;;;368530;0;368530;357231
+8854;75317;ACTUARIAL AND FINANCIAL MATHEMATICS (I.C.);;;;;;;392816;0;392816;
+8854;75318;FINANCIAL MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392817;modulo;31091;Romagnoli Silvia;Inglese;;392817;392816;392816;
+8854;75319;ACTUARIAL MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392818;modulo;40000;Mulinacci Sabrina;Inglese;;392818;392816;392816;
+8854;37265;FINANCIAL MARKET REGULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392819;;31836;Lamandini Marco;Inglese;;392819;0;392819;392819
+8854;75366;STATISTICS AND ECONOMETRICS (I.C.);;;;;;;392820;0;392820;
+8854;75367;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392822;modulo;74364;Arduini Tiziano;Inglese;;392822;392820;392820;392822
+8854;75368;STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392821;modulo;16735;Brizzi Maurizio;Inglese;;392821;392820;392820;
+8854;37264;ECONOMICS OF FINANCIAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392823;;39295;Pietra Tito;Inglese;;392823;0;392823;
+8854;37278;NUMERICAL ANALYSIS (I.C.);;;;;;;392828;0;392828;
+8854;37262;COMPUTER PROGRAMMING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392829;modulo;30458;Gaspari Mauro;Inglese;;392829;392828;392828;
+8854;35433;NUMERICAL METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392830;modulo;30064;Spaletta Giulia;Inglese;;392830;392828;392828;
+8854;75374;FINANCIAL ENGINEERING FOR ASSET MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392831;;31758;Marzo Massimiliano;Italiano;;392831;0;392831;
+8854;75371;STATISTICS OF FINANCIAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392832;;30656;Guizzardi Andrea;Inglese;;392832;0;392832;
+8854;37280;INTEREST RATE MODELS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392833;;55645;Bianchetti Marco;Inglese;;392833;0;392833;
+8854;37757;STATISTICAL METHODS FOR ASSET MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392834;;34008;Luati Alessandra;Inglese;;392834;0;392834;
+8854;37269;ECONOMETRICS OF FINANCIAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392835;;33513;Fanelli Luca;Italiano;;392835;0;392835;
+8854;37281;CREDIT DERIVATIVES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392836;;36763;Agliardi Rossella;Inglese;;392836;0;392836;
+8854;75447;ADVANCED METHODS OF RISK MANAGEMENT 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392837;;31851;Cherubini Umberto;Inglese;;392837;0;392837;
+8854;75450;ADVANCED METHODS OF INSURANCE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392838;;61714;Spedicato Giorgio Alfredo;;;392838;0;392838;
+8854;75450;ADVANCED METHODS OF INSURANCE 2 (1);;modulo;50631;Verdonck Tim;Inglese;;400648;392838;392838;
+8854;75450;ADVANCED METHODS OF INSURANCE 2 (2);;modulo;61714;Spedicato Giorgio Alfredo;;;400649;392838;392838;
+8854;75449;ADVANCED METHODS OF INSURANCE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392839;;74420;Ballestra Luca Vincenzo;Italiano;;392839;0;392839;
+8854;75449;ADVANCED METHODS OF INSURANCE 1 (1);;modulo;74420;Ballestra Luca Vincenzo;Italiano;;400646;392839;392839;
+8854;75449;ADVANCED METHODS OF INSURANCE 1 (2);;modulo;57250;Millossovich Pietro;;;400647;392839;392839;
+8854;75448;ADVANCED METHODS OF RISK MANAGEMENT 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392840;;31851;Cherubini Umberto;Inglese;;392840;0;392840;
+8854;75385;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392841;;31851;Cherubini Umberto;;;392841;0;392841;
+8854;75383;WORKSHOP IN QUANTITATIVE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392842;;31091;Romagnoli Silvia;Inglese;;392842;0;392842;
+8854;76528;LABORATORY OF COMPUTER PROGRAMMING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395217;;47233;Pellitta Giulio;Inglese;;395217;0;395217;
+8854;77917;ADVANCED TOPICS IN LIQUIDITY MANAGEMENT IN THE POST CRISIS ERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400656;;15701;Chiesa Gabriella;Inglese;;400656;0;400656;400656
+8854;78156;ECONOMICS AND FINANCE (I.C.);;;;;;;400926;0;400926;
+8854;75363;CORPORATE FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400927;modulo;33819;Bajo Emanuele;Inglese;;400927;400926;400926;
+8854;78159;FINANCIAL PRODUCTS AND MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400928;modulo;39565;Barbi Massimiliano;Inglese;;400928;400926;400926;
+8854;79568;LABORATORY IN ECONOMICS AND FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404431;;53327;Bergamaschi Francesco;Inglese;;404431;0;404431;
+8854;81623;MATHEMATICS AND PROBABILITY (I.C.);;;;;;;411926;0;411926;
+8854;75376;CALCULUS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411927;modulo;15886;Bernardi Enrico;Inglese;;411927;411926;411926;
+8854;81624;PROBABILITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411928;modulo;15886;Bernardi Enrico;Inglese;;411928;411926;411926;
+8854;82517;FINANCIAL JOURNALISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414632;;84073;Vanuzzo Antonio;;;414632;0;414632;
+8854;83656;INTERNSHIP 6 CFU;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419273;;31851;Cherubini Umberto;;;419273;0;419273;
+8854;83810;SEM. ACTUARIAL RISKS IN THE SOLVENCY II ERA: FRONTIERS IN MATHEMATICS AND REGULATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419828;;40000;Mulinacci Sabrina;Italiano;;419828;0;419828;
+8854;85227;SEM. INTENSIVE PROGRAMME - ADVANCED TOPICS IN QUANTITATIVE METHODS IN FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423725;;36763;Agliardi Rossella;;;423725;0;423725;
+8871;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401835;;16071;Pellican?? Aldo Alessandro;Italiano;;401835;0;401835;
+8871;2529;ECONOMIA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401839;;30754;Marano Maurizio;Italiano;;401839;0;401839;
+8871;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401843;;15498;Plazzi Piero;Italiano;;401843;0;401843;
+8871;73019;BILANCIO D'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401844;;33334;Petrolati Patrizia;Italiano;;401844;0;401844;
+8871;73019;BILANCIO D'IMPRESA (1);;modulo;33334;Petrolati Patrizia;Italiano;;401845;401844;401844;
+8871;73019;BILANCIO D'IMPRESA (2);;modulo;38139;Gigli Sabrina;;;404129;401844;401844;
+8871;73019;BILANCIO D'IMPRESA (3);;modulo;38139;Gigli Sabrina;;;401846;401844;401844;
+8871;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401847;;39295;Pietra Tito;Italiano;;401847;0;401847;
+8871;7309;DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401850;;14857;Pini Rolando;Italiano;;401850;0;401850;
+8871;745;ORGANIZZAZIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401851;;40011;Morandin Gabriele;Italiano;;401851;0;401851;
+8871;995;STORIA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401857;;42824;Menzani Tito;Italiano;;401857;0;401857;
+8871;67059;IDONEIT?Ç INFORMATICA;;;;;;;401858;0;401858;
+8871;78600;INGLESE B1;;;;;;;401862;0;401862;
+8871;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401863;;30257;Gandini Carla;Italiano;;401863;0;401863;
+8871;9512;REVISIONE AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401877;;39218;Sollevanti Roberto;Italiano;;401877;0;401877;
+8871;9512;REVISIONE AZIENDALE (1);;modulo;56554;Ermocida Giuseppe;;;414633;401877;401877;
+8871;9512;REVISIONE AZIENDALE (2);;modulo;39218;Sollevanti Roberto;Italiano;;414634;401877;401877;
+8871;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401878;;41741;Lupparelli Monia;Italiano;;401878;0;401878;
+8871;1645;ECONOMIA DEGLI INTERMEDIARI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401881;;30895;Cenni Stefano;Italiano;;401881;0;401881;401881
+8871;4722;ECONOMIA PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401883;;36371;Dragone Davide;Italiano;;401883;0;401883;
+8871;4722;ECONOMIA PUBBLICA (1);;modulo;36371;Dragone Davide;Italiano;;416164;401883;401883;
+8871;4722;ECONOMIA PUBBLICA (2);;modulo;36781;Mazzanti Giovanni Maria;;;416165;401883;401883;
+8871;8795;MACROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401891;;39892;Minniti Antonio;Italiano;;401891;0;401891;
+8871;73024;PIANIFICAZIONE E CONTROLLO (C.I.);;;;;;;401893;0;401893;
+8871;17269;SISTEMI DI PIANIFICAZIONE E CONTROLLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401894;modulo;15883;Bastia Paolo;Italiano;;401894;401893;401893;
+8871;73026;ANALISI E CONTABILIT?Ç DEI COSTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401895;modulo;30754;Marano Maurizio;Italiano;;401895;401893;401893;
+8871;73632;FINALIT?Ç, GOVERNO E RENDICONTAZIONE DELLE IMPRESE COOPERATIVE E SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401922;;30754;Marano Maurizio;Italiano;;401922;0;401922;401922
+8871;73436;LABORATORIO DI INFORMATICA PER L'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401923;;36610;Vagnozzi Ercole;Italiano;;401923;0;401923;401923
+8871;73457;MATEMATICA ATTUARIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401924;;13933;Cer?¿ Mauro;Italiano;;401924;0;401924;401924
+8871;73435;PROJECT MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401925;;31201;Focacci Antonio;Italiano;;401925;0;401925;401925
+8871;2533;RELAZIONI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401926;;42068;Cremonesi Giuseppe;Italiano;;401926;0;401926;
+8871;2533;RELAZIONI INDUSTRIALI (1);;modulo;42068;Cremonesi Giuseppe;Italiano;;418882;401926;401926;418884
+8871;2533;RELAZIONI INDUSTRIALI (2);;modulo;42068;Cremonesi Giuseppe;;;418883;401926;401926;418885
+8871;37993;STATISTICA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401927;;33332;Pacei Silvia;Italiano;;401927;0;401927;401927
+8871;33546;CORSO DI ALLINEAMENTO DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405459;;43045;Ferrari Luca;Italiano;;405459;0;405459;405459
+8871;79869;DIRITTO DEI CONTRATTI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416168;;14576;Bonora Marco;;;416168;0;416168;416168
+8871;80977;STRUMENTI DI CALCOLO FINANZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416169;;42827;Angelini Natascia;Italiano;;416169;0;416169;416169
+8871;82779;MATEMATICA FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416173;;13933;Cer?¿ Mauro;Italiano;;416173;0;416173;416173
+8872;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402521;;31030;Regonati Francesco;Italiano;;402521;0;402521;
+8872;674;MATEMATICA (1);;modulo;31030;Regonati Francesco;Italiano;;415295;402521;402521;
+8872;674;MATEMATICA (2);;modulo;74420;Ballestra Luca Vincenzo;;;415296;402521;402521;
+8872;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402522;;30329;Santarelli Enrico;Italiano;;402522;0;402522;
+8872;7276;INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402524;;30938;Lodi Stefano;Italiano;;402524;0;402524;
+8872;78899;ECONOMIA DELLE AZIENDE FINANZIARIE E ASSICURATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402616;;30755;Travaglini Claudio;Italiano;;402616;0;402616;
+8872;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402618;;32526;Trivisano Carlo;Italiano;;402618;0;402618;
+8872;32827;CALCOLO DELLE PROBABILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402619;;16735;Brizzi Maurizio;Italiano;;402619;0;402619;
+8872;19506;LABORATORIO DI ANALISI TECNICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402628;;43547;Ricchi Luca;Italiano;;402628;0;402628;
+8872;78962;IL BILANCIO DELLE AZIENDE FINANZIARIE E ASSICURATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402629;;30755;Travaglini Claudio;Italiano;;402629;0;402629;
+8872;41301;INFERENZA STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402633;;16731;Mignani Stefania;Italiano;;402633;0;402633;
+8872;41301;INFERENZA STATISTICA (1);;modulo;32526;Trivisano Carlo;Italiano;;414033;402633;402633;
+8872;41301;INFERENZA STATISTICA (2);;modulo;16731;Mignani Stefania;Italiano;;414034;402633;402633;
+8872;69062;METODI STATISTICI PER I MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402634;;16737;Costa Michele;Italiano;;402634;0;402634;
+8872;915;STATISTICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402635;;30656;Guizzardi Andrea;Italiano;;402635;0;402635;
+8872;915;STATISTICA ECONOMICA (1);;modulo;30656;Guizzardi Andrea;Italiano;;414055;402635;402635;
+8872;915;STATISTICA ECONOMICA (2);;modulo;31137;Bernini Cristina;;;414056;402635;402635;
+8872;675;MATEMATICA FINANZIARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402644;;39611;Foschi Paolo;Italiano;;402644;0;402644;
+8872;17274;TECNICHE ATTUARIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402770;;16721;Spelta Dario;Italiano;;402770;0;402770;
+8872;78991;DEMOGRAFIA E ANALISI DELLA SOPRAVVIVENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402771;;16736;Rettaroli Rosella;Italiano;;402771;0;402771;
+8872;26338;IDONEITA' LINGUA INGLESE B - 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403511;;;;;;403511;0;403511;370086
+8873;79184;MATHEMATICS I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403275;;15886;Bernardi Enrico;Inglese;;403275;0;403275;
+8873;60348;INFORMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403276;;30315;Sartori Claudio;Inglese;;403276;0;403276;
+8873;65086;LINEAR ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403277;;35968;Cattabriga Alessia;Inglese;;403277;0;403277;
+8873;79185;STATISTICS AND PROBABILITY (I.C);;;;;;;403278;0;403278;
+8873;79221;STATISTICS I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403279;modulo;16733;Montanari Angela;Inglese;;403279;403278;403278;
+8873;79222;PROBABILITY I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403280;modulo;35721;Viroli Cinzia;Inglese;;403280;403278;403278;
+8873;79188;DEMOGRAPHY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403281;;38286;Scalone Francesco;Inglese;;403281;0;403281;
+8873;79189;STATISTICS II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403282;;39143;Cagnone Silvia;Inglese;;403282;0;403282;
+8873;28174;INFERENCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403283;;39143;Cagnone Silvia;Inglese;;403283;0;403283;
+8873;79190;TIME SERIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403284;;34008;Luati Alessandra;Inglese;;403284;0;403284;
+8873;28178;MULTIVARIATE ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403285;;16733;Montanari Angela;Inglese;;403285;0;403285;
+8873;32626;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403286;;74260;Georgiev Iliyan;Inglese;;403286;0;403286;
+8873;28171;PROBABILITY II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403287;;35721;Viroli Cinzia;Inglese;;403287;0;403287;
+8873;28170;MATHEMATICS II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403288;;15844;Brini Andrea;Italiano;;403288;0;403288;
+8873;28172;BIOSTATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403290;;88404;Carinci Fabrizio;Inglese;;403290;0;403290;
+8873;28177;STATISTICAL MODELS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403291;;35619;Galimberti Giuliano;Italiano;;403291;0;403291;
+8873;32821;SURVEY SAMPLING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403292;;30377;Carfagna Elisabetta;Inglese;;403292;0;403292;
+8873;79191;ANALYSIS OF DATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403293;;36069;Greco Fedele Pasquale;Inglese;;403293;0;403293;
+8873;13;ANALISI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403306;;30508;Ritelli Daniele;Italiano;;403306;0;403306;
+8873;7276;INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403307;;16691;Palareti Aldopaolo;Italiano;;403307;0;403307;
+8873;30080;STATISTICA E CALCOLO DELLE PROBABILITA' (C.I.);;;;;;;403308;0;403308;
+8873;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403309;modulo;13724;Monari Paola;Italiano;;403309;403308;403308;
+8873;82;CALCOLO DELLE PROBABILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403310;modulo;31135;Agati Patrizia;Italiano;;403310;403308;403308;
+8873;17241;LABORATORIO DI ANALISI DEI DATI;;;;;;;403312;0;403312;
+8873;3576;ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403313;;40813;Fort Margherita;Italiano;;403313;0;403313;
+8873;3576;ECONOMIA (1);;modulo;40813;Fort Margherita;Italiano;;404026;403313;403313;
+8873;3576;ECONOMIA (2);;modulo;39865;Giannoccolo Pierpaolo;;;404027;403313;403313;
+8873;915;STATISTICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403314;;16805;Drudi Ignazio;Italiano;;403314;0;403314;
+8873;915;STATISTICA ECONOMICA (1);;modulo;16805;Drudi Ignazio;Italiano;;421422;403314;403314;
+8873;915;STATISTICA ECONOMICA (2);;modulo;30457;Ferrante Maria;;;421423;403314;403314;
+8873;79405;ECONOMIA E GESTIONE DI IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403316;;32937;Tomesani Nicola;;;403316;0;403316;
+8873;30076;ALGEBRA E MODELLI LINEARI (C.I.);;;;;;;403321;0;403321;
+8873;5;ALGEBRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403322;modulo;30508;Ritelli Daniele;Italiano;;403322;403321;403321;
+8873;42062;MODELLI LINEARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403323;modulo;16733;Montanari Angela;Italiano;;403323;403321;403321;
+8873;12511;ANALISI DELLE SERIE STORICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403326;;36069;Greco Fedele Pasquale;Italiano;;403326;0;403326;
+8873;12511;ANALISI DELLE SERIE STORICHE (1);;modulo;36069;Greco Fedele Pasquale;Italiano;;425140;403326;403326;425137
+8873;12511;ANALISI DELLE SERIE STORICHE (2);;modulo;43010;Farn?¿ Matteo;;;425141;403326;403326;425138
+8873;41301;INFERENZA STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403329;;13724;Monari Paola;Italiano;;403329;0;403329;
+8873;41301;INFERENZA STATISTICA (1);;modulo;13724;Monari Paola;Italiano;;415219;403329;403329;
+8873;41301;INFERENZA STATISTICA (2);;modulo;13724;Monari Paola;;;415220;403329;403329;
+8873;211;DEMOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403331;;15927;Pasquini Lucia;Italiano;;403331;0;403331;
+8873;79198;DEMOGRAFIA (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403332;;15937;Samoggia Alessandra;Italiano;;403332;0;403332;
+8873;79199;COMPORTAMENTO DEL CONSUMATORE E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403334;;16720;Marzocchi Gian Luca;Italiano;;403334;0;403334;
+8873;79199;COMPORTAMENTO DEL CONSUMATORE E MARKETING (1);;modulo;16720;Marzocchi Gian Luca;Italiano;;422932;403334;403334;
+8873;79199;COMPORTAMENTO DEL CONSUMATORE E MARKETING (2);;modulo;16720;Marzocchi Gian Luca;;;422933;403334;403334;422933
+8873;2054;ECONOMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403335;;31616;Cavaliere Giuseppe;Italiano;;403335;0;403335;
+8873;6445;STATISTICA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403336;;15949;Tassinari Giorgio;Italiano;;403336;0;403336;
+8873;79201;UTILIZZO STATISTICO DI BANCHE DATI ECONOMICHE ONLINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403337;;16805;Drudi Ignazio;Italiano;;403337;0;403337;
+8873;79201;UTILIZZO STATISTICO DI BANCHE DATI ECONOMICHE ONLINE (1);;modulo;16805;Drudi Ignazio;Italiano;;421425;403337;403337;
+8873;79201;UTILIZZO STATISTICO DI BANCHE DATI ECONOMICHE ONLINE (2);;modulo;42108;Alboni Fabrizio;;;421426;403337;403337;
+8873;3383;STATISTICA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403358;;16732;Cazzola Alberto;Italiano;;403358;0;403358;403358
+8873;7157;BIOLOGIA DELLE POPOLAZIONI UMANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403359;;16718;Gueresi Paola;Italiano;;403359;0;403359;
+8873;79204;BIOMETRIA E DISEGNO DEGLI ESPERIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403360;;30760;Miglio Rossella;Italiano;;403360;0;403360;
+8873;79204;BIOMETRIA E DISEGNO DEGLI ESPERIMENTI (1);;modulo;30760;Miglio Rossella;Italiano;;415215;403360;403360;
+8873;79204;BIOMETRIA E DISEGNO DEGLI ESPERIMENTI (2);;modulo;31139;Scagliarini Michele;;;415216;403360;403360;
+8873;6281;ECONOMIA SANITARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403361;;30250;Gatti Silvia;Italiano;;403361;0;403361;
+8873;79205;ANALISI DEI DATI LONGITUDINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403362;;36069;Greco Fedele Pasquale;Italiano;;403362;0;403362;
+8873;79205;ANALISI DEI DATI LONGITUDINALI (1);;modulo;36069;Greco Fedele Pasquale;Italiano;;425137;403362;403362;425137
+8873;79205;ANALISI DEI DATI LONGITUDINALI (2);;modulo;43010;Farn?¿ Matteo;;;425138;403362;403362;425138
+8873;79205;ANALISI DEI DATI LONGITUDINALI (3);;modulo;16733;Montanari Angela;;;425139;403362;403362;
+8873;79292;ENGLISH B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403765;;;;;;403765;0;403765;370032
+8873;43344;INGLESE (B1);;;;;;;403867;0;403867;394998
+8873;10016;DEMOGRAFIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403874;;15937;Samoggia Alessandra;Italiano;;403874;0;403874;
+8873;42104;INGLESE (B2);;;;;;;403932;0;403932;
+8875;79233;INFERENZA PARAMETRICA E NON PARAMETRICA (C.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403462;;31135;Agati Patrizia;Italiano;;403462;0;403462;
+8875;79233;INFERENZA PARAMETRICA E NON PARAMETRICA (C.A.) (1);;modulo;31135;Agati Patrizia;Italiano;;404028;403462;403462;
+8875;79233;INFERENZA PARAMETRICA E NON PARAMETRICA (C.A.) (2);;modulo;41465;Anderlucci Laura;;;404029;403462;403462;
+8875;79224;MODELLI STATISTICI PER LE SCIENZE BIOLOGICHE E SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403463;;35619;Galimberti Giuliano;Italiano;;403463;0;403463;
+8875;79224;MODELLI STATISTICI PER LE SCIENZE BIOLOGICHE E SOCIALI (1);;modulo;35619;Galimberti Giuliano;Italiano;;404340;403463;403463;422943
+8875;79224;MODELLI STATISTICI PER LE SCIENZE BIOLOGICHE E SOCIALI (2);;modulo;47276;Altieri Linda;;;404341;403463;403463;
+8875;79225;MODELLI AVANZATI DI ANALISI DELLA SOPRAVVIVENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403464;;30760;Miglio Rossella;Italiano;;403464;0;403464;
+8875;79225;MODELLI AVANZATI DI ANALISI DELLA SOPRAVVIVENZA (1);;modulo;30760;Miglio Rossella;Italiano;;405015;403464;403464;422927
+8875;79225;MODELLI AVANZATI DI ANALISI DELLA SOPRAVVIVENZA (2);;modulo;30760;Miglio Rossella;;;405016;403464;403464;422928
+8875;16895;LABORATORIO DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403465;;42187;Morelli Paolo;Italiano;;403465;0;403465;
+8875;72946;TEORIA DELLA MISURA E INTEGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403466;;15844;Brini Andrea;Italiano;;403466;0;403466;403466
+8875;55544;CALCOLO DIFFERENZIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403467;;15844;Brini Andrea;Italiano;;403467;0;403467;403467
+8875;79226;MODELLI PER L'ANALISI SOCIALE E DEMOGRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403468;;15927;Pasquini Lucia;Italiano;;403468;0;403468;
+8875;79226;MODELLI PER L'ANALISI SOCIALE E DEMOGRAFICA (1);;modulo;15927;Pasquini Lucia;Italiano;;404031;403468;403468;
+8875;79226;MODELLI PER L'ANALISI SOCIALE E DEMOGRAFICA (2);;modulo;63956;Impicciatore Roberto;;;404032;403468;403468;
+8875;23562;ANALISI DEI DATI QUALITATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403469;;31140;Soffritti Gabriele;Italiano;;403469;0;403469;
+8875;35598;INFERENZA BAYESIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403470;;15842;Cocchi Daniela;Italiano;;403470;0;403470;403470
+8875;79281;STATISTICA PER LA SANIT?Ç E LA BIOLOGIA (C.I.);;;;;;;403471;0;403471;
+8875;79228;STATISTICA SANITARIA (C.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403472;modulo;16732;Cazzola Alberto;Italiano;;403472;403471;403471;
+8875;2616;GENETICA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403473;modulo;42126;Bacchelli Elena;Italiano;;403473;403471;403471;
+8875;23741;METODI STATISTICI PER IL DATA MINING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403474;;74885;Remotti Giampiero;Italiano;;403474;0;403474;403395
+8875;48113;SISTEMI INFORMATIVI PER IL SUPPORTO ALLE DECISIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403475;;30938;Lodi Stefano;Italiano;;403475;0;403475;
+8875;11928;MATEMATICA DISCRETA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403501;;15844;Brini Andrea;Italiano;;403501;0;403501;
+8875;79229;GENOMICA UMANA COMPUTAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403503;;42129;Boattini Alessio;Italiano;;403503;0;403503;
+8875;3498;PSICOLOGIA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403504;;35799;Codispoti Maurizio;Italiano;;403504;0;403504;
+8875;28477;MODELLI STATISTICI C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403505;;35619;Galimberti Giuliano;Italiano;;403505;0;403505;
+8875;28477;MODELLI STATISTICI C.A. (1);;modulo;35619;Galimberti Giuliano;Italiano;;422943;403505;403505;422943
+8875;28477;MODELLI STATISTICI C.A. (2);;modulo;35619;Galimberti Giuliano;;;422944;403505;403505;
+8875;23566;ANALISI DELLA SOPRAVVIVENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403506;;30760;Miglio Rossella;Italiano;;403506;0;403506;
+8875;23566;ANALISI DELLA SOPRAVVIVENZA (1);;modulo;30760;Miglio Rossella;Italiano;;422927;403506;403506;422927
+8875;23566;ANALISI DELLA SOPRAVVIVENZA (2);;modulo;30760;Miglio Rossella;;;422928;403506;403506;422928
+8875;79230;PROBABILIT?Ç (C.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403507;;36065;Giannerini Simone;Italiano;;403507;0;403507;
+8875;79231;PROCESSI STOCASTICI E ANALISI DELLE SERIE STORICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403508;;34008;Luati Alessandra;Italiano;;403508;0;403508;
+8875;17658;METODI DI CAMPIONAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403509;;15842;Cocchi Daniela;Italiano;;403509;0;403509;415030
+8875;11869;STATISTICA COMPUTAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403510;;35721;Viroli Cinzia;Italiano;;403510;0;403510;
+8875;42104;INGLESE (B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403512;;;;;;403512;0;403512;370032
+8875;27083;PROVA FINALE LM;;;;;;;403516;0;403516;
+8875;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403520;;16732;Cazzola Alberto;;;403520;0;403520;
+8875;79282;MACRO E MICRO ANALISI DI DATI DI POPOLAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403751;;16736;Rettaroli Rosella;Italiano;;403751;0;403751;
+8875;79282;MACRO E MICRO ANALISI DI DATI DI POPOLAZIONE (1);;modulo;16736;Rettaroli Rosella;Italiano;;415307;403751;403751;
+8875;79282;MACRO E MICRO ANALISI DI DATI DI POPOLAZIONE (2);;modulo;38286;Scalone Francesco;;;415308;403751;403751;
+8875;72440;DEMOGRAFIA INTERNAZIONALE (C.I.);;;;;;;403816;0;403816;
+8875;29234;DEMOGRAFIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403817;modulo;15382;Angeli Aurora;Italiano;;403817;403816;403816;386547
+8875;72441;LABORATORIO DI DEMOGRAFIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403818;modulo;15382;Angeli Aurora;Italiano;;403818;403816;403816;
+8875;84036;SEM. STATISTICAL SOCIAL NETWORK ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420909;;35721;Viroli Cinzia;Italiano;;420909;0;420909;
+8875;85583;SEM. INTRODUZIONE A LATEX;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421161;;30508;Ritelli Daniele;;;421161;0;421161;
+8876;28202;STATISTICA C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403389;;31140;Soffritti Gabriele;Italiano;;403389;0;403389;
+8876;11398;MODELLI STATISTICI DI COMPORTAMENTO ECONOMICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403392;;16805;Drudi Ignazio;Italiano;;403392;0;403392;403392
+8876;23741;METODI STATISTICI PER IL DATA MINING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403395;;74885;Remotti Giampiero;Italiano;;403395;0;403395;403395
+8876;28208;MODELLI DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403396;;31650;Montaguti Elisa;Italiano;;403396;0;403396;
+8876;72946;TEORIA DELLA MISURA E INTEGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403397;;15844;Brini Andrea;Italiano;;403397;0;403397;403466
+8876;55544;CALCOLO DIFFERENZIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403399;;15844;Brini Andrea;Italiano;;403399;0;403399;403467
+8876;28226;PRINCIPI E METODI DI CAMPIONAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403400;;15842;Cocchi Daniela;Italiano;;403400;0;403400;
+8876;28226;PRINCIPI E METODI DI CAMPIONAMENTO (1);;modulo;15842;Cocchi Daniela;Italiano;;415030;403400;403400;415030
+8876;28226;PRINCIPI E METODI DI CAMPIONAMENTO (2);;modulo;15842;Cocchi Daniela;;;415031;403400;403400;
+8876;58595;ANALISI DI MERCATO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403402;;33317;Freo Marzia;Italiano;;403402;0;403402;
+8876;28231;VALUTAZIONE DELLA QUALIT?Ç DEI SERVIZI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403403;;16720;Marzocchi Gian Luca;Italiano;;403403;0;403403;
+8876;28231;VALUTAZIONE DELLA QUALIT?Ç DEI SERVIZI (1);;modulo;34786;Visentin Marco;;;415050;403403;403403;
+8876;28231;VALUTAZIONE DELLA QUALIT?Ç DEI SERVIZI (2);;modulo;16720;Marzocchi Gian Luca;Italiano;;415051;403403;403403;
+8876;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403404;;16732;Cazzola Alberto;;;403404;0;403404;
+8876;79210;LABORATORIO DI ANALISI DEI DATI ECONOMICI E DI MERCATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403405;;35189;Mazzocchi Mario;Italiano;;403405;0;403405;
+8876;28345;METODI STATISTICI DI CONTROLLO DELLA QUALIT?Ç C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403407;;31139;Scagliarini Michele;Italiano;;403407;0;403407;
+8876;79211;VALUTAZIONE DELL'EFFICACIA DELLA PUBBLICIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403409;;15949;Tassinari Giorgio;Italiano;;403409;0;403409;
+8876;17257;METODOLOGIA DEI SONDAGGI DI OPINIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403410;;16731;Mignani Stefania;Italiano;;403410;0;403410;
+8876;79213;VALUTAZIONE D'IMPATTO DI SCELTE IMPRENDITORIALI E POLITICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403415;;32764;Calia Pinuccia Pasqualina;Italiano;;403415;0;403415;403415
+8876;79214;PRINCIPI DI CAMPIONAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403416;;15842;Cocchi Daniela;Italiano;;403416;0;403416;415030
+8876;79215;PROGETTAZIONE E REALIZZAZIONE DI INDAGINI ECONOMICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403418;;33332;Pacei Silvia;Italiano;;403418;0;403418;
+8876;2528;ECONOMIA INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403419;;30329;Santarelli Enrico;Italiano;;403419;0;403419;
+8876;79216;MISURA DELLA PRODUTTIVIT?Ç, DELLA COMPETITIVIT?Ç E DELL'EFFICIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403420;;38371;Bernardini Papalia Rosa;Italiano;;403420;0;403420;350839
+8876;79217;ANALISI DI REDDITO, POVERT?Ç E DISEGUAGLIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403421;;30457;Ferrante Maria;Italiano;;403421;0;403421;
+8876;79218;MODELLI ECONOMETRICI PER LE DECISIONI ECONOMICHE E FINANZIARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403422;;74260;Georgiev Iliyan;Italiano;;403422;0;403422;
+8876;79220;ECONOMIA DELL'INTERNAZIONALIZZAZIONE E DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403426;;30329;Santarelli Enrico;Italiano;;403426;0;403426;
+8876;24019;METODI PER L'ANALISI ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403429;;30355;Reggiani Aura;Italiano;;403429;0;403429;
+8876;28203;ECONOMETRIA C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403558;;31616;Cavaliere Giuseppe;Italiano;;403558;0;403558;
+8876;42104;INGLESE (B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403559;;;;;;403559;0;403559;370032
+8876;27083;PROVA FINALE LM;;;;;;;403682;0;403682;
+8876;79364;POLITICA ECONOMICA C.A. E METODI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403855;;30355;Reggiani Aura;Italiano;;403855;0;403855;
+8876;69844;LABORATORIO DI SAS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414967;;42187;Morelli Paolo;Italiano;;414967;0;414967;
+8876;84035;SEM. NUMERI PER DECIDERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420908;;16736;Rettaroli Rosella;Italiano;;420908;0;420908;
+8877;69170;MATEMATICA (C.I.);;;;;;;402879;0;402879;
+8877;13;ANALISI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402880;modulo;31761;Morbidelli Daniele;Italiano;;402880;402879;402879;
+8877;69827;MATEMATICA FINANZIARIA C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402881;modulo;36763;Agliardi Rossella;Italiano;;402881;402879;402879;
+8877;29515;STATISTICA AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402883;;36069;Greco Fedele Pasquale;Italiano;;402883;0;402883;
+8877;29515;STATISTICA AVANZATA (1);;modulo;36069;Greco Fedele Pasquale;Italiano;;402887;402883;402883;
+8877;29515;STATISTICA AVANZATA (2);;modulo;32526;Trivisano Carlo;;;402888;402883;402883;
+8877;17266;PROCESSI STOCASTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402884;;36065;Giannerini Simone;Italiano;;402884;0;402884;
+8877;6425;DIRITTO DELLE ASSICURAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402889;;31213;Soldati Nicola;Italiano;;402889;0;402889;
+8877;69830;ECONOMETRIA FINANZIARIA C.A.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402891;;33513;Fanelli Luca;Italiano;;402891;0;402891;
+8877;79033;ECONOMIA E FINANZA DEL RISPARMIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402892;;33387;Mazzaferro Carlo;Italiano;;402892;0;402892;402892
+8877;79034;MODELLI DEMOGRAFICI PER ASSICURAZIONI E IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402893;;38286;Scalone Francesco;Italiano;;402893;0;402893;
+8877;79037;ECONOMIA E VALUTAZIONE DI IMPRESE FINANZIARIE & ASSICURATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402900;;30755;Travaglini Claudio;Italiano;;402900;0;402900;
+8877;17274;TECNICHE ATTUARIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402918;;74420;Ballestra Luca Vincenzo;Italiano;;402918;0;402918;
+8877;79039;GESTIONE DEL RISCHIO (C.I.);;;;;;;402921;0;402921;
+8877;79041;MODELLI DI GESTIONE DEL RISCHIO FINANZIARIO E ASSICURATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402923;modulo;39611;Foschi Paolo;Italiano;;402923;402921;402921;
+8877;79042;MODELLI DI PREVISIONE DELLE INSOLVENZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402924;modulo;39985;Supino Enrico;;;402924;402921;402921;
+8877;69841;ECONOMETRIA DEL RISCHIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402926;;74260;Georgiev Iliyan;Italiano;;402926;0;402926;
+8877;78849;MARKETING DEI PRODOTTI FINANZIARI E ASSICURATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402928;;34786;Visentin Marco;Italiano;;402928;0;402928;
+8877;75407;ALGORITMI DI TRADING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402929;;30656;Guizzardi Andrea;Italiano;;402929;0;402929;
+8877;79044;MODELLI STATISTICI PER LE SCIENZE ATTUARIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402930;;39611;Foschi Paolo;Italiano;;402930;0;402930;
+8877;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402931;;30755;Travaglini Claudio;;;402931;0;402931;
+8880;79156;HEALTH ECONOMICS AND MANAGEMENT (I.C.);;;;;;;403688;0;403688;
+8880;79060;FUNDAMENTALS IN HEALTH ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403693;modulo;30898;Fabbri Daniele;Inglese;;403693;403688;403688;403693
+8880;79061;FUNDAMENTALS IN HEALTHCARE MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403694;modulo;50112;Mariani Laura;Italiano;;403694;403688;403688;403694
+8880;79157;RESEARCH METHODS IN HEALTH AND HEALTH CARE (I.C.);;;;;;;403750;0;403750;
+8880;74948;STATISTICS FOR HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403752;modulo;35189;Mazzocchi Mario;Inglese;;403752;403750;403750;403752
+8880;32626;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403753;modulo;39596;Raggi Davide;Inglese;;403753;403750;403750;403753
+8880;70125;INTERNATIONAL LAW AND HEALTH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403772;;50459;Santuari Alceste;Inglese;;403772;0;403772;403772
+8880;70126;HEALTH SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403784;;39609;Toth Federico;Inglese;;403784;0;403784;403784
+8880;79330;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403825;;30898;Fabbri Daniele;Inglese;;403825;0;403825;
+8880;27237;THESIS;;;;;;;403827;0;403827;
+8880;79516;HEALTH PROMOTION AND POLICIES (I.C.);;;;;;;404135;0;404135;
+8880;70139;PLANNING AND EVALUATION OF HEALTH PROMOTION PROGRAMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404136;modulo;35189;Mazzocchi Mario;Inglese;;404136;404135;404135;404136
+8880;70138;LIFESTYLES AND HEALTH OUTCOMES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404137;modulo;36371;Dragone Davide;Italiano;;404137;404135;404135;404137
+8880;79075;LEGAL ISSUES IN PHARMACEUTICAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404138;;39734;Desogus Claudia;Inglese;;404138;0;404138;404138
+8880;70141;HEALTH ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404139;;34010;Monfardini Chiara;Inglese;;404139;0;404139;404139
+8880;79076;ECONOMICS OF THE BIOPHARMACEUTICAL INDUSTRY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404140;;30898;Fabbri Daniele;Inglese;;404140;0;404140;404140
+8880;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404141;;47946;Tediosi Fabrizio;;;404141;0;404141;
+8880;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES (1);;modulo;86295;Niessen Louis;;;415801;404141;404141;415801
+8880;79077;HEALTH ECONOMICS AND POLICY IN LOW AND MIDDLE INCOME COUNTRIES (2);;modulo;47946;Tediosi Fabrizio;;;415802;404141;404141;415802
+8880;75865;WORKSHOP: BUILDING EMPIRICAL CASE STUDIES IN HEALTH ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404142;;43121;Capacci Sara;Inglese;;404142;0;404142;404142
+8880;79526;LAW, REGULATION AND PLANNING IN HEALTHCARE (I.C.);;;;;;;404157;0;404157;
+8880;70139;PLANNING AND EVALUATION OF HEALTH PROMOTION PROGRAMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404158;modulo;35189;Mazzocchi Mario;Inglese;;404158;404157;404157;404136
+8880;79075;LEGAL ISSUES IN PHARMACEUTICAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404159;modulo;39734;Desogus Claudia;Inglese;;404159;404157;404157;404138
+8880;70138;LIFESTYLES AND HEALTH OUTCOMES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404160;;36371;Dragone Davide;Italiano;;404160;0;404160;404137
+8880;79158;ACCOUNTING AND MANAGEMENT IN HEALTHCARE (I.C.);;;;;;;404166;0;404166;
+8880;70135;ACCOUNTING IN HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404167;modulo;35629;Padovani Emanuele;Inglese;;404167;404166;404166;404167
+8880;79065;MANAGEMENT SYSTEMS IN HEALTHCARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404168;modulo;42761;Micheli Pietro;Inglese;;404168;404166;404166;404168
+8880;79159;REGULATION IN HEALTHCARE AND INSURANCE MARKETS (I.C.);;;;;;;404169;0;404169;
+8880;79067;REGULATION IN HEALTHCARE MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404170;modulo;38557;Lippi Bruni Matteo;Inglese;;404170;404169;404169;404170
+8880;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404171;modulo;32684;Barigozzi Francesca;Inglese;;404171;404169;404169;
+8880;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS (1);;modulo;32684;Barigozzi Francesca;Inglese;;404221;404171;404169;404221
+8880;79070;LAW AND ECONOMICS OF HEALTHCARE INSURANCE MARKETS (2);;modulo;47073;Paolucci Francesco;;;404222;404171;404169;404222
+8880;79527;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404172;;42518;Zanella Giulio;Inglese;;404172;0;404172;
+8880;79527;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION (1);;modulo;42518;Zanella Giulio;Inglese;;404223;404172;404172;404223
+8880;79527;THE ECONOMICS OF HUMAN RESOURCE MANAGEMENT IN HEALTHCARE ORGANIZATION (2);;modulo;47073;Paolucci Francesco;;;404224;404172;404172;404224
+8880;79102;WORKSHOP: THE LABOR MARKET FOR EU-HEM STUDENTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404173;;30898;Fabbri Daniele;Inglese;;404173;0;404173;404173
+8880;76616;CRASH COURSE IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409631;;36371;Dragone Davide;;;409631;0;409631;409631
+8880;76609;CRASH COURSE IN ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409632;;51643;Katsikas Epameinondas;;;409632;0;409632;409632
+8880;81863;HEALTH SERVICES RESEARCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412534;;30467;Fiorentini Gianluca;Inglese;;412534;0;412534;412534
+8965;37294;PRINCIPLES OF LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406485;;30823;Roversi Monaco Maria Giulia;Inglese;;406485;0;406485;
+8965;47736;ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406486;;39957;Gianfelici Cristina;Inglese;;406486;0;406486;
+8965;37293;MICROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406487;;41876;Wakefield Matthew John;Inglese;;406487;0;406487;
+8965;37292;MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406488;;31394;Bosello Carlo Alberto;Inglese;;406488;0;406488;
+8965;37292;MATHEMATICS (1);;modulo;31531;Arcozzi Nicola;;;406548;406488;406488;
+8965;37292;MATHEMATICS (2);;modulo;31394;Bosello Carlo Alberto;Inglese;;406550;406488;406488;
+8965;37068;PRINCIPLES OF MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406489;;30277;Manaresi Angelo;Inglese;;406489;0;406489;
+8965;23611;ORGANIZATIONAL BEHAVIOR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406490;;30940;Bergami Massimo;Inglese;;406490;0;406490;
+8965;23611;ORGANIZATIONAL BEHAVIOR (1);;modulo;30940;Bergami Massimo;Inglese;;423692;406490;406490;
+8965;23611;ORGANIZATIONAL BEHAVIOR (2);;modulo;87313;Russo Marcello;;;423693;406490;406490;
+8965;37300;FINANCIAL MARKETS AND INSTITUTIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406491;;34783;Palmucci Fabrizio;Italiano;;406491;0;406491;
+8965;37300;FINANCIAL MARKETS AND INSTITUTIONS (1);;modulo;34783;Palmucci Fabrizio;Italiano;;414624;406491;406491;
+8965;37300;FINANCIAL MARKETS AND INSTITUTIONS (2);;modulo;34783;Palmucci Fabrizio;;;414625;406491;406491;
+8965;9511;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406492;;37491;Valentini Sara;Inglese;;406492;0;406492;
+8965;47732;STATISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406493;;39904;Roverato Alberto;;;406493;0;406493;
+8965;37296;COMMERCIAL LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406494;;37624;Pomelli Alessandro;Inglese;;406494;0;406494;
+8965;37296;COMMERCIAL LAW (1);;modulo;37624;Pomelli Alessandro;Inglese;;414618;406494;406494;
+8965;37296;COMMERCIAL LAW (2);;modulo;35229;De Pra Alberto;;;414619;406494;406494;
+8965;37297;INDUSTRIAL ORGANIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406495;;30292;Delbono Flavio;Inglese;;406495;0;406495;
+8965;59691;MACROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406496;;41500;Vanin Paolo;Inglese;;406496;0;406496;
+8965;37299;FINANCIAL ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406497;;39957;Gianfelici Cristina;Inglese;;406497;0;406497;
+8965;37299;FINANCIAL ANALYSIS (1);;modulo;39957;Gianfelici Cristina;Inglese;;414622;406497;406497;
+8965;37299;FINANCIAL ANALYSIS (2);;modulo;39957;Gianfelici Cristina;;;414623;406497;406497;
+8965;37685;COMPUTATIONAL TOOLS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406506;;43032;Puglisi Antonio;;;406506;0;406506;
+8965;75231;MICROECONOMICS (B.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406555;;36091;Mantovani Andrea;;;406555;0;406555;
+8965;75235;PRINCIPLES OF MANAGEMENT (B.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406556;;30277;Manaresi Angelo;Inglese;;406556;0;406556;
+8965;75248;ORGANIZATIONAL BEHAVIOR (B.A.);;;;;;;406557;0;406557;
+8965;77095;COMPUTATIONAL TOOLS (B.A.);;;;;;;406558;0;406558;
+8965;33507;CRASH COURSE IN MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406643;;46793;Tralli Giulio;;;406643;0;406643;
+8965;75229;MATHEMATICS (B.A.);;;;;;;406649;0;406649;
+8965;75229;MATHEMATICS (B.A.) (1);;modulo;;;;;406650;406649;406649;
+8965;75229;MATHEMATICS (B.A.) (2);;modulo;;;;;406651;406649;406649;
+8965;75249;STATISTICS (B.A.);;;;;;;406653;0;406653;
+8965;75250;MACROECONOMICS (B.A.);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406658;;31152;Donato Vicente Nicolas;;;406658;0;406658;
+8965;82522;INTERNSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417722;;30823;Roversi Monaco Maria Giulia;;;417722;0;417722;417722
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413148;;38954;Siboni Benedetta;Italiano;;413148;0;413148;
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA' (1);;modulo;38954;Siboni Benedetta;Italiano;;415361;413148;413148;
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA' (2);;modulo;43436;Sangiorgi Daniela;;;415362;413148;413148;
+9202;18577;IDONEITA' DI LINGUA INGLESE;;;;;;;413150;0;413150;
+9202;18067;IDONEITA' INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413155;;30458;Gaspari Mauro;Italiano;;413155;0;413155;
+9202;18366;ISTITUZIONI DI DIRITTO (C.I.);;;;;;;413181;0;413181;
+9202;4519;DIRITTO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413182;modulo;43331;Bertarini Beatrice;Italiano;;413182;413181;413181;
+9202;4519;DIRITTO DELL'ECONOMIA (1);;modulo;43331;Bertarini Beatrice;Italiano;;416437;413182;413181;
+9202;4519;DIRITTO DELL'ECONOMIA (2);;modulo;14461;Bandini Sofia;;;416438;413182;413181;
+9202;532;ISTITUZIONI DI DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413183;modulo;40753;Bravo Fabio;Italiano;;413183;413181;413181;
+9202;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413185;;59664;Bormetti Giacomo;Italiano;;413185;0;413185;
+9202;679;MATEMATICA GENERALE (1);;modulo;59664;Bormetti Giacomo;Italiano;;419245;413185;413185;
+9202;679;MATEMATICA GENERALE (2);;modulo;42808;Tassinari Gian Luca;;;419246;413185;413185;
+9202;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413187;;16861;Ecchia Giulio;Italiano;;413187;0;413187;
+9202;17572;RAGIONERIA GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413188;;30961;Savioli Giuseppe;Italiano;;413188;0;413188;
+9202;17572;RAGIONERIA GENERALE E APPLICATA (1);;modulo;34341;Bartolini Monica;Italiano;;415373;413188;413188;
+9202;17572;RAGIONERIA GENERALE E APPLICATA (2);;modulo;30961;Savioli Giuseppe;Italiano;;415374;413188;413188;
+9202;995;STORIA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413189;;32683;Carboni Mauro;Italiano;;413189;0;413189;
+9202;995;STORIA ECONOMICA (1);;modulo;36064;Mazzotti Omar;;;416015;413189;413189;
+9202;995;STORIA ECONOMICA (2);;modulo;32683;Carboni Mauro;Italiano;;416016;413189;413189;
+9202;221;DIRITTO COMMERCIALE;;;;;;;413190;0;413190;
+9202;8795;MACROECONOMIA;;;;;;;413191;0;413191;
+9202;82126;PRINCIPI CONTABILI;;;;;;;413192;0;413192;
+9202;82374;ECONOMIA E STRUMENTI DI ANALISI FINANZIARIA (C.I.);;;;;;;413195;0;413195;
+9202;82128;MODELLI PER LE VALUTAZIONI FINANZIARIE;;modulo;;;;;413196;413195;413195;
+9202;75909;ECONOMIA DEGLI INTERMEDIARI FINANZIARI;;modulo;;;;;413197;413195;413195;
+9202;745;ORGANIZZAZIONE AZIENDALE;;;;;;;413198;0;413198;
+9202;891;SCIENZA DELLE FINANZE;;;;;;;413201;0;413201;
+9202;4521;FINANZA AZIENDALE;;;;;;;413203;0;413203;
+9202;239;DIRITTO TRIBUTARIO;;;;;;;413214;0;413214;
+9202;29412;CONTROLLO DELLA PERFORMANCE AZIENDALE;;;;;;;413216;0;413216;
+9202;55804;STRATEGIA D'IMPRESA;;;;;;;413217;0;413217;
+9202;9512;REVISIONE AZIENDALE;;;;;;;413229;0;413229;
+9202;82131;PROCEDURE CONCORSUALI;;;;;;;413230;0;413230;
+9202;4722;ECONOMIA PUBBLICA;;;;;;;413232;0;413232;
+9202;17268;PROVA FINALE;;;;;;;413233;0;413233;
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413238;;31644;Mazzara Luca;Italiano;;413238;0;413238;
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA' (1);;modulo;31644;Mazzara Luca;Italiano;;415526;413238;413238;
+9202;82112;ECONOMIA AZIENDALE E PRINCIPI DI CONTABILITA' (2);;modulo;43436;Sangiorgi Daniela;;;415527;413238;413238;
+9202;18577;IDONEITA' DI LINGUA INGLESE;;;;;;;413241;0;413241;
+9202;18067;IDONEITA' INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413252;;30458;Gaspari Mauro;Italiano;;413252;0;413252;
+9202;18366;ISTITUZIONI DI DIRITTO (C.I.);;;;;;;413255;0;413255;
+9202;4519;DIRITTO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413256;modulo;43331;Bertarini Beatrice;Italiano;;413256;413255;413255;
+9202;532;ISTITUZIONI DI DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413257;modulo;47207;Quarta Francesco;Italiano;;413257;413255;413255;
+9202;679;MATEMATICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413261;;42808;Tassinari Gian Luca;Italiano;;413261;0;413261;
+9202;9446;MICROECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413264;;32489;Orsini Raimondello;Italiano;;413264;0;413264;
+9202;17572;RAGIONERIA GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413266;;34341;Bartolini Monica;Italiano;;413266;0;413266;
+9202;995;STORIA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413268;;30917;Fornasari Massimo;Italiano;;413268;0;413268;
+9202;221;DIRITTO COMMERCIALE;;;;;;;413284;0;413284;
+9202;8795;MACROECONOMIA;;;;;;;413285;0;413285;
+9202;914;STATISTICA;;;;;;;413287;0;413287;
+9202;914;STATISTICA;;;;;;;413288;0;413288;
+9202;82374;ECONOMIA E STRUMENTI DI ANALISI FINANZIARIA (C.I.);;;;;;;413291;0;413291;
+9202;82128;MODELLI PER LE VALUTAZIONI FINANZIARIE;;modulo;;;;;413292;413291;413291;
+9202;1645;ECONOMIA DEGLI INTERMEDIARI FINANZIARI;;modulo;;;;;413293;413291;413291;
+9202;82150;ORGANIZZAZIONE E DIRITTO DEL LAVORO (C.I.);;;;;;;413294;0;413294;
+9202;224;DIRITTO DEL LAVORO;;modulo;;;;;413295;413294;413294;
+9202;82151;LABORATORIO DI ORGANIZZAZIONE AZIENDALE;;modulo;;;;;413296;413294;413294;
+9202;75355;ANALISI DELLA PERFORMANCE ECONOMICO-FINANZIARIA;;;;;;;413298;0;413298;
+9202;9511;MARKETING;;;;;;;413313;0;413313;
+9202;82160;CORPORATE GOVERNANCE E FINANZA AZIENDALE;;;;;;;413356;0;413356;
+9202;2528;ECONOMIA INDUSTRIALE;;;;;;;413357;0;413357;
+9202;82161;LABORATORIO DI PROGRAMMAZIONE E CONTROLLO;;;;;;;413358;0;413358;
+9202;82162;LABORATORIO DI STRATEGIA E IMPRENDITORIALIT?â;;;;;;;413359;0;413359;
+9202;12524;ANALISI FINANZIARIA;;;;;;;413360;0;413360;
+9202;2054;ECONOMETRIA;;;;;;;413361;0;413361;
+9202;82163;INCONTRI CON I MANAGER-CICLO DI SEMINARI;;;;;;;413362;0;413362;
+9202;82164;MARKETING E GESTIONE DEI PRODOTTI AGROALIMENTARI;;;;;;;413363;0;413363;
+9202;8881;ECONOMIA DEL MERCATO MOBILIARE;;;;;;;413364;0;413364;
+9202;17268;PROVA FINALE;;;;;;;413365;0;413365;
+9202;82165;PRINCIPLES OF ACCOUNTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413367;;34330;Farneti Federica;Inglese;;413367;0;413367;
+9202;82165;PRINCIPLES OF ACCOUNTING (1);;modulo;34330;Farneti Federica;Inglese;;415799;413367;413367;
+9202;82165;PRINCIPLES OF ACCOUNTING (2);;modulo;38817;Young David William;;;415800;413367;413367;
+9202;37685;COMPUTATIONAL TOOLS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413370;;53327;Bergamaschi Francesco;Inglese;;413370;0;413370;
+9202;37294;PRINCIPLES OF LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413371;;47207;Quarta Francesco;Inglese;;413371;0;413371;
+9202;37292;MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413372;;59664;Bormetti Giacomo;Inglese;;413372;0;413372;
+9202;37293;MICROECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413375;;32684;Barigozzi Francesca;Inglese;;413375;0;413375;
+9202;82398;MANAGEMENT (I.C.);;;;;;;413376;0;413376;
+9202;79252;FUNDAMENTALS OF MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413377;modulo;54671;Raggi Alessandra;Inglese;;413377;413376;413376;
+9202;78489;INTRODUCTION TO FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413378;modulo;42808;Tassinari Gian Luca;Inglese;;413378;413376;413376;
+9202;82203;GLOBAL ECONOMIC HISTORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413379;;32683;Carboni Mauro;Inglese;;413379;0;413379;
+9202;82169;LABOUR AND COMMERCIAL LAW (I.C.);;;;;;;413380;0;413380;
+9202;75758;LABOUR LAW;;modulo;;;;;413381;413380;413380;
+9202;82170;COMMERCIAL AND INTERNATIONAL LAW;;modulo;;;;;413382;413380;413380;
+9202;59691;MACROECONOMICS;;;;;;;413389;0;413389;
+9202;48994;STATISTICS;;;;;;;413390;0;413390;
+9202;82173;ACCOUNTING FOR DECISION MAKING (I.C);;;;;;;413393;0;413393;
+9202;79310;COST ACCOUNTING;;modulo;;;;;413394;413393;413393;
+9202;82174;ANALYSING AND INTERPRETING FINANCIAL STATEMENT LAB;;modulo;;;;;413395;413393;413393;
+9202;82177;ORGANIZATION AND MANAGEMENT (I.C.);;;;;;;413402;0;413402;
+9202;82178;ORGANIZATION;;modulo;;;;;413403;413402;413402;
+9202;82179;MANAGEMENT SKILLS;;modulo;;;;;413404;413402;413402;
+9202;9511;MARKETING;;;;;;;413406;0;413406;
+9202;48144;CORPORATE FINANCE;;;;;;;413407;0;413407;
+9202;82181;INDUSTRIAL ECONOMICS AND INTERNATIONAL TRADE;;;;;;;413408;0;413408;
+9202;82182;QUANTITATIVE METHODS FOR MANAGEMENT (I.C);;;;;;;413409;0;413409;
+9202;64839;BUSINESS STATISTICS;;modulo;;;;;413410;413409;413409;
+9202;32626;ECONOMETRICS;;modulo;;;;;413411;413409;413409;
+9202;82188;STRATEGY AND BUSINESS GAMES;;;;;;;413420;0;413420;
+9202;75386;INVESTMENTS;;;;;;;413422;0;413422;
+9202;82189;MANAGEMENT CONTROL SYSTEMS LAB;;;;;;;413424;0;413424;
+9202;82190;INDUSTRIAL RELATIONS;;;;;;;413425;0;413425;
+9202;60750;FINAL EXAMINATION;;;;;;;413426;0;413426;
+9202;82373;LABORATORIO DI ECONOMIA DELLE AZIENDE E DELLE AMMINISTRAZIONI PUBBLICHE;;;;;;;413982;0;413982;
+9202;82783;BUSINESS ENGLISH B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416280;;41324;Rizzi Giuseppina;Italiano;;416280;0;416280;
+9202;82783;BUSINESS ENGLISH B2 (1);;modulo;41324;Rizzi Giuseppina;Italiano;;417638;416280;416280;
+9202;82783;BUSINESS ENGLISH B2 (2);;modulo;41324;Rizzi Giuseppina;;;417639;416280;416280;
+8843;82173;ACCOUNTING FOR DECISION MAKING (I.C);;;;;;;419012;0;419012;
+9202;79310;COST ACCOUNTING;;modulo;;;;;419013;419012;419012;
+9202;82174;ANALYSING AND INTERPRETING FINANCIAL STATEMENT LAB;;modulo;;;;;419014;419012;419012;
+9202;83876;PRECORSI DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420040;;74016;Zaccarelli Elisa;;;420040;0;420040;
+9202;83876;PRECORSI DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420041;;42652;Pezzi Alessandro;;;420041;0;420041;
+9202;33507;CRASH COURSE IN MATHEMATICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420044;;83277;Livieri Giulia;;;420044;0;420044;
+9203;40292;PRINCIPI CONTABILI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413521;;39957;Gianfelici Cristina;Italiano;;413521;0;413521;
+9203;75306;SISTEMI DI GESTIONE DELLE PERFORMANCE (C.I.);;;;;;;413524;0;413524;
+9203;36365;SISTEMI DI MISURAZIONE DELLE PERFORMANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413525;modulo;30960;Silvi Riccardo;Italiano;;413525;413524;413524;
+9203;75307;LABORATORIO DI GESTIONE STRATEGICA DEI COSTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413526;modulo;34326;Visani Franco;Italiano;;413526;413524;413524;413526
+9203;17232;COMPORTAMENTO DEL CONSUMATORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413527;;35971;Scarpi Daniele;Italiano;;413527;0;413527;413527
+9203;75309;BUSINESS PLANNING (C.I.);;;;;;;413533;0;413533;
+9203;23716;BUSINESS PLAN;;modulo;;;;;413534;413533;413533;
+9203;75310;LABORATORIO DI NEW VENTURE FINANCING;;modulo;;;;;413535;413533;413533;
+9203;75313;STRATEGIA E MANAGEMENT INTERNAZIONALE (C.I.);;;;;;;413536;0;413536;
+9203;75314;MANAGEMENT E MARKETING INTERNAZIONALE;;modulo;;;;;413537;413536;413536;
+9203;75315;LABORATORIO DI ANALISI STRATEGICA;;modulo;;;;;413538;413536;413536;
+9203;75311;FINANZA IMPRENDITORIALE E CORPORATE BANKING (C.I.);;;;;;;413551;0;413551;
+9203;75312;FINANZA IMPRENDITORIALE;;modulo;;;;;413552;413551;413551;
+9203;55175;CORPORATE BANKING;;modulo;;;;;413553;413551;413551;
+9203;54991;ECONOMIA (C.I.);;;;;;;413554;0;413554;
+9203;15754;TEORIA DEI GIOCHI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413555;modulo;75896;Calvano Emilio;Italiano;;413555;413554;413554;
+9203;31786;ECONOMIA E POLITICA DELLA CONCORRENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413556;modulo;32684;Barigozzi Francesca;Italiano;;413556;413554;413554;
+9203;31786;ECONOMIA E POLITICA DELLA CONCORRENZA (1);;modulo;32684;Barigozzi Francesca;Italiano;;415608;413556;413554;
+9203;31786;ECONOMIA E POLITICA DELLA CONCORRENZA (2);;modulo;75896;Calvano Emilio;;;415609;413556;413554;
+9203;6445;STATISTICA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413562;;30457;Ferrante Maria;Italiano;;413562;0;413562;
+9203;6445;STATISTICA AZIENDALE (1);;modulo;30457;Ferrante Maria;Italiano;;425065;413562;413562;
+9203;6445;STATISTICA AZIENDALE (2);;modulo;43121;Capacci Sara;;;425066;413562;413562;
+9203;66960;DIRITTO D'IMPRESA AVANZATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413563;;32348;Gennari Francesco;Italiano;;413563;0;413563;
+9203;66960;DIRITTO D'IMPRESA AVANZATO (1);;modulo;32348;Gennari Francesco;Italiano;;415605;413563;413563;
+9203;66960;DIRITTO D'IMPRESA AVANZATO (2);;modulo;34500;Tupponi Marco;;;415606;413563;413563;
+9203;23607;PROJECT MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413564;;31201;Focacci Antonio;Italiano;;413564;0;413564;413564
+9203;32476;SVILUPPO RISORSE UMANE E LEADERSHIP;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413565;;36798;Fioretti Guido;Italiano;;413565;0;413565;413565
+9203;75308;TEORIA ECONOMICA DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413566;;16861;Ecchia Giulio;Italiano;;413566;0;413566;413566
+9203;82209;IDONEITA' DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413567;;35214;Baldi Antognini Alessandro;Italiano;;413567;0;413567;
+9203;17268;PROVA FINALE;;;;;;;413569;0;413569;
+9203;24318;FINANZA STRAORDINARIA;;;;;;;413571;0;413571;
+9203;82211;MANAGEMENT ACCOUNTING AND STRATEGIC CONTROL (I.C.);;;;;;;413573;0;413573;
+9203;37299;FINANCIAL ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413574;modulo;42405;Guthrie James;Inglese;;413574;413573;413573;413574
+9203;75329;PERFORMANCE MANAGEMENT SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413575;modulo;42405;Guthrie James;Inglese;;413575;413573;413573;413575
+9203;23716;BUSINESS PLAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413576;;40211;Toschi Laura;Inglese;;413576;0;413576;413576
+9203;82213;ADMINISTRATION AND STRATEGY (I.C.);;;;;;;413577;0;413577;
+9203;75324;ADMINISTRATIVE PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413578;modulo;34989;Corrado Raffaele;Inglese;;413578;413577;413577;413578
+9203;75325;CORPORATE STRATEGY LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413579;modulo;34989;Corrado Raffaele;Inglese;;413579;413577;413577;413579
+9203;82214;INTERNATIONAL MANAGEMENT (I.C.);;;;;;;413580;0;413580;
+9203;75333;INTERNATIONAL MANAGEMENT AND MARKETING;;modulo;;;;;413581;413580;413580;
+9203;75334;MARKETING METRICS LABORATORY;;modulo;;;;;413582;413580;413580;
+9203;82215;CORPORATE VALUATION, MERGERS AND ACQUISITIONS (I.C.);;;;;;;413583;0;413583;
+9203;32244;CORPORATE VALUATION;;modulo;;;;;413584;413583;413583;
+9203;82273;MERGERS AND ACQUISITIONS (M&A) LABORATORY;;modulo;;;;;413585;413583;413583;
+9203;82227;MERCHANT BANKING AND PRIVATE EQUITY (I.C.);;;;;;;413615;0;413615;
+9203;32763;PRIVATE EQUITY AND STRUCTURED FINANCE;;modulo;;;;;413616;413615;413615;
+9203;75336;DUE DILIGENCE LABORATORY;;modulo;;;;;413617;413615;413615;
+9203;32694;INTERNATIONAL ECONOMICS (I.C.);;;;;;;413618;0;413618;
+9203;25752;INTERNATIONAL FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413619;modulo;31758;Marzo Massimiliano;Italiano;;413619;413618;413618;413619
+9203;47731;INTERNATIONAL TRADE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413620;modulo;31758;Marzo Massimiliano;Italiano;;413620;413618;413618;413620
+9203;82228;QUANTITATIVE METHODS (I.C.);;;;;;;413621;0;413621;
+9203;40720;DATA MINING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413622;modulo;41681;D'Attoma Ida;Inglese;;413622;413621;413621;413622
+9203;32626;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413623;modulo;39596;Raggi Davide;Inglese;;413623;413621;413621;
+9203;32626;ECONOMETRICS (1);;modulo;39596;Raggi Davide;Inglese;;415630;413623;413621;415630
+9203;32626;ECONOMETRICS (2);;modulo;41660;Bontempi Maria Elena;;;415631;413623;413621;415631
+9203;66809;COST MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413626;;30960;Silvi Riccardo;Inglese;;413626;0;413626;413626
+9203;75331;COMPARATIVE LABOUR LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413627;;36953;Menegatti Emanuele;Italiano;;413627;0;413627;413627
+9203;82230;FINANCIAL ACCOUNTING & REPORTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413628;;38817;Young David William;;;413628;0;413628;413628
+9203;82231;FOOD SUPPLY CHAIN MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413631;;16722;Zanasi Cesare;Inglese;;413631;0;413631;413631
+9203;82232;ECONOMICS AND COMPETITION POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413632;;34422;Argentesi Elena;Inglese;;413632;0;413632;386051
+9203;75342;JOB PLACEMENT SEMINAR;;;;;;;413633;0;413633;
+9203;75760;FINAL EXAM;;;;;;;413634;0;413634;
+9203;82211;MANAGEMENT ACCOUNTING AND STRATEGIC CONTROL (I.C.);;;;;;;413636;0;413636;
+9203;37299;FINANCIAL ANALYSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413637;modulo;42405;Guthrie James;Inglese;;413637;413636;413636;413574
+9203;75329;PERFORMANCE MANAGEMENT SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413638;modulo;42405;Guthrie James;Inglese;;413638;413636;413636;413575
+9203;66809;COST MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413639;;30960;Silvi Riccardo;Inglese;;413639;0;413639;413626
+9203;82213;ADMINISTRATION AND STRATEGY (I.C.);;;;;;;413640;0;413640;
+9203;75324;ADMINISTRATIVE PROCESSES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413641;modulo;34989;Corrado Raffaele;Inglese;;413641;413640;413640;413578
+9203;75325;CORPORATE STRATEGY LABORATORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413642;modulo;34989;Corrado Raffaele;Inglese;;413642;413640;413640;413579
+9203;32694;INTERNATIONAL ECONOMICS (I.C.);;;;;;;413643;0;413643;
+9203;25752;INTERNATIONAL FINANCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413644;modulo;31758;Marzo Massimiliano;Italiano;;413644;413643;413643;413619
+9203;47731;INTERNATIONAL TRADE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413645;modulo;31758;Marzo Massimiliano;Italiano;;413645;413643;413643;413620
+9203;82228;QUANTITATIVE METHODS (I.C.);;;;;;;413647;0;413647;
+9203;40720;DATA MINING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413648;modulo;41681;D'Attoma Ida;Inglese;;413648;413647;413647;413622
+9203;32626;ECONOMETRICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413649;modulo;39596;Raggi Davide;Inglese;;413649;413647;413647;
+9203;32626;ECONOMETRICS (1);;modulo;39596;Raggi Davide;Inglese;;416105;413649;413647;415630
+9203;32626;ECONOMETRICS (2);;modulo;41660;Bontempi Maria Elena;;;416106;413649;413647;415631
+9203;75331;COMPARATIVE LABOUR LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413651;;36953;Menegatti Emanuele;Italiano;;413651;0;413651;413627
+9203;82235;FOOD SYSTEM ECONOMICS (I.C.);;;;;;;413652;0;413652;
+9203;82236;FOOD ECONOMICS;;modulo;;;;;413653;413652;413652;
+9203;82237;FOOD SYSTEM SUSTAINABILITY LABORATORY;;modulo;;;;;413654;413652;413652;
+9203;82242;GLOBAL AGRI-FOOD MARKETING AND QUALITY MANAGEMENT (I.C.);;;;;;;413659;0;413659;
+9203;82243;GLOBAL AGRI-FOOD MARKETING;;modulo;;;;;413660;413659;413659;
+9203;82274;FOOD QUALITY MANAGEMENT LABORATORY;;modulo;;;;;413661;413659;413659;
+9203;82247;AGRICULTURAL, FOOD AND RURAL POLICY (I.C.);;;;;;;413666;0;413666;
+9203;82248;AGRICULTURAL AND FOOD POLICY;;modulo;;;;;413667;413666;413666;
+9203;82275;RURAL DEVELOPMENT AND BIOENERGY ECONOMICS AND POLICY LABORATORY;;modulo;;;;;413668;413666;413666;
+9203;82230;FINANCIAL ACCOUNTING & REPORTING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413669;;38817;Young David William;;;413669;0;413669;413628
+9203;82231;FOOD SUPPLY CHAIN MANAGEMENT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413670;;16722;Zanasi Cesare;Inglese;;413670;0;413670;413631
+9203;23716;BUSINESS PLAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413671;;40211;Toschi Laura;Inglese;;413671;0;413671;413576
+9203;82232;ECONOMICS AND COMPETITION POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413672;;34422;Argentesi Elena;Inglese;;413672;0;413672;386051
+9203;75760;FINAL EXAM;;;;;;;413677;0;413677;
+9203;75342;JOB PLACEMENT SEMINAR;;;;;;;414020;0;414020;
+9203;81151;CRASH COURSE DI QUANTITATIVE METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420045;;42808;Tassinari Gian Luca;;;420045;0;420045;420045
+9203;81151;CRASH COURSE DI QUANTITATIVE METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420046;;42808;Tassinari Gian Luca;;;420046;0;420046;420045
+9203;81150;CRASH COURSE DI INTERNATIONAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420047;;40455;Savioli Marco;;;420047;0;420047;420047
+9203;81150;CRASH COURSE DI INTERNATIONAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420048;;40455;Savioli Marco;;;420048;0;420048;420047
+9203;85612;"SEMINARIO ""ORGANIZATIONAL BEHAVIOUR""";;;;;;;425292;0;425292;

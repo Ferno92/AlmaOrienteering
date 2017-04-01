@@ -1,0 +1,487 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+659;536;ISTITUZIONI DI DIRITTO ROMANO;;;;;;;204263;0;204263;
+659;536;ISTITUZIONI DI DIRITTO ROMANO (A-C) (1);;modulo;30117;Luchetti Giovanni;Italiano;;394619;204797;204263;
+659;536;ISTITUZIONI DI DIRITTO ROMANO (A-C) (2);;modulo;37515;Pontoriero Ivano;;;394620;204797;204263;
+659;24331;STORIA DEL DIRITTO MEDIOEVALE E MODERNO;;;;;;;204264;0;204264;
+659;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204265;;34768;Leoncini Riccardo;Italiano;;204265;0;204265;402819
+659;222;DIRITTO COSTITUZIONALE;;;;;;;204267;0;204267;
+659;385;FILOSOFIA DEL DIRITTO;;;;;;;204268;0;204268;
+659;230;DIRITTO INTERNAZIONALE;;;;;;;204270;0;204270;
+659;230;DIRITTO INTERNAZIONALE (R-Z) (1);;modulo;31642;Balboni Marco;Italiano;;418871;333803;204270;
+659;230;DIRITTO INTERNAZIONALE (R-Z) (2);;modulo;42758;Farnelli Gian Maria;;;418872;333803;204270;
+659;224;DIRITTO DEL LAVORO;;;;;;;204271;0;204271;
+659;224;DIRITTO DEL LAVORO (A-C) (1);;modulo;32844;Mainardi Sandro;Italiano;;414671;311375;204271;
+659;224;DIRITTO DEL LAVORO (A-C) (2);;modulo;38565;Navilli Monica;;;414672;311375;204271;
+659;224;DIRITTO DEL LAVORO (R-Z) (1);;modulo;30205;Focareta Franco;Italiano;;401873;368733;204271;401873
+659;224;DIRITTO DEL LAVORO (R-Z) (2);;modulo;39964;Martelloni Federico;;;401874;368733;204271;
+659;221;DIRITTO COMMERCIALE;;;;;;;204272;0;204272;
+659;221;DIRITTO COMMERCIALE (D-L) (1);;modulo;30698;Vella Francesco;Italiano;;394565;311388;204272;394565
+659;221;DIRITTO COMMERCIALE (D-L) (2);;modulo;40747;Ricciardiello Edgardo;;;394566;311388;204272;
+659;221;DIRITTO COMMERCIALE (R-Z) (1);;modulo;41659;Calandra Buonaura Vincenzo;Italiano;;394560;311386;204272;
+659;221;DIRITTO COMMERCIALE (R-Z) (2);;modulo;41659;Calandra Buonaura Vincenzo;Italiano;;421021;311386;204272;
+659;221;DIRITTO COMMERCIALE (R-Z) (3);;modulo;35846;Guidotti Rolandino Guido;;;394561;311386;204272;
+659;236;DIRITTO PUBBLICO COMPARATO;;;;;;;204273;0;204273;
+659;236;DIRITTO PUBBLICO COMPARATO (A-L) (1);;modulo;31278;Mancini Susanna;Italiano;;414685;204780;204273;
+659;236;DIRITTO PUBBLICO COMPARATO (A-L) (2);;modulo;34990;Ferioli Elena;;;414686;204780;204273;
+659;232;DIRITTO PRIVATO COMPARATO;;;;;;;204274;0;204274;
+659;232;DIRITTO PRIVATO COMPARATO (M-Z) (1);;modulo;31093;Timoteo Marina;Italiano;;401508;387555;204274;
+659;232;DIRITTO PRIVATO COMPARATO (M-Z) (2);;modulo;39482;Carpi Angela;;;401509;387555;204274;
+659;225;DIRITTO DELLA NAVIGAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204275;;15988;Zunarelli Stefano;Italiano;;204275;0;204275;
+659;1621;DIRITTO FINANZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204276;;36987;Mondini Andrea;Italiano;;204276;0;204276;
+659;1261;DIRITTO DI FAMIGLIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204278;;35868;Campione Riccardo;Italiano;;204278;0;204278;
+659;1261;DIRITTO DI FAMIGLIA (1);;modulo;35868;Campione Riccardo;Italiano;;414687;204278;204278;
+659;1261;DIRITTO DI FAMIGLIA (2);;modulo;15651;Sesta Michele;;;414688;204278;204278;
+659;942;STORIA DEL DIRITTO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204280;;30117;Luchetti Giovanni;Italiano;;204280;0;204280;204280
+659;3317;ISTITUZIONI DI DIRITTO PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204281;;34200;Manes Vittorio;Italiano;;204281;0;204281;
+659;3575;SOCIOLOGIA DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204282;;32789;Pellegrini Stefania;Italiano;;204282;0;204282;
+659;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204284;;16681;Nuti Giovanetti Fabio;Italiano;;204284;0;204284;
+659;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE (1);;modulo;16681;Nuti Giovanetti Fabio;Italiano;;394595;204284;204284;394595
+659;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE (2);;modulo;81536;Coco Francesco;;;394596;204284;204284;
+659;46818;DIRITTI FONDAMENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204285;;30469;Mezzetti Luca;Italiano;;204285;0;204285;
+659;233;DIRITTO PROCESSUALE CIVILE;;;;;;;204286;0;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (D-L) (1);;modulo;31985;Zucconi Galli Fonseca Elena;Italiano;;394591;334021;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (D-L) (2);;modulo;34314;Canella Maria Giulia;;;394592;334021;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (M-Q) (1);;modulo;37520;Rasia Carlo;Italiano;;416475;334022;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (M-Q) (2);;modulo;30179;Brunelli Brunella;;;416476;334022;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (R-Z) (1);;modulo;35765;Querzola Lea;Italiano;;414787;334023;204286;
+659;233;DIRITTO PROCESSUALE CIVILE (R-Z) (2);;modulo;31566;Zoppellari Mario;;;414788;334023;204286;
+659;231;DIRITTO PENALE;;;;;;;204287;0;204287;
+659;231;DIRITTO PENALE (D-L) (1);;modulo;32300;Fondaroli Desiree;Italiano;;342400;342342;204287;
+659;231;DIRITTO PENALE (D-L) (2);;modulo;39900;Tordini Cagli Silvia;;;342401;342342;204287;
+659;231;DIRITTO PENALE (M-Q) (1);;modulo;15236;Mazzacuva Nicola;Italiano;;409647;333757;204287;409647
+659;231;DIRITTO PENALE (M-Q) (2);;modulo;50029;Guerini Tommaso;;;409648;333757;204287;
+659;231;DIRITTO PENALE (M-Q) (3);;modulo;32466;Mantovani Marco Orlando;;;419865;333757;204287;
+659;231;DIRITTO PENALE (R-Z) (1);;modulo;15210;Insolera Gaetano;Italiano;;206921;205846;204287;
+659;231;DIRITTO PENALE (R-Z) (2);;modulo;39281;Consorte Francesca;;;206922;205846;204287;
+659;9945;INFORMATICA GIURIDICA;;;;;;;204289;0;204289;
+659;9945;INFORMATICA GIURIDICA (A-C) (1);;modulo;34488;Palmirani Monica;Italiano;;415009;415005;204289;
+659;9945;INFORMATICA GIURIDICA (A-C) (2);;modulo;37610;Rossi Michela;;;415010;415005;204289;
+659;9945;INFORMATICA GIURIDICA (D-L) (1);;modulo;33019;Sartor Giovanni;Italiano;;415011;415006;204289;
+659;9945;INFORMATICA GIURIDICA (D-L) (2);;modulo;40308;Contissa Giuseppe;;;415012;415006;204289;
+659;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204290;;37627;Mattioli Fabiana;Italiano;;204290;0;204290;
+659;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (1);;modulo;37627;Mattioli Fabiana;Italiano;;206938;204290;204290;206938
+659;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (2);;modulo;37515;Pontoriero Ivano;;;206939;204290;204290;
+659;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204291;;39072;Cavina Marco;Italiano;;204291;0;204291;
+659;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (1);;modulo;39072;Cavina Marco;Italiano;;312977;204291;204291;312977
+659;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (2);;modulo;23386;Sarti Nicoletta;;;312978;204291;204291;
+659;57802;DIRITTO DELL'UNIONE EUROPEA;;;;;;;204292;0;204292;
+659;218;DIRITTO CANONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204293;;16008;Zanotti Andrea;Italiano;;204293;0;204293;
+659;227;DIRITTO ECCLESIASTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204294;;30764;Cimbalo Giovanni;Italiano;;204294;0;204294;
+659;217;DIRITTO AMMINISTRATIVO;;;;;;;204295;0;204295;
+659;217;DIRITTO AMMINISTRATIVO (A-C) (1);;modulo;15852;Caia Giuseppe;Italiano;;333735;333734;204295;
+659;217;DIRITTO AMMINISTRATIVO (A-C) (2);;modulo;39115;Calcagnile Massimo;;;333736;333734;204295;
+659;217;DIRITTO AMMINISTRATIVO (A-C) (3);;modulo;50887;Fantin Andrea;;;378886;333734;204295;
+659;217;DIRITTO AMMINISTRATIVO (D-L) (1);;modulo;14638;Mastragostino Franco;Italiano;;401289;333737;204295;401289
+659;217;DIRITTO AMMINISTRATIVO (D-L) (2);;modulo;35176;Tubertini Claudia;;;401290;333737;204295;
+659;217;DIRITTO AMMINISTRATIVO (D-L) (3);;modulo;50887;Fantin Andrea;;;401356;333737;204295;
+659;217;DIRITTO AMMINISTRATIVO (M-Q) (1);;modulo;14291;Carullo Antonio;Italiano;;415056;333738;204295;
+659;217;DIRITTO AMMINISTRATIVO (M-Q) (2);;modulo;39945;Di Carlo Marianna;;;415057;333738;204295;
+659;217;DIRITTO AMMINISTRATIVO (R-Z) (1);;modulo;31876;Dugato Marco;Italiano;;378891;342334;204295;378891
+659;217;DIRITTO AMMINISTRATIVO (R-Z) (2);;modulo;55327;Bonetti Tommaso;;;378892;342334;204295;
+659;239;DIRITTO TRIBUTARIO;;;;;;;204296;0;204296;
+659;815;PROCEDURA PENALE;;;;;;;204297;0;204297;
+659;815;PROCEDURA PENALE (P-Z) (1);;modulo;14374;Illuminati Giulio;Italiano;;418888;334000;204297;
+659;815;PROCEDURA PENALE (P-Z) (2);;modulo;14374;Illuminati Giulio;;;418889;334000;204297;
+659;24629;DIRITTO COSTITUZIONALE AVANZATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204298;;33514;Morrone Andrea;Italiano;;204298;0;204298;204298
+659;216;DIRITTO AGRARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204300;;30579;Sgarbanti Giulio;Italiano;;204300;0;204300;
+659;3607;DIRITTO PENALE COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204301;;15236;Mazzacuva Nicola;Italiano;;204301;0;204301;
+659;3607;DIRITTO PENALE COMMERCIALE (1);;modulo;15236;Mazzacuva Nicola;Italiano;;419866;204301;204301;
+659;3607;DIRITTO PENALE COMMERCIALE (2);;modulo;32466;Mantovani Marco Orlando;;;419867;204301;204301;
+659;30001;DIRITTO DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204303;;34324;Grazzini Barbara;Italiano;;204303;0;204303;
+659;1892;DIRITTO PENITENZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204304;;34191;Bertaccini Davide;Italiano;;204304;0;204304;
+659;228;DIRITTO FALLIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204306;;33325;Lupoi Michele Angelo;Italiano;;204306;0;204306;
+659;228;DIRITTO FALLIMENTARE (1);;modulo;33325;Lupoi Michele Angelo;Italiano;;378910;204306;204306;
+659;228;DIRITTO FALLIMENTARE (2);;modulo;31566;Zoppellari Mario;;;378911;204306;204306;
+659;229;DIRITTO INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204307;;31203;Musso Alberto;Italiano;;204307;0;204307;
+659;48067;DIRITTO DEI PAESI ASIATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204308;;31093;Timoteo Marina;Italiano;;204308;0;204308;204308
+659;9260;DIRITTO DEI TRASPORTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204309;;34208;Romagnoli Alessandra;Italiano;;204309;0;204309;
+659;12515;DIRITTO DELL'ARBITRATO INTERNO E INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204310;;31985;Zucconi Galli Fonseca Elena;Italiano;;204310;0;204310;
+659;12515;DIRITTO DELL'ARBITRATO INTERNO E INTERNAZIONALE (1);;modulo;31985;Zucconi Galli Fonseca Elena;Italiano;;387716;204310;204310;
+659;12515;DIRITTO DELL'ARBITRATO INTERNO E INTERNAZIONALE (2);;modulo;37520;Rasia Carlo;;;387717;204310;204310;
+659;48066;ECONOMIA E ISTITUZIONI LOCALI;;;;;;;204312;0;204312;
+659;237;DIRITTO PUBBLICO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204314;;32004;Bellodi Ansaloni Anna;Italiano;;204314;0;204314;204314
+659;49240;DIRITTO PROCESSUALE DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204315;;35765;Querzola Lea;Italiano;;204315;0;204315;
+659;4472;DIRITTO PROCESSUALE AMMINISTRATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204316;;14638;Mastragostino Franco;Italiano;;204316;0;204316;
+659;17234;DIRITTO DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204317;;37537;Guizzardi Silvia;Italiano;;204317;0;204317;
+659;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204320;;24384;Pelotti Susi;Italiano;;204320;0;204320;
+659;701;MEDICINA LEGALE (1);;modulo;24384;Pelotti Susi;Italiano;;415096;204320;204320;415096
+659;701;MEDICINA LEGALE (2);;modulo;43373;Salsi Giancarlo;;;415097;204320;204320;
+659;2513;CRIMINOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204321;;14679;Melossi Dario;Italiano;;204321;0;204321;
+659;3639;DIRITTO REGIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204322;;34322;Tega Diletta;Italiano;;204322;0;204322;
+659;939;STORIA DEL DIRITTO CANONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204324;;31031;Boni Geraldina;Italiano;;204324;0;204324;
+659;24633;METODOLOGIA GIURIDICA ROMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204328;;32004;Bellodi Ansaloni Anna;Italiano;;204328;0;204328;
+659;24634;LOGICA E ARGOMENTAZIONE GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204329;;15992;Artosi Alberto;Italiano;;204329;0;204329;
+659;24628;LINGUA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204354;;39482;Carpi Angela;Italiano;;204354;0;204354;
+659;18063;PROCEDURA PENALE EUROPEA E INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310295;;35788;Caianiello Michele;Italiano;;310295;0;310295;310295
+659;9517;DIRITTO DELL'ESECUZIONE PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332251;;34214;Vicoli Daniele;Italiano;;332251;0;332251;332251
+659;32608;DIRITTO DELLE ASSICURAZIONI PRIVATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332259;;15907;Franzoni Massimo;Italiano;;332259;0;332259;
+659;32608;DIRITTO DELLE ASSICURAZIONI PRIVATE (1);;modulo;15907;Franzoni Massimo;Italiano;;336930;332259;332259;
+659;32608;DIRITTO DELLE ASSICURAZIONI PRIVATE (2);;modulo;36594;Riccio Angelo;;;336931;332259;332259;
+659;3029;DIRITTO SANITARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332260;;14277;Bottari Carlo;Italiano;;332260;0;332260;
+659;32612;LAW OF THE EUROPEAN UNION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332270;;30686;Rossi Lucia Serena;Inglese;;332270;0;332270;332270
+659;28557;ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332283;;34469;Guidetti Giovanni;Inglese;;332283;0;332283;332283
+659;32616;PHILOSOPHY OF LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332286;;35952;Roversi Corrado;Inglese;;332286;0;332286;332286
+659;45101;METODOLOGIA E STORIA DEL PENSIERO GIURIDICO DAL MEDIOEVO ALL'ETA MODERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345111;;31817;Padovani Andrea;Italiano;;345111;0;345111;345111
+659;48651;INFORMATICA FORENSE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361598;;34145;Brighi Raffaella;Italiano;;361598;0;361598;
+659;48651;INFORMATICA FORENSE (1);;modulo;34145;Brighi Raffaella;Italiano;;387832;361598;361598;
+659;48651;INFORMATICA FORENSE (2);;modulo;37875;Gammarota Antonio;;;387833;361598;361598;
+659;61531;DIRITTO DEGLI APPALTI PUBBLICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369916;;30944;Aicardi Nicola;Italiano;;369916;0;369916;
+659;41321;DIRITTO DEGLI ENTI LOCALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369917;;35176;Tubertini Claudia;Italiano;;369917;0;369917;
+659;37469;ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369919;;15172;Faralli Carla;Italiano;;369919;0;369919;
+659;37469;ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI (1);;modulo;15172;Faralli Carla;Italiano;;369951;369919;369919;369951
+659;37469;ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI (2);;modulo;32789;Pellegrini Stefania;;;369952;369919;369919;
+659;37770;MAFIE E ANTIMAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369934;;32789;Pellegrini Stefania;Italiano;;369934;0;369934;
+659;31658;DIRITTO DEI PAESI ISLAMICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377457;;30469;Mezzetti Luca;Italiano;;377457;0;377457;377457
+659;69910;ANALISI COMPARATA DEI DIRITTI A BASE RELIGIOSA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377459;;16008;Zanotti Andrea;Italiano;;377459;0;377459;
+659;69917;DIRITTO DEL LAVORO COMPARATO E TRANSNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377465;;33459;Zoli Carlo;Italiano;;377465;0;377465;
+659;69917;DIRITTO DEL LAVORO COMPARATO E TRANSNAZIONALE (1);;modulo;33459;Zoli Carlo;Italiano;;394571;377465;377465;
+659;69917;DIRITTO DEL LAVORO COMPARATO E TRANSNAZIONALE (2);;modulo;46939;Villa Ester;;;394572;377465;377465;
+659;2589;DIRITTO DELLA SICUREZZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377466;;32615;Pizzoferrato Alberto;Italiano;;377466;0;377466;
+659;69918;INFORMATION TECHNOLOGY AND LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377467;;33019;Sartor Giovanni;Inglese;;377467;0;377467;
+659;69918;INFORMATION TECHNOLOGY AND LAW (1);;modulo;33019;Sartor Giovanni;Inglese;;415223;377467;377467;415088
+659;69918;INFORMATION TECHNOLOGY AND LAW (2);;modulo;34488;Palmirani Monica;;;415224;377467;377467;415089
+659;1855;DIRITTO INTERNAZIONALE PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377469;;15803;Zanobetti Alessandra;Italiano;;377469;0;377469;
+659;69926;COMPARATIVE CONSTITUTIONALISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377494;;31278;Mancini Susanna;Inglese;;377494;0;377494;377494
+659;70342;DIRITTO COSTITUZIONALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378789;;34318;Giupponi Tomaso Francesco;Italiano;;378789;0;378789;204756
+659;70344;DIRITTO PRIVATO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378794;;30577;Berti Carlo;Italiano;;378794;0;378794;394552
+659;70376;ECONOMIA POLITICA (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378946;;34768;Leoncini Riccardo;Italiano;;378946;0;378946;402819
+659;70377;ISTITUZIONI DI DIRITTO ROMANO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378947;;33134;Briguglio Filippo;Italiano;;378947;0;378947;204798
+659;70378;STORIA DEL DIRITTO MEDIOEVALE E MODERNO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378948;;39072;Cavina Marco;Italiano;;378948;0;378948;204817
+659;70379;INTRODUZIONE AL DIRITTO PRIVATO E PENALE FRANCESE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378949;;40701;Sinopoli Laurence;;;378949;0;378949;
+659;70379;INTRODUZIONE AL DIRITTO PRIVATO E PENALE FRANCESE (F) (1);;modulo;40701;Sinopoli Laurence;;;380215;378949;378949;
+659;70379;INTRODUZIONE AL DIRITTO PRIVATO E PENALE FRANCESE (F) (2);;modulo;;;;;380216;378949;378949;
+659;70379;INTRODUZIONE AL DIRITTO PRIVATO E PENALE FRANCESE (F) (3);;modulo;;;;;380217;378949;378949;
+659;70395;DIRITTO AMMINISTRATIVO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378984;;31876;Dugato Marco;Italiano;;378984;0;378984;378891
+659;70396;DIRITTO DEL LAVORO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378985;;30205;Focareta Franco;Italiano;;378985;0;378985;401873
+659;70397;PROCEDURA PENALE EUROPEA E INTERNAZIONALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378986;;35788;Caianiello Michele;Italiano;;378986;0;378986;310295
+659;70398;DIRITTO CIVILE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378987;;16669;Memmo Daniela;Italiano;;378987;0;378987;394557
+659;70401;DIRITTO PENALE II (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378988;;34214;Vicoli Daniele;Italiano;;378988;0;378988;332251
+659;70402;DIRITTO INTERNAZIONALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378989;;15803;Zanobetti Alessandra;Italiano;;378989;0;378989;204765
+659;70403;STORIA DEL DIRITTO ROMANO (F);;;;;;;378991;0;378991;
+659;71803;INTRODUZIONE AL DIRITTO PUBBLICO FRANCESE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383259;;;;;;383259;0;383259;
+659;71803;INTRODUZIONE AL DIRITTO PUBBLICO FRANCESE (F) (1);;modulo;;;;;388845;383259;383259;
+659;71803;INTRODUZIONE AL DIRITTO PUBBLICO FRANCESE (F) (2);;modulo;;;;;388846;383259;383259;
+659;71803;INTRODUZIONE AL DIRITTO PUBBLICO FRANCESE (F) (3);;modulo;;;;;388847;383259;383259;
+659;71797;PROCEDURA PENALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383390;;35788;Caianiello Michele;Italiano;;383390;0;383390;333999
+659;71880;CRIME, PUNISHMENT AND SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383394;;14679;Melossi Dario;Inglese;;383394;0;383394;383394
+659;71881;PROCEDURA PENALE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383395;;34214;Vicoli Daniele;Italiano;;383395;0;383395;383395
+659;71802;DIRITTO COMMERCIALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388669;;30698;Vella Francesco;Italiano;;388669;0;388669;394565
+659;71798;DIRITTO DELL'UNIONE EUROPEA (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388670;;40703;Casolari Federico;Italiano;;388670;0;388670;378917
+659;71796;DIRITTO PENALE (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388674;;15236;Mazzacuva Nicola;Italiano;;388674;0;388674;409647
+659;35648;DIRITTO PROCESSUALE CIVILE E ORDINAMENTO GIUDIZIARIO FRANCESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388683;;15854;Biavati Paolo;Italiano;;388683;0;388683;
+659;35648;DIRITTO PROCESSUALE CIVILE E ORDINAMENTO GIUDIZIARIO FRANCESE (1);;modulo;15854;Biavati Paolo;Italiano;;388686;388683;388683;334020
+659;35648;DIRITTO PROCESSUALE CIVILE E ORDINAMENTO GIUDIZIARIO FRANCESE (2);;modulo;87653;Guerin Bargues Cecile;;;388687;388683;388683;
+659;35648;DIRITTO PROCESSUALE CIVILE E ORDINAMENTO GIUDIZIARIO FRANCESE (3);;modulo;;;;;388688;388683;388683;
+659;73950;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388693;;39072;Cavina Marco;Italiano;;388693;0;388693;312977
+659;73951;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388694;;37627;Mattioli Fabiana;Italiano;;388694;0;388694;206938
+659;73955;DIRITTO AMMINISTRATIVO II (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388698;;14638;Mastragostino Franco;Italiano;;388698;0;388698;401289
+659;73956;PROCEDURA PENALE II (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388701;;34214;Vicoli Daniele;Italiano;;388701;0;388701;383395
+659;73957;DIRITTO TRIBUTARIO (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388702;;14309;Di Pietro Adriano;Italiano;;388702;0;388702;342351
+659;74764;DIRITTO PRIVATO;;;;;;;390957;0;390957;
+659;74764;DIRITTO PRIVATO (A-C) (1);;modulo;15651;Sesta Michele;Italiano;;414653;394549;390957;
+659;74764;DIRITTO PRIVATO (A-C) (2);;modulo;35868;Campione Riccardo;;;414654;394549;390957;
+659;74764;DIRITTO PRIVATO (R-Z) (1);;modulo;31438;Finocchiaro Giusella Dolores;Italiano;;394553;394550;390957;
+659;74764;DIRITTO PRIVATO (R-Z) (2);;modulo;40545;Spangaro Alessandra;;;394554;394550;390957;
+659;74765;DIRITTO CIVILE;;;;;;;390958;0;390958;
+659;74765;DIRITTO CIVILE (A-C) (1);;modulo;15907;Franzoni Massimo;Italiano;;394543;394539;390958;
+659;74765;DIRITTO CIVILE (A-C) (2);;modulo;36594;Riccio Angelo;;;394544;394539;390958;
+659;74765;DIRITTO CIVILE (D-L) (1);;modulo;32192;Balestra Luigi;Italiano;;394546;394540;390958;
+659;74765;DIRITTO CIVILE (D-L) (2);;modulo;34324;Grazzini Barbara;;;394547;394540;390958;
+659;74765;DIRITTO CIVILE (M-Q) (1);;modulo;36954;Al Mureden Enrico;Italiano;;394558;394545;390958;
+659;74765;DIRITTO CIVILE (M-Q) (2);;modulo;37607;Martino Marco;;;394559;394545;390958;
+659;74765;DIRITTO CIVILE (M-Q) (3);;modulo;40545;Spangaro Alessandra;;;415000;394545;390958;
+659;74768;DIRITTO AERONAUTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390961;;32099;Masutti Anna;Italiano;;390961;0;390961;
+659;74769;DIRITTO DI INTERNET E DEI SOCIAL MEDIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390962;;31438;Finocchiaro Giusella Dolores;Italiano;;390962;0;390962;
+659;74769;DIRITTO DI INTERNET E DEI SOCIAL MEDIA (1);;modulo;31438;Finocchiaro Giusella Dolores;Italiano;;394555;390962;390962;
+659;74769;DIRITTO DI INTERNET E DEI SOCIAL MEDIA (2);;modulo;47918;Avitabile Alberto;;;394556;390962;390962;
+659;74770;DIRITTO NOTARILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390963;;15360;Zanelli Pietro;Italiano;;390963;0;390963;
+659;74772;TEORIA DEL DIRITTO E DELLA GIUSTIZIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390965;;32476;Bongiovanni Giorgio;Italiano;;390965;0;390965;
+659;74772;TEORIA DEL DIRITTO E DELLA GIUSTIZIA (1);;modulo;32476;Bongiovanni Giorgio;Italiano;;394631;390965;390965;
+659;74772;TEORIA DEL DIRITTO E DELLA GIUSTIZIA (2);;modulo;15992;Artosi Alberto;;;394632;390965;390965;
+659;76506;FILOSOFIA E METODOLOGIA GIURIDICA (F) - I PARTE: FILOSOFIA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395186;;35633;Rotolo Antonino;Italiano;;395186;0;395186;204786
+659;76507;FILOSOFIA E METODOLOGIA GIURIDICA (F) - II PARTE: METODOLOGIA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395187;;;;;;395187;0;395187;
+659;76508;DIRITTO PUBBLICO DELL'ECONOMIA (DROIT PUBBLIC DES AFFAIRES ET CIVILIZATION);;;;;;;395188;0;395188;
+659;76509;DIRITTO COMMERCIALE (DROIT COMMERCIAL);;;;;;;395189;0;395189;
+659;76510;DIRITTO TRIBUTARIO (DROIT FISCAL);;;;;;;395190;0;395190;
+659;76511;DIRITTO DEL LAVORO (DROIT DU TRAVAIL);;;;;;;395191;0;395191;
+659;71808;DIRITTO INTERNAZIONALE PUBBLICO (DROIT INTERNATIONAL PUBLIC) (F);;;;;;;395225;0;395225;
+659;71809;DIRITTO CIVILE (DROIT CIVIL) (F);;;;;;;395228;0;395228;
+659;71810;STORIA DEL DIRITTO MODERNO (DROIT DES LIBERTES FONDAMENTALES) (F);;;;;;;395229;0;395229;
+659;71815;ATTIVIT?« LIBERE - IDONEIT?« (F);;;;;;;395241;0;395241;
+659;76568;DIRITTO PENALE - PARTE SPECIALE (DROIT PENAL SPECIAL) - IDONEIT?«;;;;;;;395727;0;395727;
+659;76570;TEORIA GENERALE DEL DIRITTO (TH?ÎORIE G?ÎN?ÎRAL DU DROIT) (F);;;;;;;395731;0;395731;
+659;76571;STORIA DEL DIRITTO (HISTOIRE COMPAR?ÎE DU DROIT PRIV?Î);;;;;;;395733;0;395733;
+659;76572;DIRITTO AMMINISTRATIVO II (DROIT DES SERVICES PUBLIQUES) (F);;;;;;;395734;0;395734;
+659;76573;DIRITTO COSTITUZIONALE AVANZATO (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395735;;33514;Morrone Andrea;Italiano;;395735;0;395735;204298
+659;76574;DIRITTO DEL LAVORO (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395736;;33459;Zoli Carlo;Italiano;;395736;0;395736;368732
+659;76575;DIRITTO PROCESSUALE CIVILE I (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395737;;15854;Biavati Paolo;Italiano;;395737;0;395737;334020
+659;76576;DIRITTO COMMERCIALE (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395738;;35431;Guerrieri Gianluca;Italiano;;395738;0;395738;311385
+659;76577;STORIA DEL DIRITTO ROMANO (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395746;;30117;Luchetti Giovanni;Italiano;;395746;0;395746;204280
+659;76578;DIRITTO PUBBLICO ROMANO (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395747;;32004;Bellodi Ansaloni Anna;Italiano;;395747;0;395747;204314
+659;76579;ECONOMIA POLITICA (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395748;;34768;Leoncini Riccardo;Italiano;;395748;0;395748;402819
+659;76580;PROCEDURA PENALE I (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395754;;34484;Camon Alberto;Italiano;;395754;0;395754;333998
+659;76581;METODOLOGIA E STORIA DEL PENSIERO GIURIDICO DAL MEDIOEVO ALL'ET?« MODERNA (FF);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395757;;31817;Padovani Andrea;Italiano;;395757;0;395757;345111
+659;76586;LINGUAGGIO GIURIDICO (TRADUCTION JURIDIQUE) (F);;;;;;;395803;0;395803;
+659;76587;ISTITUZIONI DEL DIRITTO CONTEMPORANEO (POLITIQUE, SOCIET?Î, ECONOMIE) - IDONEIT?« (F);;;;;;;395804;0;395804;
+659;76602;LINGUA FRANCESE - IDONEIT?«;;;;;;;395849;0;395849;
+659;9736;DIRITTO SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400620;;31444;Pittalis Margherita;Italiano;;400620;0;400620;
+659;77907;LAW AND BUSINESS IN CHINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400621;;31093;Timoteo Marina;Inglese;;400621;0;400621;
+659;77908;INTERNATIONAL TRADE AND INVESTMENT LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400622;;31863;Baroncini Elisa;Inglese;;400622;0;400622;
+659;77908;INTERNATIONAL TRADE AND INVESTMENT LAW (1);;modulo;31863;Baroncini Elisa;Inglese;;401346;400622;400622;
+659;77908;INTERNATIONAL TRADE AND INVESTMENT LAW (2);;modulo;31863;Baroncini Elisa;;;401347;400622;400622;
+659;77909;EUROPEAN COMPETITION LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400623;;30984;Manzini Pietro;Inglese;;400623;0;400623;
+659;77911;DIRITTO PROCESSUALE GENERALE E ORDINAMENTO GIUDIZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400626;;35614;Cavallini Daniela;Italiano;;400626;0;400626;
+659;77911;DIRITTO PROCESSUALE GENERALE E ORDINAMENTO GIUDIZIARIO (1);;modulo;35614;Cavallini Daniela;Italiano;;401359;400626;400626;
+659;77911;DIRITTO PROCESSUALE GENERALE E ORDINAMENTO GIUDIZIARIO (2);;modulo;34214;Vicoli Daniele;;;401360;400626;400626;
+659;78438;IL DIRITTO E LA VITA CHE NASCE: I TRE MONOTEISMI A CONFRONTO;;;;;;;401275;0;401275;
+659;36666;SEM. ETICA E POLITICA NELLA PROSPETTIVA DEGLI STUDI DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401318;;15172;Faralli Carla;Italiano;;401318;0;401318;401318
+659;70370;SEM. LA GIUSTIZIA PENALE SUL GRANDE SCHERMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401366;;34484;Camon Alberto;Italiano;;401366;0;401366;
+659;25520;SEM. MIGRAZIONI, DEVIANZA E CONTROLLO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401375;;14679;Melossi Dario;Italiano;;401375;0;401375;
+659;73849;SEM. DIRITTO COSTITUZIONALE DELLA COMUNIT?« INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404163;;30469;Mezzetti Luca;Italiano;;404163;0;404163;404163
+659;38811;SEM. DISCRIMINAZIONI E DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404235;;32789;Pellegrini Stefania;Italiano;;404235;0;404235;
+659;38811;SEM. DISCRIMINAZIONI E DIRITTO (1);;modulo;32789;Pellegrini Stefania;Italiano;;404237;404235;404235;404237
+659;38811;SEM. DISCRIMINAZIONI E DIRITTO (2);;modulo;37530;Zullo Silvia;;;404238;404235;404235;404238
+659;76622;SEM. IL PROCESSO CIVILE TELEMATICO: RIFLESSIONE CORALE DI UN MUTAMENTO CULTURALE;;;;;;;405066;0;405066;
+659;74986;PRINCIPLES OF EUROPEAN LEGAL ORDERS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412182;;37627;Mattioli Fabiana;Inglese;;412182;0;412182;391198
+659;15212;DIRITTO DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412305;;30928;Lolli Alessandro;Italiano;;412305;0;412305;
+659;5974;DIRITTO URBANISTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412306;;32010;Gola Marcella;Italiano;;412306;0;412306;
+659;9646;DIRITTO PENALE COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412307;;32466;Mantovani Marco Orlando;Italiano;;412307;0;412307;
+659;81997;DIRITTO PENALE INTERNAZIONALE ED EUROPEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412308;;37207;Fronza Emanuela;Italiano;;412308;0;412308;
+659;81802;GENDER AND THE LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412309;;31278;Mancini Susanna;Inglese;;412309;0;412309;
+659;81804;EUROPEAN TRANSPORT LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412311;;32099;Masutti Anna;Inglese;;412311;0;412311;
+659;81807;INTERNET, LAW, SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412314;;33019;Sartor Giovanni;Inglese;;412314;0;412314;
+659;81807;INTERNET, LAW, SOCIETY (1);;modulo;33019;Sartor Giovanni;Inglese;;415088;412314;412314;415088
+659;81807;INTERNET, LAW, SOCIETY (2);;modulo;34488;Palmirani Monica;;;415089;412314;412314;415089
+659;11821;DIRITTO ECCLESIASTICO COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412322;;30764;Cimbalo Giovanni;Italiano;;412322;0;412322;
+659;81812;EUROPEAN UNION INTERNAL MARKET LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412324;;37534;Di Federico Giacomo;Inglese;;412324;0;412324;
+659;81809;BIODIRITTO PENALE: STORIA E PRINCIPI;;;;;;;412413;0;412413;
+659;81883;IL BIODIRITTO PENALE DALL'ANTICHITA' AD OGGI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412414;modulo;39072;Cavina Marco;Italiano;;412414;412413;412413;
+659;81884;PRINCIPI DEL BIODIRITTO PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412415;modulo;30320;Canestrari Stefano;Italiano;;412415;412413;412413;
+659;81885;LAW OF THE EUROPEAN UNION (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412577;;30686;Rossi Lucia Serena;Inglese;;412577;0;412577;332270
+659;81886;"PHILOSOPHY AND METHODOLOGY OF LAW (F) &#8211; PART I: PHILOSOPHY OF LAW (F)";;;;;;;412578;0;412578;
+659;81887;PHILOSOPHY AND METHODOLOGY OF LAW (F) - PART I: PHILOSOPHY OF LAW (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412580;;35952;Roversi Corrado;Inglese;;412580;0;412580;332286
+659;81890;ECONOMICS (F);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412586;;34469;Guidetti Giovanni;Inglese;;412586;0;412586;332283
+659;81891;INTERNATIONAL LAW (F);;;;;;;412589;0;412589;
+659;82300;DIRITTO TRIBUTARIO AVANZATO (FISCALIT?« DI IMPRESA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413793;;33510;Carinci Andrea;Italiano;;413793;0;413793;
+659;82536;Sem. Approfondimento in materia di diritti reali;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414975;;30577;Berti Carlo;Italiano;;414975;0;414975;414975
+659;82537;Sem. Approfondimento in materia di successioni e donazioni;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414977;;30577;Berti Carlo;Italiano;;414977;0;414977;414977
+659;82538;Sem. Approfondimento in tema di filiazioni e unioni di fatto;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414980;;30577;Berti Carlo;Italiano;;414980;0;414980;414980
+659;82539;Sem. Il nuovo processo canonico di nullita' del matrimonio: effetti nell'ordinamento italiano;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414982;;31031;Boni Geraldina;Italiano;;414982;0;414982;414982
+659;82542;Sem. Global Classroom - I diritti fondamentali nella societa'?· dell'infromazione;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415065;;16669;Memmo Daniela;Italiano;;415065;0;415065;
+659;82543;Sem. Integrazione fiscale europea;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415074;;36987;Mondini Andrea;Italiano;;415074;0;415074;415074
+659;82544;Sem. La tutela giuridica del marchio nell'industria della moda;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415078;;31203;Musso Alberto;Italiano;;415078;0;415078;
+659;82545;Sem. Il processo civile telematico;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415080;;34488;Palmirani Monica;Italiano;;415080;0;415080;415080
+659;82546;Sem. Diritto delle reti e delle associazioni di impresa;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415082;;15360;Zanelli Pietro;Italiano;;415082;0;415082;
+659;82547;Sem. Le bioetiche sospese: gli sguardi degli ordinamenti religiosi e secolari;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415083;;16008;Zanotti Andrea;Italiano;;415083;0;415083;
+659;82556;SEM. DIRITTO TRIBUTARIO TRANSNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415246;;33510;Carinci Andrea;;;415246;0;415246;
+659;83121;Sem. Tecniche e competenze della negoziazione e della advocacy mediation;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417328;;31985;Zucconi Galli Fonseca Elena;Italiano;;417328;0;417328;
+659;84043;Sem. In vista del referendum: capire la riforma costituzionale;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420917;;33514;Morrone Andrea;Italiano;;420917;0;420917;420917
+660;536;ISTITUZIONI DI DIRITTO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204131;;33134;Briguglio Filippo;Italiano;;204131;0;204131;
+660;24331;STORIA DEL DIRITTO MEDIOEVALE E MODERNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204133;;37596;Bruschi Ugo;Italiano;;204133;0;204133;
+660;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204139;;34768;Leoncini Riccardo;Italiano;;204139;0;204139;204139
+660;385;FILOSOFIA DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204147;;35641;Vida Silvia;Italiano;;204147;0;204147;
+660;222;DIRITTO COSTITUZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204148;;34318;Giupponi Tomaso Francesco;Italiano;;204148;0;204148;
+660;222;DIRITTO COSTITUZIONALE (1);;modulo;34318;Giupponi Tomaso Francesco;Italiano;;401273;204148;204148;
+660;222;DIRITTO COSTITUZIONALE (2);;modulo;41815;Caruso Corrado;;;401274;204148;204148;
+660;224;DIRITTO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204149;;32092;Lassandari Andrea;Italiano;;204149;0;204149;
+660;224;DIRITTO DEL LAVORO (1);;modulo;32092;Lassandari Andrea;Italiano;;378894;204149;204149;
+660;224;DIRITTO DEL LAVORO (2);;modulo;43393;Centamore Giulio;;;378895;204149;204149;
+660;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204150;;35846;Guidotti Rolandino Guido;Italiano;;204150;0;204150;
+660;221;DIRITTO COMMERCIALE (1);;modulo;35846;Guidotti Rolandino Guido;Italiano;;414718;204150;204150;414718
+660;221;DIRITTO COMMERCIALE (2);;modulo;39274;Gilotta Sergio;;;414719;204150;204150;414719
+660;230;DIRITTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204151;;31863;Baroncini Elisa;Italiano;;204151;0;204151;204151
+660;232;DIRITTO PRIVATO COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204152;;43466;Franciosi Laura Maria;Italiano;;204152;0;204152;204152
+660;236;DIRITTO PUBBLICO COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204153;;34188;Bagni Silvia;Italiano;;204153;0;204153;204153
+660;9945;INFORMATICA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204190;;34488;Palmirani Monica;Italiano;;204190;0;204190;
+660;9945;INFORMATICA GIURIDICA (1);;modulo;34488;Palmirani Monica;Italiano;;414730;204190;204190;
+660;9945;INFORMATICA GIURIDICA (2);;modulo;37539;Martoni Michele;;;414731;204190;204190;
+660;231;DIRITTO PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204191;;32300;Fondaroli Desiree;Italiano;;204191;0;204191;
+660;231;DIRITTO PENALE (1);;modulo;32300;Fondaroli Desiree;Italiano;;420378;204191;204191;
+660;231;DIRITTO PENALE (2);;modulo;40534;Nisco Attilio;;;420379;204191;204191;
+660;233;DIRITTO PROCESSUALE CIVILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204192;;33325;Lupoi Michele Angelo;Italiano;;204192;0;204192;
+660;233;DIRITTO PROCESSUALE CIVILE (1);;modulo;33325;Lupoi Michele Angelo;Italiano;;394593;204192;204192;
+660;233;DIRITTO PROCESSUALE CIVILE (2);;modulo;40547;Pasini Caterina;;;394594;204192;204192;
+660;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204196;;37515;Pontoriero Ivano;Italiano;;204196;0;204196;
+660;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (1);;modulo;37515;Pontoriero Ivano;Italiano;;335103;204196;204196;
+660;24614;FONDAMENTI ROMANISTICI DEL DIRITTO EUROPEO (2);;modulo;37627;Mattioli Fabiana;;;335104;204196;204196;
+660;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204197;;35946;Legnani Annichini Alessia;Italiano;;204197;0;204197;
+660;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (1);;modulo;35946;Legnani Annichini Alessia;Italiano;;401306;204197;204197;401306
+660;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO (2);;modulo;32597;Bonacini Pierpaolo;;;401307;204197;204197;401307
+660;815;PROCEDURA PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204218;;36911;Valentini Elena;Italiano;;204218;0;204218;
+660;815;PROCEDURA PENALE (1);;modulo;36911;Valentini Elena;Italiano;;369386;204218;204218;
+660;815;PROCEDURA PENALE (2);;modulo;34214;Vicoli Daniele;;;369387;204218;204218;
+660;217;DIRITTO AMMINISTRATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204219;;15852;Caia Giuseppe;Italiano;;204219;0;204219;
+660;217;DIRITTO AMMINISTRATIVO (1);;modulo;15852;Caia Giuseppe;Italiano;;415251;204219;204219;415251
+660;217;DIRITTO AMMINISTRATIVO (2);;modulo;40622;Pozzani Paola;;;415254;204219;204219;415254
+660;217;DIRITTO AMMINISTRATIVO (3);;modulo;38434;Dallari Filippo;;;415252;204219;204219;415252
+660;239;DIRITTO TRIBUTARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204220;;65055;Tassani Thomas;Italiano;;204220;0;204220;
+660;57802;DIRITTO DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204223;;41320;Mengozzi Pieralberto;Italiano;;204223;0;204223;204223
+660;3639;DIRITTO REGIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204224;;34320;Belletti Michele;Italiano;;204224;0;204224;331029
+660;218;DIRITTO CANONICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204226;;31031;Boni Geraldina;Italiano;;204226;0;204226;
+660;225;DIRITTO DELLA NAVIGAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204228;;33628;Tellarini Greta;Italiano;;204228;0;204228;414698
+660;1261;DIRITTO DI FAMIGLIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204331;;32192;Balestra Luigi;Italiano;;204331;0;204331;
+660;1261;DIRITTO DI FAMIGLIA (1);;modulo;32192;Balestra Luigi;Italiano;;414702;204331;204331;
+660;1261;DIRITTO DI FAMIGLIA (2);;modulo;37607;Martino Marco;;;414703;204331;204331;
+660;24629;DIRITTO COSTITUZIONALE AVANZATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204370;;40581;Raffiotta Edoardo Carlo;Italiano;;204370;0;204370;
+660;24628;LINGUA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/204379;;46834;Russo Alessandro;Italiano;;204379;0;204379;
+660;46818;DIRITTI FONDAMENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309932;;40542;Drigo Caterina;Italiano;;309932;0;309932;309932
+660;13029;DIRITTO PROCESSUALE GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309942;;39282;Bonatti Roberto;Italiano;;309942;0;309942;329942
+660;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309946;;40395;Pedrini Giulio;Italiano;;309946;0;309946;331951
+660;3575;SOCIOLOGIA DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309948;;34489;Verza Annalisa;Italiano;;309948;0;309948;400761
+660;942;STORIA DEL DIRITTO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/309952;;35939;Tarozzi Simona;Italiano;;309952;0;309952;
+660;2513;CRIMINOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310022;;41758;Sbraccia Alvise;Italiano;;310022;0;310022;
+660;26119;CONTRATTI INTERNAZIONALI E UNIFORMAZIONE DEL DIRITTO ( INTERNATIONAL CONTRACTS AND LEGAL HARMONIZATION );http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310026;;43466;Franciosi Laura Maria;Inglese;;310026;0;310026;331958
+660;228;DIRITTO FALLIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310027;;35431;Guerrieri Gianluca;;;310027;0;310027;331954
+660;228;DIRITTO FALLIMENTARE (1);;modulo;;;;;369292;310027;310027;
+660;228;DIRITTO FALLIMENTARE (2);;modulo;;;;;369293;310027;310027;
+660;17234;DIRITTO DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310028;;39274;Gilotta Sergio;Italiano;;310028;0;310028;331037
+660;26120;DIRITTO DEL LAVORO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310029;;39856;Casale Davide;Italiano;;310029;0;310029;331024
+660;9260;DIRITTO DEI TRASPORTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310030;;34208;Romagnoli Alessandra;;;310030;0;310030;414699
+660;24630;DIRITTO DELL'AMBIENTE E DEL GOVERNO DEL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310031;;39115;Calcagnile Massimo;Italiano;;310031;0;310031;
+660;24630;DIRITTO DELL'AMBIENTE E DEL GOVERNO DEL TERRITORIO (1);;modulo;39115;Calcagnile Massimo;Italiano;;416494;310031;310031;416492
+660;24630;DIRITTO DELL'AMBIENTE E DEL GOVERNO DEL TERRITORIO (2);;modulo;40622;Pozzani Paola;;;416495;310031;310031;416493
+660;30001;DIRITTO DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310033;;30577;Berti Carlo;;;310033;0;310033;
+660;3919;DIRITTO DELLA PREVIDENZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310036;;39856;Casale Davide;Italiano;;310036;0;310036;310036
+660;229;DIRITTO INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310038;;42074;Spedicato Giorgio;Italiano;;310038;0;310038;331949
+660;7535;DIRITTO PENALE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310041;;32817;Curi Francesca;Italiano;;310041;0;310041;349703
+660;13943;LEGISLAZIONE DEL TURISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310052;;15988;Zunarelli Stefano;Italiano;;310052;0;310052;
+660;13943;LEGISLAZIONE DEL TURISMO (1);;modulo;15988;Zunarelli Stefano;Italiano;;419992;310052;310052;394850
+660;13943;LEGISLAZIONE DEL TURISMO (2);;modulo;35868;Campione Riccardo;;;419993;310052;310052;394851
+660;702;MEDICINA LEGALE E DELLE ASSICURAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/310056;;24384;Pelotti Susi;Italiano;;310056;0;310056;
+660;702;MEDICINA LEGALE E DELLE ASSICURAZIONI (1);;modulo;24384;Pelotti Susi;Italiano;;414747;310056;310056;
+660;702;MEDICINA LEGALE E DELLE ASSICURAZIONI (2);;modulo;43373;Salsi Giancarlo;;;414748;310056;310056;
+660;1879;DIRITTO ECCLESIASTICO ITALIANO E COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328293;;35954;De Oto Antonello;Italiano;;328293;0;328293;
+660;40315;CONTABILITA E BILANCIO;;;;;;;340713;0;340713;
+660;39602;FONDAMENTI DI LOGICA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361391;;15992;Artosi Alberto;Italiano;;361391;0;361391;361391
+660;68978;DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375793;;32817;Curi Francesca;Italiano;;375793;0;375793;420380
+660;3923;TEORIA GENERALE DEL DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388731;;35641;Vida Silvia;Italiano;;388731;0;388731;
+660;3923;TEORIA GENERALE DEL DIRITTO (1);;modulo;35641;Vida Silvia;Italiano;;415132;388731;388731;400876
+660;3923;TEORIA GENERALE DEL DIRITTO (2);;modulo;35641;Vida Silvia;Italiano;;415133;388731;388731;400877
+660;74773;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390966;;35868;Campione Riccardo;Italiano;;390966;0;390966;
+660;74773;DIRITTO PRIVATO (1);;modulo;35868;Campione Riccardo;Italiano;;401353;390966;390966;
+660;74773;DIRITTO PRIVATO (2);;modulo;37625;Albanese Antonio;;;401354;390966;390966;
+660;74774;DIRITTO CIVILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390967;;36954;Al Mureden Enrico;Italiano;;390967;0;390967;
+660;74774;DIRITTO CIVILE (1);;modulo;36954;Al Mureden Enrico;Italiano;;414722;390967;390967;
+660;74774;DIRITTO CIVILE (2);;modulo;37607;Martino Marco;;;414723;390967;390967;
+660;77977;DIRITTO DEI TRASPORTI, DEL MARE E DELLA NAVIGAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400725;;33628;Tellarini Greta;Italiano;;400725;0;400725;
+660;77977;DIRITTO DEI TRASPORTI, DEL MARE E DELLA NAVIGAZIONE (1);;modulo;33628;Tellarini Greta;Italiano;;414698;400725;400725;414698
+660;77977;DIRITTO DEI TRASPORTI, DEL MARE E DELLA NAVIGAZIONE (2);;modulo;34208;Romagnoli Alessandra;;;414699;400725;400725;414699
+660;77978;IMPRESA SOSTENIBILE E GREEN ECONOMY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400727;;40395;Pedrini Giulio;Italiano;;400727;0;400727;331951
+660;77987;DIRITTO AGRO-ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400737;;30579;Sgarbanti Giulio;Italiano;;400737;0;400737;412186
+660;78013;SOCIOLOGIA DEL DIRITTO E DELLE CULTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400761;;34489;Verza Annalisa;Italiano;;400761;0;400761;400761
+660;78017;DIRITTO DELLA SICUREZZA PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400767;;34318;Giupponi Tomaso Francesco;Italiano;;400767;0;400767;
+660;78017;DIRITTO DELLA SICUREZZA PUBBLICA (1);;modulo;34318;Giupponi Tomaso Francesco;Italiano;;414700;400767;400767;
+660;78017;DIRITTO DELLA SICUREZZA PUBBLICA (2);;modulo;41815;Caruso Corrado;;;414701;400767;400767;
+660;78113;TEORIA DELLA GIUSTIZIA (GLOBAL JUSTICE);;;;;;;400874;0;400874;
+660;78114;GLOBAL JUSTICE, TEORIA MORALE E METAETICA (GLOBAL JUSTICE, MORAL THEORY AND METAETHICS);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400876;modulo;35641;Vida Silvia;Italiano;;400876;400874;400874;400876
+660;78115;GLOBAL JUSTICE E ISTITUZIONI INTERNAZIONALI (GLOBAL JUSTICE AND INTERNATIONAL INSTITUTIONS);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400877;modulo;35641;Vida Silvia;Italiano;;400877;400874;400874;400877
+660;79548;PROFILI DI DIRITTO PENALE SOSTANZIALE E PROCESSUALE NEL FENOMENO MIGRATORIO;;;;;;;404386;0;404386;
+660;78126;LO 'STRANIERO' QUALE AUTORE O VITTIMA DI REATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404387;modulo;32817;Curi Francesca;Italiano;;404387;404386;404386;
+660;78125;PROCEDURA PENALE DELL'IMMIGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404388;modulo;36911;Valentini Elena;Italiano;;404388;404386;404386;
+660;79549;IMMIGRAZIONE, MUTAMENTO SOCIALE E DIRITTO DEL LAVORO;;;;;;;404389;0;404389;
+660;78127;I RAPPORTI DI LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404390;modulo;39964;Martelloni Federico;Italiano;;404390;404389;404389;
+660;79550;SOCIOLOGIA DELLE MIGRAZIONI, PROCESSI DI REGOLAZIONE E CRIMINALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404391;modulo;41758;Sbraccia Alvise;Italiano;;404391;404389;404389;
+660;36696;SEM. FIRMA DIGITALE: SERVIZI CAMERALI E PROCESSO CIVILE TELEMATICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405067;;34488;Palmirani Monica;Italiano;;405067;0;405067;405067
+660;81765;STORIA DEL DIRITTO COMMERCIALE E MARITTIMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412214;;35946;Legnani Annichini Alessia;Italiano;;412214;0;412214;
+660;81765;STORIA DEL DIRITTO COMMERCIALE E MARITTIMO (1);;modulo;35946;Legnani Annichini Alessia;Italiano;;419409;412214;412214;401306
+660;81765;STORIA DEL DIRITTO COMMERCIALE E MARITTIMO (2);;modulo;32597;Bonacini Pierpaolo;;;419410;412214;412214;401307
+660;82550;Sem. Tecniche di redazione degli atti processuali civili;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415086;;33325;Lupoi Michele Angelo;Italiano;;415086;0;415086;
+660;82551;Sem. I procedimenti della crisi matrimoniale;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415087;;33325;Lupoi Michele Angelo;Italiano;;415087;0;415087;
+660;82552;Sem. questioni di genere e diritto sul grande schermo;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415090;;34489;Verza Annalisa;Italiano;;415090;0;415090;415090
+660;82553;Sem. Elementi di procedura penale applicata;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415100;;36911;Valentini Elena;Italiano;;415100;0;415100;415100
+915;536;ISTITUZIONI DI DIRITTO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329294;;35939;Tarozzi Simona;Italiano;;329294;0;329294;
+915;222;DIRITTO COSTITUZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329314;;34316;Bologna Chiara;Italiano;;329314;0;329314;
+915;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329355;;30434;Atti Annalisa;Italiano;;329355;0;329355;
+915;53513;STORIA DEL DIRITTO MODERNO E CONTEMPORANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329361;;32597;Bonacini Pierpaolo;Italiano;;329361;0;329361;
+915;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329370;;16681;Nuti Giovanetti Fabio;Italiano;;329370;0;329370;329370
+915;217;DIRITTO AMMINISTRATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329395;;30823;Roversi Monaco Maria Giulia;Italiano;;329395;0;329395;
+915;217;DIRITTO AMMINISTRATIVO (1);;modulo;30823;Roversi Monaco Maria Giulia;Italiano;;414641;329395;329395;
+915;217;DIRITTO AMMINISTRATIVO (2);;modulo;30928;Lolli Alessandro;;;414642;329395;329395;
+915;19012;DIRITTO PROCESSUALE GENERALE, DEL LAVORO E DELLE PROCEDURE CONCORSUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329397;;30179;Brunelli Brunella;Italiano;;329397;0;329397;
+915;24243;DIRITTO DEL MERCATO E DEI RAPPORTI DI LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329398;;32092;Lassandari Andrea;Italiano;;329398;0;329398;
+915;12310;DIRITTO DELL'IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330761;;30099;Toni Anna Maria;Italiano;;330761;0;330761;
+915;31888;SOCIOLOGIA DEI PROCESSI ECONOMICI E DINAMICHE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330766;;32789;Pellegrini Stefania;Italiano;;330766;0;330766;
+915;31888;SOCIOLOGIA DEI PROCESSI ECONOMICI E DINAMICHE DEL LAVORO (1);;modulo;32789;Pellegrini Stefania;Italiano;;387898;330766;330766;
+915;31888;SOCIOLOGIA DEI PROCESSI ECONOMICI E DINAMICHE DEL LAVORO (2);;modulo;37530;Zullo Silvia;;;387899;330766;330766;
+915;31890;DIRITTO EUROPEO E INTERNAZIONALE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330774;;37534;Di Federico Giacomo;Italiano;;330774;0;330774;
+915;31890;DIRITTO EUROPEO E INTERNAZIONALE DEL LAVORO (1);;modulo;37534;Di Federico Giacomo;Italiano;;418825;330774;330774;
+915;31890;DIRITTO EUROPEO E INTERNAZIONALE DEL LAVORO (2);;modulo;15803;Zanobetti Alessandra;;;418826;330774;330774;
+915;58019;DIRITTO DELLA SICUREZZA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330776;;16882;Tullini Patrizia;Italiano;;330776;0;330776;
+915;58019;DIRITTO DELLA SICUREZZA DEL LAVORO (1);;modulo;16882;Tullini Patrizia;Italiano;;419857;330776;330776;
+915;58019;DIRITTO DELLA SICUREZZA DEL LAVORO (2);;modulo;48071;Donini Annamaria;;;419858;330776;330776;
+915;3919;DIRITTO DELLA PREVIDENZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330779;;34215;Vincieri Martina;Italiano;;330779;0;330779;
+915;31894;DIRITTO SINDACALE E DELLE RELAZIONI AZIENDALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330780;;38565;Navilli Monica;Italiano;;330780;0;330780;
+915;31897;DIRITTO PENALE GENERALE E DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330791;;39900;Tordini Cagli Silvia;Italiano;;330791;0;330791;
+915;15349;TIROCINIO;;;;;;;330796;0;330796;
+915;26356;IDONEITA' LINGUA FRANCESE B - 1;;;;;;;371281;0;371281;
+915;26338;IDONEITA' LINGUA INGLESE B - 1;;;;;;;371282;0;371282;
+915;26350;IDONEITA' LINGUA SPAGNOLA B - 1;;;;;;;371283;0;371283;
+915;26344;IDONEITA' LINGUA TEDESCA B - 1;;;;;;;371284;0;371284;
+915;36666;SEM. ETICA E POLITICA NELLA PROSPETTIVA DEGLI STUDI DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372980;;15172;Faralli Carla;Italiano;;372980;0;372980;401318
+915;38811;SEM. DISCRIMINAZIONI E DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373060;;32789;Pellegrini Stefania;Italiano;;373060;0;373060;
+915;38811;SEM. DISCRIMINAZIONI E DIRITTO (1);;modulo;32789;Pellegrini Stefania;Italiano;;401319;373060;373060;404237
+915;38811;SEM. DISCRIMINAZIONI E DIRITTO (2);;modulo;37530;Zullo Silvia;;;401320;373060;373060;404238
+915;9945;INFORMATICA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373716;;34145;Brighi Raffaella;Italiano;;373716;0;373716;
+915;11460;DIRITTO TRIBUTARIO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377495;;36987;Mondini Andrea;Italiano;;377495;0;377495;
+915;7276;INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379104;;24434;Tura Francesco;Italiano;;379104;0;379104;
+915;73849;SEM. DIRITTO COSTITUZIONALE DELLA COMUNIT?« INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388292;;30469;Mezzetti Luca;Italiano;;388292;0;388292;404163
+915;79104;SEM. WELFARE STATE: EVOLUZIONI E PROBLEMI ATTUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403087;;16681;Nuti Giovanetti Fabio;Italiano;;403087;0;403087;
+915;82536;Sem. Approfondimento in materia di diritti reali;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414976;;30577;Berti Carlo;Italiano;;414976;0;414976;414975
+915;82537;Sem. Approfondimento in materia di successioni e donazioni;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414978;;30577;Berti Carlo;Italiano;;414978;0;414978;414977
+915;82538;Sem. Approfondimento in tema di filiazioni e unioni di fatto;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414981;;30577;Berti Carlo;Italiano;;414981;0;414981;414980
+915;82539;Sem. Il nuovo processo canonico di nullita' del matrimonio: effetti nell'ordinamento italiano;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414983;;31031;Boni Geraldina;Italiano;;414983;0;414983;414982
+915;82543;Sem. Integrazione fiscale europea;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415077;;36987;Mondini Andrea;Italiano;;415077;0;415077;415074
+915;82545;Sem. Il processo civile telematico;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415081;;34488;Palmirani Monica;Italiano;;415081;0;415081;415080
+915;82548;Sem. Pensare da giurista. Un percorso introduttivo allo studio formativo per consulente del lavoro e delle relazioni aziendali;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415084;;35939;Tarozzi Simona;Italiano;;415084;0;415084;
+915;82549;Sem. Il bilancio e le scritture contabili;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415085;;30099;Toni Anna Maria;Italiano;;415085;0;415085;
+915;84043;Sem. In vista del referendum: capire la riforma costituzionale;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420919;;33514;Morrone Andrea;Italiano;;420919;0;420919;420917
+916;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328305;;31992;Rolli Rita;Italiano;;328305;0;328305;
+916;11316;DIRITTO PRIVATO (1);;modulo;31992;Rolli Rita;Italiano;;420647;328305;328305;
+916;11316;DIRITTO PRIVATO (2);;modulo;37607;Martino Marco;;;420648;328305;328305;
+916;222;DIRITTO COSTITUZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328306;;34322;Tega Diletta;Italiano;;328306;0;328306;
+916;536;ISTITUZIONI DI DIRITTO ROMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328308;;33134;Briguglio Filippo;Italiano;;328308;0;328308;
+916;5505;STORIA DELLE CODIFICAZIONI MODERNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328314;;37596;Bruschi Ugo;Italiano;;328314;0;328314;
+916;9945;INFORMATICA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328316;;34488;Palmirani Monica;Italiano;;328316;0;328316;
+916;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328319;;34768;Leoncini Riccardo;Italiano;;328319;0;328319;204139
+916;58307;LINGUA STRANIERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328328;;46834;Russo Alessandro;Italiano;;328328;0;328328;204380
+916;224;DIRITTO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329928;;39964;Martelloni Federico;Italiano;;329928;0;329928;
+916;31561;DIRITTO AMMINISTRATIVO E DEGLI APPALTI PUBBLICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329936;;15852;Caia Giuseppe;Italiano;;329936;0;329936;
+916;31561;DIRITTO AMMINISTRATIVO E DEGLI APPALTI PUBBLICI (1);;modulo;15852;Caia Giuseppe;Italiano;;415255;329936;329936;415251
+916;31561;DIRITTO AMMINISTRATIVO E DEGLI APPALTI PUBBLICI (2);;modulo;40622;Pozzani Paola;;;415256;329936;329936;415254
+916;31561;DIRITTO AMMINISTRATIVO E DEGLI APPALTI PUBBLICI (3);;modulo;38434;Dallari Filippo;;;415435;329936;329936;415252
+916;31562;TUTELE GIURISDIZIONALI E PROCEDURE ALTERNATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329942;;39282;Bonatti Roberto;Italiano;;329942;0;329942;329942
+916;31825;DIRITTO TRIBUTARIO DELL'IMPRESA E DEGLI ENTI PUBBLICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330611;;65055;Tassani Thomas;Italiano;;330611;0;330611;
+916;221;DIRITTO COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330624;;35846;Guidotti Rolandino Guido;Italiano;;330624;0;330624;
+916;221;DIRITTO COMMERCIALE (1);;modulo;35846;Guidotti Rolandino Guido;Italiano;;415157;330624;330624;414718
+916;221;DIRITTO COMMERCIALE (2);;modulo;39274;Gilotta Sergio;;;415159;330624;330624;414719
+916;49122;DIRITTO DEI CONTRATTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330625;;35287;Facci Giovanni;Italiano;;330625;0;330625;
+916;9260;DIRITTO DEI TRASPORTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330628;;34208;Romagnoli Alessandra;Italiano;;330628;0;330628;
+916;225;DIRITTO DELLA NAVIGAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330633;;33628;Tellarini Greta;Italiano;;330633;0;330633;
+916;26120;DIRITTO DEL LAVORO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331024;;39856;Casale Davide;Italiano;;331024;0;331024;331024
+916;3639;DIRITTO REGIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331029;;34320;Belletti Michele;Italiano;;331029;0;331029;331029
+916;15212;DIRITTO DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331035;;39115;Calcagnile Massimo;Italiano;;331035;0;331035;
+916;15212;DIRITTO DELL'AMBIENTE (1);;modulo;39115;Calcagnile Massimo;Italiano;;416492;331035;331035;416492
+916;15212;DIRITTO DELL'AMBIENTE (2);;modulo;40622;Pozzani Paola;;;416493;331035;331035;416493
+916;17234;DIRITTO DEI MERCATI FINANZIARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331037;;39274;Gilotta Sergio;Italiano;;331037;0;331037;331037
+916;232;DIRITTO PRIVATO COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331906;;43466;Franciosi Laura Maria;Italiano;;331906;0;331906;204152
+916;32425;DIRITTO DELLA PROPRIETA' INTELLETTUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331949;;42074;Spedicato Giorgio;Italiano;;331949;0;331949;331949
+916;58018;STRATEGIE E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331951;;40395;Pedrini Giulio;Italiano;;331951;0;331951;331951
+916;228;DIRITTO FALLIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331954;;35431;Guerrieri Gianluca;Italiano;;331954;0;331954;331954
+916;13943;LEGISLAZIONE DEL TURISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331956;;15988;Zunarelli Stefano;Italiano;;331956;0;331956;
+916;13943;LEGISLAZIONE DEL TURISMO (1);;modulo;15988;Zunarelli Stefano;Italiano;;394850;331956;331956;394850
+916;13943;LEGISLAZIONE DEL TURISMO (2);;modulo;35868;Campione Riccardo;;;394851;331956;331956;394851
+916;26119;CONTRATTI INTERNAZIONALI E UNIFORMAZIONE DEL DIRITTO ( INTERNATIONAL CONTRACTS AND LEGAL HARMONIZATION );http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331958;;43466;Franciosi Laura Maria;Inglese;;331958;0;331958;331958
+916;57802;DIRITTO DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331960;;41320;Mengozzi Pieralberto;Italiano;;331960;0;331960;204223
+916;236;DIRITTO PUBBLICO COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331973;;34188;Bagni Silvia;Italiano;;331973;0;331973;204153
+916;36696;SEM. FIRMA DIGITALE: SERVIZI CAMERALI E PROCESSO CIVILE TELEMATICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346974;;34488;Palmirani Monica;Italiano;;346974;0;346974;405067
+916;37174;SOCIOLOGIA GIURIDICA NEI PROCESSI ECONOMICI E DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349697;;34489;Verza Annalisa;Italiano;;349697;0;349697;
+916;7535;DIRITTO PENALE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349703;;32817;Curi Francesca;Italiano;;349703;0;349703;349703
+916;68978;DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/375774;;32817;Curi Francesca;Italiano;;375774;0;375774;
+916;68978;DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE (1);;modulo;32817;Curi Francesca;Italiano;;420380;375774;375774;420380
+916;68978;DIRITTO PENALE DELL'ECONOMIA E DELLA PUBBLICA AMMINISTRAZIONE (2);;modulo;40534;Nisco Attilio;;;420381;375774;375774;
+916;24628;LINGUA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388727;;46834;Russo Alessandro;Italiano;;388727;0;388727;204380
+916;74836;DIRITTO DELLA PREVIDENZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391033;;39856;Casale Davide;Italiano;;391033;0;391033;310036
+916;77987;DIRITTO AGRO-ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412186;;30579;Sgarbanti Giulio;Italiano;;412186;0;412186;412186
+916;82552;Sem. questioni di genere e diritto sul grande schermo;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415095;;34489;Verza Annalisa;Italiano;;415095;0;415095;415090
+916;82553;Sem. Elementi di procedura penale applicata;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415101;;36911;Valentini Elena;Italiano;;415101;0;415101;415100
+659;40344;INTERNATIONAL LAW;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332719;;40005;Tanzi Attila Massimiliano;Inglese;;332719;0;332719;

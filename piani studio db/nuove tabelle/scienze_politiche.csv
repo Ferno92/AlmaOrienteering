@@ -1,0 +1,774 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+8040;905;SOCIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325049;;42250;Martignani Luca;Italiano;;325049;0;325049;
+8040;9680;PRINCIPI E FONDAMENTI DEL SERVIZIO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325053;;36137;Mantovani Francesca;Italiano;;325053;0;325053;
+8040;9681;METODI E TECNICHE DEL SERVIZIO SOCIALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325091;;42265;Sirimarco Teresa Raffaella;Italiano;;325091;0;325091;
+8040;932;STORIA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325101;;39543;Botta Salvatore;Italiano;;325101;0;325101;
+8040;29218;METODOLOGIA E TECNICA DELLA RICERCA SOCIALE SUL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325408;;32179;Castrignan?? Marco;Italiano;;325408;0;325408;
+8040;29218;METODOLOGIA E TECNICA DELLA RICERCA SOCIALE SUL TERRITORIO (1);;modulo;32179;Castrignan?? Marco;Italiano;;414970;325408;325408;
+8040;29218;METODOLOGIA E TECNICA DELLA RICERCA SOCIALE SUL TERRITORIO (2);;modulo;42551;Landi Alessandra;;;414971;325408;325408;
+8040;13180;TEORIA DEI PROCESSI DI SOCIALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325409;;16854;Pieretti Giovanni;Italiano;;325409;0;325409;
+8040;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325410;;16071;Pellican?? Aldo Alessandro;Italiano;;325410;0;325410;
+8040;11316;DIRITTO PRIVATO (1);;modulo;16071;Pellican?? Aldo Alessandro;Italiano;;394304;325410;325410;
+8040;11316;DIRITTO PRIVATO (2);;modulo;40753;Bravo Fabio;;;394305;325410;325410;
+8040;29219;TERRITORIO, MUTAMENTO SOCIALE E PATOLOGIE PSICHIATRICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325412;;36794;Cambria Santino;Italiano;;325412;0;325412;
+8040;29220;SOCIOLOGIA DEI SERVIZI SOCIALI DI TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325414;;32834;Bergamaschi Maurizio;Italiano;;325414;0;325414;
+8040;9686;METODI E TECNICHE DEL SERVIZIO SOCIALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325415;;35187;Galli Dina;Italiano;;325415;0;325415;
+8040;2129;SOCIOLOGIA CRIMINALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325418;;32718;Sette Raffaella;Italiano;;325418;0;325418;
+8040;17268;PROVA FINALE;;;;;;;325421;0;325421;
+8040;40430;ELEMENTI DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327709;;15496;Soci Anna;Italiano;;327709;0;327709;
+8040;644;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327751;;33258;Johnson Jane Helen;Inglese;;327751;0;327751;
+8040;639;LINGUA FRANCESE;;;;;;;327755;0;327755;
+8040;30617;"SEMINARIO ""OPERARE CON LE PERSONE SENZA DIMORA""";http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327986;;32834;Bergamaschi Maurizio;Italiano;;327986;0;327986;
+8040;37356;ORGANIZZAZIONE DEI SERVIZI SOCIALI SUL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351951;;56543;Ciarrocchi Rosa Angela;Italiano;;351951;0;351951;
+8040;534;ISTITUZIONI DI DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361448;;16000;Scavone Angelo;Italiano;;361448;0;361448;
+8040;534;ISTITUZIONI DI DIRITTO PUBBLICO (1);;modulo;16000;Scavone Angelo;Italiano;;410926;361448;361448;
+8040;534;ISTITUZIONI DI DIRITTO PUBBLICO (2);;modulo;15978;Marchian?? Giovanna;;;410927;361448;361448;
+8040;33798;TIROCINIO (16 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364263;;36137;Mantovani Francesca;Italiano;;364263;0;364263;
+8040;66045;PSICOLOGIA SOCIALE (12 CFU) (C.I.);;;;;;;364822;0;364822;
+8040;3330;PSICOLOGIA SOCIALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364823;modulo;47893;Crocetti Elisabetta;Italiano;;364823;364822;364822;
+8040;3331;PSICOLOGIA SOCIALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364824;modulo;47893;Crocetti Elisabetta;Italiano;;364824;364822;364822;
+8040;3331;PSICOLOGIA SOCIALE II (1);;modulo;47893;Crocetti Elisabetta;Italiano;;419019;364824;364822;
+8040;3331;PSICOLOGIA SOCIALE II (2);;modulo;46732;Prati Francesca;Italiano;;419020;364824;364822;
+8040;66050;PSICOLOGIA DEL LAVORO (9 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364833;;41871;Balducci Cristian;Italiano;;364833;0;364833;392889
+8040;68274;LABORATORIO DI GUIDA AL TIROCINIO (7 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373059;;36137;Mantovani Francesca;Italiano;;373059;0;373059;
+8040;68274;LABORATORIO DI GUIDA AL TIROCINIO (7 CFU) (1);;modulo;36137;Mantovani Francesca;Italiano;;394013;373059;373059;
+8040;68274;LABORATORIO DI GUIDA AL TIROCINIO (7 CFU) (2);;modulo;37262;Manella Gabriele;;;394014;373059;373059;
+8040;69618;"SEMINARIO ""MINORI E GIUSTIZIA""";http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376729;;38094;Rescigno Maria;Italiano;;376729;0;376729;376729
+8040;29041;SEMINARIO DI SOCIOLOGIA VISUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376768;;36137;Mantovani Francesca;Italiano;;376768;0;376768;376768
+8040;76221;PROCESSI DI INVECCHIAMENTO E SISTEMI SOCIO-SANITARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394017;;47073;Paolucci Francesco;Italiano;;394017;0;394017;
+8040;76336;WELFARE, SUSSIDIARIET?« E INNOVAZIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394237;;14918;Colozzi Ivo;Italiano;;394237;0;394237;394237
+8040;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395721;;32834;Bergamaschi Maurizio;;;395721;0;395721;
+8040;42972;DIRITTO DEI SERVIZI SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405991;;39581;Golino Claudia;Italiano;;405991;0;405991;
+8040;3383;STATISTICA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412090;;36495;Vanelli Valerio;Italiano;;412090;0;412090;
+8040;9117;SOCIOLOGIA DELLA FAMIGLIA E DELL'EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412816;;36796;Bertocchi Federica;Italiano;;412816;0;412816;392894
+8040;72822;RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415327;;32179;Castrignan?? Marco;;;415327;0;415327;
+8040;82669;LINGUA FRANCESE (6 CFU);;;;;;;415620;0;415620;
+8048;9446;MICROECONOMIA;;;;;;;329721;0;329721;
+8048;914;STATISTICA;;;;;;;329725;0;329725;
+8048;914;STATISTICA (M-Z) (1);;modulo;36816;Stracqualursi Luisa;;;404118;394700;329725;
+8048;914;STATISTICA (M-Z) (2);;modulo;39922;Bianconcini Silvia;Italiano;;404119;394700;329725;
+8048;8949;DIRITTO COSTITUZIONALE COMPARATO;;;;;;;329728;0;329728;
+8048;8949;DIRITTO COSTITUZIONALE COMPARATO (M-Z) (1);;modulo;33720;Pavani Giorgia;Italiano;;420318;378242;329728;
+8048;8949;DIRITTO COSTITUZIONALE COMPARATO (M-Z) (2);;modulo;43107;De Girolamo Carlo Ugo;;;420319;378242;329728;
+8048;932;STORIA CONTEMPORANEA;;;;;;;329730;0;329730;
+8048;983;STORIA DELLE DOTTRINE POLITICHE;;;;;;;329732;0;329732;
+8048;230;DIRITTO INTERNAZIONALE;;;;;;;329733;0;329733;
+8048;8795;MACROECONOMIA;;;;;;;329756;0;329756;
+8048;895;SCIENZA POLITICA;;;;;;;329757;0;329757;
+8048;15920;LABORATORIO INFORMATICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329758;;41293;Scheda Matteo;Italiano;;329758;0;329758;
+8048;25980;LABORATORIO DI RICERCA BIBLIOGRAFICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329759;;24385;Pederzoli Patrizia;Italiano;;329759;0;329759;
+8048;2537;ECONOMIA INTERNAZIONALE;;;;;;;329765;0;329765;
+8048;2537;ECONOMIA INTERNAZIONALE (A-L) (1);;modulo;40880;Vergari Cecilia;Italiano;;404111;394051;329765;
+8048;2537;ECONOMIA INTERNAZIONALE (A-L) (2);;modulo;46894;Grazzi Marco;;;404112;394051;329765;
+8048;2537;ECONOMIA INTERNAZIONALE (M-Z) (1);;modulo;40880;Vergari Cecilia;Italiano;;404113;394052;329765;
+8048;2537;ECONOMIA INTERNAZIONALE (M-Z) (2);;modulo;46894;Grazzi Marco;Italiano;;404114;394052;329765;
+8048;2493;RELAZIONI INTERNAZIONALI;;;;;;;329766;0;329766;
+8048;5515;STORIA DELLE RELAZIONI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329770;;50663;Soave Paolo;Italiano;;329770;0;329770;
+8048;4491;SOCIOLOGIA DEI PROCESSI CULTURALI;;;;;;;331334;0;331334;
+8048;15249;STORIA E ISTITUZIONI DELL'AMERICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353165;;32142;Zanatta Loris;Italiano;;353165;0;353165;353165
+8048;17651;STORIA ECONOMICA DELL'EUROPA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353166;;32070;Fauri Francesca;Italiano;;353166;0;353166;
+8048;23960;STORIA DEGLI STATI UNITI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353226;;43507;Battistini Matteo;Italiano;;353226;0;353226;
+8048;17646;ISTITUZIONI E POLITICHE DELL'UE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353228;;24364;Lizzi Renata;Italiano;;353228;0;353228;
+8048;78448;TOPICS IN ECONOMIC POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353229;;31490;Rovelli Riccardo;Inglese;;353229;0;353229;
+8048;78448;TOPICS IN ECONOMIC POLICY (1);;modulo;31490;Rovelli Riccardo;Inglese;;353230;353229;353229;
+8048;78448;TOPICS IN ECONOMIC POLICY (2);;modulo;39868;Casari Marco;;;353232;353229;353229;
+8048;78448;TOPICS IN ECONOMIC POLICY (3);;modulo;36885;Lehmann Hartmut;;;416167;353229;353229;
+8048;4871;SISTEMA POLITICO ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/353233;;24385;Pederzoli Patrizia;Italiano;;353233;0;353233;
+8048;59960;LINGUA INGLESE E LABORATORIO I;;;;;;;362091;0;362091;
+8048;59961;LINGUA INGLESE E LABORATORIO II;;;;;;;362092;0;362092;
+8048;39972;LINGUA FRANCESE E LABORATORIO I;;;;;;;362093;0;362093;
+8048;39973;LINGUA FRANCESE E LABORATORIO II;;;;;;;362094;0;362094;
+8048;39974;LINGUA RUSSA E LABORATORIO I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362095;;34304;Berardi Simona;Italiano;;362095;0;362095;362095
+8048;39975;LINGUA RUSSA E LABORATORIO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362096;;34304;Berardi Simona;Italiano;;362096;0;362096;362096
+8048;39976;LINGUA SPAGNOLA E LABORATORIO II;;;;;;;362097;0;362097;
+8048;39977;LINGUA SPAGNOLA E LABORATORIO I;;;;;;;362098;0;362098;
+8048;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. A) (1);;modulo;15584;San Vicente Santiago Felix;Spagnolo;;378314;369222;362098;378314
+8048;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. A) (2);;modulo;38254;Lombardini Hugo Edgardo;;;378315;369222;362098;394056
+8048;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. B) (1);;modulo;38254;Lombardini Hugo Edgardo;Spagnolo;;394055;369223;362098;394055
+8048;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. B) (2);;modulo;38254;Lombardini Hugo Edgardo;;;394056;369223;362098;394056
+8048;39978;LINGUA TEDESCA E LABORATORIO I;;;;;;;362099;0;362099;
+8048;39979;LINGUA TEDESCA E LABORATORIO II;;;;;;;362100;0;362100;
+8048;9663;STORIA E ISTITUZIONI DELL'AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386945;;39906;Pallotti Arrigo;Italiano;;386945;0;386945;
+8048;77761;SOCIETA', POLITICA E GLOBALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400372;;16703;Belardinelli Sergio;Italiano;;400372;0;400372;
+8048;77761;SOCIETA', POLITICA E GLOBALIZZAZIONE (1);;modulo;16703;Belardinelli Sergio;Italiano;;403438;400372;400372;
+8048;77761;SOCIETA', POLITICA E GLOBALIZZAZIONE (2);;modulo;38251;Gattamorta Lorenza;;;403439;400372;400372;
+8048;10009;STORIA DELL'INTEGRAZIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400373;;32091;Laschi Giuliana;Italiano;;400373;0;400373;
+8048;10009;STORIA DELL'INTEGRAZIONE EUROPEA (1);;modulo;32091;Laschi Giuliana;Italiano;;403440;400373;400373;
+8048;10009;STORIA DELL'INTEGRAZIONE EUROPEA (2);;modulo;47163;Santese Angela;;;403441;400373;400373;
+8048;29234;DEMOGRAFIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400374;;16736;Rettaroli Rosella;Italiano;;400374;0;400374;
+8048;29234;DEMOGRAFIA INTERNAZIONALE (1);;modulo;16736;Rettaroli Rosella;Italiano;;403436;400374;400374;403436
+8048;29234;DEMOGRAFIA INTERNAZIONALE (2);;modulo;15382;Angeli Aurora;;;403437;400374;400374;403437
+8048;78449;HISTORY AND INSTITUTIONS OF THE MODERN MIDDLE EAST;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401361;;39539;Biancani Francesca;Inglese;;401361;0;401361;
+8048;79136;LABORATORIO DI LETTURA CRITICA (A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402309;;35686;Mul?ø Rosa;Italiano;;402309;0;402309;
+8048;78793;LABORATORIO DI LETTURA DI DOCUMENTI DIPLOMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402310;;30704;Bianchini Stefano;Italiano;;402310;0;402310;
+8048;79138;LABORATORIO DI SCRITTURA ACCADEMICA (A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402311;;38251;Gattamorta Lorenza;Italiano;;402311;0;402311;
+8048;79140;LABORATORIO METODOLOGICO DI RICERCA SOCIALE (A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402314;;30818;Cesa Marco;Italiano;;402314;0;402314;
+8048;79137;LABORATORIO DI LETTURA CRITICA (B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403143;;34306;Terenzi Paolo;Italiano;;403143;0;403143;
+8048;79139;LABORATORIO DI SCRITTURA ACCADEMICA (B);;;;;;;403144;0;403144;
+8048;79141;LABORATORIO METODOLOGICO DI RICERCA SOCIALE (B);;;;;;;403145;0;403145;
+8048;32400;DIRITTO DELL'UE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409378;;38957;Borraccetti Marco;Italiano;;409378;0;409378;
+8048;32400;DIRITTO DELL'UE (1);;modulo;38957;Borraccetti Marco;Italiano;;409379;409378;409378;
+8048;32400;DIRITTO DELL'UE (2);;modulo;48777;Ferri Federico;;;409380;409378;409378;
+8048;78795;LABORATORIO DI TECNICHE DI PRESENTAZIONI IN PUBBLICO;;;;;;;413614;0;413614;
+8048;83438;HISTORY OF EASTERN EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418155;;31700;Privitera Francesco;Inglese;;418155;0;418155;
+8048;83664;CONFLITTI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419314;;46252;Fiammenghi Davide;Italiano;;419314;0;419314;
+8048;83814;CORSO BASE DI LINGUA E CULTURA ARABA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420739;;49356;Hoseini Gassid Mohammed Hossein;;;420739;0;420739;419836
+8048;83815;CORSO BASE DI LINGUA E CULTURA CINESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420740;;82274;Iezzi Adriana;Italiano;;420740;0;420740;419837
+8048;83816;CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420741;;82426;Paulo Cadete Rute Maria;Italiano;;420741;0;420741;419838
+8049;32175;BOSNIAN-CROATIAN-SERBIAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362332;;50415;Kajinic Sanja;Inglese;;362332;0;362332;
+8049;32177;BULGARIAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362334;;47663;Laskova Laska Angelova;Bulgaro;;362334;0;362334;376567
+8049;32179;RUSSIAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362335;;34304;Berardi Simona;Russo;;362335;0;362335;
+8049;32179;RUSSIAN (1);;modulo;34304;Berardi Simona;Russo;;369932;362335;362335;
+8049;32179;RUSSIAN (2);;modulo;36072;Buglakova Liudmila;;;369933;362335;362335;
+8049;32180;RUSSIAN ADVANCED;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362336;;37225;Issoupova Tatiana;Russo;;362336;0;362336;
+8049;32180;RUSSIAN ADVANCED (1);;modulo;37225;Issoupova Tatiana;Russo;;416423;362336;362336;412956
+8049;32180;RUSSIAN ADVANCED (2);;modulo;60240;Orlova Elena;Russo;;416424;362336;362336;406937
+8049;32181;SLOVAK;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362340;;84562;Svoradova Veronika;Slovacco;;362340;0;362340;376572
+8049;32185;STATE BUILDING, NATIONALISM, AND DEVELOPMENT IN EASTERN EUROPE (I.C.);;;;;;;362419;0;362419;
+8049;32162;MODERNITY AND DEVELOPMENT IN EE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362420;modulo;30704;Bianchini Stefano;Inglese;;362420;362419;362419;
+8049;32164;STATE BUILDING AND NATIONALISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362421;modulo;30704;Bianchini Stefano;Inglese;;362421;362419;362419;
+8049;55394;WORKSHOPS ON EASTERN EUROPEAN POLITICS AND ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362422;;31700;Privitera Francesco;;;362422;0;362422;
+8049;72642;ECONOMICS OF TRANSITION IN CENTRAL AND SEE (I.C.);;;;;;;362423;0;362423;
+8049;58876;ECONOMICS OF TRANSITION IN CENTRAL EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362424;modulo;41540;Kadas Carolyn Ann;Inglese;;362424;362423;362423;
+8049;32190;ECONOMICS OF TRANSITION IN SOUTH EAST EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362425;modulo;41540;Kadas Carolyn Ann;Inglese;;362425;362423;362423;
+8049;32187;POLITICAL ECONOMY OF TRANSITION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362429;;36885;Lehmann Hartmut;Inglese;;362429;0;362429;362429
+8049;40036;QUANTITATIVE METHODS FOR SOCIAL RESEARCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362430;;30297;Picci Lucio;Inglese;;362430;0;362430;362430
+8049;37554;BALKAN CONTEMPORARY STUDIES (I.C.);;;;;;;362431;0;362431;
+8049;32326;BALKAN CONTEMPORARY HISTORY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362432;modulo;41570;Jakovina Tvrtko;Inglese;;362432;362431;362431;
+8049;55739;THE YUGOSLAV CRISIS AND ITS DEMISE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362433;modulo;47939;Andjelic Neven;Inglese;;362433;362431;362431;
+8049;55740;CAUCASUS AND CENTRAL ASIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362434;;41485;Bininachvili Albert;Inglese;;362434;0;362434;
+8049;55777;DEMOCRACY AND POLITICAL CHANGES IN EAST-CENTRAL EUROPE (I.C.);;;;;;;362435;0;362435;
+8049;77769;EAST-CENTRAL EUROPE AND GLOBAL CIVIL SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362436;modulo;41690;Miszlivetz Ferenc Jozsef;Inglese;;362436;362435;362435;
+8049;37561;NATIONAL POLITICAL MOVEMENTS IN EAST-CENTRAL EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362437;modulo;916855;Bulota Rytis;Inglese;;362437;362435;362435;
+8049;32219;GLOBALIZATION AND IDENTITIES IN EASTERN EUROPE (I.C.);;;;;;;362443;0;362443;
+8049;55778;DEVELOPING MULTICULTURAL SKILLS IN GLOBAL CONTEXTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362444;modulo;43464;Solomons David Raphael;Inglese;;362444;362443;362443;
+8049;49050;GLOBALIZATION AND NATIONALISM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362445;modulo;41601;Rizman Rudolf;Inglese;;362445;362443;362443;
+8049;66709;HISTORY OF SOVIET UNION'S AND RUSSIAN FOREIGN POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362446;;30704;Bianchini Stefano;Inglese;;362446;0;362446;362446
+8049;40039;POST-SOCIALIST TRANSITION AND EU ENLARGEMENT EASTWARDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362458;;31700;Privitera Francesco;Inglese;;362458;0;362458;362458
+8049;69902;JEWISH STUDIES AND SOCIO-RELIGIOUS TRANSITIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362460;;24288;De Bernart Maura;Inglese;;362460;0;362460;
+8049;69901;PAN-EUROPEAN SECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362462;;35710;Lucarelli Sonia;Italiano;;362462;0;362462;362462
+8049;56086;SOCIAL GOVERNANCE AND SOCIAL THREATS IN EASTERN EUROPE (I.C.);;;;;;;362463;0;362463;
+8049;56284;COMMUNITY PARTICIPATION AND SOCIAL TRUST IN EASTERN EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362464;modulo;34308;Maturo Antonio Francesco;Inglese;;362464;362463;362463;
+8049;56285;ORGANIZED CRIME AND TRAFFICKING IN CENTRAL AND SOUTH EASTERN EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362465;modulo;81606;Kaminska-Visser Monika Ewa;Inglese;;362465;362463;362463;
+8049;69906;RUSSIAN INTERMEDIATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377453;;31291;Slavkova Svetlana;Russo;;377453;0;377453;
+8049;69906;RUSSIAN INTERMEDIATE (1);;modulo;31291;Slavkova Svetlana;Russo;;416421;377453;377453;377808
+8049;69906;RUSSIAN INTERMEDIATE (2);;modulo;41331;Romagnoli Raffaella;Inglese;;416422;377453;377453;406936
+8049;69907;LITHUANIAN I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377454;;47210;Kaledaite Violeta;Inglese;;377454;0;377454;
+8049;72640;METHODS AND SKILLS (I.C.);;;;;;;384561;0;384561;
+8049;49002;RESEARCH PROBLEMS AND METHODS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384562;modulo;42500;Mininger Jay Daniel;Inglese;;384562;384561;384561;
+8049;72641;ACADEMIC WRITINGS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384563;modulo;42500;Mininger Jay Daniel;Inglese;;384563;384561;384561;
+8049;74686;STRUCTURAL CHANGES AND REGIONAL DEVELOPMENT IN EASTERN EUROPE (I.C.);;;;;;;390866;0;390866;
+8049;75523;EU COHESION POLICIES AND NEW MEMBER STATES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390867;modulo;41488;Kengyel Akos Miklos;Inglese;;390867;390866;390866;
+8049;49015;ECONOMY AND REGIONAL POLICIES IN RUSSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390868;modulo;41529;Tkachenko Stanislav;Inglese;;390868;390866;390866;
+8049;74687;EASTERN EUROPE AND MEDIA REPRESENTATIONS (I.C.);;;;;;;390869;0;390869;
+8049;25696;A FILM JOURNEY THROUGH FORMER YUGOSLAVIA AND ITS DEMISE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390871;modulo;42729;Devic Ana;Inglese;;390871;390869;390869;
+8049;56080;MEDIA, RUSSIA AND SOVIET CINEMA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390872;modulo;41734;Shumakova Alena;Inglese;;390872;390869;390869;
+8049;56080;MEDIA, RUSSIA AND SOVIET CINEMA (1);;modulo;41734;Shumakova Alena;Inglese;;394391;390872;390869;
+8049;56080;MEDIA, RUSSIA AND SOVIET CINEMA (2);;modulo;41734;Shumakova Alena;Inglese;;394392;390872;390869;
+8049;74688;MEMORIES, POLITICS AND LITERATURE IN EAST-CENTRAL EUROPE (I.C.);;;;;;;390873;0;390873;
+8049;25697;POLITICS AND LITERATURE: AN EAST-CENTRAL EUROPEAN PERSPECTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390874;modulo;42500;Mininger Jay Daniel;Inglese;;390874;390873;390873;
+8049;32306;MEMORIES AND POLITICS. MAPPING THE BALTIC AND BLACK SEA REGIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390875;modulo;41544;Aleksandravicius Egidjus;Inglese;;390875;390873;390873;
+8049;66710;POLITICAL ECONOMY OF WELFARE SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390876;;35686;Mul?ø Rosa;Inglese;;390876;0;390876;390876
+8049;74694;RUSSIAN POLICIES AND ENERGY SECURITY (I.C.);;;;;;;390877;0;390877;
+8049;56083;RUSSIA AND REGIONAL POLICIES IN EAST-CENTRAL EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390878;modulo;42956;Izotov Aleksandr;Inglese;;390878;390877;390877;
+8049;74693;ENERGY MARKET AND SECURITY IN THE BALTICS AND RUSSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390879;modulo;50281;Molis Arunas;Inglese;;390879;390877;390877;
+8049;74702;THE VISEGRAD GROUP IN POST-SOCIALIST REGIONAL GEOPOLITICS (I.C.);;;;;;;390880;0;390880;
+8049;56082;MACRO-REGIONAL COOPERATION IN CENTRAL EUROPE AND THE DANUBE-BALKAN BASIN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390888;modulo;41492;Nyusztay Laszlo;Inglese;;390888;390880;390880;
+8049;74703;IDENTITY-DIALOG-TRUST: THE CULTURE OF COEXISTENCE IN EAST-CENTRAL EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390889;modulo;50622;Czyzewski Krzysztof Lech;Inglese;;390889;390880;390880;
+8049;73833;HUNGARIAN LANGUAGE AND SLAVIC CULTURES;;;;;;;390903;0;390903;
+8049;77770;GENDER, POLITICS AND POPULAR CULTURE IN SOUTH EAST EUROPE (I.C.);;;;;;;400389;0;400389;
+8049;77771;GENDER AND SOCIAL MOVEMENTS IN SOUTH EAST EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400390;modulo;48064;Bilic Bojan;Inglese;;400390;400389;400389;
+8049;77772;GENDER AND POPULAR CULTURE IN SOUTH EAST EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400391;modulo;50415;Kajinic Sanja;Inglese;;400391;400389;400389;
+8051;11335;ECONOMIA DEI MEDIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330305;;30297;Picci Lucio;Italiano;;330305;0;330305;
+8051;13732;DIRITTO DELL'INFORMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330308;;33720;Pavani Giorgia;Italiano;;330308;0;330308;
+8051;77763;COMUNICAZIONE POLITICA E MARKETING ELETTORALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330314;;39220;Valeriani Augusto;Italiano;;330314;0;330314;
+8051;66402;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (CORSO AVANZATO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330316;;16703;Belardinelli Sergio;Italiano;;330316;0;330316;
+8051;31661;TEORIA E STORIA DELL'OPINIONE PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330319;;34303;Lanzillo Maria Laura;Italiano;;330319;0;330319;
+8051;31661;TEORIA E STORIA DELL'OPINIONE PUBBLICA (1);;modulo;34303;Lanzillo Maria Laura;Italiano;;351973;330319;330319;
+8051;31661;TEORIA E STORIA DELL'OPINIONE PUBBLICA (2);;modulo;47902;Raschi Francesco;;;351974;330319;330319;
+8051;31663;GIORNALISMO E POLITICA (SEMINARIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330323;;66072;Panarari Massimiliano;Italiano;;330323;0;330323;
+8051;77762;ANALYSIS OF POLITICAL LANGUAGE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330325;;15641;Bayley Paul;Inglese;;330325;0;330325;
+8051;31666;SOCIOLOGIA DELLE CULTURE POLITICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330330;;30952;Allodi Leonardo;Italiano;;330330;0;330330;
+8051;72595;LABORATORIO DI TEORIA E TECNICA DI PRODUZIONE AUDIOVISIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330335;;48122;Lolletti Matteo;Italiano;;330335;0;330335;
+8051;31668;PROCESSI DELLA GLOBALIZZAZIONE CULTURALE E COMUNICATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330339;;38251;Gattamorta Lorenza;Italiano;;330339;0;330339;
+8051;31671;LEADERSHIP E COMUNICAZIONE POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330341;;32136;Ventura Sofia;Italiano;;330341;0;330341;
+8051;7297;SOCIOLOGIA DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362128;;34306;Terenzi Paolo;Italiano;;362128;0;362128;
+8051;72591;SISTEMI DI PRODUZIONE TELEVISIVA (SEMINARIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384395;;47512;Doglio Daniele;Italiano;;384395;0;384395;
+8051;72597;ANALISI DELL'OPINIONE PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384406;;32521;Vassallo Salvatore;Italiano;;384406;0;384406;384406
+8051;7230;SISTEMI GIUDIZIARI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384408;;24385;Pederzoli Patrizia;Italiano;;384408;0;384408;384408
+8051;74722;STORIA DELLA COSTRUZIONE DEL CONSENSO POLITICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390956;;38423;Brizzi Riccardo;Italiano;;390956;0;390956;
+8051;74783;CITTADINI, ELEZIONI, PARTITI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390986;;39877;Tronconi Filippo;Italiano;;390986;0;390986;
+8051;75827;ANALISI QUALITATIVA DELLA COMUNICAZIONE (SEMINARIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392844;;51108;Pregliasco Lorenzo;Italiano;;392844;0;392844;
+8051;77764;SOCIAL MEDIA MARKETING (SEMINARIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400375;;65255;Ferrari Daniele;Italiano;;400375;0;400375;
+8491;45198;CRIMINOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365767;;24279;Bisi Roberta;Italiano;;365767;0;365767;
+8491;40081;DIRITTO PENALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365770;;32466;Mantovani Marco Orlando;Italiano;;365770;0;365770;
+8491;40081;DIRITTO PENALE (LM) (1);;modulo;32466;Mantovani Marco Orlando;Italiano;;404215;365770;365770;
+8491;40081;DIRITTO PENALE (LM) (2);;modulo;36019;Bonfiglioli Antonio;;;404216;365770;365770;
+8491;12442;ECONOMIA DEL SETTORE PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365771;;36781;Mazzanti Giovanni Maria;Italiano;;365771;0;365771;
+8491;39982;METODOLOGIA DELLA RICERCA SOCIALE E DELL'INDAGINE CRIMINOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365773;;35893;De Luigi Nicola;Italiano;;365773;0;365773;
+8491;45208;POLITICHE DELLA SICUREZZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365774;;36093;Antonilli Andrea;Italiano;;365774;0;365774;
+8491;7230;SISTEMI GIUDIZIARI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365775;;24385;Pederzoli Patrizia;Italiano;;365775;0;365775;384408
+8491;37175;STORIA DELLA SOCIET?« NEL XX SECOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365776;;38711;Guazzaloca Giulia;Italiano;;365776;0;365776;
+8491;66454;TEORIA DEI PROCESSI DI VITTIMIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365778;;34798;Vezzadini Susanna;Italiano;;365778;0;365778;
+8491;69922;SOCIOLOGIA E POLITICA DEI MERCATI ILLEGALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365779;;32316;Rizza Roberto;Italiano;;365779;0;365779;
+8491;77794;SEMINARI DI SOCIOLOGIA DELLA DEVIANZA E CRIMINOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365780;;24279;Bisi Roberta;Italiano;;365780;0;365780;
+8491;72606;PSICOLOGIA SOCIALE E DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365781;;41378;Prati Gabriele;Italiano;;365781;0;365781;
+8491;34129;TECNICHE INVESTIGATIVE APPLICATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365782;;33263;Terracciano Ugo;Italiano;;365782;0;365782;
+8491;39980;GIUSTIZIA ED EQUIT?« SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378318;;32917;Bassi Andrea;Italiano;;378318;0;378318;
+8491;77795;LABORATORIO DI SECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380101;;600969;Cimino Luca;Italiano;;380101;0;380101;
+8491;77795;LABORATORIO DI SECURITY (1);;modulo;600969;Cimino Luca;Italiano;;417659;380101;380101;
+8491;77795;LABORATORIO DI SECURITY (2);;modulo;83276;Forgione Felice;;;417660;380101;380101;
+8491;77795;LABORATORIO DI SECURITY (3);;modulo;37137;Forlivesi Andrea;;;417661;380101;380101;
+8491;72603;VALUTAZIONE DELLE POLITICHE PER LA SICUREZZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384452;;15066;Altieri Leonardo;Italiano;;384452;0;384452;
+8491;78720;DIRITTI IN INTERNET E ILLECITI INFORMATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402089;;36108;Zorzi Nadia;Italiano;;402089;0;402089;
+8491;83120;MAFIE E PROCESSI DI VITTIMIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417321;;42494;Sicurella Sandra;Italiano;;417321;0;417321;
+8491;83814;CORSO BASE DI LINGUA E CULTURA ARABA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420797;;49356;Hoseini Gassid Mohammed Hossein;;;420797;0;420797;419836
+8491;83815;CORSO BASE DI LINGUA E CULTURA CINESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420798;;82274;Iezzi Adriana;Italiano;;420798;0;420798;419837
+8491;83816;CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420799;;82426;Paulo Cadete Rute Maria;Italiano;;420799;0;420799;419838
+8495;534;ISTITUZIONI DI DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365641;;34320;Belletti Michele;Italiano;;365641;0;365641;
+8495;8325;ISTITUZIONI DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365642;;34422;Argentesi Elena;Italiano;;365642;0;365642;
+8495;8325;ISTITUZIONI DI ECONOMIA (1);;modulo;34422;Argentesi Elena;Italiano;;368848;365642;365642;
+8495;8325;ISTITUZIONI DI ECONOMIA (2);;modulo;36781;Mazzanti Giovanni Maria;;;368849;365642;365642;
+8495;59870;LINGUA INGLESE E LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365643;;43446;Marchi Anna;Inglese;;365643;0;365643;
+8495;905;SOCIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365645;;15952;Zurla Paolo;Italiano;;365645;0;365645;
+8495;932;STORIA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365646;;38711;Guazzaloca Giulia;Italiano;;365646;0;365646;
+8495;888;SCIENZA DELL'AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365647;;32191;Baldi Brunetta;Italiano;;365647;0;365647;
+8495;2518;SOCIOLOGIA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365650;;32316;Rizza Roberto;Italiano;;365650;0;365650;
+8495;59239;SOCIOLOGIA DEL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365654;;15332;Savelli Asterio;Italiano;;365654;0;365654;
+8495;17270;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365658;;39542;Musar?? Pierluigi;Italiano;;365658;0;365658;
+8495;12078;SOCIOLOGIA DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365659;;24279;Bisi Roberta;Italiano;;365659;0;365659;
+8495;12078;SOCIOLOGIA DELLA DEVIANZA (1);;modulo;24279;Bisi Roberta;Italiano;;417322;365659;365659;
+8495;12078;SOCIOLOGIA DELLA DEVIANZA (2);;modulo;42494;Sicurella Sandra;;;417323;365659;365659;
+8495;66405;LABORATORIO DI INDAGINE CRIMINOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365667;;36093;Antonilli Andrea;Italiano;;365667;0;365667;
+8495;66405;LABORATORIO DI INDAGINE CRIMINOLOGICA (1);;modulo;36093;Antonilli Andrea;Italiano;;386638;365667;365667;
+8495;66405;LABORATORIO DI INDAGINE CRIMINOLOGICA (2);;modulo;34798;Vezzadini Susanna;;;386639;365667;365667;
+8495;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365675;;41378;Prati Gabriele;Italiano;;365675;0;365675;
+8495;4487;SOCIOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365681;;38699;Chicchi Federico;Italiano;;365681;0;365681;
+8495;7564;SOCIOLOGIA DEL TURISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365684;;15332;Savelli Asterio;Italiano;;365684;0;365684;
+8495;7234;SOCIOLOGIA DELLA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365687;;34308;Maturo Antonio Francesco;Italiano;;365687;0;365687;
+8495;2504;STORIA DEL PENSIERO SOCIOLOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365697;;24288;De Bernart Maura;Italiano;;365697;0;365697;
+8495;72633;LABORATORIO DI METODOLOGIA QUANTITATIVA PER LA RICERCA SOCIALE;;;;;;;372120;0;372120;
+8495;72632;LABORATORIO DI METODOLOGIA QUALITATIVA PER LA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372121;;35893;De Luigi Nicola;Italiano;;372121;0;372121;
+8495;72632;LABORATORIO DI METODOLOGIA QUALITATIVA PER LA RICERCA SOCIALE (1);;modulo;35893;De Luigi Nicola;Italiano;;415797;372121;372121;
+8495;72632;LABORATORIO DI METODOLOGIA QUALITATIVA PER LA RICERCA SOCIALE (2);;modulo;32307;Martelli Alessandro;;;415798;372121;372121;
+8495;72631;LABORATORIO DI METODOLOGIA AVANZATA PER LA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372122;;31633;Cremonini Francesca;Italiano;;372122;0;372122;
+8495;17265;POLITICHE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384536;;32307;Martelli Alessandro;Italiano;;384536;0;384536;
+8495;29234;DEMOGRAFIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403442;;16736;Rettaroli Rosella;Italiano;;403442;0;403442;
+8495;29234;DEMOGRAFIA INTERNAZIONALE (1);;modulo;16736;Rettaroli Rosella;Italiano;;403443;403442;403442;403436
+8495;29234;DEMOGRAFIA INTERNAZIONALE (2);;modulo;15382;Angeli Aurora;;;403444;403442;403442;403437
+8495;82129;METODOLOGIA E TECNICHE DELLA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413603;;31633;Cremonini Francesca;Italiano;;413603;0;413603;
+8495;82566;SEMINARIO DI SCRITTURA E COMUNICAZIONE PER LA RICERCA SOCIOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415262;;39542;Musar?? Pierluigi;Italiano;;415262;0;415262;
+8495;83814;CORSO BASE DI LINGUA E CULTURA ARABA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420793;;49356;Hoseini Gassid Mohammed Hossein;;;420793;0;420793;419836
+8495;83815;CORSO BASE DI LINGUA E CULTURA CINESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420795;;82274;Iezzi Adriana;Italiano;;420795;0;420795;419837
+8495;83816;CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420801;;82426;Paulo Cadete Rute Maria;Italiano;;420801;0;420801;419838
+8782;12641;POLITICA ECONOMICA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386337;;15097;Salituro Bruno;Italiano;;386337;0;386337;386337
+8782;73272;DIRITTO GLOBALE E SOVRANAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386347;;40703;Casolari Federico;Italiano;;386347;0;386347;
+8782;31498;LINGUA FRANCESE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386348;;32839;Puccini Paola;Francese;;386348;0;386348;404228
+8782;73224;SOCIET?« DELL'INFORMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386353;;38829;Sartori Laura;Italiano;;386353;0;386353;386645
+8782;73275;DIRITTO DELLE RELIGIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386354;;35954;De Oto Antonello;Italiano;;386354;0;386354;
+8782;47353;POLITICA ESTERA DEI PAESI EUROPEI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386367;;15664;Ignazi Piero;Italiano;;386367;0;386367;
+8782;73289;RELAZIONI INTERNAZIONALI E SVILUPPO IN AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386377;;40748;Tornimbeni Corrado;Italiano;;386377;0;386377;413212
+8782;73292;POLITICA AMERICANA NEL MONDO CONTEMPORANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386382;;31740;Baritono Raffaella;Italiano;;386382;0;386382;386382
+8782;45295;SISTEMI INTERNAZIONALI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386387;;14826;Panebianco Angelo;Italiano;;386387;0;386387;
+8782;29234;DEMOGRAFIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386388;;15382;Angeli Aurora;Italiano;;386388;0;386388;386547
+8782;73296;STORIA DELLE CRISI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386391;;30241;Cammarano Fulvio;Italiano;;386391;0;386391;
+8782;73297;SOCIOLOGIA DEL CONFLITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386393;;31741;Colombo Asher Daniel;Italiano;;386393;0;386393;
+8782;35199;PROVA FINALE;;;;;;;386395;0;386395;
+8782;74570;EUROPE IN THE GLOBAL ECONOMY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390743;;34481;Manasse Paolo Luciano Adalberto;Inglese;;390743;0;390743;
+8782;74570;EUROPE IN THE GLOBAL ECONOMY (1);;modulo;34481;Manasse Paolo Luciano Adalberto;Inglese;;395926;390743;390743;
+8782;74570;EUROPE IN THE GLOBAL ECONOMY (2);;modulo;917229;Subacchi Paola;;;395927;390743;390743;
+8782;74571;EUROPE IN WORLD POLITICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390744;;47572;Baracani Elena;Inglese;;390744;0;390744;
+8782;74573;POLITICS OF CONTEMPORARY ASIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390746;;40855;Fiori Antonio;Inglese;;390746;0;390746;
+8782;74653;EUROPEAN POLITICAL IDEAS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390833;;30240;Giorgini Giovanni;Inglese;;390833;0;390833;
+8782;74659;EUROPE AND AFRICA: COOPERATION AND SECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390841;;39906;Pallotti Arrigo;Inglese;;390841;0;390841;
+8782;81455;EU CONSTITUTIONAL LAW (I.C.);;;;;;;390998;0;390998;
+8782;74512;EU CONSTITUTION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391000;modulo;30686;Rossi Lucia Serena;Inglese;;391000;390998;390998;
+8782;74513;EU INSTITUTIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391001;modulo;40703;Casolari Federico;Inglese;;391001;390998;390998;
+8782;74978;LANGUAGE AND POWER IN THE ENGLISH-SPEAKING WORLD;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391190;;30992;Partington Alan Scott;Inglese;;391190;0;391190;
+8782;74982;COMPARATIVE JUDICIAL SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391194;;14849;Guarnieri Calbo Crotta Carlo Antonio;Inglese;;391194;0;391194;391746
+8782;74986;PRINCIPLES OF EUROPEAN LEGAL ORDERS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391198;;37627;Mattioli Fabiana;Inglese;;391198;0;391198;391198
+8782;75001;ANALISI DELL'ECONOMIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391213;;15875;Rossini Gianpaolo;Italiano;;391213;0;391213;391213
+8782;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395758;;32590;Giannetti Daniela;;;395758;0;395758;
+8782;75068;HEALTH, TECHNOLOGY AND SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397106;;34308;Maturo Antonio Francesco;Inglese;;397106;0;397106;391350
+8782;75074;WEB SOCIETY AND GLOBALIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397110;;39604;Degli Esposti Piergiorgio;Inglese;;397110;0;397110;391353
+8782;75073;HUMANITARIAN COMMUNICATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397493;;39542;Musar?? Pierluigi;Inglese;;397493;0;397493;391352
+8782;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/399004;;32590;Giannetti Daniela;;;399004;0;399004;
+8782;71880;CRIME, PUNISHMENT AND SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400384;;14679;Melossi Dario;Inglese;;400384;0;400384;383394
+8782;77918;HISTORY AND INTERNATIONAL RELATIONS OF THE MIDDLE EAST;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400657;;43465;Trentin Massimiliano;Inglese;;400657;0;400657;400946
+8782;77919;INTERNATIONAL DIPLOMACY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400658;;48012;Lenzi Guido;Inglese;;400658;0;400658;404232
+8782;77926;RELAZIONI INTERNAZIONALI DELL'AMERICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400665;;32142;Zanatta Loris;Italiano;;400665;0;400665;386009
+8782;57802;DIRITTO DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400711;;14387;Baldi Carlo Eugenio;Italiano;;400711;0;400711;386216
+8782;77966;STRATEGIE GEOPOLITICHE E FINANZIARIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400713;;51491;Pansa Alessandro;;;400713;0;400713;400713
+8782;77967;INTERNATIONAL POLITICS AND THE USE OF FORCE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400715;;32026;Andreatta Filippo;Inglese;;400715;0;400715;
+8782;77968;BIG DATA AND CYBERSECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400716;;41752;Albertini Marco;Inglese;;400716;0;400716;
+8782;77968;BIG DATA AND CYBERSECURITY (1);;modulo;41752;Albertini Marco;Inglese;;403386;400716;400716;403386
+8782;77968;BIG DATA AND CYBERSECURITY (2);;modulo;36058;Giacomello Giampiero;;;403387;400716;400716;403387
+8782;77975;ECONOMIC HISTORY OF GLOBALIZATION;;;;;;;400723;0;400723;
+8782;77976;EVOLUTION OF THE INTERNATIONAL SYSTEM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400726;;32026;Andreatta Filippo;Inglese;;400726;0;400726;
+8782;77980;STRATEGY AND INTERNATIONAL SECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400728;;36058;Giacomello Giampiero;Inglese;;400728;0;400728;
+8782;79168;STRATEGY AND BEHAVIOR IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400730;;39868;Casari Marco;Inglese;;400730;0;400730;
+8782;78980;INTERNATIONAL ECONOMICS (ADVANCED);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400744;;36091;Mantovani Andrea;Inglese;;400744;0;400744;
+8782;78980;INTERNATIONAL ECONOMICS (ADVANCED) (1);;modulo;36091;Mantovani Andrea;Inglese;;405613;400744;400744;
+8782;78980;INTERNATIONAL ECONOMICS (ADVANCED) (2);;modulo;50674;Bolatto Stefano Antonio;;;405614;400744;400744;
+8782;26139;STORIA POLITICA COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402687;;32052;Cavazza Stefano;Italiano;;402687;0;402687;
+8782;78972;LABORATORIO FRANCESE: M?ÎDIATION LINGUISTIQUE-CULTURELLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402689;;32839;Puccini Paola;Francese;;402689;0;402689;403264
+8782;78973;LABORATORIO SPAGNOLO: HISTORIA Y MEMORIA EN AM?ÎRICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402701;;42169;Maramotti Luca;Spagnolo;;402701;0;402701;403267
+8782;78974;LABORATORIO TEDESCO: SPRACHE UND KRIEG;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402702;;54403;Tatasciore Claudia;Tedesco;;402702;0;402702;403268
+8782;79167;BASIC FRENCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403257;;49518;Balestrieri Fulvia;Inglese;;403257;0;403257;
+8782;79169;M?ÎDIATION LINGUISTIQUE-CULTURELLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403264;;32839;Puccini Paola;Francese;;403264;0;403264;403264
+8782;79170;HISTORIA Y MEMORIA EN AM?ÎRICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403267;;42169;Maramotti Luca;Spagnolo;;403267;0;403267;403267
+8782;79171;SPRACHE UND KRIEG;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403268;;54403;Tatasciore Claudia;Tedesco;;403268;0;403268;403268
+8782;79534;DIPLOMACY IN A GLOBAL WORLD;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404232;;48012;Lenzi Guido;Inglese;;404232;0;404232;404232
+8782;75086;EDUCATION SYSTEMS AND POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404239;;31798;Gasperoni Giancarlo;Inglese;;404239;0;404239;391512
+8782;74834;SOCIAL AND WELFARE POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404245;;41752;Albertini Marco;Inglese;;404245;0;404245;391507
+8782;75094;ECONOMIC DEVELOPMENT IN THE MIDDLE EAST AND NORTH AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411259;;30305;Romagnoli Alessandro;Inglese;;411259;0;411259;386531
+8782;81320;COMPARATIVE INDUSTRIAL AND FINANCIAL SYSTEMS;;;;;;;411642;0;411642;
+8782;81763;RIGHTS IN THE EUROPEAN PUBLIC SPHERE;;;;;;;412207;0;412207;412207
+8782;81764;DEMOCRATIC TRANSITIONS AND MULTILATERAL RESPONSE;;;;;;;412210;0;412210;
+8782;81762;POLITICS OF DEMOCRATIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412212;;41555;Baldini Gianfranco;Inglese;;412212;0;412212;412236
+8782;81751;POLITICS OF EUROPEAN DEMOCRACIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412213;;32590;Giannetti Daniela;Inglese;;412213;0;412213;
+8782;57850;SOCIOLOGIA DELLE MIGRAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412262;;32834;Bergamaschi Maurizio;Italiano;;412262;0;412262;
+8782;57850;SOCIOLOGIA DELLE MIGRAZIONI (1);;modulo;32834;Bergamaschi Maurizio;Italiano;;415035;412262;412262;415033
+8782;57850;SOCIOLOGIA DELLE MIGRAZIONI (2);;modulo;42551;Landi Alessandra;;;415036;412262;412262;415034
+8782;8610;SOCIOLOGIA DELLE RELIGIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412263;;38929;Turina Isacco;Italiano;;412263;0;412263;412611
+8782;78074;METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM;;;;;;;412265;0;412265;
+8782;81769;METODO E TECNICHE DELL'ANALISI DEI DATI;;;;;;;412266;0;412266;
+8782;76347;DIRITTO DELLE PARI OPPORTUNIT?«;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412350;;31613;Rescigno Francesca;Italiano;;412350;0;412350;412350
+8782;81822;GLOBAL GEOPOLITICS OF BUSINESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412363;;91968;Goldstein Andrea Enrico;;;412363;0;412363;
+8782;81822;GLOBAL GEOPOLITICS OF BUSINESS (1);;modulo;91968;Goldstein Andrea Enrico;;;421060;412363;412363;
+8782;81822;GLOBAL GEOPOLITICS OF BUSINESS (2);;modulo;40835;Millo Francesco;;;421061;412363;412363;
+8782;81822;GLOBAL GEOPOLITICS OF BUSINESS (3);;modulo;51491;Pansa Alessandro;;;426142;412363;412363;400713
+8782;81773;SOCIOLOGIA DELLE DISUGUAGLIANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413076;;38466;Mantovani Debora;Italiano;;413076;0;413076;412603
+8782;82414;TEORIE POLITICHE DEL MULTICULTURALISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414129;;34303;Lanzillo Maria Laura;Italiano;;414129;0;414129;
+8782;82414;TEORIE POLITICHE DEL MULTICULTURALISMO (1);;modulo;34303;Lanzillo Maria Laura;Italiano;;420055;414129;414129;420055
+8782;82414;TEORIE POLITICHE DEL MULTICULTURALISMO (2);;modulo;47902;Raschi Francesco;;;420056;414129;414129;
+8782;82132;GESTIONE, MONITORAGGIO E VALUTAZIONE DI PROGETTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414677;;43356;Cattani Luca;Italiano;;414677;0;414677;413231
+8782;37172;RIDUZIONE PER PROGETTI DI RICERCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415304;;14826;Panebianco Angelo;;;415304;0;415304;
+8782;73344;DIRITTO PUBBLICO DEI PAESI EMERGENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415313;;31477;Pegoraro Lucio;Italiano;;415313;0;415313;386523
+8782;83138;GEOPOLITICA DEI SISTEMI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417399;;14826;Panebianco Angelo;Italiano;;417399;0;417399;
+8782;82447;NEW LOCAL WELFARE AND NETWORKS OF SOCIAL INCLUSION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420751;;14106;Donati Pierpaolo;Inglese;;420751;0;420751;414266
+8782;84010;ARABIC INT (J.H.);;;;;;;420812;0;420812;
+8782;84024;PAST AND FUTURE IN TRANSATLANTIC RELATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420825;;43450;Bitumi Alessandra;Inglese;;420825;0;420825;
+8782;84025;TECHNOLOGICAL INNOVATION AND INTERNATIONAL RELATIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420827;;60783;Moro Francesco Niccol??;Inglese;;420827;0;420827;
+8782;80934;ATTIVIT?« INTEGRATIVA RELAZIONI INTERNAZIONALI DEL MEDIO ORIENTE;;;;;;;425043;0;425043;
+8782;80935;ATTIVIT?« INTEGRATIVA POLITICA AMERICANA NEL MONDO CONTEMPORANEO;;;;;;;425045;0;425045;
+8782;85064;GERMAN LANGUAGE LAB (ADVANCED);;;;;;;426016;0;426016;
+8782;85065;SPANISH LANGUAGE LAB (ADVANCED);;;;;;;426017;0;426017;
+8783;34080;ECONOMIA INTERNAZIONALE (CORSO AVANZATO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385967;;15875;Rossini Gianpaolo;Italiano;;385967;0;385967;
+8783;7223;STUDI STRATEGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385973;;30818;Cesa Marco;Italiano;;385973;0;385973;
+8783;39978;LINGUA TEDESCA E LABORATORIO I;;;;;;;385978;0;385978;
+8783;39972;LINGUA FRANCESE E LABORATORIO I;;;;;;;385979;0;385979;
+8783;39977;LINGUA SPAGNOLA E LABORATORIO I;;;;;;;385980;0;385980;
+8783;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. A) (1);;modulo;15584;San Vicente Santiago Felix;Spagnolo;;387269;387266;385980;378314
+8783;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. A) (2);;modulo;38254;Lombardini Hugo Edgardo;;;387270;387266;385980;394056
+8783;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. B) (1);;modulo;38254;Lombardini Hugo Edgardo;Spagnolo;;394061;387267;385980;394055
+8783;39977;LINGUA SPAGNOLA E LABORATORIO I (GR. B) (2);;modulo;38254;Lombardini Hugo Edgardo;;;394062;387267;385980;394056
+8783;39974;LINGUA RUSSA E LABORATORIO I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385981;;34304;Berardi Simona;Italiano;;385981;0;385981;362095
+8783;69901;PAN-EUROPEAN SECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386003;;35710;Lucarelli Sonia;Italiano;;386003;0;386003;362462
+8783;66709;HISTORY OF SOVIET UNION'S AND RUSSIAN FOREIGN POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386006;;30704;Bianchini Stefano;Inglese;;386006;0;386006;362446
+8783;40039;POST-SOCIALIST TRANSITION AND EU ENLARGEMENT EASTWARDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386007;;31700;Privitera Francesco;Inglese;;386007;0;386007;362458
+8783;31709;RELAZIONI INTERNAZIONALI DEL MEDIO ORIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386008;;39539;Biancani Francesca;Italiano;;386008;0;386008;
+8783;31705;RELAZIONI INTERNAZIONALI DELL'AMERICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386009;;32142;Zanatta Loris;Italiano;;386009;0;386009;386009
+8783;78565;DEMOCRAZIE E AUTORITARISMI IN ASIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386010;;40855;Fiori Antonio;Italiano;;386010;0;386010;
+8783;78565;DEMOCRAZIE E AUTORITARISMI IN ASIA (1);;modulo;40855;Fiori Antonio;Italiano;;415217;386010;386010;
+8783;78565;DEMOCRAZIE E AUTORITARISMI IN ASIA (2);;modulo;52965;Passeri Andrea;;;415218;386010;386010;
+8783;73148;RELAZIONI INTERNAZIONALI DELL'AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386011;;39906;Pallotti Arrigo;Italiano;;386011;0;386011;
+8783;77760;STORIA DELL'INTEGRAZIONE EUROPEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386015;;32091;Laschi Giuliana;Italiano;;386015;0;386015;
+8783;40036;QUANTITATIVE METHODS FOR SOCIAL RESEARCH;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386033;;30297;Picci Lucio;Inglese;;386033;0;386033;362430
+8783;58606;TOPICS IN INTERNATIONAL TRADE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386038;;15875;Rossini Gianpaolo;Inglese;;386038;0;386038;
+8783;70049;GLOBAL ENVIRONMENTAL CHALLENGES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386039;;39868;Casari Marco;Inglese;;386039;0;386039;
+8783;39976;LINGUA SPAGNOLA E LABORATORIO II;;;;;;;386043;0;386043;
+8783;39975;LINGUA RUSSA E LABORATORIO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386044;;34304;Berardi Simona;Italiano;;386044;0;386044;362096
+8783;39973;LINGUA FRANCESE E LABORATORIO II;;;;;;;386045;0;386045;
+8783;39979;LINGUA TEDESCA E LABORATORIO II;;;;;;;386046;0;386046;
+8783;10432;DIRITTO COMMERCIALE INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386047;;36044;Massironi Michele;Italiano;;386047;0;386047;
+8783;70067;DIRITTO DELL'UE DELL'IMMIGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386048;;38957;Borraccetti Marco;Italiano;;386048;0;386048;
+8783;70068;ECONOMICS OF COMPETITION POLICY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386051;;34422;Argentesi Elena;Inglese;;386051;0;386051;386051
+8783;40040;GOVERNANCE E POLITICHE DELL'INTEGRAZIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386054;;24364;Lizzi Renata;Italiano;;386054;0;386054;
+8783;70047;GUERRA E POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386055;;30818;Cesa Marco;Italiano;;386055;0;386055;
+8783;73162;IDEOLOGIA E SOCIETA' NEL MONDO GLOBALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386056;;16703;Belardinelli Sergio;Italiano;;386056;0;386056;
+8783;32187;POLITICAL ECONOMY OF TRANSITION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386062;;36885;Lehmann Hartmut;Inglese;;386062;0;386062;362429
+8783;66710;POLITICAL ECONOMY OF WELFARE SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386063;;35686;Mul?ø Rosa;Inglese;;386063;0;386063;390876
+8783;40043;POLITICS OF THE WORLD ECONOMY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386065;;36057;Baroncelli Eugenia;Inglese;;386065;0;386065;
+8783;34091;SISTEMI FEDERALI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386067;;32191;Baldi Brunetta;Italiano;;386067;0;386067;
+8783;7230;SISTEMI GIUDIZIARI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386068;;24385;Pederzoli Patrizia;Italiano;;386068;0;386068;384408
+8783;78570;GLOBALIZZAZIONE E IDENTITA' CULTURALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386069;;38251;Gattamorta Lorenza;Italiano;;386069;0;386069;
+8783;42614;ECONOMIA DELLA DISUGUAGLIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386070;;38733;Negroni Giorgio Giovanni;Italiano;;386070;0;386070;
+8783;40014;INTERNATIONAL RELATIONS OF EAST ASIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390849;;40855;Fiori Antonio;Inglese;;390849;0;390849;
+8783;31738;DIRITTO DEL COMMERCIO INTERNAZIONALE (SEMINARIO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390850;;31642;Balboni Marco;Italiano;;390850;0;390850;
+8783;74638;GLOBALIZATION, STATES AND MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390852;;35686;Mul?ø Rosa;Inglese;;390852;0;390852;
+8783;74643;INTERNATIONAL BUSINESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390853;;39565;Barbi Massimiliano;Inglese;;390853;0;390853;
+8783;74643;INTERNATIONAL BUSINESS (1);;modulo;39565;Barbi Massimiliano;Inglese;;422064;390853;390853;
+8783;74643;INTERNATIONAL BUSINESS (2);;modulo;53327;Bergamaschi Francesco;;;422065;390853;390853;
+8783;74645;INTERNATIONAL CONTRACTS IN GLOBAL MARKETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390855;;31511;Alvisi Chiara;Inglese;;390855;0;390855;
+8783;37412;TEORIE POLITICHE DEL MULTICULTURALISMO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390862;;34303;Lanzillo Maria Laura;Italiano;;390862;0;390862;420055
+8783;78447;ISTITUZIONI, DEMOCRAZIA, SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391785;;36414;Cervellati Matteo;Italiano;;391785;0;391785;
+8783;77092;RELAZIONI INTERNAZIONALI DEGLI STATI UNITI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/398339;;43507;Battistini Matteo;Italiano;;398339;0;398339;
+8783;40430;ELEMENTI DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400349;;38733;Negroni Giorgio Giovanni;Italiano;;400349;0;400349;
+8783;40430;ELEMENTI DI ECONOMIA (1);;modulo;38733;Negroni Giorgio Giovanni;Italiano;;403432;400349;400349;
+8783;40430;ELEMENTI DI ECONOMIA (2);;modulo;39880;Bottazzi Renata;;;403433;400349;400349;
+8783;29866;ECONOMIA INTERNAZIONALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400896;;40010;Minerva Gaetano Alfredo;Italiano;;400896;0;400896;
+8783;29866;ECONOMIA INTERNAZIONALE (LM) (1);;modulo;40010;Minerva Gaetano Alfredo;Italiano;;416310;400896;400896;
+8783;29866;ECONOMIA INTERNAZIONALE (LM) (2);;modulo;56742;Mansilla Fernandez Jos?ø Manuel;;;416311;400896;400896;
+8783;78135;POLITICA INTERNAZIONALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400897;;37761;Zambernardi Lorenzo;Italiano;;400897;0;400897;
+8783;78136;STORIA INTERNAZIONALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400898;;38423;Brizzi Riccardo;Italiano;;400898;0;400898;
+8783;78136;STORIA INTERNAZIONALE (LM) (1);;modulo;38711;Guazzaloca Giulia;Italiano;;404109;400898;400898;
+8783;78136;STORIA INTERNAZIONALE (LM) (2);;modulo;38423;Brizzi Riccardo;Italiano;;404110;400898;400898;
+8783;2492;POLITICA COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400901;;32136;Ventura Sofia;Italiano;;400901;0;400901;
+8783;79026;FRENCH I;;;;;;;401443;0;401443;
+8783;79027;GERMAN I;;;;;;;402650;0;402650;
+8783;78968;GERMAN II;;;;;;;402651;0;402651;
+8783;78969;FRENCH II;;;;;;;402653;0;402653;
+8783;82005;ECONOMICS OF THE EU;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412925;;31490;Rovelli Riccardo;Inglese;;412925;0;412925;
+8783;82007;POLITICA DELL'ECONOMIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412928;;81764;Poletti Arlo;Italiano;;412928;0;412928;
+8783;72597;ANALISI DELL'OPINIONE PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412929;;32521;Vassallo Salvatore;Italiano;;412929;0;412929;384406
+8783;81772;LE LEADERSHIP DANS LES D?ÎMOCRATIES CONTEMPORAINES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412930;;32136;Ventura Sofia;Francese;;412930;0;412930;412930
+8783;81769;METODO E TECNICHE DELL'ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412931;;31798;Gasperoni Giancarlo;Italiano;;412931;0;412931;414754
+8783;81945;METODOLOGIA DELLA RICERCA SOCIALE E POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412932;;38466;Mantovani Debora;Italiano;;412932;0;412932;414810
+8783;25751;INTERNATIONAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413001;;40010;Minerva Gaetano Alfredo;Italiano;;413001;0;413001;
+8783;66231;CRASH COURSE IN ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416294;;36409;Messori Luciano;Inglese;;416294;0;416294;
+8783;82786;CRASH COURSE IN INTERNATIONAL POLITICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416295;;46252;Fiammenghi Davide;Inglese;;416295;0;416295;
+8783;82816;INTELLIGENCE AND POLITICAL DECISION MAKING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416439;;41485;Bininachvili Albert;Inglese;;416439;0;416439;
+8783;83814;CORSO BASE DI LINGUA E CULTURA ARABA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420742;;49356;Hoseini Gassid Mohammed Hossein;;;420742;0;420742;419836
+8783;83815;CORSO BASE DI LINGUA E CULTURA CINESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420743;;82274;Iezzi Adriana;Italiano;;420743;0;420743;419837
+8783;83816;CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420744;;82426;Paulo Cadete Rute Maria;Italiano;;420744;0;420744;419838
+8784;2506;METODOLOGIA DELLE SCIENZE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386199;;41752;Albertini Marco;Italiano;;386199;0;386199;414755
+8784;73213;LINGUA INGLESE PER L'AMMINISTRAZIONE: DISCORSO E POTERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386200;;33258;Johnson Jane Helen;Inglese;;386200;0;386200;
+8784;2531;DIRITTO PUBBLICO DELL'ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386211;;15383;Endrici Giovanna;Italiano;;386211;0;386211;
+8784;23000;SCIENZE DELLE FINANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386212;;30299;Toso Stefano;Italiano;;386212;0;386212;323607
+8784;30350;AMMINISTRAZIONE E POLITICHE PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386213;;43205;Profeti Stefania;Italiano;;386213;0;386213;
+8784;31169;SISTEMA POLITICO ITALIANO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386215;;35191;Bordandini Paola;Italiano;;386215;0;386215;
+8784;57802;DIRITTO DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386216;;14387;Baldi Carlo Eugenio;Italiano;;386216;0;386216;386216
+8784;5896;ORDINAMENTO GIUDIZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386220;;35614;Cavallini Daniela;Italiano;;386220;0;386220;386220
+8784;73223;DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386221;;35176;Tubertini Claudia;Italiano;;386221;0;386221;
+8784;73224;SOCIET?« DELL'INFORMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386224;;38829;Sartori Laura;Italiano;;386224;0;386224;386645
+8784;10532;ECONOMETRIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386233;;30247;Golinelli Roberto;Italiano;;386233;0;386233;323604
+8784;73227;DEMOCRAZIA E RAPPRESENTANZA IN EUROPA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386239;;41555;Baldini Gianfranco;Inglese;;386239;0;386239;412236
+8784;73229;COMUNICAZIONE POLITICA E ISTITUZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386252;;37086;Campus Donatella;Italiano;;386252;0;386252;412579
+8784;73231;DEMOCRAZIA PARTECIPATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386256;;15218;Lewanski Rodolfo;Italiano;;386256;0;386256;391983
+8784;30347;ANALISI DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386265;;39609;Toth Federico;Italiano;;386265;0;386265;386265
+8784;29083;VALUTAZIONE DELLE POLITICHE ECONOMICHE E SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386269;;32764;Calia Pinuccia Pasqualina;Italiano;;386269;0;386269;403415
+8784;16910;ECONOMIA DELLE RISORSE UMANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386276;;15561;Antonelli Gilberto;Italiano;;386276;0;386276;386276
+8784;36164;RELAZIONI INDUSTRIALI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386280;;14384;Ricciardi Mario;Italiano;;386280;0;386280;
+8784;2512;SOCIOLOGIA DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386286;;32544;Borghi Vando;Italiano;;386286;0;386286;386695
+8784;35808;DIRITTO DEL LAVORO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386287;;15943;Tinti Anna Rita;Italiano;;386287;0;386287;386287
+8784;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386294;;35614;Cavallini Daniela;Italiano;;386294;0;386294;
+8784;35199;PROVA FINALE;;;;;;;386295;0;386295;
+8784;74754;DROIT DE L'ACTION PUBLIQUE;;;;;;;390946;0;390946;
+8784;74755;SOCIOLOGIE DE L'ACTION PUBLIQUE;;;;;;;390947;0;390947;
+8784;74758;MANAGEMENT PUBLIC: ETUDES DE CAS;;;;;;;390950;0;390950;
+8784;74759;ETRE CONSULTANT: R?ÍGLES DU JEU, TECHNIQUES;;;;;;;390951;0;390951;
+8784;74760;PROVA FINALE (18CFU);;;;;;;390952;0;390952;
+8784;75148;ANALISI DELLE ORGANIZZAZIONI E VALUTAZIONE DELLE POLITICHE PUBBLICHE (C.I.);;;;;;;391452;0;391452;
+8784;30347;ANALISI DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391453;modulo;39609;Toth Federico;Italiano;;391453;391452;391452;386265
+8784;18079;VALUTAZIONE DELLE POLITICHE PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391454;modulo;39609;Toth Federico;Italiano;;391454;391452;391452;386265
+8784;74834;SOCIAL AND WELFARE POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391507;;41752;Albertini Marco;Inglese;;391507;0;391507;391507
+8784;75086;EDUCATION SYSTEMS AND POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391512;;31798;Gasperoni Giancarlo;Inglese;;391512;0;391512;391512
+8784;74982;COMPARATIVE JUDICIAL SYSTEMS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391746;;14849;Guarnieri Calbo Crotta Carlo Antonio;Inglese;;391746;0;391746;391746
+8784;75396;GESTION ADMINISTRATIVE ET PUBLIQUE (C.I.);;;;;;;391816;0;391816;
+8784;75402;GESTION PUBLIQUE DES RISQUES;;modulo;;;;;391817;391816;391816;
+8784;74757;REFORMES ADMINISTRATIVES ET INNOVATIONS TECHNOLOGIQUES;;modulo;;;;;391818;391816;391816;
+8784;75649;PSICOLOGIA DEL LAVORO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392227;;41871;Balducci Cristian;Italiano;;392227;0;392227;
+8784;75903;SCIENZA DELLE FINANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394203;;30299;Toso Stefano;Italiano;;394203;0;394203;323607
+8784;76347;DIRITTO DELLE PARI OPPORTUNIT?«;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394297;;31613;Rescigno Francesca;Italiano;;394297;0;394297;412350
+8784;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395745;;41752;Albertini Marco;;;395745;0;395745;
+8784;75068;HEALTH, TECHNOLOGY AND SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397107;;34308;Maturo Antonio Francesco;Inglese;;397107;0;397107;391350
+8784;75073;HUMANITARIAN COMMUNICATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397492;;39542;Musar?? Pierluigi;Inglese;;397492;0;397492;391352
+8784;29358;IDEOLOGIE E LEGITTIMAZIONE POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400812;;33785;Ricciardi Maurizio;Italiano;;400812;0;400812;
+8784;57849;POLITICHE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400814;;32316;Rizza Roberto;Italiano;;400814;0;400814;400916
+8784;4873;ORGANIZZAZIONE E COMPORTAMENTO GIUDIZIARIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402613;;35614;Cavallini Daniela;Italiano;;402613;0;402613;386220
+8784;81769;METODO E TECNICHE DELL'ANALISI DEI DATI;;;;;;;412232;0;412232;
+8784;78074;METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM;;;;;;;412233;0;412233;
+8784;81771;DEMOCRACY AND POPULISM IN EUROPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412236;;41555;Baldini Gianfranco;Inglese;;412236;0;412236;412236
+8784;81772;LE LEADERSHIP DANS LES D?ÎMOCRATIES CONTEMPORAINES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412238;;32136;Ventura Sofia;Francese;;412238;0;412238;412930
+8784;81773;SOCIOLOGIA DELLE DISUGUAGLIANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412239;;38466;Mantovani Debora;Italiano;;412239;0;412239;412603
+8784;81763;RIGHTS IN THE EUROPEAN PUBLIC SPHERE;;;;;;;412242;0;412242;412207
+8784;29084;MODELLI DI COMPORTAMENTO ECONOMICO E ANALISI TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412243;;16805;Drudi Ignazio;Italiano;;412243;0;412243;403392
+8784;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412247;;16681;Nuti Giovanetti Fabio;Italiano;;412247;0;412247;394595
+8784;11332;COMUNICAZIONE POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412806;;37086;Campus Donatella;Italiano;;412806;0;412806;412579
+8784;37170;RIDUZIONE COORDINAMENTO COLLEGIO DOTTORATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415310;;14849;Guarnieri Calbo Crotta Carlo Antonio;;;415310;0;415310;
+8784;82854;DIRITTO TRIBUTARIO DELL'AMMINISTRAZIONE PUBBLICA E DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416577;;40541;D'Angelo Giangiacomo;Italiano;;416577;0;416577;
+8784;83796;ATTIVITA' INTEGRATIVA IUS/10;;;;;;;419585;0;419585;
+8784;83796;ATTIVITA' INTEGRATIVA IUS/10;;;;;;;419586;0;419586;
+8784;83800;RELAZIONI INDUSTRIALI APPLICATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419715;;42068;Cremonesi Giuseppe;Italiano;;419715;0;419715;
+8784;70014;PSICOLOGIA DELLE RISORSE UMANE;;;;;;;424591;0;424591;
+8784;85566;RELAZIONI INDUSTRIALI APPLICATE LM;;;;;;;424760;0;424760;
+8786;73393;DIRITTO DEL LAVORO E DIRITTO DELLA SICUREZZA SOCIALE (C.I.);;;;;;;386661;0;386661;
+8786;224;DIRITTO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386662;modulo;36953;Menegatti Emanuele;Italiano;;386662;386661;386661;
+8786;224;DIRITTO DEL LAVORO (1);;modulo;36953;Menegatti Emanuele;Italiano;;416911;386662;386661;
+8786;224;DIRITTO DEL LAVORO (2);;modulo;34210;Senatori Iacopo;;;416912;386662;386661;
+8786;2589;DIRITTO DELLA SICUREZZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386663;modulo;39969;Montanari Anna;Italiano;;386663;386661;386661;386663
+8786;73394;METODOLOGIA DELLE SCIENZE SOCIALI E STATISTICA SOCIALE (C.I.);;;;;;;386664;0;386664;
+8786;2506;METODOLOGIA DELLE SCIENZE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386666;modulo;35191;Bordandini Paola;Italiano;;386666;386664;386664;
+8786;2506;METODOLOGIA DELLE SCIENZE SOCIALI (1);;modulo;35191;Bordandini Paola;Italiano;;414704;386666;386664;
+8786;2506;METODOLOGIA DELLE SCIENZE SOCIALI (2);;modulo;38829;Sartori Laura;;;414705;386666;386664;
+8786;3383;STATISTICA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386667;modulo;16732;Cazzola Alberto;Italiano;;386667;386664;386664;
+8786;73395;SOCIOLOGIA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386668;;14918;Colozzi Ivo;Italiano;;386668;0;386668;
+8786;73396;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386669;;32524;Prandini Riccardo;Italiano;;386669;0;386669;
+8786;12785;SOCIOLOGIA DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386670;;16854;Pieretti Giovanni;Italiano;;386670;0;386670;386670
+8786;73397;TIROCINIO SOC;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386671;;39604;Degli Esposti Piergiorgio;Italiano;;386671;0;386671;
+8786;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386672;;36794;Cambria Santino;Italiano;;386672;0;386672;
+8786;31495;LINGUA INGLESE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386674;;41194;Kunst Alex Matthew;Inglese;;386674;0;386674;
+8786;12227;SOCIOLOGIA DEI CONSUMI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386676;;32515;Paltrinieri Roberta;Italiano;;386676;0;386676;
+8786;73399;SOCIOLOGIA DELLA FAMIGLIA E DEL TERZO SETTORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386677;;46531;Macchioni Elena;Italiano;;386677;0;386677;
+8786;2512;SOCIOLOGIA DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386695;;32544;Borghi Vando;Italiano;;386695;0;386695;386695
+8786;57850;SOCIOLOGIA DELLE MIGRAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386699;;32834;Bergamaschi Maurizio;Italiano;;386699;0;386699;
+8786;57850;SOCIOLOGIA DELLE MIGRAZIONI (1);;modulo;32834;Bergamaschi Maurizio;Italiano;;415033;386699;386699;415033
+8786;57850;SOCIOLOGIA DELLE MIGRAZIONI (2);;modulo;42551;Landi Alessandra;;;415034;386699;386699;415034
+8786;73403;METODI E TECNICHE DELLA VALUTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386701;;15066;Altieri Leonardo;Italiano;;386701;0;386701;
+8786;73405;SEMINARIO DI METODI E TECNICHE PER L'ANALISI QUALITATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386703;;39604;Degli Esposti Piergiorgio;Italiano;;386703;0;386703;
+8786;17268;PROVA FINALE;;;;;;;386706;0;386706;
+8786;73407;DIRITTO DELLA SICUREZZA SOCIALE E DIRITTO PENALE (C.I.);;;;;;;386707;0;386707;
+8786;2589;DIRITTO DELLA SICUREZZA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386708;modulo;39969;Montanari Anna;Italiano;;386708;386707;386707;386663
+8786;231;DIRITTO PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386709;modulo;34200;Manes Vittorio;Italiano;;386709;386707;386707;
+8786;11344;POLITICA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386711;;15952;Zurla Paolo;Italiano;;386711;0;386711;
+8786;11344;POLITICA SOCIALE (1);;modulo;15952;Zurla Paolo;Italiano;;403592;386711;386711;
+8786;11344;POLITICA SOCIALE (2);;modulo;35893;De Luigi Nicola;;;403593;386711;386711;
+8786;49482;COMUNICAZIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386712;;31614;Parmiggiani Paola;Italiano;;386712;0;386712;
+8786;73408;TIROCINIO SERVSOC;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386713;;36137;Mantovani Francesca;Italiano;;386713;0;386713;
+8786;73409;PROGRAMMAZIONE DEI SERVIZI SOCIALI SUL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386714;;35552;Giullari Barbara;Italiano;;386714;0;386714;
+8786;73410;LABORATORIO DI METODI E TECNICHE AVANZATE DEL SERVIZIO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386715;;36137;Mantovani Francesca;Italiano;;386715;0;386715;
+8786;73281;FILOSOFIA POLITICA LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387424;;30240;Giorgini Giovanni;Italiano;;387424;0;387424;
+8786;73281;FILOSOFIA POLITICA LM (1);;modulo;30240;Giorgini Giovanni;Italiano;;420053;387424;387424;
+8786;73281;FILOSOFIA POLITICA LM (2);;modulo;50154;Scudieri Alina;;;420054;387424;387424;
+8786;75067;SOCIOLOGIA DELLE COMUNIT?« E DEI QUARTIERI URBANI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391349;;32179;Castrignan?? Marco;Italiano;;391349;0;391349;391349
+8786;75068;HEALTH, TECHNOLOGY AND SOCIETY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391350;;34308;Maturo Antonio Francesco;Inglese;;391350;0;391350;391350
+8786;75073;HUMANITARIAN COMMUNICATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391352;;39542;Musar?? Pierluigi;Inglese;;391352;0;391352;391352
+8786;75074;WEB SOCIETY AND GLOBALIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391353;;39604;Degli Esposti Piergiorgio;Inglese;;391353;0;391353;391353
+8786;75075;URBAN STUDIES IN THE UNITED STATES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391355;;42551;Landi Alessandra;Inglese;;391355;0;391355;
+8786;76222;SISTEMI SOCIO-SANITARI COMPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394026;;47073;Paolucci Francesco;Italiano;;394026;0;394026;
+8786;76335;SEMINARIO SU SUSSIDIARIET?«, RIFORMA DEL WELFARE E INNOVAZIONE SOCIALE IN ITALIA E IN EUROPA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394236;;14918;Colozzi Ivo;Italiano;;394236;0;394236;394237
+8786;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395739;;32515;Paltrinieri Roberta;;;395739;0;395739;
+8786;76810;SEMINARIO DI METODI E TECNICHE PER L'ANALISI QUANTITATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397024;;35893;De Luigi Nicola;Italiano;;397024;0;397024;
+8786;76811;LABORATORIO DI ORGANIZZAZIONE E PROGRAMMAZIONE DEI SERVIZI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397025;;35552;Giullari Barbara;Italiano;;397025;0;397025;
+8786;75191;LOCAL AND URBAN POLITICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397111;;30302;Sebastiani Chiara;Inglese;;397111;0;397111;413208
+8786;75086;EDUCATION SYSTEMS AND POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/397494;;31798;Gasperoni Giancarlo;Inglese;;397494;0;397494;391512
+8786;69618;"SEMINARIO ""MINORI E GIUSTIZIA""";http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400166;;38094;Rescigno Maria;Italiano;;400166;0;400166;376729
+8786;57849;POLITICHE DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400916;;32316;Rizza Roberto;Italiano;;400916;0;400916;400916
+8786;639;LINGUA FRANCESE;;;;;;;412852;0;412852;
+8786;82554;CITTADINANZA, TERRITORIO E NUOVO WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415117;;46531;Macchioni Elena;Italiano;;415117;0;415117;
+8840;75520;COMUNICAZIONE E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391974;;31478;Lalli Pina;Italiano;;391974;0;391974;
+8840;22922;COMUNICAZIONE PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391975;;39220;Valeriani Augusto;Italiano;;391975;0;391975;
+8840;75522;DIRITTO DELLA COMUNICAZIONE COMMERCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391976;;31511;Alvisi Chiara;Italiano;;391976;0;391976;
+8840;28208;MODELLI DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391979;;38425;Di Menna Massimo;Italiano;;391979;0;391979;
+8840;33190;TEORIE DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391981;;917049;Dallara Cristina;Italiano;;391981;0;391981;412571
+8840;73231;DEMOCRAZIA PARTECIPATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391983;;15218;Lewanski Rodolfo;Italiano;;391983;0;391983;391983
+8840;75525;DIRITTO DEI MEDIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391986;;41288;Caporale Marina;Italiano;;391986;0;391986;
+8840;59285;SOCIOLOGIA DELLA COMUNICAZIONE MULTIMEDIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391989;;34146;Capecchi Saveria;Italiano;;391989;0;391989;391989
+8840;22941;TEORIA DELLA SFERA PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391990;;30302;Sebastiani Chiara;Italiano;;391990;0;391990;
+8840;17268;PROVA FINALE;;;;;;;392034;0;392034;
+8840;75564;COMUNICAZIONE E POLITICHE AMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392035;;16722;Zanasi Cesare;Italiano;;392035;0;392035;
+8840;75565;COMUNICAZIONE E WEB;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392037;;46864;De Nobili Francesco;Italiano;;392037;0;392037;412566
+8840;36276;COOPERAZIONE SANITARIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392038;;31478;Lalli Pina;Italiano;;392038;0;392038;
+8840;32500;CULTURAL ECONOMICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392039;;34620;Mazzanti Massimiliano;Inglese;;392039;0;392039;
+8840;75566;MARKETING SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392040;;40226;Fattori Giuseppe;Italiano;;392040;0;392040;
+8840;73343;DIRITTI UMANI, COSTITUZIONI, ISTITUZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392072;;14948;Gherardi Raffaella;Italiano;;392072;0;392072;413210
+8840;35808;DIRITTO DEL LAVORO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392544;;15943;Tinti Anna Rita;Italiano;;392544;0;392544;386287
+8840;73223;DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392546;;24356;Donati Daniele;Italiano;;392546;0;392546;
+8840;73223;DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE (1);;modulo;24356;Donati Daniele;Italiano;;406228;392546;392546;
+8840;73223;DIRITTO DELLE AMMINISTRAZIONI PUBBLICHE (2);;modulo;41288;Caporale Marina;;;406229;392546;392546;
+8840;14003;TEORIA E TECNICHE DELLA COMUNICAZIONE PUBBLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392552;;75511;Guidi Leda;Italiano;;392552;0;392552;
+8840;14003;TEORIA E TECNICHE DELLA COMUNICAZIONE PUBBLICA (1);;modulo;75511;Guidi Leda;Italiano;;416403;392552;392552;
+8840;75774;PSICOLOGIA E COMUNICAZIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392559;;31505;Lorenzetti Roberta;Italiano;;392559;0;392559;377781
+8840;75781;TEORIA E MODELLI DELLO SPAZIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392571;;39167;Frixa Emanuele;Italiano;;392571;0;392571;402578
+8840;37838;LABORATORIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393648;;31478;Lalli Pina;Italiano;;393648;0;393648;
+8840;75931;IDONEIT?« DI LINGUA INGLESE B2;;;;;;;394264;0;394264;
+8840;75001;ANALISI DELL'ECONOMIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400862;;15875;Rossini Gianpaolo;Italiano;;400862;0;400862;391213
+8840;75074;WEB SOCIETY AND GLOBALIZATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400864;;39604;Degli Esposti Piergiorgio;Inglese;;400864;0;400864;391353
+8840;78984;COMUNICAZIONE POLITICA E COMPETIZIONE ELETTORALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400971;;37086;Campus Donatella;Italiano;;400971;0;400971;412579
+8840;77968;BIG DATA AND CYBERSECURITY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403668;;41752;Albertini Marco;Inglese;;403668;0;403668;
+8840;77968;BIG DATA AND CYBERSECURITY (1);;modulo;41752;Albertini Marco;Inglese;;403669;403668;403668;403386
+8840;77968;BIG DATA AND CYBERSECURITY (2);;modulo;36058;Giacomello Giampiero;;;403670;403668;403668;403387
+8840;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/409992;;31478;Lalli Pina;Italiano;;409992;0;409992;
+8840;81875;STRATEGIE DI WEB MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412566;;46864;De Nobili Francesco;Italiano;;412566;0;412566;412566
+8840;81878;MEDIA DIGITALI E GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412570;;34146;Capecchi Saveria;Italiano;;412570;0;412570;
+8840;81878;MEDIA DIGITALI E GENERE (1);;modulo;34146;Capecchi Saveria;Italiano;;415763;412570;412570;415763
+8840;81878;MEDIA DIGITALI E GENERE (2);;modulo;22818;Vaccari Marzia;;;415764;412570;412570;415764
+8840;42022;TEORIE SOCIALI DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412571;;917049;Dallara Cristina;Italiano;;412571;0;412571;412571
+8840;11332;COMUNICAZIONE POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412579;;37086;Campus Donatella;Italiano;;412579;0;412579;412579
+8840;78074;METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM;;;;;;;412588;0;412588;
+8840;81769;METODO E TECNICHE DELL'ANALISI DEI DATI;;;;;;;412590;0;412590;
+8840;75100;REGIONAL ECONOMIC POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412599;;24369;Brasili Cristina;Inglese;;412599;0;412599;413218
+8840;81773;SOCIOLOGIA DELLE DISUGUAGLIANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412603;;38466;Mantovani Debora;Italiano;;412603;0;412603;412603
+8840;8610;SOCIOLOGIA DELLE RELIGIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412611;;38929;Turina Isacco;Italiano;;412611;0;412611;412611
+8840;29358;IDEOLOGIE E LEGITTIMAZIONE POLITICA;;;;;;;412613;0;412613;
+8840;42465;ECONOMIA DEI SISTEMI LOCALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412617;;15561;Antonelli Gilberto;Italiano;;412617;0;412617;413221
+8840;45070;ECONOMIA DELL'IMPRESA E DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412618;;16681;Nuti Giovanetti Fabio;Italiano;;412618;0;412618;394595
+8840;73276;CRISI FINANZIARIE E SISTEMA ECONOMICO INTERNAZIONALE;;;;;;;412620;0;412620;
+8840;73340;ECONOMIA DELLO SVILUPPO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412624;;30317;Ardeni Pier Giorgio;Italiano;;412624;0;412624;413213
+8840;81763;RIGHTS IN THE EUROPEAN PUBLIC SPHERE;;;;;;;412627;0;412627;412207
+8840;81909;TECNOLOGIA,WEB E GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412639;;34146;Capecchi Saveria;Italiano;;412639;0;412639;
+8840;81909;TECNOLOGIA,WEB E GENERE (1);;modulo;34146;Capecchi Saveria;Italiano;;416335;412639;412639;415763
+8840;81909;TECNOLOGIA,WEB E GENERE (2);;modulo;22818;Vaccari Marzia;;;416336;412639;412639;415764
+8840;12641;POLITICA ECONOMICA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413750;;15097;Salituro Bruno;Italiano;;413750;0;413750;386337
+8840;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414709;;34146;Capecchi Saveria;;;414709;0;414709;
+8853;905;SOCIOLOGIA;;;;;;;392862;0;392862;
+8853;895;SCIENZA POLITICA;;;;;;;392863;0;392863;
+8853;932;STORIA CONTEMPORANEA;;;;;;;392864;0;392864;
+8853;9446;MICROECONOMIA;;;;;;;392865;0;392865;
+8853;74775;LINGUA INGLESE (12 CFU);;;;;;;392866;0;392866;
+8853;534;ISTITUZIONI DI DIRITTO PUBBLICO;;;;;;;392867;0;392867;
+8853;914;STATISTICA;;;;;;;392869;0;392869;
+8853;914;STATISTICA (F-N) (1);;modulo;41465;Anderlucci Laura;Italiano;;404284;404282;392869;
+8853;914;STATISTICA (F-N) (2);;modulo;;;Italiano;;404285;404282;392869;
+8853;983;STORIA DELLE DOTTRINE POLITICHE;;;;;;;392870;0;392870;
+8853;8795;MACROECONOMIA;;;;;;;392871;0;392871;
+8853;8795;MACROECONOMIA (F-N) (1);;modulo;36371;Dragone Davide;Italiano;;415169;404043;392871;
+8853;8795;MACROECONOMIA (F-N) (2);;modulo;15911;Gozzi Giancarlo;;;415170;404043;392871;
+8853;8795;MACROECONOMIA (O-Z) (1);;modulo;39291;Bottazzi Laura;;;404045;404044;392871;
+8853;8795;MACROECONOMIA (O-Z) (2);;modulo;16824;Scorcu Antonello Eugenio;Italiano;;404046;404044;392871;
+8853;17270;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI;;;;;;;392872;0;392872;
+8853;17270;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (A-E) (1);;modulo;31478;Lalli Pina;Italiano;;414736;403572;392872;
+8853;17270;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (A-E) (2);;modulo;34146;Capecchi Saveria;;;414737;403572;392872;
+8853;74778;LINGUA FRANCESE (8 CFU);;;;;;;392873;0;392873;
+8853;74776;LINGUA SPAGNOLA (8 CFU);;;;;;;392874;0;392874;
+8853;74782;LINGUA TEDESCA (8 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392875;;54403;Tatasciore Claudia;Tedesco;;392875;0;392875;392875
+8853;74794;COMUNICAZIONE POLITICA E DI MASSA (C.I.);;;;;;;392876;0;392876;
+8853;10058;COMUNICAZIONE DI MASSA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392878;modulo;39604;Degli Esposti Piergiorgio;Italiano;;392878;392876;392876;392912
+8853;11332;COMUNICAZIONE POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392877;modulo;39604;Degli Esposti Piergiorgio;Italiano;;392877;392876;392876;392912
+8853;2935;LABORATORIO;;;;;;;392879;0;392879;
+8853;17268;PROVA FINALE;;;;;;;392880;0;392880;
+8853;75408;SOCIOLOGIA DELLA COMUNICAZIONE (10 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392881;;31478;Lalli Pina;Italiano;;392881;0;392881;392881
+8853;8829;METODOLOGIA DELLA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392882;;15066;Altieri Leonardo;Italiano;;392882;0;392882;
+8853;2644;TEORIA DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392884;;39609;Toth Federico;Italiano;;392884;0;392884;392884
+8853;4876;SOCIOLOGIA URBANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392885;;32179;Castrignan?? Marco;Italiano;;392885;0;392885;
+8853;4876;SOCIOLOGIA URBANA (1);;modulo;32179;Castrignan?? Marco;Italiano;;414972;392885;392885;
+8853;4876;SOCIOLOGIA URBANA (2);;modulo;32834;Bergamaschi Maurizio;;;414973;392885;392885;
+8853;74787;ITALIAN POLITICAL SYSTEM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392887;;14849;Guarnieri Calbo Crotta Carlo Antonio;Inglese;;392887;0;392887;
+8853;74786;POLITICAL PHILOSOPHY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392888;;30240;Giorgini Giovanni;Inglese;;392888;0;392888;
+8853;74786;POLITICAL PHILOSOPHY (1);;modulo;30240;Giorgini Giovanni;Inglese;;414768;392888;392888;414768
+8853;74786;POLITICAL PHILOSOPHY (2);;modulo;50154;Scudieri Alina;;;414769;392888;392888;414769
+8853;2523;PSICOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392889;;41871;Balducci Cristian;Italiano;;392889;0;392889;392889
+8853;223;DIRITTO COSTITUZIONALE ITALIANO E COMPARATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392890;;31477;Pegoraro Lucio;Italiano;;392890;0;392890;
+8853;217;DIRITTO AMMINISTRATIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392891;;15850;Baratti Giorgio;Italiano;;392891;0;392891;
+8853;15261;DIRITTO DEL LAVORO E DELLE RELAZIONI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392892;;15943;Tinti Anna Rita;Italiano;;392892;0;392892;
+8853;15261;DIRITTO DEL LAVORO E DELLE RELAZIONI INDUSTRIALI (1);;modulo;14384;Ricciardi Mario;;;414865;392892;392892;414865
+8853;15261;DIRITTO DEL LAVORO E DELLE RELAZIONI INDUSTRIALI (2);;modulo;15943;Tinti Anna Rita;Italiano;;414866;392892;392892;414866
+8853;3495;SOCIOLOGIA ECONOMICA E DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392893;;38699;Chicchi Federico;Italiano;;392893;0;392893;
+8853;9117;SOCIOLOGIA DELLA FAMIGLIA E DELL'EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392894;;36796;Bertocchi Federica;Italiano;;392894;0;392894;392894
+8853;8641;ANALISI DELLE POLITICHE PUBBLICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392896;;15218;Lewanski Rodolfo;Italiano;;392896;0;392896;
+8853;2538;ECONOMIA E POLITICA MONETARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392897;;14488;Stagni Anna;Italiano;;392897;0;392897;
+8853;2538;ECONOMIA E POLITICA MONETARIA (1);;modulo;14488;Stagni Anna;Italiano;;422894;392897;392897;421143
+8853;2538;ECONOMIA E POLITICA MONETARIA (2);;modulo;14488;Stagni Anna;;;422895;392897;392897;421144
+8853;35806;STORIA ECONOMICA EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392899;;14301;Piro Francesco;Italiano;;392899;0;392899;392899
+8853;2493;RELAZIONI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392900;;40669;Chiaruzzi Michele;Italiano;;392900;0;392900;392900
+8853;23440;STORIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392901;;41390;Marchi Michele;Italiano;;392901;0;392901;
+8853;2537;ECONOMIA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392902;;37301;Naghavi Alireza Jay;Italiano;;392902;0;392902;418886
+8853;230;DIRITTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392903;;41320;Mengozzi Pieralberto;Italiano;;392903;0;392903;402843
+8853;2492;POLITICA COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392904;;15664;Ignazi Piero;Italiano;;392904;0;392904;
+8853;56611;STORIA E POLITICA DEGLI STATI UNITI D'AMERICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392905;;31740;Baritono Raffaella;Italiano;;392905;0;392905;392905
+8853;15249;STORIA E ISTITUZIONI DELL'AMERICA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392906;;32142;Zanatta Loris;Italiano;;392906;0;392906;353165
+8853;78214;L'AFRICA NELLA STORIA POLITICA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392907;;35643;Zamponi Mario;Italiano;;392907;0;392907;402831
+8853;74785;STORIA E ISTITUZIONI DEI PAESI DEL MEDIO ORIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392910;;39539;Biancani Francesca;Italiano;;392910;0;392910;329902
+8853;7297;SOCIOLOGIA DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392912;;39604;Degli Esposti Piergiorgio;Italiano;;392912;0;392912;392912
+8853;2504;STORIA DEL PENSIERO SOCIOLOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392913;;32544;Borghi Vando;Italiano;;392913;0;392913;
+8853;2504;STORIA DEL PENSIERO SOCIOLOGICO (1);;modulo;32544;Borghi Vando;Italiano;;414844;392913;392913;
+8853;2504;STORIA DEL PENSIERO SOCIOLOGICO (2);;modulo;31741;Colombo Asher Daniel;;;414845;392913;392913;
+8853;2504;STORIA DEL PENSIERO SOCIOLOGICO (3);;modulo;14826;Panebianco Angelo;;;414846;392913;392913;
+8853;74927;SOCIOLOGIA DELLA DEVIANZA E CRIMINOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392914;;32718;Sette Raffaella;Italiano;;392914;0;392914;
+8853;29041;SEMINARIO DI SOCIOLOGIA VISUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392915;;36137;Mantovani Francesca;Italiano;;392915;0;392915;376768
+8853;65884;ELEMENTI DI ORGANIZZAZIONE E IMPRESA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392918;;14313;Giusberti Fabio;;;392918;0;392918;
+8853;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392919;;14313;Giusberti Fabio;;;392919;0;392919;
+8853;67187;LABORATORIO DI PREPARAZIONE AL TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392920;;14313;Giusberti Fabio;;;392920;0;392920;
+8853;76336;WELFARE, SUSSIDIARIET?« E INNOVAZIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394239;;14918;Colozzi Ivo;Italiano;;394239;0;394239;394237
+8853;4871;SISTEMA POLITICO ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394248;;41555;Baldini Gianfranco;Italiano;;394248;0;394248;
+8853;4871;SISTEMA POLITICO ITALIANO (1);;modulo;46285;Pinto Luca;;;414741;394248;394248;
+8853;4871;SISTEMA POLITICO ITALIANO (2);;modulo;15990;Cartocci Roberto;;;414742;394248;394248;
+8853;4871;SISTEMA POLITICO ITALIANO (3);;modulo;41555;Baldini Gianfranco;Italiano;;414743;394248;394248;
+8853;78160;METODOLOGIA DELLA RICERCA POLITICA E SOCIALE;;;;;;;400929;0;400929;
+8853;72822;RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406477;;14948;Gherardi Raffaella;;;406477;0;406477;
+8853;57799;STORIA E ISTITUZIONI DELL'AFRICA SUB-SAHARIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406483;;35643;Zamponi Mario;Italiano;;406483;0;406483;402831
+8853;8540;SOCIOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412708;;32544;Borghi Vando;Italiano;;412708;0;412708;402839
+8853;72820;RIDUZIONE ALTRI DELEGATI DEL RETTORE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414751;;32052;Cavazza Stefano;;;414751;0;414751;
+8853;37172;RIDUZIONE PER PROGETTI DI RICERCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414753;;31798;Gasperoni Giancarlo;;;414753;0;414753;
+8853;37168;RIDUZIONE DIRETTORE DIP O ALTRE STRUTTURE RICERCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414785;;14313;Giusberti Fabio;;;414785;0;414785;
+8853;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414873;;31766;Sapignoli Michele;;;414873;0;414873;
+8889;44658;DIRITTI UMANI E STORIA DEL DIRITTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402940;;15204;Gozzi Gustavo;Italiano;;402940;0;402940;402940
+8889;67122;ECONOMIA POLITICA DEI PAESI DEL MEDITERRANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402942;;38356;Mengoni Luisa;Italiano;;402942;0;402942;
+8889;49546;DIRITTO PUBBLICO E TUTELA DEI DIRITTI FONDAMENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402943;;40542;Drigo Caterina;Italiano;;402943;0;402943;309932
+8889;62094;FILOSOFIA DEI DIRITTI UMANI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402944;;35641;Vida Silvia;Italiano;;402944;0;402944;
+8889;61192;GEOGRAFIA DEL MEDITERRANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402948;;33273;Neve Mario Angelo;Italiano;;402948;0;402948;
+8889;44655;ANTROPOLOGIA CULTURALE E PROCESSI DI MIGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402949;;74306;Matera Vincenzo;Italiano;;402949;0;402949;
+8889;44655;ANTROPOLOGIA CULTURALE E PROCESSI DI MIGRAZIONE (1);;modulo;74306;Matera Vincenzo;Italiano;;416574;402949;402949;416574
+8889;44655;ANTROPOLOGIA CULTURALE E PROCESSI DI MIGRAZIONE (2);;modulo;47795;Marabello Selenia;;;416575;402949;402949;
+8889;79098;ANTROPOLOGIA SOCIALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402950;;74306;Matera Vincenzo;Italiano;;402950;0;402950;416574
+8889;69226;POLITICHE DI SVILUPPO E COOPERAZIONE IN AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402951;;40748;Tornimbeni Corrado;Italiano;;402951;0;402951;
+8889;57817;MULTICULTURALISMO E RELATIVISMO CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402954;;15204;Gozzi Gustavo;Italiano;;402954;0;402954;
+8889;44669;STORIA DELL'EUROPA ORIENTALE, NATION BUILDING E TUTELA DELLE MINORANZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402955;;31700;Privitera Francesco;Italiano;;402955;0;402955;
+8889;44669;STORIA DELL'EUROPA ORIENTALE, NATION BUILDING E TUTELA DELLE MINORANZE (1);;modulo;31700;Privitera Francesco;Italiano;;419304;402955;402955;
+8889;44669;STORIA DELL'EUROPA ORIENTALE, NATION BUILDING E TUTELA DELLE MINORANZE (2);;modulo;52964;Puleri Marco;;;419305;402955;402955;
+8889;28809;LINGUA E CIVILTA' ARABA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402958;;83111;Kebour Nadjia;;;402958;0;402958;
+8889;44659;DIRITTO INTERNAZIONALE DEI DIRITTI UMANI E DIRITTO EUROPEO DELLA COOPERAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402959;;31863;Baroncini Elisa;Italiano;;402959;0;402959;204151
+8889;67159;ECONOMIA DELLO SVILUPPO, SVILUPPO UMANO E TUTELA DEI BENI CULTURALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402973;;45974;Zagaglia Paolo;Italiano;;402973;0;402973;
+8889;78213;POLITICA E SVILUPPO NEL MONDO GLOBALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402974;;36057;Baroncelli Eugenia;Italiano;;402974;0;402974;
+8889;44656;CICLO DEL PROGETTO NELLA COOPERAZIONE ALLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402976;;38209;Salinari Raffaele;;;402976;0;402976;
+8889;29441;DIRITTI UMANI E DIRITTI DEI MINORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402981;;41389;Furia Annalisa;Italiano;;402981;0;402981;
+8889;79053;IL GOVERNO DELL'AIUTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402982;;41389;Furia Annalisa;Italiano;;402982;0;402982;
+8889;77903;ISTITUZIONI E PATRIMONIO CULTURALE IN ET?« MODERNA E CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402984;;31019;Balzani Roberto;Italiano;;402984;0;402984;400611
+8889;20674;TIROCINI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402987;;31070;Vespignani Giorgio;;;402987;0;402987;
+8889;34477;IDONEIT?« LINGUA INGLESE B2;;;;;;;402988;0;402988;
+8889;79100;IDONEIT?« LINGUA FRANCESE B2;;;;;;;402989;0;402989;
+8889;25292;ABILITA' INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402991;;33240;Iannucci Alessandro;Italiano;;402991;0;402991;
+8889;76062;ARCHEOLOGIA DELL'IRAN PRE-ISLAMICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402993;;30059;Callieri Pierfrancesco;Italiano;;402993;0;402993;393523
+8889;30429;ARCHEOLOGIA PREISTORICA E PROTOSTORICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402994;;32051;Cattani Maurizio;Italiano;;402994;0;402994;393499
+8889;76010;TEMI E METODI DELLA RICERCA PREISTORICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402997;;32051;Cattani Maurizio;Italiano;;402997;0;402997;393502
+8889;78243;GLI EBREI NEL MONDO MODERNO E CONTEMPORANEO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402999;;35987;Campanini Saverio;Italiano;;402999;0;402999;
+8889;66930;ARCHEOGENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403000;;14869;Gruppioni Giorgio;Italiano;;403000;0;403000;393382
+8889;50232;ARCHEOLOGIA DELLE PROVINCE ROMANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403001;;38203;Villicich Riccardo;Italiano;;403001;0;403001;393416
+8889;16919;ARCHIVISTICA SPECIALE MODERNA E CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403002;;34483;Turchini Angelo;Italiano;;403002;0;403002;393047
+8889;7077;BIBLIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403003;;85720;Sardo Lucia;Italiano;;403003;0;403003;393081
+8889;58454;CIVILTA' BIZANTINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403004;;31070;Vespignani Giorgio;Inglese;;403004;0;403004;
+8889;75993;FONTI LETTERARIE CLASSICHE PER LO STUDIO DEL PATRIMONIO CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403005;;33240;Iannucci Alessandro;Italiano;;403005;0;403005;393378
+8889;17268;PROVA FINALE;;;;;;;403011;0;403011;
+8889;30554;CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403075;;31070;Vespignani Giorgio;;;403075;0;403075;
+8889;30457;FILOLOGIA, LINGUISTICA E STORIA RELIGIOSA DELL'IRAN;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403085;;30333;Panaino Antonio Clemente Domenico;Italiano;;403085;0;403085;403085
+8889;83293;Diritti umani e diritti dei minori;;;;;;;417806;0;417806;
+8890;534;ISTITUZIONI DI DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402804;;16000;Scavone Angelo;Italiano;;402804;0;402804;
+8890;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402819;;34768;Leoncini Riccardo;Italiano;;402819;0;402819;402819
+8890;74775;LINGUA INGLESE (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402820;;42937;Ferrari Federica;Italiano;;402820;0;402820;
+8890;78214;L'AFRICA NELLA STORIA POLITICA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402831;;35643;Zamponi Mario;Italiano;;402831;0;402831;402831
+8890;11483;ECONOMIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402832;;30317;Ardeni Pier Giorgio;Italiano;;402832;0;402832;
+8890;78997;GEOGRAFIA E SOCIOLOGIA DEL TERRITORIO (C.I.);;;;;;;402833;0;402833;
+8890;78998;GEOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402836;modulo;14587;Dallari Fiorella;Italiano;;402836;402833;402833;
+8890;59239;SOCIOLOGIA DEL TERRITORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402837;modulo;37262;Manella Gabriele;Italiano;;402837;402833;402833;
+8890;8540;SOCIOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402839;;32544;Borghi Vando;Italiano;;402839;0;402839;402839
+8890;30588;ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402840;;35183;Raggi Meri;Italiano;;402840;0;402840;
+8890;30588;ELEMENTI DI STATISTICA (1);;modulo;35183;Raggi Meri;Italiano;;418299;402840;402840;
+8890;30588;ELEMENTI DI STATISTICA (2);;modulo;48271;Ranciati Saverio;;;418300;402840;402840;
+8890;915;STATISTICA ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402841;;38371;Bernardini Papalia Rosa;Italiano;;402841;0;402841;
+8890;57802;DIRITTO DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402842;;30984;Manzini Pietro;Italiano;;402842;0;402842;402842
+8890;230;DIRITTO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402843;;41320;Mengozzi Pieralberto;Italiano;;402843;0;402843;402843
+8890;72378;ECONOMIA DEL LAVORO C.I.;;;;;;;402844;0;402844;
+8890;79000;ECONOMIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402845;modulo;34469;Guidetti Giovanni;Italiano;;402845;402844;402844;402845
+8890;30600;LABORATORIO DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402846;modulo;15561;Antonelli Gilberto;Italiano;;402846;402844;402844;402846
+8890;79035;LABORATORIO: ECONOMIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402895;;30317;Ardeni Pier Giorgio;Italiano;;402895;0;402895;
+8890;79036;LABORATORIO: ANALISI TERRITORIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402896;;42108;Alboni Fabrizio;Italiano;;402896;0;402896;
+8890;2935;LABORATORIO;;;;;;;402897;0;402897;
+8890;17268;PROVA FINALE;;;;;;;402901;0;402901;
+8890;74785;STORIA E ISTITUZIONI DEI PAESI DEL MEDIO ORIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402902;;39539;Biancani Francesca;Italiano;;402902;0;402902;329902
+8890;7173;ECONOMIA DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402909;;33297;Montini Anna;Italiano;;402909;0;402909;
+8890;7173;ECONOMIA DELL'AMBIENTE (1);;modulo;33297;Montini Anna;Italiano;;418829;402909;402909;418829
+8890;7173;ECONOMIA DELL'AMBIENTE (2);;modulo;49591;Barbieri Nicol??;;;418830;402909;402909;418830
+8890;82186;INTRODUZIONE ALLA POLITICA INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413418;;36058;Giacomello Giampiero;Italiano;;413418;0;413418;
+8890;82187;SOCIETA' ED ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413419;;38829;Sartori Laura;Italiano;;413419;0;413419;
+8890;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416315;;38371;Bernardini Papalia Rosa;;;416315;0;416315;
+8890;82351;TIROCINIO ALL'ESTERO;;;;;;;420746;0;420746;
+9200;73342;GEOGRAFIE E POLITICHE DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413204;;35643;Zamponi Mario;Italiano;;413204;0;413204;
+9200;7229;TEORIA DELLO SVILUPPO POLITICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413205;;15990;Cartocci Roberto;Italiano;;413205;0;413205;
+9200;75067;SOCIOLOGIA DELLE COMUNIT?« E DEI QUARTIERI URBANI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413207;;32179;Castrignan?? Marco;Italiano;;413207;0;413207;391349
+9200;75191;LOCAL AND URBAN POLITICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413208;;30302;Sebastiani Chiara;Inglese;;413208;0;413208;413208
+9200;2512;SOCIOLOGIA DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413209;;32544;Borghi Vando;Italiano;;413209;0;413209;386695
+9200;81888;DIRITTI UMANI E ISTITUZIONI POLITICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413210;;14948;Gherardi Raffaella;Italiano;;413210;0;413210;413210
+9200;73289;RELAZIONI INTERNAZIONALI E SVILUPPO IN AFRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413212;;40748;Tornimbeni Corrado;Italiano;;413212;0;413212;413212
+9200;73340;ECONOMIA DELLO SVILUPPO INTERNAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413213;;30317;Ardeni Pier Giorgio;Italiano;;413213;0;413213;413213
+9200;75100;REGIONAL ECONOMIC POLICIES;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413218;;24369;Brasili Cristina;Inglese;;413218;0;413218;413218
+9200;42465;ECONOMIA DEI SISTEMI LOCALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413221;;15561;Antonelli Gilberto;Italiano;;413221;0;413221;413221
+9200;42469;METODI QUANTITATIVI PER L'ANALISI DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413224;;38371;Bernardini Papalia Rosa;Italiano;;413224;0;413224;
+9200;78074;METODOLOGIA DELLA RICERCA SOCIALE E POLITICA LM;;;;;;;413225;0;413225;
+9200;81769;METODO E TECNICHE DELL'ANALISI DEI DATI;;;;;;;413227;0;413227;
+9200;82132;GESTIONE, MONITORAGGIO E VALUTAZIONE DI PROGETTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413231;;43356;Cattani Luca;Italiano;;413231;0;413231;413231
+9200;26356;IDONEITA' LINGUA FRANCESE B - 1;;;;;;;413345;0;413345;
+9200;17268;PROVA FINALE;;;;;;;413352;0;413352;
+9200;81822;GLOBAL GEOPOLITICS OF BUSINESS;;;;;;;413691;0;413691;
+9200;82447;NEW LOCAL WELFARE AND NETWORKS OF SOCIAL INCLUSION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414266;;14106;Donati Pierpaolo;Inglese;;414266;0;414266;414266
+9200;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414921;;35643;Zamponi Mario;;;414921;0;414921;
