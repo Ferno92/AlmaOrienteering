@@ -1,42 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="30dp">
-
-        <LinearLayout
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="30dp">
-            <EditText
-                android:id="@+id/email"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:inputType="textEmailAddress"
-                android:hint="Email"/>
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:text="\@studio.unibo.it"
-                android:gravity="center"
-                android:textSize="18sp"
-                />
-        </LinearLayout>
-
+            android:text="Utente loggato:"
+            android:gravity="center"
+            android:textSize="24sp"/>
+        <TextView
+            android:id="@+id/email_logged_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="email@studio.unibo.it"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:layout_marginBottom="20dp"/>
         <EditText
-            android:id="@+id/pwd"
+            android:id="@+id/nome"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Password"
-            android:inputType="textPassword"
-            android:layout_marginTop="30dp"/>
+            android:hint="Nome"
+            android:layout_marginBottom="20dp"
+            />
+        <EditText
+            android:id="@+id/cognome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Cognome"
+            android:layout_marginBottom="20dp"
+            />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -47,7 +45,8 @@
             android:id="@+id/scuola_spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"></Spinner>
+            android:layout_marginTop="15dp"
+            android:spinnerMode="dialog"></Spinner>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -58,17 +57,17 @@
             android:id="@+id/corso_spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"></Spinner>
-
+            android:layout_marginTop="15dp"
+            android:spinnerMode="dialog"></Spinner>
         <android.support.v7.widget.AppCompatButton
-            android:id="@+id/signup"
+            android:id="@+id/save"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="REGISTRATI    "
-            android:layout_marginTop="30dp"
-            android:background="#EE762C"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"/>
+            android:text="Salva"
+            android:padding="10dp"
+            android:background="@color/colorAccent"
+            android:layout_marginTop="50dp"/>
     </LinearLayout>
+
 
 </ScrollView>

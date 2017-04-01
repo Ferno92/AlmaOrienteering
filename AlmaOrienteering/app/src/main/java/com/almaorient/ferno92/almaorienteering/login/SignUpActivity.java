@@ -3,7 +3,6 @@ package com.almaorient.ferno92.almaorienteering.login;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.View;
@@ -14,8 +13,7 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.BaseActivity;
-import com.almaorient.ferno92.almaorienteering.MainActivity;
-import com.almaorient.ferno92.almaorienteering.NewMainActivity;
+import com.almaorient.ferno92.almaorienteering.homepage.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
@@ -33,11 +31,9 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 import static android.content.Intent.FLAG_ACTIVITY_CLEAR_TASK;
 
@@ -195,7 +191,7 @@ public class SignUpActivity extends BaseActivity {
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
                                 if (!task.isSuccessful()) {
-                                    Toast.makeText(SignUpActivity.this, "Authentication failed",
+                                    Toast.makeText(SignUpActivity.this, "Authentication failed: " + task.getException().getMessage(),
                                             Toast.LENGTH_SHORT).show();
                                 }else{
                                     // Add user properties

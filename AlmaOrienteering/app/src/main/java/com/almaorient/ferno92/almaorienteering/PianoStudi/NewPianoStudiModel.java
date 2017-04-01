@@ -1,13 +1,16 @@
 package com.almaorient.ferno92.almaorienteering.PianoStudi;
 
+import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Corso;
+
+import java.util.ArrayList;
+
 /**
  * Created by ale96 on 29/03/2017.
  */
 
 public class NewPianoStudiModel {
 
-    public static final String CORSOCODICE = "corso_codice";
-    public static final String CORSONOME = "materia_descrizione";
+    public static final String NOME_INSEGNAMENTO = "materia_descrizione";
     public static final String PADRE = "componente_padre";
     public static final String RADICE = "componente_radice";
     public static final String URL = "url";
@@ -18,11 +21,11 @@ public class NewPianoStudiModel {
     Integer mPadre;
     Integer mRadice;
     String mUrl;
+    ArrayList<Corso> mListaInsegnamenti = new ArrayList<>();
 
 
-    public NewPianoStudiModel(Integer corsoCodice, String corsoNome, Integer padre, Integer radice,
-                          String url, String ritardo, String erasmus, String stage, String soddisfazione){
-        this.mCorsoCodice = corsoCodice;
+    public NewPianoStudiModel(String corsoNome, Integer padre, Integer radice,
+                          String url){
         this.mCorsoNome = corsoNome;
         this.mPadre = padre;
         this.mRadice = radice;
@@ -30,8 +33,14 @@ public class NewPianoStudiModel {
 
     }
 
-    public Integer getCorsoCodice() {
-        return mCorsoCodice;
+    public NewPianoStudiModel(String corsoNome, Integer padre, Integer radice,
+                              String url, ArrayList listaInsegnamenti){
+        this.mCorsoNome = corsoNome;
+        this.mPadre = padre;
+        this.mRadice = radice;
+        this.mUrl = url;
+        this.mListaInsegnamenti=listaInsegnamenti;
+
     }
 
     public String getCorsoNome () {
@@ -49,5 +58,13 @@ public class NewPianoStudiModel {
     public String getUrl() {
         return mUrl;
     }
+
+    public ArrayList getListaInsegnamenti () { return mListaInsegnamenti; }
+
+    public String toString()
+    {
+        return this.mCorsoNome;
+    }
+
 
 }

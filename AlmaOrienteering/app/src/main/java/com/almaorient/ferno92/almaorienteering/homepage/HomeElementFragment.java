@@ -1,10 +1,10 @@
 package com.almaorient.ferno92.almaorienteering.homepage;
 
+import android.app.Activity;
 import android.content.Intent;
-import android.content.res.Resources;
+import android.content.SharedPreferences;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,7 +17,6 @@ import com.almaorient.ferno92.almaorienteering.InfoAppActivity;
 import com.almaorient.ferno92.almaorienteering.InfoGeneraliActivity;
 import com.almaorient.ferno92.almaorienteering.MapsActivity;
 import com.almaorient.ferno92.almaorienteering.ModusActivity;
-import com.almaorient.ferno92.almaorienteering.NewMainActivity;
 import com.almaorient.ferno92.almaorienteering.R;
 import com.almaorient.ferno92.almaorienteering.recensioni.RecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
@@ -61,6 +60,10 @@ public class HomeElementFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 Intent i;
+                SharedPreferences sp = getContext().getSharedPreferences("your_prefs", Activity.MODE_PRIVATE);
+                SharedPreferences.Editor editor = sp.edit();
+                editor.putInt("pager_position", mPosition);
+                editor.commit();
                 switch(mPosition){
                     case 0:
                         i = new Intent(getContext(), InfoGeneraliActivity.class);

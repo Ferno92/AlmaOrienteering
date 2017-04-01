@@ -1,13 +1,14 @@
-package com.almaorient.ferno92.almaorienteering;
+package com.almaorient.ferno92.almaorienteering.homepage;
 
+import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
-import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -22,7 +23,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.almaorient.ferno92.almaorienteering.homepage.HomePagerAdapter;
+import com.almaorient.ferno92.almaorienteering.ChooseActivity;
+import com.almaorient.ferno92.almaorienteering.R;
+import com.almaorient.ferno92.almaorienteering.login.SettingsActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
@@ -43,34 +46,48 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     private ViewPager mViewPager;
     private HomePagerAdapter mPagerAdapter;
     private FirebaseAuth mAuth;
+    private String mUserName;
+    private String mUserSurname;
+    private String mCorso;
+    private String mCorsoId;
+    private String mScuola;
+    private Toolbar mToolbar;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mAuth = FirebaseAuth.getInstance();
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(mToolbar);
 
         mViewPager = (ViewPager) findViewById(R.id.vpPager);
         mPagerAdapter = new HomePagerAdapter(getSupportFragmentManager());
-        mPagerAdapter.setNumItems(7);
 
-        if(this.mAuth.getCurrentUser() != null) {
-            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-            ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                    this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        mPagerAdapter.setNumItems(7);
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+                this, drawer, mToolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+
+
+        if (this.mAuth.getCurrentUser() != null) {
             drawer.setDrawerListener(toggle);
             toggle.syncState();
+            drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED);
 
             NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
             navigationView.setNavigationItemSelectedListener(this);
             navigationView.setVisibility(View.VISIBLE);
 
-            LinearLayout navigationHeader =(LinearLayout) navigationView.getHeaderView(0);
+            LinearLayout navigationHeader = (LinearLayout) navigationView.getHeaderView(0);
             TextView mailText = (TextView) navigationHeader.findViewById(R.id.logged_user_email);
             mailText.setText(String.valueOf(this.mAuth.getCurrentUser().getEmail()));
-            Menu navigationMenu = (Menu)navigationView.getMenu();
+            Menu navigationMenu = (Menu) navigationView.getMenu();
             final MenuItem scuolaItem = (MenuItem) navigationMenu.findItem(R.id.nav_share);
             final MenuItem corsoItem = (MenuItem) navigationMenu.findItem(R.id.nav_send);
 
@@ -81,28 +98,36 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             query.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    for(DataSnapshot data : dataSnapshot.getChildren()){
+                    for (DataSnapshot data : dataSnapshot.getChildren()) {
                         String id = (String) data.child("userId").getValue();
-                        if(id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))){
-                            scuolaItem.setTitle((String) data.child("scuola").getValue());
-                            HashMap corsoMap = (HashMap) data.child("corso").getValue();
-                            Iterator corsoIterator = corsoMap.keySet().iterator();
-                            String nomeCorso = "";
-                            while (corsoIterator.hasNext()) {
-                                String corsoKey = (String) corsoIterator.next();
-                                switch (corsoKey) {
-                                    case "id":
+                        if (mAuth.getCurrentUser() != null) {
+                            if (id.equals(String.valueOf(mAuth.getCurrentUser().getEmail()))) {
+                                mUserName = (String) data.child("nome").getValue();
+                                mUserSurname = (String) data.child("cognome").getValue();
+                                mScuola = (String) data.child("scuola").getValue();
 
-                                        break;
-                                    case "nome":
-                                        nomeCorso = String.valueOf(corsoMap.get(corsoKey));
-                                        break;
-                                    default:
-                                        break;
+                                scuolaItem.setTitle((String) data.child("scuola").getValue());
+                                HashMap corsoMap = (HashMap) data.child("corso").getValue();
+                                Iterator corsoIterator = corsoMap.keySet().iterator();
+                                String nomeCorso = "";
+                                while (corsoIterator.hasNext()) {
+                                    String corsoKey = (String) corsoIterator.next();
+                                    switch (corsoKey) {
+                                        case "id":
+                                            mCorsoId = String.valueOf(corsoMap.get(corsoKey));
+                                            break;
+                                        case "nome":
+                                            nomeCorso = String.valueOf(corsoMap.get(corsoKey));
+                                            mCorso = nomeCorso;
+                                            break;
+                                        default:
+                                            break;
+                                    }
                                 }
+
+                                corsoItem.setTitle(nomeCorso);
                             }
 
-                            corsoItem.setTitle(nomeCorso);
                         }
                     }
 
@@ -115,21 +140,27 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
                 }
             });
 
-            if(!mAuth.getCurrentUser().isEmailVerified()){
+            if (!mAuth.getCurrentUser().isEmailVerified()) {
 
                 mPagerAdapter.setNumItems(7);
                 showMissingVerifyAlert();
-            }else{
+            } else {
 
                 mPagerAdapter.setNumItems(8);
 
             }
-        }
+        } else {
 
+            drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
+        }
+        SharedPreferences sp = getSharedPreferences("your_prefs", Activity.MODE_PRIVATE);
+        int pager_position = sp.getInt("pager_position", 0);
         mViewPager.setAdapter(mPagerAdapter);
+        mViewPager.setCurrentItem(pager_position);
 
         InkPageIndicator inkPageIndicator = (InkPageIndicator) findViewById(R.id.indicator);
         inkPageIndicator.setViewPager(mViewPager);
+
     }
 
     @Override
@@ -142,6 +173,11 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             if (drawer.isDrawerOpen(GravityCompat.START)) {
                 drawer.closeDrawer(GravityCompat.START);
             } else {
+
+                SharedPreferences sp = getSharedPreferences("your_prefs", Activity.MODE_PRIVATE);
+                SharedPreferences.Editor editor = sp.edit();
+                editor.putInt("pager_position", mViewPager.getCurrentItem());
+                editor.commit();
                 super.onBackPressed();
             }
         } else {
@@ -178,12 +214,8 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        if(this.mAuth.getCurrentUser() != null) {
-            MenuItem logout = (MenuItem) menu.findItem(R.id.logout);
-            logout.setVisible(true);
-            MenuItem delete = (MenuItem) menu.findItem(R.id.delete_user);
-            delete.setVisible(true);
+        if (this.mAuth.getCurrentUser() != null) {
+            getMenuInflater().inflate(R.menu.main, menu);
         }
         return true;
     }
@@ -198,16 +230,24 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent i = new Intent(NewMainActivity.this, SettingsActivity.class);
+            i.putExtra("nome", mUserName);
+            i.putExtra("cognome", mUserSurname);
+            i.putExtra("corsoId", mCorsoId);
+            i.putExtra("corso", mCorso);
+            i.putExtra("scuola", mScuola);
+            startActivity(i);
+
             return true;
-        }else if(id == R.id.logout){
-            if(this.mAuth.getCurrentUser() != null){
+        } else if (id == R.id.logout) {
+            if (this.mAuth.getCurrentUser() != null) {
                 this.mAuth.signOut();
                 Intent i = new Intent(NewMainActivity.this, ChooseActivity.class);
                 i.setFlags(FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(i);
                 finish();
             }
-        }else if(id == R.id.delete_user){
+        } else if (id == R.id.delete_user) {
             this.mAuth.getCurrentUser().delete().addOnCompleteListener(new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
@@ -259,4 +299,6 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
         });
         builder.show();
     }
+
+
 }
