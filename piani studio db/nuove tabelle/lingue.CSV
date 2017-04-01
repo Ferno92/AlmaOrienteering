@@ -1,0 +1,892 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+979;30931;LETTERATURA ITALIANA 1;;;;;;;328635;0;328635;
+979;30931;LETTERATURA ITALIANA 1 (GR. A) (1);;modulo;14572;Avellini Luisa;Italiano;;415536;332913;328635;
+979;30931;LETTERATURA ITALIANA 1 (GR. A) (2);;modulo;39623;Curti Elisa;;;415537;332913;328635;
+979;30946;LINGUA E LINGUISTICA FINLANDESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328679;;35504;Martin Sanna Maria;Italiano;;328679;0;328679;328679
+979;30950;LINGUA E LINGUISTICA FRANCESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328691;;35495;Nannoni Catia;Francese;;328691;0;328691;328691
+979;30951;LINGUA E LINGUISTICA INGLESE 1;;;;;;;328699;0;328699;
+979;30954;LINGUA E LINGUISTICA NEDERLANDESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328705;;43788;Prandoni Marco;Italiano;;328705;0;328705;377731
+979;30959;LINGUA E LINGUISTICA POLACCA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328720;;47263;Jakobsze Malgorzata;Italiano;;328720;0;328720;328720
+979;30965;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328730;;33516;Mulinacci Roberto;Italiano;;328730;0;328730;328730
+979;30970;LINGUA E LINGUISTICA RUSSA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328739;;34304;Berardi Simona;Italiano;;328739;0;328739;
+979;30972;LINGUA E LINGUISTICA SPAGNOLA 1;;;;;;;328742;0;328742;
+979;30976;LINGUA E LINGUISTICA TEDESCA 1;;;;;;;328747;0;328747;
+979;30980;LINGUA E LINGUISTICA UNGHERESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328752;;31426;Rozsnyoi Zsuzsanna;Italiano;;328752;0;328752;328857
+979;30994;LETTERATURA FINLANDESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328772;;35504;Martin Sanna Maria;Italiano;;328772;0;328772;328772
+979;31028;LETTERATURA FRANCESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328827;;37036;Gnocchi Maria Chiara;Francese;;328827;0;328827;
+979;31035;LETTERATURA NEDERLANDESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328836;;43788;Prandoni Marco;Italiano;;328836;0;328836;328836
+979;31038;LETTERATURA POLACCA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328837;;33696;Ceccherelli Andrea;Italiano;;328837;0;328837;328837
+979;31041;LETTERATURA RUSSA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328843;;30138;Imposti Gabriella Elina;Italiano;;328843;0;328843;
+979;31043;LETTERATURA SPAGNOLA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328849;;33602;Contadini Luigi;Italiano;;328849;0;328849;
+979;31046;LETTERATURA TEDESCA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328854;;14392;Cantarutti Giulia;Italiano;;328854;0;328854;
+979;31048;LETTERATURA UNGHERESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328857;;31426;Rozsnyoi Zsuzsanna;Italiano;;328857;0;328857;328857
+979;31055;LETTERATURE ANGLO-AMERICANE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328861;;36080;Lamberti Elena;Inglese;;328861;0;328861;
+979;31059;LETTERATURE ISPANO-AMERICANE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328880;;44529;Balletta Edoardo;Spagnolo;;328880;0;328880;
+979;31061;LETTERATURE PORTOGHESE E BRASILIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328886;;30337;Vecchi Roberto;Italiano;;328886;0;328886;328886
+979;31065;LINGUA E LINGUISTICA ARABA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328903;;38105;Benenati Giovanni Domenico;Italiano;;328903;0;328903;328903
+979;31068;LINGUA E LINGUISTICA CINESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328910;;32905;Ceccagno Antonella;Italiano;;328910;0;328910;329914
+979;31070;LINGUA E LINGUISTICA GIAPPONESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328918;;43115;Vitucci Francesco;Italiano;;328918;0;328918;329922
+979;31082;LINGUA E LINGUISTICA PERSIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328936;;35635;Saccone Carlo;Italiano;;328936;0;328936;329925
+979;31102;LETTERATURA ARABA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328969;;38105;Benenati Giovanni Domenico;Italiano;;328969;0;328969;328969
+979;31103;LETTERATURA CINESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328974;;43211;Pirazzoli Melinda;Italiano;;328974;0;328974;
+979;31103;LETTERATURA CINESE 1 (1);;modulo;43211;Pirazzoli Melinda;Italiano;;406353;328974;328974;
+979;31103;LETTERATURA CINESE 1 (2);;modulo;43209;Baccini Giulia;;;406354;328974;328974;
+979;31107;LETTERATURA GIAPPONESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328980;;41135;Scrolavezza Paola;Italiano;;328980;0;328980;329952
+979;31115;LETTERATURA PERSIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329006;;35635;Saccone Carlo;Italiano;;329006;0;329006;329963
+979;11379;STORIA MEDIEVALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329033;;30502;Pirillo Paolo;Italiano;;329033;0;329033;
+979;929;STORIA MODERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329047;;34220;Martelli Fabio;Italiano;;329047;0;329047;
+979;932;STORIA CONTEMPORANEA;;;;;;;329053;0;329053;
+979;31141;LINGUA E LINGUISTICA FINLANDESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329072;;35504;Martin Sanna Maria;Italiano;;329072;0;329072;328679
+979;31142;LETTERATURA FINLANDESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329076;;35504;Martin Sanna Maria;Italiano;;329076;0;329076;328772
+979;31145;LETTERATURA FRANCESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329079;;39600;Campi Riccardo;Francese;;329079;0;329079;
+979;31146;LETTERATURA INGLESE 2;;;;;;;329082;0;329082;
+979;31147;LINGUA E LINGUISTICA FRANCESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329084;;32839;Puccini Paola;Francese;;329084;0;329084;329084
+979;31149;LETTERATURA NEDERLANDESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329089;;43788;Prandoni Marco;Italiano;;329089;0;329089;328836
+979;31150;LINGUA E LINGUISTICA INGLESE 2;;;;;;;329092;0;329092;
+979;31154;LETTERATURA POLACCA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329097;;33696;Ceccherelli Andrea;Italiano;;329097;0;329097;328837
+979;31155;LINGUA E LINGUISTICA NEDERLANDESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329098;;43788;Prandoni Marco;Italiano;;329098;0;329098;377731
+979;31156;LETTERATURA RUSSA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329101;;33331;Niero Alessandro;Italiano;;329101;0;329101;
+979;31159;LETTERATURA SPAGNOLA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329107;;32837;Presotto Marco;Spagnolo;;329107;0;329107;
+979;31163;LETTERATURA TEDESCA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329115;;51479;Dallapiazza Michael Gottlieb;Italiano;;329115;0;329115;329115
+979;31164;LINGUA E LINGUISTICA POLACCA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329116;;47263;Jakobsze Malgorzata;Italiano;;329116;0;329116;328720
+979;31167;LETTERATURA UNGHERESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329119;;31426;Rozsnyoi Zsuzsanna;Italiano;;329119;0;329119;328857
+979;31170;LETTERATURE ANGLO-AMERICANE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329121;;15662;Minganti Franco;Inglese;;329121;0;329121;
+979;31170;LETTERATURE ANGLO-AMERICANE 2 (1);;modulo;15662;Minganti Franco;Inglese;;415314;329121;329121;415314
+979;31170;LETTERATURE ANGLO-AMERICANE 2 (2);;modulo;33632;Gardellini Giuliana;;;415315;329121;329121;415315
+979;31171;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329122;;42854;Assun?ºao Cecilio Livia;Portoghese;;329122;0;329122;329122
+979;31174;LETTERATURE ISPANO-AMERICANE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329129;;15228;Marchetti Giovanni Gentile;Spagnolo;;329129;0;329129;329129
+979;31176;LINGUA E LINGUISTICA RUSSA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329130;;34304;Berardi Simona;Italiano;;329130;0;329130;
+979;31178;LETTERATURE PORTOGHESE E BRASILIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329133;;30337;Vecchi Roberto;Italiano;;329133;0;329133;328886
+979;31182;LINGUA E LINGUISTICA SPAGNOLA 2;;;;;;;329137;0;329137;
+979;31186;LETTERATURA ARABA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329145;;38105;Benenati Giovanni Domenico;Italiano;;329145;0;329145;329145
+979;31187;LINGUA E LINGUISTICA TEDESCA 2;;;;;;;329146;0;329146;
+979;31191;LETTERATURA CINESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329152;;43211;Pirazzoli Melinda;Italiano;;329152;0;329152;329946
+979;31195;LETTERATURA GIAPPONESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329156;;41135;Scrolavezza Paola;Italiano;;329156;0;329156;330106
+979;31199;LINGUA E LINGUISTICA ARABA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329167;;38105;Benenati Giovanni Domenico;Italiano;;329167;0;329167;329167
+979;31201;LETTERATURA PERSIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329170;;37194;Mardani Faezeh;Italiano;;329170;0;329170;367748
+979;31206;LINGUA E LINGUISTICA CINESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329175;;43209;Baccini Giulia;Italiano;;329175;0;329175;329943
+979;31211;LINGUA E LINGUISTICA GIAPPONESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329183;;43115;Vitucci Francesco;Italiano;;329183;0;329183;329949
+979;31215;FILOLOGIA ARABA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329187;;82357;Villano Raoul;Italiano;;329187;0;329187;
+979;31217;FILOLOGIA CINESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329192;;43211;Pirazzoli Melinda;Italiano;;329192;0;329192;
+979;31219;FILOLOGIA GERMANICA 1;;;;;;;329194;0;329194;
+979;31221;LINGUA E LINGUISTICA PERSIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329195;;37194;Mardani Faezeh;Italiano;;329195;0;329195;367748
+979;31220;FILOLOGIA GIAPPONESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329197;;43115;Vitucci Francesco;Italiano;;329197;0;329197;
+979;31228;FILOLOGIA ROMANZA 1;;;;;;;329207;0;329207;
+979;31234;FILOLOGIA UGRO-FINNICA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329215;;15631;Corradi Carla;Italiano;;329215;0;329215;
+979;31284;LETTERATURA ITALIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329341;;33308;Baffetti Giovanni;Italiano;;329341;0;329341;
+979;2609;LETTERATURA ITALIANA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329345;;37077;Benvenuti Giuliana;Italiano;;329345;0;329345;326536
+979;10516;FILOLOGIA DELLA LETTERATURA ITALIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329351;;30541;Quaquarelli Leonardo;Italiano;;329351;0;329351;
+979;8846;LETTERATURE COMPARATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329356;;32311;Meneghelli Donata;Italiano;;329356;0;329356;
+979;4177;SOCIOLOGIA DELLA LETTERATURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329359;;14231;Pezzarossa Fulvio;Italiano;;329359;0;329359;329359
+979;9435;TEORIA DELLA LETTERATURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329363;;32974;Bertoni Federico;Italiano;;329363;0;329363;329363
+979;6490;GLOTTODIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329365;;47029;Borghetti Claudia;Italiano;;329365;0;329365;
+979;6490;GLOTTODIDATTICA (1);;modulo;47029;Borghetti Claudia;Italiano;;370125;329365;329365;370125
+979;6490;GLOTTODIDATTICA (2);;modulo;35659;Cervini Cristiana;;;370126;329365;329365;
+979;567;LETTERATURA LATINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329369;;33032;Pieri Bruna;Italiano;;329369;0;329369;401841
+979;31298;LINGUA E LINGUISTICA FINLANDESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329383;;35504;Martin Sanna Maria;Italiano;;329383;0;329383;328679
+979;31299;LINGUA E LINGUISTICA FRANCESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329384;;35495;Nannoni Catia;Francese;;329384;0;329384;330094
+979;31300;LINGUA E LINGUISTICA INGLESE 3;;;;;;;329385;0;329385;
+979;31303;LINGUA E LINGUISTICA POLACCA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329387;;47263;Jakobsze Malgorzata;Italiano;;329387;0;329387;328720
+979;31304;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329390;;33516;Mulinacci Roberto;Portoghese;;329390;0;329390;329390
+979;31306;LINGUA E LINGUISTICA RUSSA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329394;;31372;Perotto Monica;Italiano;;329394;0;329394;
+979;31307;LINGUA E LINGUISTICA SPAGNOLA 3;;;;;;;329396;0;329396;
+979;31308;LINGUA E LINGUISTICA TEDESCA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329399;;31486;Thune Eva-Maria Christina Charlotte;Tedesco;;329399;0;329399;329399
+979;31309;LINGUA E LINGUISTICA UNGHERESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329401;;31426;Rozsnyoi Zsuzsanna;Italiano;;329401;0;329401;328857
+979;31311;LINGUA E LINGUISTICA ARABA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329405;;38105;Benenati Giovanni Domenico;Italiano;;329405;0;329405;329405
+979;31312;LINGUA E LINGUISTICA CINESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329407;;43211;Pirazzoli Melinda;Italiano;;329407;0;329407;330100
+979;31313;LINGUA E LINGUISTICA GIAPPONESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329408;;43115;Vitucci Francesco;Italiano;;329408;0;329408;330101
+979;31318;LINGUA E LINGUISTICA PERSIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329414;;15502;Pistoso Maurizio Silvio;Italiano;;329414;0;329414;367875
+979;31328;LETTERATURA ARABA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329426;;38105;Benenati Giovanni Domenico;Italiano;;329426;0;329426;329145
+979;31331;LETTERATURA CINESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329429;;43211;Pirazzoli Melinda;Italiano;;329429;0;329429;330105
+979;31332;LETTERATURA DEI PAESI DI LINGUA INGLESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329430;;15100;Albertazzi Silvia;Italiano;;329430;0;329430;329863
+979;31333;LETTERATURA FINLANDESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329431;;35504;Martin Sanna Maria;Italiano;;329431;0;329431;328772
+979;31334;LETTERATURA FRANCESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329432;;30479;Conconi Bruna;Francese;;329432;0;329432;
+979;31335;LETTERATURA GIAPPONESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329433;;41135;Scrolavezza Paola;Italiano;;329433;0;329433;
+979;54705;LETTERATURA INGLESE 3;;;;;;;329436;0;329436;
+979;31338;LETTERATURA NEDERLANDESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329438;;43788;Prandoni Marco;Italiano;;329438;0;329438;328836
+979;31341;LETTERATURA PERSIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329441;;35635;Saccone Carlo;Italiano;;329441;0;329441;329963
+979;31342;LETTERATURA POLACCA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329442;;33696;Ceccherelli Andrea;Italiano;;329442;0;329442;328837
+979;31346;LETTERATURA RUSSA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329445;;33331;Niero Alessandro;Italiano;;329445;0;329445;
+979;31349;LETTERATURA SPAGNOLA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329448;;33602;Contadini Luigi;Spagnolo;;329448;0;329448;329853
+979;31350;LETTERATURA TEDESCA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329449;;85773;Conterno Chiara;Italiano;;329449;0;329449;
+979;31352;LETTERATURA UNGHERESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329451;;31426;Rozsnyoi Zsuzsanna;Italiano;;329451;0;329451;328857
+979;31353;LETTERATURE ANGLO-AMERICANE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329452;;15662;Minganti Franco;Inglese;;329452;0;329452;
+979;31353;LETTERATURE ANGLO-AMERICANE 3 (1);;modulo;15662;Minganti Franco;Inglese;;415316;329452;329452;415314
+979;31353;LETTERATURE ANGLO-AMERICANE 3 (2);;modulo;33632;Gardellini Giuliana;;;415317;329452;329452;415315
+979;31356;LETTERATURE ISPANO-AMERICANE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329455;;15228;Marchetti Giovanni Gentile;Spagnolo;;329455;0;329455;329129
+979;31359;LINGUISTICA STORICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329458;;31567;Magni Elisabetta;Italiano;;329458;0;329458;
+979;6450;LINGUISTICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329459;;31280;Tamburini Fabio;Italiano;;329459;0;329459;392942
+979;31192;LINGUA E LINGUISTICA UNGHERESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329462;;31426;Rozsnyoi Zsuzsanna;Italiano;;329462;0;329462;328857
+979;386;FILOSOFIA DEL LINGUAGGIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329464;;31261;Leonardi Paolo;Italiano;;329464;0;329464;393235
+979;11382;STORIA DELL'ARTE MEDIEVALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329771;;31237;Lollini Fabrizio;Italiano;;329771;0;329771;320184
+979;31501;STORIA COMPARATA DELL'ARTE NEI PAESI EUROPEI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329775;;32842;Ghirardi Maria Angela;Italiano;;329775;0;329775;349105
+979;2290;STORIA DELL'ARTE MODERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329776;;36013;Benati Daniele;Italiano;;329776;0;329776;378213
+979;3634;STORIA E CRITICA DEL CINEMA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329778;;14389;Bragaglia Cristina;Italiano;;329778;0;329778;329780
+979;31502;FILOLOGIA SLAVA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329779;;38984;Alberti Alberto;Italiano;;329779;0;329779;
+979;42768;CINEMA E LETTERATURA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329780;;14389;Bragaglia Cristina;Italiano;;329780;0;329780;329780
+979;463;GEOGRAFIA POLITICA ED ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329790;;39625;Pistocchi Filippo;Italiano;;329790;0;329790;329931
+979;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329793;;36984;Cappiello Giuseppe;Italiano;;329793;0;329793;
+979;12512;ECONOMIA E GESTIONE DELLE IMPRESE (1);;modulo;36984;Cappiello Giuseppe;Italiano;;419320;329793;329793;417798
+979;12512;ECONOMIA E GESTIONE DELLE IMPRESE (2);;modulo;82515;Sibiano Piergiacomo;;;419321;329793;329793;417799
+979;5515;STORIA DELLE RELAZIONI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329795;;47028;Bernardini Giovanni;Italiano;;329795;0;329795;368063
+979;49059;STORIA DELLA CULTURA SPAGNOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329853;;33602;Contadini Luigi;Spagnolo;;329853;0;329853;329853
+979;12805;STORIA DELLA CULTURA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329863;;15100;Albertazzi Silvia;Italiano;;329863;0;329863;329863
+979;31301;LINGUA E LINGUISTICA NEDERLANDESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329919;;43788;Prandoni Marco;Italiano;;329919;0;329919;377731
+979;31357;LETTERATURE PORTOGHESE E BRASILIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329940;;30337;Vecchi Roberto;Italiano;;329940;0;329940;328886
+979;17268;PROVA FINALE;;;;;;;329984;0;329984;
+979;43554;ATTIVITA' DI TIROCINIO, INFORMATICHE, CULTURALI E RELAZIONALI;;;;;;;329991;0;329991;
+979;42780;PEDAGOGIA DELLA INTERCULTURALITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331128;;35644;Cuconato Morena;Italiano;;331128;0;331128;
+979;7918;LETTERATURA DEI PAESI DI LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369044;;15100;Albertazzi Silvia;Italiano;;369044;0;369044;329863
+979;70095;LINGUA E LINGUISTICA CATALANA 1.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377851;;82775;Carb?? Catalan Elisabet;Catalano;;377851;0;377851;412267
+979;70096;LINGUA E LINGUISTICA CATALANA 2.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377852;;82775;Carb?? Catalan Elisabet;Catalano;;377852;0;377852;412267
+979;18090;LETTERATURA CATALANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380993;;82775;Carb?? Catalan Elisabet;Italiano;;380993;0;380993;412268
+979;71150;LINGUA E CULTURA BASCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380996;;47361;Alfaro Vergarachea Inaki;Italiano;;380996;0;380996;
+979;75344;LABORATORIO INFORMATICA E SCRITTURA ACCADEMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391726;;32837;Presotto Marco;Italiano;;391726;0;391726;391726
+979;69318;LINGUISTICA GENERALE;;;;;;;402916;0;402916;
+979;79040;TEORIA DEL LESSICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402922;;76073;Mauri Caterina;Italiano;;402922;0;402922;412395
+979;79045;PRINCIPI DI TEORIA DELLA TRADUZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402935;;30138;Imposti Gabriella Elina;Italiano;;402935;0;402935;
+979;18108;LINGUA CATALANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412267;;82775;Carb?? Catalan Elisabet;Catalano;;412267;0;412267;412267
+979;81790;STORIA DELLA CULTURA CATALANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412268;;82775;Carb?? Catalan Elisabet;Italiano;;412268;0;412268;412268
+979;31358;LINGUISTICA GENERALE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412395;;76073;Mauri Caterina;Italiano;;412395;0;412395;412395
+980;30931;LETTERATURA ITALIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329876;;36083;Michelacci Lara;Italiano;;329876;0;329876;
+980;2609;LETTERATURA ITALIANA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329878;;37077;Benvenuti Giuliana;Italiano;;329878;0;329878;326536
+980;30950;LINGUA E LINGUISTICA FRANCESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329886;;35495;Nannoni Catia;Francese;;329886;0;329886;328691
+980;30965;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329888;;33516;Mulinacci Roberto;Italiano;;329888;0;329888;328730
+980;30972;LINGUA E LINGUISTICA SPAGNOLA 1;;;;;;;329890;0;329890;
+980;30951;LINGUA E LINGUISTICA INGLESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329893;;38780;Fusari Sabrina;Inglese;;329893;0;329893;
+980;31065;LINGUA E LINGUISTICA ARABA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329900;;38105;Benenati Giovanni Domenico;Italiano;;329900;0;329900;328903
+980;4365;STORIA DEI PAESI ISLAMICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329902;;39539;Biancani Francesca;Italiano;;329902;0;329902;329902
+980;30976;LINGUA E LINGUISTICA TEDESCA 1;;;;;;;329904;0;329904;
+980;31551;STORIA DEL PENSIERO ISLAMICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329910;;35635;Saccone Carlo;Italiano;;329910;0;329910;329910
+980;31068;LINGUA E LINGUISTICA CINESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329914;;32905;Ceccagno Antonella;Italiano;;329914;0;329914;329914
+980;3583;STORIA DELL'ASIA ORIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329916;;47620;Solieri Flavia;Italiano;;329916;0;329916;
+980;49886;FILOSOFIE DELL'ASIA ORIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329917;;41129;Crisma Amina;Italiano;;329917;0;329917;
+980;31070;LINGUA E LINGUISTICA GIAPPONESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329922;;43115;Vitucci Francesco;Italiano;;329922;0;329922;329922
+980;31082;LINGUA E LINGUISTICA PERSIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329925;;35635;Saccone Carlo;Italiano;;329925;0;329925;329925
+980;256;ECONOMIA POLITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329929;;36781;Mazzanti Giovanni Maria;Italiano;;329929;0;329929;
+980;463;GEOGRAFIA POLITICA ED ECONOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329931;;39625;Pistocchi Filippo;Italiano;;329931;0;329931;329931
+980;31150;LINGUA E LINGUISTICA INGLESE 2;;;;;;;329934;0;329934;
+980;31147;LINGUA E LINGUISTICA FRANCESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329935;;32839;Puccini Paola;Francese;;329935;0;329935;329084
+980;31171;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329937;;42854;Assun?ºao Cecilio Livia;Portoghese;;329937;0;329937;329122
+980;31182;LINGUA E LINGUISTICA SPAGNOLA 2;;;;;;;329939;0;329939;
+980;31187;LINGUA E LINGUISTICA TEDESCA 2;;;;;;;329941;0;329941;
+980;31206;LINGUA E LINGUISTICA CINESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329943;;43209;Baccini Giulia;Italiano;;329943;0;329943;329943
+980;31563;CULTURA E LETTERATURA CINESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329946;;43211;Pirazzoli Melinda;Italiano;;329946;0;329946;329946
+980;31211;LINGUA E LINGUISTICA GIAPPONESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329949;;43115;Vitucci Francesco;Italiano;;329949;0;329949;329949
+980;31564;CULTURA E LETTERATURA GIAPPONESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329952;;41135;Scrolavezza Paola;Italiano;;329952;0;329952;329952
+980;31221;LINGUA E LINGUISTICA PERSIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329959;;37194;Mardani Faezeh;Italiano;;329959;0;329959;367748
+980;31568;CULTURA E LETTERATURA PERSIANA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329963;;35635;Saccone Carlo;Italiano;;329963;0;329963;329963
+980;31199;LINGUA E LINGUISTICA ARABA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329967;;38105;Benenati Giovanni Domenico;Italiano;;329967;0;329967;329167
+980;31569;CULTURA E LETTERATURA ARABA 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329970;;38105;Benenati Giovanni Domenico;Italiano;;329970;0;329970;328969
+980;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/329985;;36984;Cappiello Giuseppe;Italiano;;329985;0;329985;
+980;12512;ECONOMIA E GESTIONE DELLE IMPRESE (1);;modulo;36984;Cappiello Giuseppe;Italiano;;417798;329985;329985;417798
+980;12512;ECONOMIA E GESTIONE DELLE IMPRESE (2);;modulo;82515;Sibiano Piergiacomo;;;417799;329985;329985;417799
+980;31300;LINGUA E LINGUISTICA INGLESE 3;;;;;;;330089;0;330089;
+980;31299;LINGUA E LINGUISTICA FRANCESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330094;;35495;Nannoni Catia;Francese;;330094;0;330094;330094
+980;31304;LINGUA E LINGUISTICA PORTOGHESE E BRASILIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330095;;33516;Mulinacci Roberto;Portoghese;;330095;0;330095;329390
+980;31307;LINGUA E LINGUISTICA SPAGNOLA 3;;;;;;;330097;0;330097;
+980;31308;LINGUA E LINGUISTICA TEDESCA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330099;;31486;Thune Eva-Maria Christina Charlotte;Tedesco;;330099;0;330099;329399
+980;31312;LINGUA E LINGUISTICA CINESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330100;;43211;Pirazzoli Melinda;Italiano;;330100;0;330100;330100
+980;31313;LINGUA E LINGUISTICA GIAPPONESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330101;;43115;Vitucci Francesco;Italiano;;330101;0;330101;330101
+980;31318;LINGUA E LINGUISTICA PERSIANA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330103;;15502;Pistoso Maurizio Silvio;Italiano;;330103;0;330103;367875
+980;31311;LINGUA E LINGUISTICA ARABA 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330104;;38105;Benenati Giovanni Domenico;Italiano;;330104;0;330104;329405
+980;31608;CULTURA E LETTERATURA CINESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330105;;43211;Pirazzoli Melinda;Italiano;;330105;0;330105;330105
+980;31609;CULTURA E LETTERATURA GIAPPONESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330106;;41135;Scrolavezza Paola;Italiano;;330106;0;330106;330106
+980;31611;CULTURA E LETTERATURA PERSIANA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330108;;15502;Pistoso Maurizio Silvio;Italiano;;330108;0;330108;392363
+980;31612;CULTURA E LETTERATURA ARABA 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330109;;38105;Benenati Giovanni Domenico;Italiano;;330109;0;330109;329145
+980;17268;PROVA FINALE;;;;;;;330120;0;330120;
+980;31658;DIRITTO DEI PAESI ISLAMICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330297;;30469;Mezzetti Luca;Italiano;;330297;0;330297;377457
+980;48067;DIRITTO DEI PAESI ASIATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330321;;31093;Timoteo Marina;Italiano;;330321;0;330321;204308
+980;5515;STORIA DELLE RELAZIONI INTERNAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368063;;47028;Bernardini Giovanni;Italiano;;368063;0;368063;368063
+980;14090;ECONOMIA DELL'INNOVAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368093;;38415;Fariselli Patrizia;Italiano;;368093;0;368093;
+980;3977;ECONOMIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368098;;15561;Antonelli Gilberto;Italiano;;368098;0;368098;402846
+980;29746;TIROCINIO;;;;;;;368108;0;368108;
+980;67711;SOCIOLOGIA DEI PAESI ASIATICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/370954;;32905;Ceccagno Antonella;Italiano;;370954;0;370954;
+980;30954;LINGUA E LINGUISTICA NEDERLANDESE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377731;;43788;Prandoni Marco;Italiano;;377731;0;377731;377731
+980;31155;LINGUA E LINGUISTICA NEDERLANDESE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377732;;43788;Prandoni Marco;Italiano;;377732;0;377732;377731
+980;31301;LINGUA E LINGUISTICA NEDERLANDESE 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377733;;43788;Prandoni Marco;Italiano;;377733;0;377733;377731
+980;75344;LABORATORIO INFORMATICA E SCRITTURA ACCADEMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392314;;32837;Presotto Marco;Italiano;;392314;0;392314;391726
+980;69318;LINGUISTICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402937;;76073;Mauri Caterina;Italiano;;402937;0;402937;
+981;30073;LETTERATURE FRANCOFONE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327081;;15864;Soncini Anna;Francese;;327081;0;327081;327081
+981;30079;LETTERATURE ANGLO-AMERICANE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327087;;15662;Minganti Franco;Inglese;;327087;0;327087;327087
+981;29898;LETTERATURE PORTOGHESE E BRASILIANA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327088;;30337;Vecchi Roberto;Portoghese;;327088;0;327088;327088
+981;30081;LETTERATURE ISPANO-AMERICANE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327090;;15228;Marchetti Giovanni Gentile;Spagnolo;;327090;0;327090;327213
+981;30082;LINGUA FRANCESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327094;;35495;Nannoni Catia;Francese;;327094;0;327094;402048
+981;30085;LINGUA INGLESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327096;;43276;Pizzuto Daniela;Inglese;;327096;0;327096;
+981;30091;LINGUA PORTOGHESE E BRASILIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327107;;33516;Mulinacci Roberto;Portoghese;;327107;0;327107;328507
+981;30094;LINGUA SPAGNOLA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327110;;40776;Maggi Eugenio;Spagnolo;;327110;0;327110;327110
+981;30096;EDUCAZIONE E CULTURA IN ETA' MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327115;;16898;Olmi Giuseppe;Italiano;;327115;0;327115;328678
+981;30101;ECONOMIA, SOCIETA' ED ISTITUZIONI IN ETA' MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327120;;14256;Monti Aldino;Italiano;;327120;0;327120;328680
+981;30112;STORIA DELLE DONNE IN ETA' CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327128;;40798;Casalena Maria Pia;Italiano;;327128;0;327128;392189
+981;30125;LETTERATURE COMPARATE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327155;;32311;Meneghelli Donata;Italiano;;327155;0;327155;
+981;30127;SOCIOLOGIA DELLA LETTERATURA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327157;;14231;Pezzarossa Fulvio;Italiano;;327157;0;327157;328619
+981;30129;STORIA DELLA CRITICA LETTERARIA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327159;;32974;Bertoni Federico;Italiano;;327159;0;327159;
+981;30133;TEORIA DELLA LETTERATURA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327172;;32974;Bertoni Federico;Italiano;;327172;0;327172;327172
+981;30136;STORIA DELL'ARTE MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327177;;35850;Graziani Irene;Italiano;;327177;0;327177;402018
+981;30137;STORIA DELL'ARTE CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327178;;300121;Evangelisti Silvia;Italiano;;327178;0;327178;327600
+981;30140;STORIA DEL CINEMA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327184;;14389;Bragaglia Cristina;Italiano;;327184;0;327184;327186
+981;30141;CINEMA E STUDI CULTURALI (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327185;;34644;Fadda Michele;Italiano;;327185;0;327185;348792
+981;30142;CINEMA E LETTERATURA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327186;;14389;Bragaglia Cristina;Italiano;;327186;0;327186;327186
+981;30143;STORIA DELLA MUSICA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327187;;40821;Scalfaro Anna;Italiano;;327187;0;327187;378322
+981;30161;LETTERATURE FRANCOFONE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327206;;15864;Soncini Anna;Francese;;327206;0;327206;327081
+981;30165;LETTERATURE ANGLO-AMERICANE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327210;;15662;Minganti Franco;Inglese;;327210;0;327210;327087
+981;30167;LETTERATURE PORTOGHESE E BRASILIANA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327211;;30337;Vecchi Roberto;Portoghese;;327211;0;327211;327088
+981;30326;LETTERATURE ISPANO-AMERICANE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327213;;15228;Marchetti Giovanni Gentile;Spagnolo;;327213;0;327213;327213
+981;29429;PROVA FINALE (LM);;;;;;;327229;0;327229;
+981;30330;ABILITA' INFORMATICHE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327509;;33516;Mulinacci Roberto;Italiano;;327509;0;327509;
+981;29890;LETTERATURA FRANCESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327948;;15864;Soncini Anna;Francese;;327948;0;327948;
+981;29893;LETTERATURA SPAGNOLA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327953;;32837;Presotto Marco;Spagnolo;;327953;0;327953;327953
+981;30030;LETTERATURA INGLESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327962;;35699;Elam Keir Douglas;Inglese;;327962;0;327962;376970
+981;30031;LETTERATURA TEDESCA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327964;;51479;Dallapiazza Michael Gottlieb;Tedesco;;327964;0;327964;328052
+981;30039;LETTERATURA FINLANDESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327970;;15631;Corradi Carla;Italiano;;327970;0;327970;
+981;30039;LETTERATURA FINLANDESE 1 (LM) (1);;modulo;15631;Corradi Carla;Italiano;;376453;327970;327970;376453
+981;30039;LETTERATURA FINLANDESE 1 (LM) (2);;modulo;15631;Corradi Carla;Italiano;;376454;327970;327970;332250
+981;30040;LETTERATURA RUSSA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327972;;30138;Imposti Gabriella Elina;Russo;;327972;0;327972;328890
+981;30044;LETTERATURA POLACCA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327974;;33696;Ceccherelli Andrea;Polacco;;327974;0;327974;328517
+981;30619;LINGUA TEDESCA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/327987;;39911;Ivancic Barbara;Italiano;;327987;0;327987;402053
+981;30628;LINGUA POLACCA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328005;;33696;Ceccherelli Andrea;Polacco;;328005;0;328005;328517
+981;30630;LINGUA RUSSA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328007;;31372;Perotto Monica;Russo;;328007;0;328007;328519
+981;30633;STORIA DELL'ARTE MEDIEVALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328009;;36013;Benati Daniele;Italiano;;328009;0;328009;327576
+981;28503;DRAMMATURGIA MUSICALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328012;;34867;Beghelli Marco;Italiano;;328012;0;328012;320230
+981;30635;LETTERATURA ITALIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328013;;36083;Michelacci Lara;Italiano;;328013;0;328013;328922
+981;28991;LETTERATURA ITALIANA CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328015;;37077;Benvenuti Giuliana;Italiano;;328015;0;328015;328614
+981;30646;LETTERATURA FRANCESE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328041;;37036;Gnocchi Maria Chiara;Francese;;328041;0;328041;
+981;30647;LETTERATURA SPAGNOLA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328047;;40776;Maggi Eugenio;Spagnolo;;328047;0;328047;
+981;30649;LETTERATURA INGLESE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328049;;31524;Scatasta Gino;Inglese;;328049;0;328049;
+981;30649;LETTERATURA INGLESE 2 (LM) (1);;modulo;31524;Scatasta Gino;Inglese;;415311;328049;328049;
+981;30649;LETTERATURA INGLESE 2 (LM) (2);;modulo;14472;Comellini Carla;;;415312;328049;328049;
+981;30652;LETTERATURA TEDESCA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328052;;51479;Dallapiazza Michael Gottlieb;Tedesco;;328052;0;328052;328052
+981;30659;LETTERATURA FINLANDESE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328063;;15631;Corradi Carla;Italiano;;328063;0;328063;
+981;30659;LETTERATURA FINLANDESE 2 (LM) (1);;modulo;15631;Corradi Carla;Italiano;;376457;328063;328063;376453
+981;30659;LETTERATURA FINLANDESE 2 (LM) (2);;modulo;15631;Corradi Carla;Italiano;;376458;328063;328063;332250
+981;30660;LETTERATURA RUSSA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328064;;30138;Imposti Gabriella Elina;Russo;;328064;0;328064;328890
+981;30662;LETTERATURA POLACCA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328068;;33696;Ceccherelli Andrea;Polacco;;328068;0;328068;328517
+981;30665;FILOLOGIA DELLA LETTERATURA ITALIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328072;;30541;Quaquarelli Leonardo;Italiano;;328072;0;328072;328631
+981;26013;FEMINIST HISTORY: WOMEN'S MOVEMENTS WORLDWIDE AND FEMINIST HISTORIOGRAPHY - STORIA DELLE DONNE;;;;;;;328238;0;328238;
+981;26015;WOMEN'S MOVEMENTS WORLDWIDE - I MOVIMENTI DELLE DONNE NEL MONDO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328244;modulo;30502;Pirillo Paolo;Italiano;;328244;328238;328238;366782
+981;26016;FEMINIST HISTORIOGRAPHY - STORIOGRAFIA FEMMINISTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328245;modulo;36082;Musiani Elena;Italiano;;328245;328238;328238;
+981;26014;FEMINIST THEORY: BETWEEN DIFFERENCE AND DIVERSITY - TEORIE DEGLI STUDI DI GENERE E CRITICHE FEMMINISTE: TRA DIFFERENZE E DIVERSITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328297;;32105;Monticelli Rita;Inglese;;328297;0;328297;328297
+981;26044;FEMINIST METHODOLOGY: INTERDISCIPLINARY METHODS IN WOMEN'S STUDIES - METODOLOGIE FEMMINISTE: INTERDISCIPLINARITA' NEGLI STUDI DI GENERE E DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328310;;41186;Golinelli Gilberta;Inglese;;328310;0;328310;
+981;26023;MEDIEVAL WOMEN'S LITERATURE - LETTERATURA MEDIEVALE DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328315;;30364;Caraffi Patrizia;Italiano;;328315;0;328315;332248
+981;26018;ITALIAN WOMEN'S LITERATURE - LETTERATURA ITALIANA DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328320;;36083;Michelacci Lara;Italiano;;328320;0;328320;328922
+981;26024;WOMEN'S MOVEMENTS IN ITALIAN MODERN HISTORY - I MOVIMENTI DELLE DONNE NELLA STORIA MODERNA E CONTEMPORANEA ITALIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328325;;40798;Casalena Maria Pia;Italiano;;328325;0;328325;392189
+981;30809;STORIA DELLA CULTURA PORTOGHESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328366;;30337;Vecchi Roberto;Portoghese;;328366;0;328366;
+981;30811;STORIA DELLA CULTURA INGLESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328369;;32105;Monticelli Rita;Inglese;;328369;0;328369;
+981;26019;ENGLISH WOMEN'S LITERATURE - LETTERATURA INGLESE DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328448;;15425;Crisafulli Lilla Maria;Inglese;;328448;0;328448;
+981;26020;GERMAN WOMEN'S LITERATURE - LETTERATURA TEDESCA DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328452;;51479;Dallapiazza Michael Gottlieb;Tedesco;;328452;0;328452;328052
+981;26021;SPANISH WOMEN'S LITERATURE - LETTERATURA SPAGNOLA DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328461;;15228;Marchetti Giovanni Gentile;Spagnolo;;328461;0;328461;327213
+981;26022;RUSSIAN WOMEN'S LITERATURE - LETTERATURA RUSSA DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328462;;30138;Imposti Gabriella Elina;Russo;;328462;0;328462;328890
+981;26027;THE REVISION OF THE BODY IN WOMEN'S LITERATURE - LA RE-VISIONE DEL CORPO NELLA LETTERATURA DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328500;;32105;Monticelli Rita;Inglese;;328500;0;328500;328297
+981;30873;WOMEN'S POPULAR CULTURE: WOMEN'S TRAVEL LITERATURE AND CRITICAL UTOPIAS - DONNE E CULTURA POPOLARE;;;;;;;328501;0;328501;
+981;26028;WOMEN'S TRAVEL LITERATURE - LA LETTERATURA DI VIAGGIO DELLE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328504;modulo;15425;Crisafulli Lilla Maria;Inglese;;328504;328501;328501;
+981;26028;WOMEN'S TRAVEL LITERATURE - LA LETTERATURA DI VIAGGIO DELLE DONNE (1);;modulo;15425;Crisafulli Lilla Maria;Inglese;;394599;328504;328501;
+981;26028;WOMEN'S TRAVEL LITERATURE - LA LETTERATURA DI VIAGGIO DELLE DONNE (2);;modulo;43111;Farese Carlotta;;;394600;328504;328501;
+981;26029;CRITICAL UTOPIAS - UTOPIA CRITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328505;modulo;41186;Golinelli Gilberta;Inglese;;328505;328501;328501;
+981;26029;CRITICAL UTOPIAS - UTOPIA CRITICA (1);;modulo;41186;Golinelli Gilberta;Inglese;;394601;328505;328501;
+981;26029;CRITICAL UTOPIAS - UTOPIA CRITICA (2);;modulo;43111;Farese Carlotta;;;394602;328505;328501;
+981;26025;WOMEN PAINTERS IN WESTERN HISTORY OF ARTS - LE DONNE PITTRICI NELLA STORIA DELL'ARTE OCCIDENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328511;;35850;Graziani Irene;Italiano;;328511;0;328511;402018
+981;26031;WOMEN AND SCIENCE - DONNE E SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328514;;35048;Franceschi Zelda Alice;Italiano;;328514;0;328514;412137
+981;26026;WOMEN AND LAW - DONNE E GIURISPRUDENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328518;;15172;Faralli Carla;Italiano;;328518;0;328518;
+981;26030;WOMAN AND SOCIAL SCIENCES - DONNE E SCIENZE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328520;;15204;Gozzi Gustavo;Italiano;;328520;0;328520;402940
+981;30909;MASTER THESIS - PROVA FINALE (LM);;;;;;;328600;0;328600;
+981;30911;THESIS - PROVA FINALE (LM);;modulo;;;;;328606;328600;328600;
+981;30915;MULTIMEDIA PRESENTATION - PRESENTAZIONE MULTIMEDIALE (LM);;modulo;;;;;328607;328600;328600;
+981;32589;FILOLOGIA GERMANICA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332246;;39554;Zironi Alessandro;Italiano;;332246;0;332246;332246
+981;32595;FILOLOGIA ROMANZA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332248;;30364;Caraffi Patrizia;Italiano;;332248;0;332248;332248
+981;32600;FILOLOGIA UGRO-FINNICA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332250;;15631;Corradi Carla;Italiano;;332250;0;332250;332250
+981;32599;FILOLOGIA SLAVA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332252;;38984;Alberti Alberto;Italiano;;332252;0;332252;
+981;32603;FILOLOGIA ROMANZA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332275;;30364;Caraffi Patrizia;Italiano;;332275;0;332275;332248
+981;32605;FILOLOGIA UGRO-FINNICA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332276;;15631;Corradi Carla;Italiano;;332276;0;332276;332250
+981;32601;FILOLOGIA GERMANICA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332279;;39554;Zironi Alessandro;Italiano;;332279;0;332279;332246
+981;29886;GEOGRAFIA DELLE LINGUE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/342485;;36068;Magnani Elisa;Inglese;;342485;0;342485;402061
+981;30909;MASTER THESIS - PROVA FINALE (LM);;;;;;;351275;0;351275;
+981;30625;LINGUA UNGHERESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368716;;31426;Rozsnyoi Zsuzsanna;Italiano;;368716;0;368716;328857
+981;67173;LETTERATURA INGLESE / LETTERATURA DEI PAESI DI LINGUA INGLESE 1(LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368738;;15100;Albertazzi Silvia;Inglese;;368738;0;368738;368738
+981;66782;STORIA DELL'EUROPA NEL MEDIOEVO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368768;;30502;Pirillo Paolo;Italiano;;368768;0;368768;366782
+981;30656;LETTERATURA UNGHERESE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368993;;15631;Corradi Carla;Italiano;;368993;0;368993;
+981;30656;LETTERATURA UNGHERESE 2 (LM) (1);;modulo;15631;Corradi Carla;Italiano;;376451;368993;368993;376453
+981;30656;LETTERATURA UNGHERESE 2 (LM) (2);;modulo;15631;Corradi Carla;Italiano;;376452;368993;368993;332250
+981;67245;LETTERATURA INGLESE / LETTERATURA DEI PAESI DI LINGUA INGLESE 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368996;;32105;Monticelli Rita;Inglese;;368996;0;368996;328297
+981;30038;LETTERATURA UNGHERESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369205;;15631;Corradi Carla;Italiano;;369205;0;369205;
+981;30038;LETTERATURA UNGHERESE 1 (LM) (1);;modulo;15631;Corradi Carla;Italiano;;376449;369205;369205;376453
+981;30038;LETTERATURA UNGHERESE 1 (LM) (2);;modulo;15631;Corradi Carla;Italiano;;376450;369205;369205;332250
+981;67310;LETTERATURE NORDICHE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369207;;39554;Zironi Alessandro;Italiano;;369207;0;369207;369207
+981;69444;STORIA DELLA CULTURA ANGLO-AMERICANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376461;;15662;Minganti Franco;Inglese;;376461;0;376461;
+981;71243;METHODS, SOURCES, RESEARCH AND DOCUMENTATION FOR WOMEN'S STUDIES - METODI, FONTI, RICERCA E DOCUMENTAZIONE DELLE DONNE E PER LE DONNE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381269;;16898;Olmi Giuseppe;Italiano;;381269;0;381269;
+981;66777;TIROCINIO/STAGE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382843;;;;;;382843;0;382843;
+981;75349;LETTERATURA E STUDI VISUALI (LM);;;;;;;391735;0;391735;
+981;75361;WOMEN'S CULTURAL MEMORY IN SCANDINAVIAN TRADITION - LA MEMORIA CULTURALE DELLE DONNE NELLA TRADIZIONE SCANDINAVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391744;;39554;Zironi Alessandro;Italiano;;391744;0;391744;369207
+981;75362;GENDER AND VIOLENCE IN THE OLD GERMANIC LITERATURES - VIOLENZA E GENERE NELLE ANTICHE LETTERATURE GERMANICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391747;;39554;Zironi Alessandro;Italiano;;391747;0;391747;332246
+981;75369;CULTURAL REPRESENTATIONS OF WOMEN AND GENDER IN FINNO-UGRIC CONTEXTS - RAPPRESENTAZIONI CULTURALI DI GENERE E DELLE DONNE NEI CONTESTI UGRO-FINNICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391755;;15631;Corradi Carla;Italiano;;391755;0;391755;332250
+981;76131;WOMEN'S NORTHERN LITERATURE AND CULTURE;;;;;;;393782;0;393782;
+981;75369;CULTURAL REPRESENTATIONS OF WOMEN AND GENDER IN FINNO-UGRIC CONTEXTS - RAPPRESENTAZIONI CULTURALI DI GENERE E DELLE DONNE NEI CONTESTI UGRO-FINNICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393783;modulo;15631;Corradi Carla;Italiano;;393783;393782;393782;332250
+981;75361;WOMEN'S CULTURAL MEMORY IN SCANDINAVIAN TRADITION - LA MEMORIA CULTURALE DELLE DONNE NELLA TRADIZIONE SCANDINAVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393784;modulo;39554;Zironi Alessandro;Italiano;;393784;393782;393782;369207
+981;81852;LETTERATURA CATALANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412470;;82775;Carb?? Catalan Elisabet;Italiano;;412470;0;412470;
+983;30082;LINGUA FRANCESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328503;;32839;Puccini Paola;Francese;;328503;0;328503;402038
+983;30094;LINGUA SPAGNOLA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328506;;40776;Maggi Eugenio;Spagnolo;;328506;0;328506;327110
+983;30091;LINGUA PORTOGHESE E BRASILIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328507;;33516;Mulinacci Roberto;Portoghese;;328507;0;328507;328507
+983;30085;LINGUA INGLESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328508;;31374;Rudvin Mette;Inglese;;328508;0;328508;
+983;30619;LINGUA TEDESCA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328509;;35797;Rieger Maria Antoinette;Tedesco;;328509;0;328509;402042
+983;30623;LINGUA FINLANDESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328513;;35504;Martin Sanna Maria;Italiano;;328513;0;328513;328679
+983;30628;LINGUA POLACCA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328517;;33696;Ceccherelli Andrea;Polacco;;328517;0;328517;328517
+983;30630;LINGUA RUSSA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328519;;31372;Perotto Monica;Russo;;328519;0;328519;328519
+983;30910;LINGUA ARABA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328603;;38105;Benenati Giovanni Domenico;Italiano;;328603;0;328603;
+983;28991;LETTERATURA ITALIANA CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328614;;37077;Benvenuti Giuliana;Italiano;;328614;0;328614;328614
+983;30127;SOCIOLOGIA DELLA LETTERATURA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328619;;14231;Pezzarossa Fulvio;Italiano;;328619;0;328619;328619
+983;30921;DIDATTICA DELLA LINGUA ITALIANA L2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328620;;32532;Pugliese Rosa;Italiano;;328620;0;328620;
+983;30665;FILOLOGIA DELLA LETTERATURA ITALIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328631;;30541;Quaquarelli Leonardo;Italiano;;328631;0;328631;328631
+983;30928;ANTROPOLOGIA E ETNOGRAFIA DEI PROCESSI MIGRATORI E DEI CONTESTI CULTURALI (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328632;;32977;Riccio Bruno;Italiano;;328632;0;328632;386443
+983;30096;EDUCAZIONE E CULTURA IN ETA' MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328678;;16898;Olmi Giuseppe;Italiano;;328678;0;328678;328678
+983;30101;ECONOMIA, SOCIETA' ED ISTITUZIONI IN ETA' MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328680;;14256;Monti Aldino;Italiano;;328680;0;328680;328680
+983;30112;STORIA DELLE DONNE IN ETA' CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328685;;40798;Casalena Maria Pia;Italiano;;328685;0;328685;392189
+983;30633;STORIA DELL'ARTE MEDIEVALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328697;;36013;Benati Daniele;Italiano;;328697;0;328697;327576
+983;30136;STORIA DELL'ARTE MODERNA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328701;;35850;Graziani Irene;Italiano;;328701;0;328701;402018
+983;30137;STORIA DELL'ARTE CONTEMPORANEA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328703;;300121;Evangelisti Silvia;Italiano;;328703;0;328703;327600
+983;30138;STORIA DEL TEATRO E DELLO SPETTACOLO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328706;;14542;De Marinis Marco;Italiano;;328706;0;328706;320148
+983;30140;STORIA DEL CINEMA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328713;;14389;Bragaglia Cristina;Italiano;;328713;0;328713;327186
+983;30141;CINEMA E STUDI CULTURALI (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328717;;34644;Fadda Michele;Italiano;;328717;0;328717;348792
+983;30142;CINEMA E LETTERATURA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328722;;14389;Bragaglia Cristina;Italiano;;328722;0;328722;327186
+983;30143;STORIA DELLA MUSICA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328725;;40821;Scalfaro Anna;Italiano;;328725;0;328725;378322
+983;28503;DRAMMATURGIA MUSICALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328729;;34867;Beghelli Marco;Italiano;;328729;0;328729;320230
+983;29890;LETTERATURA FRANCESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328848;;15864;Soncini Anna;Francese;;328848;0;328848;325204
+983;30073;LETTERATURE FRANCOFONE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328851;;15864;Soncini Anna;Francese;;328851;0;328851;327081
+983;29893;LETTERATURA SPAGNOLA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328853;;32837;Presotto Marco;Spagnolo;;328853;0;328853;327953
+983;30081;LETTERATURE ISPANO-AMERICANE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328855;;15228;Marchetti Giovanni Gentile;Spagnolo;;328855;0;328855;327213
+983;29898;LETTERATURE PORTOGHESE E BRASILIANA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328858;;30337;Vecchi Roberto;Portoghese;;328858;0;328858;327088
+983;30030;LETTERATURA INGLESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328865;;35699;Elam Keir Douglas;Inglese;;328865;0;328865;376970
+983;30079;LETTERATURE ANGLO-AMERICANE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328867;;15662;Minganti Franco;Inglese;;328867;0;328867;327087
+983;30031;LETTERATURA TEDESCA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328873;;51479;Dallapiazza Michael Gottlieb;Tedesco;;328873;0;328873;328052
+983;30039;LETTERATURA FINLANDESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328887;;15631;Corradi Carla;Italiano;;328887;0;328887;
+983;30039;LETTERATURA FINLANDESE 1 (LM) (1);;modulo;15631;Corradi Carla;Italiano;;376455;328887;328887;376453
+983;30039;LETTERATURA FINLANDESE 1 (LM) (2);;modulo;15631;Corradi Carla;Italiano;;376456;328887;328887;332250
+983;30040;LETTERATURA RUSSA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328890;;30138;Imposti Gabriella Elina;Russo;;328890;0;328890;328890
+983;30044;LETTERATURA POLACCA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328900;;33696;Ceccherelli Andrea;Polacco;;328900;0;328900;328517
+983;30050;LETTERATURA CINESE 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328908;;43211;Pirazzoli Melinda;Italiano;;328908;0;328908;
+983;30046;LETTERATURA ARABA 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328919;;38105;Benenati Giovanni Domenico;Italiano;;328919;0;328919;
+983;30635;LETTERATURA ITALIANA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328922;;36083;Michelacci Lara;Italiano;;328922;0;328922;328922
+983;30159;PEDAGOGIA DELLA INTERCULTURALITA' (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328950;;31875;Caronia Letizia;Italiano;;328950;0;328950;386460
+983;30330;ABILITA' INFORMATICHE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328968;;33516;Mulinacci Roberto;Italiano;;328968;0;328968;
+983;29429;PROVA FINALE (LM);;;;;;;328972;0;328972;
+983;31972;PSICOLOGIA DEL LINGUAGGIO E DELLA COMUNICAZIONE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331053;;44889;Lugli Luisa;Italiano;;331053;0;331053;385718
+983;66776;STORIA DELLA SCIENZA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366763;;33268;Beretta Marco;Italiano;;366763;0;366763;385652
+983;66777;TIROCINIO/STAGE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366765;;;;;;366765;0;366765;
+983;66779;LABORATORI E ALTRE ATTIVIT?Ç (LM);;;;;;;366773;0;366773;
+983;66782;STORIA DELL'EUROPA NEL MEDIOEVO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366782;;30502;Pirillo Paolo;Italiano;;366782;0;366782;366782
+983;67173;LETTERATURA INGLESE / LETTERATURA DEI PAESI DI LINGUA INGLESE 1(LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369588;;15100;Albertazzi Silvia;Inglese;;369588;0;369588;368738
+983;72865;DIDATTICA DELL'ITALIANO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385252;;47175;Viale Matteo;Italiano;;385252;0;385252;385533
+983;72866;STORIA DEL CINEMA ITALIANO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385253;;34644;Fadda Michele;Italiano;;385253;0;385253;348792
+983;29383;COMUNICAZIONE PARLATA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385255;;39186;Vayra Mario;Italiano;;385255;0;385255;376878
+983;72868;TEORIA E MODELLI DELL'EDUCAZIONE PERMANENTE E DELLA FORMAZIONE CONTINUA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385256;;35618;Gallerani Manuela;Italiano;;385256;0;385256;386362
+983;28271;STORIA DELLE CHIESE E DEI MOVIMENTI RELIGIOSI (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385259;;16687;Mazzone Umberto;Italiano;;385259;0;385259;323717
+983;30912;LINGUA CINESE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394993;;32905;Ceccagno Antonella;Italiano;;394993;0;394993;
+983;30912;LINGUA CINESE (LM) (1);;modulo;32905;Ceccagno Antonella;Italiano;;394996;394993;394993;
+983;30912;LINGUA CINESE (LM) (2);;modulo;;;;;394997;394993;394993;
+983;79050;STUDI DI GENERE\GENDER STUDIES (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402952;;32105;Monticelli Rita;Inglese;;402952;0;402952;328297
+983;81777;TEORIA DEL LESSICO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412417;;41446;Masini Francesca;Italiano;;412417;0;412417;412253
+983;13275;LINGUA LATINA (1);;;;;;;417620;0;417620;
+983;83248;LINGUA E LETTERATURA LATINA 1 (LM);;;;;;;417621;0;417621;
+983;83249;LINGUA E LETTERATURA LATINA 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417622;;48157;Pellacani Daniele;Italiano;;417622;0;417622;327291
+983;30151;GEOGRAFIA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417624;;36068;Magnani Elisa;Italiano;;417624;0;417624;
+983;29879;DIDATTICA DELLE LINGUE MODERNE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417625;;32532;Pugliese Rosa;Italiano;;417625;0;417625;
+983;72455;LINGUISTICA ITALIANA E FILOLOGIA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/417649;;30541;Quaquarelli Leonardo;Italiano;;417649;0;417649;328631
+8059;28606;LETTERATURA FRANCESE I (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324247;;31033;Elefante Chiara;Francese;;324247;0;324247;324247
+8059;28607;LETTERATURA INGLESE I (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324263;;31243;Whitsitt Samuel Porter;Inglese;;324263;0;324263;
+8059;28608;LETTERATURA SPAGNOLA I (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324271;;16765;Lozano Miralles Rafael;Spagnolo;;324271;0;324271;324271
+8059;28609;LETTERATURA TEDESCA I (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324277;;31417;Moraldo Sandro;Italiano;;324277;0;324277;324277
+8059;40430;ELEMENTI DI ECONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324425;;36409;Messori Luciano;Italiano;;324425;0;324425;
+8059;28686;LETTERATURA FRANCESE I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324426;;31033;Elefante Chiara;Francese;;324426;0;324426;324247
+8059;28687;LETTERATURA INGLESE I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324427;;31243;Whitsitt Samuel Porter;Inglese;;324427;0;324427;
+8059;28688;LETTERATURA RUSSA I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324429;;32141;Zalambani Maria;Italiano;;324429;0;324429;
+8059;28689;LETTERATURA SPAGNOLA I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324430;;16765;Lozano Miralles Rafael;Spagnolo;;324430;0;324430;324271
+8059;28690;LETTERATURA TEDESCA I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324432;;31417;Moraldo Sandro;Italiano;;324432;0;324432;324277
+8059;62480;ELEMENTI DI DIRITTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324790;;54552;Scotto Giuliana;Italiano;;324790;0;324790;
+8059;28847;LETTERATURA FRANCESE II (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324793;;31973;Reggiani Licia;Francese;;324793;0;324793;324793
+8059;28850;LETTERATURA INGLESE II (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324795;;30429;Baccolini Raffaella;Inglese;;324795;0;324795;324795
+8059;28853;LETTERATURA SPAGNOLA II (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324797;;82275;Lee Maria;Italiano;;324797;0;324797;324797
+8059;28855;LETTERATURA TEDESCA II (PRIMA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324800;;91663;Abderhalden Sandra;Italiano;;324800;0;324800;324800
+8059;28863;LETTERATURA FRANCESE II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324813;;31973;Reggiani Licia;Francese;;324813;0;324813;324793
+8059;28865;LETTERATURA INGLESE II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324815;;30429;Baccolini Raffaella;Inglese;;324815;0;324815;324795
+8059;28866;LETTERATURA RUSSA II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324816;;32141;Zalambani Maria;Russo;;324816;0;324816;
+8059;28867;LETTERATURA SPAGNOLA II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324817;;82275;Lee Maria;Italiano;;324817;0;324817;324797
+8059;28868;LETTERATURA TEDESCA II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324818;;91663;Abderhalden Sandra;Italiano;;324818;0;324818;324800
+8059;18622;TIROCINIO L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324823;;39050;Antonini Rachele;;;324823;0;324823;
+8059;17268;PROVA FINALE;;;;;;;325145;0;325145;
+8059;6929;STORIA DELL'EUROPA CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326371;;41748;Bellassai Alessandro;Italiano;;326371;0;326371;
+8059;29677;STUDI INTERCULTURALI E DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326384;;30429;Baccolini Raffaella;Italiano;;326384;0;326384;
+8059;33102;SEMANTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/334729;;31926;Bersani Berselli Gabriele;Italiano;;334729;0;334729;
+8059;33104;TRADUZIONE IN ITALIANO DALL'INGLESE (ASSISTITA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/334732;;42597;Lecci Claudia;Italiano;;334732;0;334732;
+8059;33218;LINGUA ITALIANA DEI SEGNI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/335927;;55740;Celo Pietro;Italiano;;335927;0;335927;
+8059;33714;STORIA SOCIALE DELL'EUROPA E DEL MEDITERRANEO;;;;;;;339862;0;339862;
+8059;34362;ANTROPOLOGIA DEI PROCESSI COMUNICATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340149;;38051;Grilli Marco;Italiano;;340149;0;340149;
+8059;36413;LINGUA ITALIANA DEI SEGNI II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346027;;55740;Celo Pietro;;;346027;0;346027;
+8059;69181;LINGUA E MEDIAZIONE INGLESE I (SECONDA LINGUA) (C.I.);;;;;;;376045;0;376045;
+8059;69270;LINGUA E CULTURA INGLESE I (SECONDA LINGUA);;modulo;;;;;376046;376045;376045;
+8059;69271;MEDIAZIONE LINGUISTICA TRA L'INGLESE E L'ITALIANO (SECONDA LINGUA);;modulo;;;;;376047;376045;376045;
+8059;69272;LINGUA E MEDIAZIONE FRANCESE I (PRIMA LINGUA) (C.I.);;;;;;;376055;0;376055;
+8059;69273;LINGUA E CULTURA FRANCESE I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376056;modulo;54550;Pagan Martine;Francese;;376056;376055;376055;
+8059;69274;MEDIAZIONE LINGUISTICA TRA IL FRANCESE E L'ITALIANO (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376057;modulo;48294;Lambertini Vincenzo;Italiano;;376057;376055;376055;
+8059;69178;LINGUA E MEDIAZIONE INGLESE I (PRIMA LINGUA) (C.I.);;;;;;;376062;0;376062;
+8059;69275;LINGUA E CULTURA INGLESE I (PRIMA LINGUA);;modulo;;;;;376063;376062;376062;
+8059;69276;MEDIAZIONE LINGUISTICA TRA L'INGLESE E L'ITALIANO (PRIMA LINGUA);;modulo;;;;;376064;376062;376062;
+8059;69277;LINGUA E MEDIAZIONE FRANCESE I (SECONDA LINGUA) (C.I.);;;;;;;376069;0;376069;
+8059;69278;LINGUA E CULTURA FRANCESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376070;modulo;34460;Sheeren Hugues Richard Claude;Francese;;376070;376069;376069;
+8059;69279;MEDIAZIONE LINGUISTICA TRA IL FRANCESE E L'ITALIANO (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376071;modulo;48294;Lambertini Vincenzo;Italiano;;376071;376069;376069;
+8059;69288;LINGUA E MEDIAZIONE SPAGNOLA I (PRIMA LINGUA) (C.I.);;;;;;;376088;0;376088;
+8059;69289;LINGUA E CULTURA SPAGNOLA I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376089;modulo;38837;Perez Vazquez Maria Enriqueta;Spagnolo;;376089;376088;376088;
+8059;69290;MEDIAZIONE LINGUISTICA TRA LO SPAGNOLO E L'ITALIANO (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376090;modulo;16804;Capanaga Caballero Maria Pilar;Italiano;;376090;376088;376088;
+8059;69291;LINGUA E MEDIAZIONE SPAGNOLA I (SECONDA LINGUA) (C.I.);;;;;;;376091;0;376091;
+8059;69292;LINGUA E CULTURA SPAGNOLA I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376092;modulo;16804;Capanaga Caballero Maria Pilar;Italiano;;376092;376091;376091;
+8059;69293;MEDIAZIONE LINGUISTICA TRA LO SPAGNOLO E L'ITALIANO (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376093;modulo;16804;Capanaga Caballero Maria Pilar;Italiano;;376093;376091;376091;
+8059;69294;LINGUA E MEDIAZIONE TEDESCA I (PRIMA LINGUA) (C.I.);;;;;;;376094;0;376094;
+8059;69295;LINGUA E CULTURA TEDESCA I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376095;modulo;31417;Moraldo Sandro;Tedesco;;376095;376094;376094;
+8059;69296;MEDIAZIONE LINGUISTICA TRA IL TEDESCO E L'ITALIANO (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376096;modulo;30976;Cotta Ramusino Luisa Caterina;Italiano;;376096;376094;376094;
+8059;69297;LINGUA E MEDIAZIONE TEDESCA I (SECONDA LINGUA) (C.I.);;;;;;;376097;0;376097;
+8059;69298;LINGUA E CULTURA TEDESCA I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376098;modulo;42825;Wehlte Christian Klaus Thomas;Italiano;;376098;376097;376097;
+8059;69299;MEDIAZIONE LINGUISTICA TRA IL TEDESCO E L'ITALIANO (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376099;modulo;40034;Bragagni Paolo;Inglese;;376099;376097;376097;
+8059;69300;LINGUA E MEDIAZIONE RUSSA I (SECONDA LINGUA) (C.I.);;;;;;;376100;0;376100;
+8059;69302;LINGUA E CULTURA RUSSA I (SECONDA LINGUA);;modulo;;;;;376109;376100;376100;
+8059;69303;MEDIAZIONE LINGUISTICA TRA IL RUSSO E L'ITALIANO (SECONDA LINGUA);;modulo;;;;;376110;376100;376100;
+8059;69304;TRADUZIONE TRA L'ITALIANO E L'INGLESE I (PRIMA LINGUA) (C.I.);;;;;;;376123;0;376123;
+8059;69305;TRADUZIONE DALL'INGLESE IN ITALIANO I (PRIMA LINGUA);;modulo;;;;;376126;376123;376123;
+8059;69306;TRADUZIONE DALL'ITALIANO IN INGLESE I (PRIMA LINGUA);;modulo;;;;;376127;376123;376123;
+8059;69307;TRADUZIONE TRA L'ITALIANO E IL FRANCESE I (PRIMA LINGUA) (C.I.);;;;;;;376132;0;376132;
+8059;69308;TRADUZIONE DAL FRANCESE IN ITALIANO I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376135;modulo;31973;Reggiani Licia;Italiano;;376135;376132;376132;
+8059;69309;TRADUZIONE DALL'ITALIANO IN FRANCESE I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376136;modulo;41212;Hamon Yannick;Italiano;;376136;376132;376132;
+8059;69310;TRADUZIONE TRA L'ITALIANO E LO SPAGNOLO I (PRIMA LINGUA) (C.I.);;;;;;;376137;0;376137;
+8059;69311;TRADUZIONE DALLO SPAGNOLO IN ITALIANO I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376139;modulo;31380;Bazzocchi Gloria;Italiano;;376139;376137;376137;
+8059;69312;TRADUZIONE DALL'ITALIANO IN SPAGNOLO I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376140;modulo;16832;Fernandez Garcia Maria Isabel;Spagnolo;;376140;376137;376137;
+8059;69313;TRADUZIONE TRA L'ITALIANO E IL TEDESCO I (PRIMA LINGUA) (C.I.);;;;;;;376141;0;376141;
+8059;69314;TRADUZIONE DAL TEDESCO IN ITALIANO I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376142;modulo;31657;Persico Bruno;Italiano;;376142;376141;376141;
+8059;69315;TRADUZIONE DALL'ITALIANO IN TEDESCO I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376143;modulo;32140;Wiesmann Eva;Tedesco;;376143;376141;376141;
+8059;69376;LINGUA E MEDIAZIONE INGLESE II (PRIMA LINGUA) (C.I.);;;;;;;376220;0;376220;
+8059;69377;LINGUA E CULTURA INGLESE II (PRIMA LINGUA);;modulo;;;;;376221;376220;376220;
+8059;69378;INTERPRETAZIONE DI TRATTATIVA INGLESE I (PRIMA LINGUA);;modulo;;;;;376222;376220;376220;
+8059;69379;LINGUA E MEDIAZIONE FRANCESE II (PRIMA LINGUA) (C.I.);;;;;;;376223;0;376223;
+8059;69380;LINGUA E CULTURA FRANCESE II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376224;modulo;34460;Sheeren Hugues Richard Claude;Francese;;376224;376223;376223;
+8059;69381;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376225;modulo;15497;Di Gaetano Daniele Emmanuele;Italiano;;376225;376223;376223;
+8059;69381;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (PRIMA LINGUA) (1);;modulo;15497;Di Gaetano Daniele Emmanuele;Italiano;;415060;376225;376223;
+8059;69381;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (PRIMA LINGUA) (2);;modulo;;;;;415061;376225;376223;
+8059;69382;LINGUA E MEDIAZIONE SPAGNOLA II (PRIMA LINGUA) (C.I.);;;;;;;376226;0;376226;
+8059;69383;LINGUA E CULTURA SPAGNOLA II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376227;modulo;41065;Tortosa Sanchez Ruben;Italiano;;376227;376226;376226;
+8059;69384;INTERPRETAZIONE DI TRATTATIVA SPAGNOLA I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376228;modulo;82699;Sara Antonella;Italiano;;376228;376226;376226;
+8059;69386;LINGUA E MEDIAZIONE TEDESCA II (PRIMA LINGUA) (C.I.);;;;;;;376230;0;376230;
+8059;69387;LINGUA E CULTURA TEDESCA II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376231;modulo;42825;Wehlte Christian Klaus Thomas;Italiano;;376231;376230;376230;
+8059;69388;INTERPRETAZIONE DI TRATTATIVA TEDESCA I (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376232;modulo;30976;Cotta Ramusino Luisa Caterina;Italiano;;376232;376230;376230;
+8059;69389;LINGUA E LINGUISTICA ITALIANA (C.I.);;;;;;;376233;0;376233;
+8059;69390;LINGUA ITALIANA;;modulo;;;;;376234;376233;376233;
+8059;69318;LINGUISTICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376235;modulo;50888;Gagliardi Gloria;Italiano;;376235;376233;376233;
+8059;39485;LINGUISTICA (C.I.);;;;;;;376236;0;376236;
+8059;69391;LINGUISTICA ITALIANA;;modulo;;;;;376237;376236;376236;
+8059;6450;LINGUISTICA APPLICATA;;modulo;;;;;376238;376236;376236;
+8059;69392;LINGUA E MEDIAZIONE FRANCESE II (SECONDA LINGUA) (C.I.);;;;;;;376239;0;376239;
+8059;69393;LINGUA E CULTURA FRANCESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376240;modulo;31858;Scampa Paolo;Italiano;;376240;376239;376239;
+8059;69394;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376241;modulo;15497;Di Gaetano Daniele Emmanuele;Italiano;;376241;376239;376239;
+8059;69394;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (SECONDA LINGUA) (1);;modulo;15497;Di Gaetano Daniele Emmanuele;Italiano;;415063;376241;376239;
+8059;69394;INTERPRETAZIONE DI TRATTATIVA FRANCESE I (SECONDA LINGUA) (2);;modulo;;;;;415064;376241;376239;
+8059;69395;LINGUA E MEDIAZIONE INGLESE II (SECONDA LINGUA) (C.I.);;;;;;;376242;0;376242;
+8059;69396;LINGUA E CULTURA INGLESE II (SECONDA LINGUA);;modulo;;;;;376243;376242;376242;
+8059;69397;INTERPRETAZIONE DI TRATTATIVA INGLESE I (SECONDA LINGUA);;modulo;;;;;376244;376242;376242;
+8059;69398;LINGUA E MEDIAZIONE SPAGNOLA II (SECONDA LINGUA) (C.I.);;;;;;;376245;0;376245;
+8059;69399;LINGUA E CULTURA SPAGNOLA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376249;modulo;38837;Perez Vazquez Maria Enriqueta;Italiano;;376249;376245;376245;
+8059;69400;INTERPRETAZIONE DI TRATTATIVA SPAGNOLA I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376250;modulo;31290;Gonzalez Rodriguez Maria Jesus;Spagnolo;;376250;376245;376245;
+8059;69401;LINGUA E MEDIAZIONE TEDESCA II (SECONDA LINGUA) (C.I.);;;;;;;376251;0;376251;
+8059;69403;INTERPRETAZIONE DI TRATTATIVA TEDESCA I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376253;modulo;43581;Barbieri Omar;Italiano;;376253;376251;376251;
+8059;70214;LINGUA E CULTURA TEDESCA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378206;modulo;31417;Moraldo Sandro;Tedesco;;378206;376251;376251;
+8059;69404;LINGUA E MEDIAZIONE RUSSA II (SECONDA LINGUA) (C.I.);;;;;;;376254;0;376254;
+8059;69405;LINGUA E CULTURA RUSSA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376255;modulo;37225;Issoupova Tatiana;Italiano;;376255;376254;376254;
+8059;69406;INTERPRETAZIONE DI TRATTATIVA RUSSA I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376256;modulo;43078;Bezkrovna Lyubov;Russo;;376256;376254;376254;
+8059;69422;TRADUZIONE TRA L'ITALIANO E IL FRANCESE I (SECONDA LINGUA) (C.I.);;;;;;;376384;0;376384;
+8059;69423;TRADUZIONE DALL'ITALIANO IN FRANCESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376385;modulo;40686;Iafrate Samantha;Francese;;376385;376384;376384;
+8059;69424;TRADUZIONE DAL FRANCESE IN ITALIANO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376386;modulo;32095;Maldussi Danio;Italiano;;376386;376384;376384;
+8059;69425;TRADUZIONE TRA L'ITALIANO E L'INGLESE I (SECONDA LINGUA) (C.I.);;;;;;;376389;0;376389;
+8059;69426;TRADUZIONE DALL'ITALIANO IN INGLESE I (SECONDA LINGUA);;modulo;;;;;376390;376389;376389;
+8059;69427;TRADUZIONE DALL'INGLESE IN ITALIANO I (SECONDA LINGUA);;modulo;;;;;376391;376389;376389;
+8059;69431;TRADUZIONE TRA L'ITALIANO E IL TEDESCO I (SECONDA LINGUA) (C.I.);;;;;;;376401;0;376401;
+8059;69432;TRADUZIONE DALL'ITALIANO IN TEDESCO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376402;modulo;15862;Heiss Christine Antonie;Tedesco;;376402;376401;376401;
+8059;69433;TRADUZIONE DAL TEDESCO IN ITALIANO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376403;modulo;31657;Persico Bruno;Italiano;;376403;376401;376401;
+8059;69434;TRADUZIONE TRA L'ITALIANO E LO SPAGNOLO I (SECONDA LINGUA) (C.I.);;;;;;;376404;0;376404;
+8059;69435;TRADUZIONE DALL'ITALIANO IN SPAGNOLO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376405;modulo;16832;Fernandez Garcia Maria Isabel;Spagnolo;;376405;376404;376404;
+8059;69436;TRADUZIONE DALLO SPAGNOLO IN ITALIANO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376406;modulo;31380;Bazzocchi Gloria;Italiano;;376406;376404;376404;
+8059;69451;LINGUA E MEDIAZIONE FRANCESE III (PRIMA LINGUA) (C.I.);;;;;;;376480;0;376480;
+8059;69452;LINGUA E CULTURA FRANCESE III (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376481;modulo;15497;Di Gaetano Daniele Emmanuele;Italiano;;376481;376480;376480;
+8059;69453;INTERPRETAZIONE DI TRATTATIVA FRANCESE II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376482;modulo;32772;Ballardini Elio;Francese;;376482;376480;376480;
+8059;69454;LINGUA E MEDIAZIONE INGLESE III (PRIMA LINGUA) (C.I.);;;;;;;376484;0;376484;
+8059;69455;LINGUA E CULTURA INGLESE III (PRIMA LINGUA);;modulo;;;;;376485;376484;376484;
+8059;69456;INTERPRETAZIONE DI TRATTATIVA INGLESE II (PRIMA LINGUA);;modulo;;;;;376486;376484;376484;
+8059;69457;LINGUA E MEDIAZIONE SPAGNOLA III (PRIMA LINGUA) (C.I.);;;;;;;376487;0;376487;
+8059;69459;LINGUA E CULTURA SPAGNOLA III (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376488;modulo;38837;Perez Vazquez Maria Enriqueta;Spagnolo;;376488;376487;376487;
+8059;69460;INTERPRETAZIONE DI TRATTATIVA SPAGNOLA II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376489;modulo;39279;Aguilar Domingo Maria Soledad;Spagnolo;;376489;376487;376487;
+8059;69461;LINGUA E MEDIAZIONE TEDESCA III (PRIMA LINGUA) (C.I.);;;;;;;376490;0;376490;
+8059;69462;LINGUA E CULTURA TEDESCA III (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376491;modulo;13964;Soffritti Marcello;Tedesco;;376491;376490;376490;
+8059;69463;INTERPRETAZIONE DI TRATTATIVA TEDESCA II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376492;modulo;41538;Galatzer Christfriede;Italiano;;376492;376490;376490;
+8059;3708;LINGUA ARABA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376566;;49356;Hoseini Gassid Mohammed Hossein;Italiano;;376566;0;376566;
+8059;18107;LINGUA BULGARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376567;;47663;Laskova Laska Angelova;Bulgaro;;376567;0;376567;376567
+8059;11790;LINGUA GIAPPONESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376570;;35535;Ueyama Motoko;Italiano;;376570;0;376570;
+8059;2552;LINGUA PORTOGHESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376571;;82426;Paulo Cadete Rute Maria;Italiano;;376571;0;376571;
+8059;69502;LINGUA SLOVACCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376572;;84562;Svoradova Veronika;Slovacco;;376572;0;376572;376572
+8059;69522;LINGUA E MEDIAZIONE ARABA (C.I.);;;;;;;376618;0;376618;
+8059;69523;LINGUA E CULTURA ARABA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376619;modulo;34998;Addous Ahmad;Italiano;;376619;376618;376618;
+8059;69524;MEDIAZIONE ARABA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376620;modulo;34998;Addous Ahmad;Italiano;;376620;376618;376618;
+8059;69526;LINGUA E MEDIAZIONE BULGARA (C.I.);;;;;;;376622;0;376622;
+8059;69529;LINGUA E CULTURA BULGARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376623;modulo;47663;Laskova Laska Angelova;Bulgaro;;376623;376622;376622;
+8059;69528;MEDIAZIONE BULGARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376624;modulo;47663;Laskova Laska Angelova;Bulgaro;;376624;376622;376622;
+8059;69536;LINGUA E MEDIAZIONE GIAPPONESE (C.I.);;;;;;;376631;0;376631;
+8059;69537;LINGUA E CULTURA GIAPPONESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376632;modulo;35535;Ueyama Motoko;Italiano;;376632;376631;376631;
+8059;69538;MEDIAZIONE GIAPPONESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376633;modulo;35535;Ueyama Motoko;Italiano;;376633;376631;376631;
+8059;69539;LINGUA E MEDIAZIONE PORTOGHESE (C.I.);;;;;;;376634;0;376634;
+8059;69540;LINGUA E CULTURA PORTOGHESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376635;modulo;34135;Costa Da Silva Ferreira Anabela Cristina;Italiano;;376635;376634;376634;
+8059;69541;MEDIAZIONE PORTOGHESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376636;modulo;34135;Costa Da Silva Ferreira Anabela Cristina;Italiano;;376636;376634;376634;
+8059;69541;MEDIAZIONE PORTOGHESE (1);;modulo;34135;Costa Da Silva Ferreira Anabela Cristina;Italiano;;404415;376636;376634;
+8059;69541;MEDIAZIONE PORTOGHESE (2);;modulo;34135;Costa Da Silva Ferreira Anabela Cristina;;;404416;376636;376634;
+8059;69542;LINGUA E MEDIAZIONE SLOVACCA (C.I.);;;;;;;376637;0;376637;
+8059;69543;LINGUA E CULTURA SLOVACCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376638;modulo;84562;Svoradova Veronika;Slovacco;;376638;376637;376637;
+8059;69544;MEDIAZIONE SLOVACCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376639;modulo;84562;Svoradova Veronika;Slovacco;;376639;376637;376637;
+8059;69545;TRADUZIONE TRA L'ITALIANO E IL FRANCESE II (PRIMA LINGUA) (C.I.);;;;;;;376640;0;376640;
+8059;69546;TRADUZIONE DALL'ITALIANO IN FRANCESE II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376641;modulo;41212;Hamon Yannick;Italiano;;376641;376640;376640;
+8059;69547;TRADUZIONE DAL FRANCESE IN ITALIANO II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376642;modulo;49075;Ballerini Gaia;Italiano;;376642;376640;376640;
+8059;69548;TRADUZIONE TRA L'ITALIANO E L'INGLESE II (PRIMA LINGUA) (C.I.);;;;;;;376643;0;376643;
+8059;69549;TRADUZIONE DALL'ITALIANO IN INGLESE II (PRIMA LINGUA);;modulo;;;;;376644;376643;376643;
+8059;69550;TRADUZIONE DALL'INGLESE IN ITALIANO II (PRIMA LINGUA);;modulo;;;;;376645;376643;376643;
+8059;69551;TRADUZIONE TRA L'ITALIANO E LO SPAGNOLO II (PRIMA LINGUA) (C.I.);;;;;;;376647;0;376647;
+8059;69552;TRADUZIONE DALL'ITALIANO IN SPAGNOLO II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376648;modulo;41065;Tortosa Sanchez Ruben;Spagnolo;;376648;376647;376647;
+8059;69553;TRADUZIONE DALLO SPAGNOLO IN ITALIANO II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376649;modulo;40025;Tonin Raffaella;Italiano;;376649;376647;376647;
+8059;69554;TRADUZIONE TRA L'ITALIANO E IL TEDESCO II (PRIMA LINGUA) (C.I.);;;;;;;376650;0;376650;
+8059;69555;TRADUZIONE DALL'ITALIANO IN TEDESCO II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376651;modulo;15862;Heiss Christine Antonie;Tedesco;;376651;376650;376650;
+8059;69556;TRADUZIONE DAL TEDESCO IN ITALIANO II (PRIMA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376652;modulo;31842;Menin Roberto;Italiano;;376652;376650;376650;
+8059;69557;TRADUZIONE TRA L'ITALIANO E IL FRANCESE II (SECONDA LINGUA) (C.I.);;;;;;;376653;0;376653;
+8059;69558;TRADUZIONE DALL'ITALIANO IN FRANCESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376654;modulo;31858;Scampa Paolo;Francese;;376654;376653;376653;
+8059;69559;TRADUZIONE DAL FRANCESE IN ITALIANO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376655;modulo;32095;Maldussi Danio;Italiano;;376655;376653;376653;
+8059;69560;TRADUZIONE TRA L'ITALIANO E L'INGLESE II (SECONDA LINGUA) (C.I.);;;;;;;376656;0;376656;
+8059;69561;TRADUZIONE DALL'ITALIANO IN INGLESE II (SECONDA LINGUA);;modulo;;;;;376658;376656;376656;
+8059;69562;TRADUZIONE DALL'INGLESE IN ITALIANO II (SECONDA LINGUA);;modulo;;;;;376659;376656;376656;
+8059;69563;TRADUZIONE TRA L'ITALIANO E IL RUSSO II (SECONDA LINGUA) (C.I.);;;;;;;376661;0;376661;
+8059;69565;TRADUZIONE DALL'ITALIANO IN RUSSO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376663;modulo;55056;Balakina Ksenia;Russo;;376663;376661;376661;
+8059;69566;TRADUZIONE DAL RUSSO IN ITALIANO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376664;modulo;41331;Romagnoli Raffaella;Italiano;;376664;376661;376661;
+8059;69567;TRADUZIONE TRA L'ITALIANO E LO SPAGNOLO II (SECONDA LINGUA) (C.I.);;;;;;;376665;0;376665;
+8059;69568;TRADUZIONE DALL'ITALIANO IN SPAGNOLO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376667;modulo;39279;Aguilar Domingo Maria Soledad;Spagnolo;;376667;376665;376665;
+8059;69570;TRADUZIONE DALLO SPAGNOLO IN ITALIANO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376668;modulo;40025;Tonin Raffaella;Italiano;;376668;376665;376665;
+8059;69572;TRADUZIONE TRA L'ITALIANO E IL TEDESCO II (SECONDA LINGUA) (C.I.);;;;;;;376669;0;376669;
+8059;69573;TRADUZIONE DALL'ITALIANO IN TEDESCO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376672;modulo;15862;Heiss Christine Antonie;Tedesco;;376672;376669;376669;
+8059;69574;TRADUZIONE DAL TEDESCO IN ITALIANO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376673;modulo;31657;Persico Bruno;Italiano;;376673;376669;376669;
+8059;70069;TRADUZIONE TRA L'ITALIANO E IL RUSSO I (SECONDA LINGUA) (C.I.);;;;;;;377782;0;377782;
+8059;70070;TRADUZIONE DALL'ITALIANO IN RUSSO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377783;modulo;37225;Issoupova Tatiana;Italiano;;377783;377782;377782;
+8059;70071;TRADUZIONE DAL RUSSO IN ITALIANO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377784;modulo;41331;Romagnoli Raffaella;Italiano;;377784;377782;377782;
+8059;35199;PROVA FINALE;;;;;;;377787;0;377787;
+8059;69471;LINGUA E MEDIAZIONE RUSSA III (SECONDA LINGUA) (C.I.);;;;;;;377804;0;377804;
+8059;69472;LINGUA E CULTURA RUSSA III (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377808;modulo;31291;Slavkova Svetlana;Russo;;377808;377804;377804;377808
+8059;69473;INTERPRETAZIONE DI TRATTATIVA RUSSA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377809;modulo;32087;Saturni Hakimi Tabrizi Helena;Italiano;;377809;377804;377804;
+8059;69464;LINGUA E MEDIAZIONE FRANCESE III (SECONDA LINGUA) (C.I.);;;;;;;377812;0;377812;
+8059;69465;LINGUA E CULTURA FRANCESE III (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377816;modulo;40686;Iafrate Samantha;Francese;;377816;377812;377812;
+8059;69467;INTERPRETAZIONE DI TRATTATIVA FRANCESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377817;modulo;41113;Baldi Lucia;Italiano;;377817;377812;377812;
+8059;69468;LINGUA E MEDIAZIONE INGLESE III (SECONDA LINGUA) (C.I.);;;;;;;377818;0;377818;
+8059;69469;LINGUA E CULTURA INGLESE III (SECONDA LINGUA);;modulo;;;;;377819;377818;377818;
+8059;69470;INTERPRETAZIONE DI TRATTATIVA INGLESE II (SECONDA LINGUA);;modulo;;;;;377820;377818;377818;
+8059;69474;LINGUA E MEDIAZIONE SPAGNOLA III (SECONDA LINGUA) (C.I.);;;;;;;377821;0;377821;
+8059;69475;LINGUA E CULTURA SPAGNOLA III (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377822;modulo;38837;Perez Vazquez Maria Enriqueta;Italiano;;377822;377821;377821;
+8059;69476;INTERPRETAZIONE DI TRATTATIVA SPAGNOLA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377823;modulo;39279;Aguilar Domingo Maria Soledad;Spagnolo;;377823;377821;377821;
+8059;69477;LINGUA E MEDIAZIONE TEDESCA III (SECONDA LINGUA) (C.I.);;;;;;;377824;0;377824;
+8059;69478;LINGUA E CULTURA TEDESCA III (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377825;modulo;13964;Soffritti Marcello;Tedesco;;377825;377824;377824;
+8059;69479;INTERPRETAZIONE DI TRATTATIVA TEDESCA II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377826;modulo;30976;Cotta Ramusino Luisa Caterina;Italiano;;377826;377824;377824;
+8059;562;LETTERATURA ITALIANA;;;;;;;377961;0;377961;
+8059;70294;LINGUA E MEDIAZIONE CINESE I (SECONDA LINGUA) (C.I.);;;;;;;378665;0;378665;
+8059;70295;LINGUA E CULTURA CINESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378666;modulo;38907;Ardizzoni Sabrina;Italiano;;378666;378665;378665;
+8059;70296;MEDIAZIONE LINGUISTICA TRA IL CINESE E L'ITALIANO (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378667;modulo;50436;Vantaggiato Luca;;;378667;378665;378665;
+8059;70311;LINGUA E MEDIAZIONE CINESE II (SECONDA LINGUA) (C.I.);;;;;;;378683;0;378683;
+8059;70312;LINGUA E CULTURA CINESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378684;modulo;50436;Vantaggiato Luca;Italiano;;378684;378683;378683;
+8059;70313;INTERPRETAZIONE DI TRATTATIVA CINESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378685;modulo;50436;Vantaggiato Luca;;;378685;378683;378683;
+8059;70314;LINGUA E MEDIAZIONE CINESE III (SECONDA LINGUA) (C.I.);;;;;;;378686;0;378686;
+8059;70315;LINGUA E CULTURA CINESE III (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378687;modulo;50436;Vantaggiato Luca;Italiano;;378687;378686;378686;
+8059;70316;INTERPRETAZIONE DI TRATTATIVA CINESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378688;modulo;50436;Vantaggiato Luca;;;378688;378686;378686;
+8059;70317;TRADUZIONE TRA L'ITALIANO E IL CINESE I (SECONDA LINGUA) (C.I.);;;;;;;378689;0;378689;
+8059;70318;TRADUZIONE DALL'ITALIANO IN CINESE I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378690;modulo;50408;Wang Han;Italiano;;378690;378689;378689;
+8059;70319;TRADUZIONE DAL CINESE IN ITALIANO I (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378691;modulo;38907;Ardizzoni Sabrina;Italiano;;378691;378689;378689;
+8059;70320;TRADUZIONE TRA L'ITALIANO E IL CINESE II (SECONDA LINGUA) (C.I.);;;;;;;378692;0;378692;
+8059;70321;TRADUZIONE DALL'ITALIANO IN CINESE II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378693;modulo;50408;Wang Han;Italiano;;378693;378692;378692;
+8059;70322;TRADUZIONE DAL CINESE IN ITALIANO II (SECONDA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378694;modulo;48129;Zuccheri Serena;Italiano;;378694;378692;378692;
+8059;70323;LETTERATURA CINESE I (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378695;;82274;Iezzi Adriana;Italiano;;378695;0;378695;
+8059;70324;LETTERATURA CINESE II (SECONDA LINGUA) L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378696;;82274;Iezzi Adriana;Italiano;;378696;0;378696;
+8059;70345;FONDAMENTI DI ARABO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378800;;34998;Addous Ahmad;Italiano;;378800;0;378800;
+8059;70381;FONDAMENTI DI GIAPPONESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378951;;35535;Ueyama Motoko;Italiano;;378951;0;378951;
+8059;70382;FONDAMENTI DI PORTOGHESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378952;;34135;Costa Da Silva Ferreira Anabela Cristina;Italiano;;378952;0;378952;
+8059;70383;FONDAMENTI DI SLOVACCO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378953;;84562;Svoradova Veronika;Italiano;;378953;0;378953;
+8059;71184;INTEGRAZIONE POLITICA-ECONOMICA DELL'UNIONE EUROPEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381084;;36708;Maggiorani Mauro;Italiano;;381084;0;381084;
+8059;71534;LINGUA SLOVACCA (CORSO AVANZATO I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/382368;;84562;Svoradova Veronika;Slovacco;;382368;0;382368;
+8059;71926;FONDAMENTI DI BULGARO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383428;;47663;Laskova Laska Angelova;Bulgaro;;383428;0;383428;
+8059;73967;LINGUA ITALIANA L2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388730;;42424;Zingaro Anna;Italiano;;388730;0;388730;
+8059;77178;CULTURA E ISTITUZIONI ITALIANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/398645;;32081;Giardinazzo Francesco;Italiano;;398645;0;398645;
+8059;12987;LINGUA INGLESE (TERZA LINGUA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401810;;40830;Mitzel Anthony Dion;Inglese;;401810;0;401810;
+8059;33559;LINGUA INGLESE (OPZIONALE);;;;;;;405481;0;405481;
+8059;79750;STORIA DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/405978;;41748;Bellassai Alessandro;Italiano;;405978;0;405978;
+8059;69906;RUSSIAN INTERMEDIATE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406936;;41331;Romagnoli Raffaella;Inglese;;406936;0;406936;406936
+8059;81606;LINGUA BULGARA (CORSO AVANZATO I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411884;;47663;Laskova Laska Angelova;Bulgaro;;411884;0;411884;
+8059;83655;Esercitazioni di Mediazione Lingusitica Inglese (seconda lingua);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419268;;40830;Mitzel Anthony Dion;;;419268;0;419268;
+8059;83814;CORSO BASE DI LINGUA E CULTURA ARABA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419836;;49356;Hoseini Gassid Mohammed Hossein;;;419836;0;419836;419836
+8059;83815;CORSO BASE DI LINGUA E CULTURA CINESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419837;;82274;Iezzi Adriana;Italiano;;419837;0;419837;419837
+8059;83816;CORSO BASE DI LINGUA E CULTURA PORTOGHESE E BRASILIANA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419838;;82426;Paulo Cadete Rute Maria;Italiano;;419838;0;419838;419838
+8059;43042;ESERCITAZIONI DI LINGUA ARABA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419840;;49356;Hoseini Gassid Mohammed Hossein;;;419840;0;419840;
+8059;74588;ESERCITAZIONI DI LINGUA BULGARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420603;;47663;Laskova Laska Angelova;;;420603;0;420603;
+8059;83995;Lingua Italiana L2 (secondo semestre);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420779;;42424;Zingaro Anna;Italiano;;420779;0;420779;
+8059;84089;LINGUA BULGARA (CORSO AVANZATO II);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421017;;47663;Laskova Laska Angelova;Bulgaro;;421017;0;421017;
+8059;74034;TIROCINIO ERASMUS PLACEMENT (8 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425465;;16742;Rundle Christopher;;;425465;0;425465;
+8059;74033;TIROCINIO ERASMUS PLACEMENT (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425466;;16742;Rundle Christopher;;;425466;0;425466;
+8060;27413;TECNICHE DI PRESENTAZIONE ORALE;;;;;;;321669;0;321669;
+8060;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/325222;;39050;Antonini Rachele;;;325222;0;325222;378149
+8060;17268;PROVA FINALE;;;;;;;325223;0;325223;
+8060;69670;INTERPRETAZIONE DI CONFERENZA TRA IL FRANCESE E L'ITALIANO (C.I.);;;;;;;376846;0;376846;
+8060;70163;INTERPRETAZIONE DAL FRANCESE IN ITALIANO;;modulo;;;;;378096;376846;376846;378096
+8060;70164;INTERPRETAZIONE DALL'ITALIANO IN FRANCESE;;modulo;;;;;378097;376846;376846;
+8060;69672;INTERPRETAZIONE DI CONFERENZA TRA L'INGLESE E L'ITALIANO (C.I.);;;;;;;376851;0;376851;
+8060;70167;INTERPRETAZIONE DALL'INGLESE IN ITALIANO;;modulo;;;;;378104;376851;376851;
+8060;70167;INTERPRETAZIONE DALL'INGLESE IN ITALIANO (CL1) (1);;modulo;;;;;405447;386640;376851;405447
+8060;70167;INTERPRETAZIONE DALL'INGLESE IN ITALIANO (CL1) (2);;modulo;;;;;405448;386640;376851;
+8060;70167;INTERPRETAZIONE DALL'INGLESE IN ITALIANO (CL2) (1);;modulo;;;;;405449;386641;376851;
+8060;70167;INTERPRETAZIONE DALL'INGLESE IN ITALIANO (CL2) (2);;modulo;;;;;405450;386641;376851;
+8060;70168;INTERPRETAZIONE DALL'ITALIANO IN INGLESE;;modulo;;;;;378105;376851;376851;
+8060;69689;INTERPRETAZIONE DI CONFERENZA TRA LO SPAGNOLO E L'ITALIANO (C.I.);;;;;;;376894;0;376894;
+8060;70169;INTERPRETAZIONE DALLO SPAGNOLO IN ITALIANO;;modulo;;;;;378106;376894;376894;
+8060;70169;INTERPRETAZIONE DALLO SPAGNOLO IN ITALIANO (1);;modulo;;;;;383890;378106;376894;383890
+8060;70169;INTERPRETAZIONE DALLO SPAGNOLO IN ITALIANO (2);;modulo;;;;;383891;378106;376894;383891
+8060;70170;INTERPRETAZIONE DALL'ITALIANO IN SPAGNOLO;;modulo;;;;;378107;376894;376894;
+8060;69691;INTERPRETAZIONE DI CONFERENZA TRA IL RUSSO E L'ITALIANO (C.I.);;;;;;;376897;0;376897;
+8060;70165;INTERPRETAZIONE DAL RUSSO IN ITALIANO;;modulo;;;;;378099;376897;376897;
+8060;70165;INTERPRETAZIONE DAL RUSSO IN ITALIANO (1);;modulo;;;;;402979;378099;376897;402979
+8060;70165;INTERPRETAZIONE DAL RUSSO IN ITALIANO (2);;modulo;;;;;402980;378099;376897;
+8060;70166;INTERPRETAZIONE DALL'ITALIANO IN RUSSO;;modulo;;;;;378100;376897;376897;
+8060;69692;INTERPRETAZIONE DI CONFERENZA TRA IL TEDESCO E L'ITALIANO (C.I.);;;;;;;376902;0;376902;
+8060;70056;INTERPRETAZIONE DAL TEDESCO IN ITALIANO;;modulo;;;;;378101;376902;376902;378101
+8060;70057;INTERPRETAZIONE DALL'ITALIANO IN TEDESCO;;modulo;;;;;378102;376902;376902;
+8060;70171;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DAL FRANCESE;;;;;;;378108;0;378108;378096
+8060;70172;INTERPRETAZIONE DI CONFERENZA IN FRANCESE DALL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378111;;82208;Toni Patricia;Francese;;378111;0;378111;401407
+8060;70173;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DAL RUSSO;;;;;;;378112;0;378112;
+8060;70173;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DAL RUSSO (1);;modulo;;;;;387713;378112;378112;402979
+8060;70173;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DAL RUSSO (2);;modulo;;;;;387714;378112;378112;
+8060;70174;INTERPRETAZIONE DI CONFERENZA IN RUSSO DALL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378113;;41329;Mentkovska Hanna;Russo;;378113;0;378113;401412
+8060;70175;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DAL TEDESCO;;;;;;;378115;0;378115;378101
+8060;70176;INTERPRETAZIONE DI CONFERENZA IN TEDESCO DALL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378116;;41538;Galatzer Christfriede;Italiano;;378116;0;378116;401416
+8060;70178;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DALL'INGLESE;;;;;;;378118;0;378118;405447
+8060;70179;INTERPRETAZIONE DI CONFERENZA IN INGLESE DALL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378119;;48090;Cortucci Paolo;Inglese;;378119;0;378119;419259
+8060;70180;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DALLO SPAGNOLO;;;;;;;378120;0;378120;
+8060;70180;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DALLO SPAGNOLO (1);;modulo;;;;;383892;378120;378120;383890
+8060;70180;INTERPRETAZIONE DI CONFERENZA IN ITALIANO DALLO SPAGNOLO (2);;modulo;;;;;383893;378120;378120;383891
+8060;70181;INTERPRETAZIONE DI CONFERENZA IN SPAGNOLO DALL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378122;;32131;Tugnoli Claudio;Spagnolo;;378122;0;378122;401420
+8060;69648;TEORIA DELL'INTERPRETAZIONE (C.I.);;;;;;;378144;0;378144;
+8060;9556;TEORIA DELL'INTERPRETAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378146;modulo;33275;Russo Mariachiara;Italiano;;378146;378144;378144;
+8060;9556;TEORIA DELL'INTERPRETAZIONE (1);;modulo;33275;Russo Mariachiara;Italiano;;415146;378146;378144;
+8060;9556;TEORIA DELL'INTERPRETAZIONE (2);;modulo;31370;Amato Amalia Agata Maria;;;415147;378146;378144;
+8060;69649;LINGUISTICA PER INTERPRETI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378147;modulo;38043;La Forgia Francesca;Italiano;;378147;378144;378144;
+8060;69649;LINGUISTICA PER INTERPRETI (1);;modulo;38043;La Forgia Francesca;Italiano;;403016;378147;378144;
+8060;69649;LINGUISTICA PER INTERPRETI (2);;modulo;;;;;403017;378147;378144;
+8060;35199;PROVA FINALE;;;;;;;378145;0;378145;
+8060;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378149;;39050;Antonini Rachele;;;378149;0;378149;378149
+8060;78373;LINGUA INGLESE PER INTERPRETI (LINGUA A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401195;;72381;Gallai Fabrizio;Inglese;;401195;0;401195;401195
+8060;78374;LINGUA FRANCESE PER INTERPRETI (LINGUA A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401196;;32772;Ballardini Elio;Francese;;401196;0;401196;401196
+8060;78375;LINGUA TEDESCA PER INTERPRETI (LINGUA A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401197;;13964;Soffritti Marcello;Tedesco;;401197;0;401197;401197
+8060;78376;LINGUA SPAGNOLA PER INTERPRETI (LINGUA A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401198;;31290;Gonzalez Rodriguez Maria Jesus;Italiano;;401198;0;401198;401198
+8060;78377;LINGUA RUSSA PER INTERPRETI (LINGUA A);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401199;;31291;Slavkova Svetlana;Russo;;401199;0;401199;401199
+8060;78378;INTERPRETAZIONE TRA L'INGLESE E L'ITALIANO I (C.I.);;;;;;;401200;0;401200;
+8060;78379;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (5 CFU);;modulo;;;;;401201;401200;401200;
+8060;78379;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (5 CFU) (CL1) (1);;modulo;36709;Torresi Ira;Italiano;;405451;405154;401200;405455
+8060;78379;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (5 CFU) (CL1) (2);;modulo;36748;Radicioni Maura;;;405452;405154;401200;405456
+8060;78379;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (5 CFU) (CL2) (1);;modulo;36709;Torresi Ira;Italiano;;405453;405155;401200;405457
+8060;78379;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (5 CFU) (CL2) (2);;modulo;36748;Radicioni Maura;;;405454;405155;401200;405458
+8060;78380;INTERPRETAZIONE DALL'ITALIANO VERSO L'INGLESE I (6 CFU);;modulo;;;;;401202;401200;401200;
+8060;78381;INTERPRETAZIONE TRA IL FRANCESE E L'ITALIANO I (C.I.);;;;;;;401203;0;401203;
+8060;78382;INTERPRETAZIONE DAL FRANCESE VERSO L'ITALIANO I (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401204;modulo;41113;Baldi Lucia;Italiano;;401204;401203;401203;401223
+8060;78383;INTERPRETAZIONE DALL'ITALIANO VERSO IL FRANCESE I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401205;modulo;82208;Toni Patricia;Francese;;401205;401203;401203;401205
+8060;78384;INTERPRETAZIONE TRA IL TEDESCO E L'ITALIANO I (C.I);;;;;;;401206;0;401206;
+8060;78385;INTERPRETAZIONE DAL TEDESCO VERSO L'ITALIANO I (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401207;modulo;30983;Mack Gabriele Dorothe;Tedesco;;401207;401206;401206;401228
+8060;78386;INTERPRETAZIONE DALL'ITALIANO VERSO IL TEDESCO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401208;modulo;30983;Mack Gabriele Dorothe;Tedesco;;401208;401206;401206;
+8060;78386;INTERPRETAZIONE DALL'ITALIANO VERSO IL TEDESCO I (6 CFU) (1);;modulo;30983;Mack Gabriele Dorothe;Tedesco;;415136;401208;401206;415136
+8060;78386;INTERPRETAZIONE DALL'ITALIANO VERSO IL TEDESCO I (6 CFU) (2);;modulo;41538;Galatzer Christfriede;;;415137;401208;401206;415137
+8060;78387;INTERPRETAZIONE TRA LO SPAGNOLO E L'ITALIANO I (C.I);;;;;;;401209;0;401209;
+8060;78388;INTERPRETAZIONE DALLO SPAGNOLO VERSO L'ITALIANO I (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401211;modulo;33275;Russo Mariachiara;Italiano;;401211;401209;401209;401231
+8060;78389;INTERPRETAZIONE DALL'ITALIANO VERSO LO SPAGNOLO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401212;modulo;32131;Tugnoli Claudio;Spagnolo;;401212;401209;401209;401212
+8060;78390;INTERPRETAZIONE TRA IL RUSSO E L'ITALIANO I (C.I.);;;;;;;401213;0;401213;
+8060;78391;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401215;modulo;41749;Biagini Francesca;Italiano;;401215;401213;401213;
+8060;78391;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (5 CFU) (1);;modulo;41749;Biagini Francesca;Italiano;;415016;401215;401213;415018
+8060;78391;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (5 CFU) (2);;modulo;32087;Saturni Hakimi Tabrizi Helena;;;415017;401215;401213;415019
+8060;78392;INTERPRETAZIONE DALL'ITALIANO VERSO IL RUSSO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401216;modulo;43078;Bezkrovna Lyubov;Russo;;401216;401213;401213;401216
+8060;78393;INTERPRETAZIONE E LINGUA INGLESE (C.I.);;;;;;;401218;0;401218;
+8060;78394;LINGUA INGLESE PER INTERPRETI (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401224;modulo;72381;Gallai Fabrizio;Inglese;;401224;401218;401218;401195
+8060;78399;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (6 CFU);;modulo;;;;;401225;401218;401218;
+8060;78399;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (6 CFU) (CL1) (1);;modulo;36709;Torresi Ira;Italiano;;405455;405158;401218;405455
+8060;78399;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (6 CFU) (CL1) (2);;modulo;36748;Radicioni Maura;;;405456;405158;401218;405456
+8060;78399;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (6 CFU) (CL2) (1);;modulo;36709;Torresi Ira;Italiano;;405457;405159;401218;405457
+8060;78399;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO I (6 CFU) (CL2) (2);;modulo;36748;Radicioni Maura;;;405458;405159;401218;405458
+8060;78396;INTERPRETAZIONE E LINGUA FRANCESE (C.I.);;;;;;;401221;0;401221;
+8060;78397;LINGUA FRANCESE PER INTERPRETI (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401222;modulo;32772;Ballardini Elio;Francese;;401222;401221;401221;401196
+8060;78398;INTERPRETAZIONE DAL FRANCESE VERSO L'ITALIANO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401223;modulo;41113;Baldi Lucia;Italiano;;401223;401221;401221;401223
+8060;78400;INTERPRETAZIONE E LINGUA TEDESCA (C.I.);;;;;;;401226;0;401226;
+8060;78401;LINGUA TEDESCA PER INTERPRETI (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401227;modulo;13964;Soffritti Marcello;Tedesco;;401227;401226;401226;401197
+8060;78402;INTERPRETAZIONE DAL TEDESCO VERSO L'ITALIANO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401228;modulo;30983;Mack Gabriele Dorothe;Tedesco;;401228;401226;401226;401228
+8060;78403;INTERPRETAZIONE E LINGUA SPAGNOLA (C.I.);;;;;;;401229;0;401229;
+8060;78404;LINGUA SPAGNOLA PER INTERPRETI (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401230;modulo;31290;Gonzalez Rodriguez Maria Jesus;Italiano;;401230;401229;401229;401198
+8060;78405;INTERPRETAZIONE DALLO SPAGNOLO VERSO L'ITALIANO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401231;modulo;33275;Russo Mariachiara;Italiano;;401231;401229;401229;401231
+8060;78406;INTERPRETAZIONE E LINGUA RUSSA (C.I.);;;;;;;401232;0;401232;
+8060;78407;LINGUA RUSSA PER INTERPRETI (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401236;modulo;31291;Slavkova Svetlana;Russo;;401236;401232;401232;401199
+8060;78409;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401237;modulo;41749;Biagini Francesca;Italiano;;401237;401232;401232;
+8060;78409;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (6 CFU) (1);;modulo;41749;Biagini Francesca;Italiano;;415018;401237;401232;415018
+8060;78409;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO I (6 CFU) (2);;modulo;32087;Saturni Hakimi Tabrizi Helena;;;415019;401237;401232;415019
+8060;78410;METODI E TECNOLOGIE PER L'INTERPRETAZIONE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401238;;42597;Lecci Claudia;Italiano;;401238;0;401238;
+8060;78412;INTERPRETAZIONE TRA L'INGLESE E L'ITALIANO II (C.I.);;;;;;;401240;0;401240;
+8060;78413;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (5 CFU);;modulo;;;;;401241;401240;401240;
+8060;78413;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (5 CFU) (CL1) (1);;modulo;31370;Amato Amalia Agata Maria;Italiano;;418766;418764;401240;418760
+8060;78413;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (5 CFU) (CL1) (2);;modulo;36748;Radicioni Maura;;;418767;418764;401240;418767
+8060;78413;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (5 CFU) (CL2) (1);;modulo;31370;Amato Amalia Agata Maria;Italiano;;418768;418765;401240;418762
+8060;78413;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (5 CFU) (CL2) (2);;modulo;36748;Radicioni Maura;;;418769;418765;401240;418769
+8060;78471;INTERPRETAZIONE DALL'ITALIANO VERSO L'INGLESE II (5 CFU);;modulo;;;;;401242;401240;401240;
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE;;modulo;;;;;401410;401240;401240;
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL1) (1);;modulo;30979;Garwood Christopher John;Italiano;;419324;419322;401240;419324
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL1) (2);;modulo;82346;Penazzi Valeria;;;419325;419322;401240;419325
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL2) (1);;modulo;48090;Cortucci Paolo;Italiano;;419326;419323;401240;419326
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL2) (2);;modulo;82346;Penazzi Valeria;;;419327;419323;401240;419327
+8060;78414;INTERPRETAZIONE TRA IL FRANCESE E L'ITALIANO II (C.I.);;;;;;;401243;0;401243;
+8060;78467;INTERPRETAZIONE DAL FRANCESE VERSO L'ITALIANO II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401401;modulo;41113;Baldi Lucia;Italiano;;401401;401243;401243;401251
+8060;78470;INTERPRETAZIONE DALL'ITALIANO VERSO IL FRANCESE II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401407;modulo;82208;Toni Patricia;Francese;;401407;401243;401243;401407
+8060;78423;INTERPRETAZIONE SPECIALIZZATA - LINGUA FRANCESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401408;modulo;32772;Ballardini Elio;Francese;;401408;401243;401243;401408
+8060;78415;INTERPRETAZIONE TRA IL TEDESCO E L'ITALIANO II (C.I.);;;;;;;401244;0;401244;
+8060;78474;INTERPRETAZIONE DAL TEDESCO VERSO L'ITALIANO II ( 5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401415;modulo;30983;Mack Gabriele Dorothe;Tedesco;;401415;401244;401244;401258
+8060;78475;INTERPRETAZIONE DALL'ITALIANO VERSO IL TEDESCO II ( 5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401416;modulo;41538;Galatzer Christfriede;Italiano;;401416;401244;401244;401416
+8060;78427;INTERPRETAZIONE SPECIALIZZATA - LINGUA TEDESCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401417;modulo;41538;Galatzer Christfriede;Italiano;;401417;401244;401244;401417
+8060;78416;INTERPRETAZIONE TRA LO SPAGNOLO E L'ITALIANO II (C.I.);;;;;;;401245;0;401245;
+8060;78477;INTERPRETAZIONE DALLO SPAGNOLO VERSO L'ITALIANO II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401419;modulo;33275;Russo Mariachiara;Italiano;;401419;401245;401245;401261
+8060;78478;INTERPRETAZIONE DALL'ITALIANO VERSO LO SPAGNOLO II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401420;modulo;32131;Tugnoli Claudio;Spagnolo;;401420;401245;401245;401420
+8060;78479;INTERPRETAZIONE SPECIALIZZATA - LINGUA SPAGNOLA II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401421;modulo;32131;Tugnoli Claudio;Italiano;;401421;401245;401245;401421
+8060;78417;INTERPRETAZIONE TRA IL RUSSO E L'ITALIANO II (C.I.);;;;;;;401246;0;401246;
+8060;78472;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401411;modulo;41749;Biagini Francesca;Italiano;;401411;401246;401246;401264
+8060;78473;INTERPRETAZIONE DALL'ITALIANO VERSO IL RUSSO II (5 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401412;modulo;41329;Mentkovska Hanna;Russo;;401412;401246;401246;401412
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401414;modulo;32087;Saturni Hakimi Tabrizi Helena;Italiano;;401414;401246;401246;
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA (1);;modulo;32087;Saturni Hakimi Tabrizi Helena;Italiano;;419208;401414;401246;419208
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA (2);;modulo;41329;Mentkovska Hanna;;;419209;401414;401246;419209
+8060;78418;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (C.I.);;;;;;;401247;0;401247;
+8060;78419;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (6 CFU);;modulo;;;;;401248;401247;401247;
+8060;78419;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (6 CFU) (CL1) (1);;modulo;31370;Amato Amalia Agata Maria;Italiano;;418760;417400;401247;418760
+8060;78419;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (6 CFU) (CL1) (2);;modulo;36748;Radicioni Maura;;;418761;417400;401247;418767
+8060;78419;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (6 CFU) (CL2) (1);;modulo;31370;Amato Amalia Agata Maria;Italiano;;418762;417401;401247;418762
+8060;78419;INTERPRETAZIONE DALL'INGLESE VERSO L'ITALIANO II (6 CFU) (CL2) (2);;modulo;36748;Radicioni Maura;;;418763;417401;401247;418769
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE;;modulo;;;;;401249;401247;401247;
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL1) (1);;modulo;48090;Cortucci Paolo;Italiano;;417404;417402;401247;419326
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL1) (2);;modulo;82346;Penazzi Valeria;;;417405;417402;401247;419325
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL2) (1);;modulo;30979;Garwood Christopher John;Italiano;;419328;417403;401247;419324
+8060;78420;INTERPRETAZIONE SPECIALIZZATA - LINGUA INGLESE (CL2) (2);;modulo;82346;Penazzi Valeria;;;419329;417403;401247;419327
+8060;78421;INTERPRETAZIONE DAL FRANCESE VERSO L'ITALIANO II (C.I.);;;;;;;401250;0;401250;
+8060;78422;INTERPRETAZIONE DAL FRANCESE VERSO L'ITALIANO II (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401251;modulo;41113;Baldi Lucia;Italiano;;401251;401250;401250;401251
+8060;78423;INTERPRETAZIONE SPECIALIZZATA - LINGUA FRANCESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401252;modulo;32772;Ballardini Elio;Francese;;401252;401250;401250;401408
+8060;78425;INTERPRETAZIONE DAL TEDESCO VERSO L'ITALIANO II (C.I.);;;;;;;401257;0;401257;
+8060;78426;INTERPRETAZIONE DAL TEDESCO VERSO L'ITALIANO II (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401258;modulo;30983;Mack Gabriele Dorothe;Tedesco;;401258;401257;401257;401258
+8060;78427;INTERPRETAZIONE SPECIALIZZATA - LINGUA TEDESCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401259;modulo;41538;Galatzer Christfriede;Italiano;;401259;401257;401257;401417
+8060;78428;INTERPRETAZIONE DALLO SPAGNOLO VERSO L'ITALIANO II (C.I.);;;;;;;401260;0;401260;
+8060;78429;INTERPRETAZIONE DALLO SPAGNOLO VERSO L'ITALIANO II (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401261;modulo;33275;Russo Mariachiara;Italiano;;401261;401260;401260;401261
+8060;78430;INTERPRETAZIONE SPECIALIZZATA - LINGUA SPAGNOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401262;modulo;32131;Tugnoli Claudio;Italiano;;401262;401260;401260;401421
+8060;78431;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO II (C.I.);;;;;;;401263;0;401263;
+8060;78432;INTERPRETAZIONE DAL RUSSO VERSO L'ITALIANO II (6 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401264;modulo;41749;Biagini Francesca;Italiano;;401264;401263;401263;401264
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401265;modulo;32087;Saturni Hakimi Tabrizi Helena;Italiano;;401265;401263;401263;
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA (1);;modulo;32087;Saturni Hakimi Tabrizi Helena;Italiano;;419210;401265;401263;419208
+8060;78433;INTERPRETAZIONE SPECIALIZZATA - LINGUA RUSSA (2);;modulo;41329;Mentkovska Hanna;;;419211;401265;401263;419209
+8060;78434;METODI E TECNOLOGIE PER L'INTERPRETAZIONE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401266;;42597;Lecci Claudia;Italiano;;401266;0;401266;
+8060;78435;COMUNICAZIONE IN AMBITI SPECIALIZZATI (C.I.);;;;;;;401268;0;401268;
+8060;78436;COMUNICAZIONE ISTITUZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401269;modulo;38043;La Forgia Francesca;Italiano;;401269;401268;401268;
+8060;78437;LINGUAGGI SPECIALIZZATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401270;modulo;38043;La Forgia Francesca;Italiano;;401270;401268;401268;
+8060;78623;INTERPRETAZIONE E LINGUA CINESE (C.I.);;;;;;;401934;0;401934;
+8060;78624;LINGUA CINESE PER INTERPRETI (LINGUA B);;modulo;;;;;401935;401934;401934;
+8060;78625;INTERPRETAZIONE DAL CINESE VERSO L'ITALIANO I (6 CFU);;modulo;;;;;401936;401934;401934;
+8060;82081;INTERPRETAZIONE DI CONFERENZA IN FRANCESE DALL'ITALIANO (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416351;;82208;Toni Patricia;Francese;;416351;0;416351;401205
+8060;82082;INTERPRETAZIONE DI CONFERENZA IN INGLESE DALL'ITALIANO (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416352;;30988;Cittolini Morassutti Fabio;Italiano;;416352;0;416352;405156
+8060;82083;INTERPRETAZIONE DI CONFERENZA IN RUSSO DALL'ITALIANO (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416353;;43078;Bezkrovna Lyubov;Russo;;416353;0;416353;401216
+8060;82084;INTERPRETAZIONE DI CONFERENZA IN SPAGNOLO DALL'ITALIANO (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416354;;32131;Tugnoli Claudio;Spagnolo;;416354;0;416354;401212
+8060;82085;INTERPRETAZIONE DI CONFERENZA IN TEDESCO DALL'ITALIANO (LINGUA B);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416355;;30983;Mack Gabriele Dorothe;Tedesco;;416355;0;416355;
+8060;82085;INTERPRETAZIONE DI CONFERENZA IN TEDESCO DALL'ITALIANO (LINGUA B) (1);;modulo;30983;Mack Gabriele Dorothe;Tedesco;;416356;416355;416355;415136
+8060;82085;INTERPRETAZIONE DI CONFERENZA IN TEDESCO DALL'ITALIANO (LINGUA B) (2);;modulo;41538;Galatzer Christfriede;;;416357;416355;416355;415137
+8060;83657;Esercitazioni di Interpretazione e Lingua Inglese;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419278;;47294;Cecchi Francesco;;;419278;0;419278;
+8060;81355;PREPARAZIONE PROVA FINALE ALL'ESTERO;;;;;;;425239;0;425239;
+8060;35199;PROVA FINALE;;;;;;;425240;0;425240;
+8060;70441;TIROCINIO IN PREPARAZIONE DELLA PROVA FINALE;;;;;;;425241;0;425241;
+8060;81354;TIROCINIO IN PREPARAZIONE DELLA PROVA FINALE ALL'ESTERO;;;;;;;425242;0;425242;
+8060;74034;TIROCINIO ERASMUS PLACEMENT (8 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425467;;16742;Rundle Christopher;;;425467;0;425467;
+8060;74033;TIROCINIO ERASMUS PLACEMENT (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425468;;16742;Rundle Christopher;;;425468;0;425468;
+8874;29857;PSICOLINGUISTICA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401597;;44889;Lugli Luisa;Italiano;;401597;0;401597;385718
+8874;29853;LINGUISTICA COMPUTAZIONALE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401601;;31280;Tamburini Fabio;Italiano;;401601;0;401601;376960
+8874;30713;SOCIOLINGUISTICA (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401603;;55230;Shkreli Enkelejda;Italiano;;401603;0;401603;401603
+8874;78662;INFORMATION TECHNOLOGY SKILLS (LM) I.C.;;;;;;;402022;0;402022;
+8874;78664;INFORMATION TECHNOLOGY SKILLS (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402023;modulo;35673;Turci Monica;Inglese;;402023;402022;402022;
+8874;78665;COMPUTER STUDIES AND HUMAN SCIENCES (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402024;modulo;35673;Turci Monica;Inglese;;402024;402022;402022;
+8874;78667;ENGLISH FOR SPECIFIC PURPOSES 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402029;;35673;Turci Monica;Inglese;;402029;0;402029;
+8874;78668;RUSSIAN FOR SPECIFIC PURPOSES 1 (LM);;;;;;;402030;0;402030;
+8874;78669;SPANISH FOR SPECIFIC PURPOSES 1 (LM);;;;;;;402031;0;402031;
+8874;78671;FRENCH LINGUISTICS 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402033;;49518;Balestrieri Fulvia;Francese;;402033;0;402033;
+8874;78672;ENGLISH LINGUISTICS 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402034;;38780;Fusari Sabrina;Inglese;;402034;0;402034;
+8874;78673;RUSSIAN LINGUISTICS 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402035;;31372;Perotto Monica;Russo;;402035;0;402035;328519
+8874;78674;SPANISH LINGUISTICS 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402036;;35660;Pano Alaman Ana;Spagnolo;;402036;0;402036;
+8874;78675;GERMAN LINGUISTICS 1 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402037;;31486;Thune Eva-Maria Christina Charlotte;Tedesco;;402037;0;402037;
+8874;78676;MEDIATION - FRENCH (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402038;;32839;Puccini Paola;Francese;;402038;0;402038;402038
+8874;78677;MEDIATION - ENGLISH (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402039;;31374;Rudvin Mette;Inglese;;402039;0;402039;
+8874;78678;MEDIATION - RUSSIAN (LM);;;;;;;402040;0;402040;
+8874;78679;MEDIATION - SPANISH (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402041;;47573;Betti Silvia;Spagnolo;;402041;0;402041;
+8874;78680;MEDIATION - GERMAN (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402042;;35797;Rieger Maria Antoinette;Tedesco;;402042;0;402042;402042
+8874;78681;HISTORY OF THE FRENCH LANGUAGE (LM);;;;;;;402043;0;402043;
+8874;78683;HISTORY OF THE RUSSIAN LANGUAGE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402045;;47266;Marchesini Irina;Russo;;402045;0;402045;
+8874;78684;HISTORY OF THE SPANISH LANGUAGE (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402046;;16764;Rodrigo Mora Maria Jos?¿;Spagnolo;;402046;0;402046;
+8874;78686;TRANSLATION - FRENCH (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402048;;35495;Nannoni Catia;Francese;;402048;0;402048;402048
+8874;78687;TRANSLATION - ENGLISH (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402049;;35665;Manfredi Marina;Inglese;;402049;0;402049;
+8874;78690;TRANSLATION - SPANISH (LM);;;;;;;402052;0;402052;
+8874;78691;TRANSLATION - GERMAN (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402053;;39911;Ivancic Barbara;Italiano;;402053;0;402053;402053
+8874;78693;CULTURAL ECONOMICS (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402058;;35349;Pedrini Sabrina;Inglese;;402058;0;402058;
+8874;78696;GEOGRAPHY OF LANGUAGES (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402061;;36068;Magnani Elisa;Inglese;;402061;0;402061;402061
+8874;78697;CONTEMPORARY HISTORY (LM);;;;;;;402062;0;402062;
+8874;78700;ENGLISH FOR SPECIFIC PURPOSES 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402065;;33258;Johnson Jane Helen;Inglese;;402065;0;402065;
+8874;78700;ENGLISH FOR SPECIFIC PURPOSES 2 (LM) (1);;modulo;33258;Johnson Jane Helen;Inglese;;416316;402065;402065;
+8874;78700;ENGLISH FOR SPECIFIC PURPOSES 2 (LM) (2);;modulo;42937;Ferrari Federica;;;416317;402065;402065;
+8874;78701;RUSSIAN FOR SPECIFIC PURPOSES 2 (LM);;;;;;;402066;0;402066;
+8874;78702;SPANISH FOR SPECIFIC PURPOSES 2 (LM);;;;;;;402067;0;402067;
+8874;78704;FRENCH LINGUISTICS 2 (LM);;;;;;;402070;0;402070;
+8874;78706;RUSSIAN LINGUISTICS 2 (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402072;;48344;Galakhova Elena;Russo;;402072;0;402072;
+8874;78707;SPANISH LINGUISTICS 2 (LM);;;;;;;402073;0;402073;
+8874;78708;GERMAN LINGUISTICS 2 (LM);;;;;;;402076;0;402076;
+8874;78710;MANAGEMENT OF CULTURAL EVENTS (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402078;;40312;Gentile Maria;Inglese;;402078;0;402078;
+8874;78711;PUBLIC SERVICES MANAGEMENT (LM);;;;;;;402079;0;402079;
+8874;78712;MANAGEMENT AND HUMAN RESOURCES MANAGEMENT (LM);;;;;;;402080;0;402080;
+8874;78713;SOCIOLOGY OF CULTURAL AND COMMUNICATION PROCESSES (LM);;;;;;;402081;0;402081;
+8874;78715;TRAINEESHIP (LM);;;;;;;402083;0;402083;
+8874;78716;FINAL EXAMINATION (LM);;;;;;;402086;0;402086;
+8874;78774;SOCIOLOGY OF MIGRATIONS (LM);;;;;;;402269;0;402269;
+8874;79043;COMPARATIVE CONSTITUTIONALISM (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402927;;31278;Mancini Susanna;Inglese;;402927;0;402927;377494
+8874;81777;TEORIA DEL LESSICO (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412253;;41446;Masini Francesca;Italiano;;412253;0;412253;412253
+8874;81778;HISTORY OF MASS COMMUNICATION (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412254;;43214;Salustri Simona;Inglese;;412254;0;412254;
+8874;81779;WEB SOCIETY AND GLOBALIZATION (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412255;;39604;Degli Esposti Piergiorgio;Inglese;;412255;0;412255;391353
+8874;81782;HUMANITARIAN COMMUNICATION (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412259;;39542;Musar?? Pierluigi;Inglese;;412259;0;412259;391352
+8874;81789;INTERNSHIP (LM);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412261;;;;;;412261;0;412261;
+8874;37167;RIDUZIONE COORDINAMENTO CDS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415552;;31486;Thune Eva-Maria Christina Charlotte;;;415552;0;415552;
+9174;82009;METHODS IN TRANSLATION PRACTICE (I.C);;;;;;;412933;0;412933;
+9174;82010;TRANSLATION AND REVISION TECHNIQUES (ENGLISH AND ITALIAN);;modulo;;;;;412934;412933;412933;
+9174;82011;Corpus Linguistics;;modulo;;;;;412935;412933;412933;
+9174;82012;LINGUISTICS FOR TRANSLATORS (I.C.);;;;;;;412937;0;412937;
+9174;82013;TEXT LINGUISTICS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412938;modulo;32100;Mazzoleni Marco;Italiano;;412938;412937;412937;
+9174;82014;Translation Theory;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412939;modulo;31842;Menin Roberto;Italiano;;412939;412937;412937;
+9174;82015;TRANSLATION FOR THE PUBLISHING INDUSTRY (FRENCH);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412943;;31033;Elefante Chiara;Italiano;;412943;0;412943;
+9174;82016;TRANSLATION FOR THE PUBLISHING INDUSTRY (RUSSIAN);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412945;;41749;Biagini Francesca;Italiano;;412945;0;412945;
+9174;82016;TRANSLATION FOR THE PUBLISHING INDUSTRY (RUSSIAN) (1);;modulo;41749;Biagini Francesca;Italiano;;419247;412945;412945;
+9174;82016;TRANSLATION FOR THE PUBLISHING INDUSTRY (RUSSIAN) (2);;modulo;42783;Lelli Ilaria;;;419248;412945;412945;
+9174;82017;TRANSLATION FOR THE PUBLISHING INDUSTRY (SPANISH);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412947;;31380;Bazzocchi Gloria;Italiano;;412947;0;412947;
+9174;82018;TRANSLATION FOR THE PUBLISHING INDUSTRY (GERMAN);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412948;;31842;Menin Roberto;Italiano;;412948;0;412948;
+9174;82020;TRANSLATION TECHNOLOGY AND METHODS (I.C.);;;;;;;412951;0;412951;
+9174;82021;COMPUTER-ASSISTED TRANSLATION AND WEB LOCALIZATION;;modulo;;;;;412952;412951;412951;
+9174;82022;MACHINE TRANSLATION AND POST-EDITING;;modulo;;;;;412953;412951;412951;
+9174;82023;INFORMATION MINING AND TERMINOLOGY;;modulo;;;;;412954;412951;412951;
+9174;82024;MEDIA COMMUNICATION (FRENCH);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412955;;41212;Hamon Yannick;Francese;;412955;0;412955;
+9174;82025;MEDIA COMMUNICATION (RUSSIAN);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412956;;37225;Issoupova Tatiana;Russo;;412956;0;412956;412956
+9174;82026;MEDIA COMMUNICATION (SPANISH);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412957;;16832;Fernandez Garcia Maria Isabel;Spagnolo;;412957;0;412957;
+9174;82027;MEDIA COMMUNICATION (GERMAN);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412958;;32140;Wiesmann Eva;Tedesco;;412958;0;412958;
+9174;82028;MEDIA COMMUNICATION (CHINESE);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412959;;50408;Wang Han;Italiano;;412959;0;412959;
+9174;82117;TRANSLATION FOR THE PUBLISHING INDUSTRY (CHINESE);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413177;;48129;Zuccheri Serena;Italiano;;413177;0;413177;
+9174;81976;FINAL EXAMINATION LM;;;;;;;413449;0;413449;
+9174;37840;INTERNSHIP LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413450;;39050;Antonini Rachele;;;413450;0;413450;
+9174;32180;RUSSIAN ADVANCED;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418295;;60240;Orlova Elena;Russo;;418295;0;418295;406937
+9174;35520;TECNICHE EDITORIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418296;;35592;Rambelli Paolo;;;418296;0;418296;341861
+9174;70677;TECNICHE DI SCRITTURA SAGGISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/418297;;30945;Gatta Francesca;Italiano;;418297;0;418297;380115
+9174;81976;FINAL EXAMINATION LM;;;;;;;425245;0;425245;
+9174;84551;INTERNSHIP ABROAD FOR PREPARATION FOR THE FINAL EXAMINATION;;;;;;;425246;0;425246;
+9174;84549;INTERNSHIP FOR PREPARATION FOR THE FINAL EXAMINATION;;;;;;;425247;0;425247;
+9174;84548;PREPARATION FOR THE FINAL EXAMINATION ABROAD;;;;;;;425248;0;425248;
+9174;74034;TIROCINIO ERASMUS PLACEMENT (8 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425471;;16742;Rundle Christopher;;;425471;0;425471;
+9174;74033;TIROCINIO ERASMUS PLACEMENT (12 CFU);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/425472;;16742;Rundle Christopher;;;425472;0;425472;
+979;31031;LETTERATURA INGLESE 1;;;;;;;328831;0;328831;
