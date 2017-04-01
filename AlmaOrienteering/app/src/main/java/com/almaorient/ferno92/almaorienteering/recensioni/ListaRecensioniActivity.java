@@ -141,14 +141,16 @@ public class ListaRecensioniActivity extends BaseActivity {
 
             recMap.put("voto", p.getVoto());
             recMap.put("recensione", p.getRecensione());
-//            recMap.put("quota", p.getQuota());
+            recMap.put("quota", p.getQuota());
+            recMap.put("up", "");
+            recMap.put("down", "");
             data.add(recMap);  //aggiungiamo la mappa di valori alla sorgente dati
         }
 
 
         SimpleAdapter adapter = new SimpleAdapter(this, data , R.layout.recensioni_list_item,
-                new String[]{"voto","recensione"}, //dai valori contenuti in queste chiavi
-                new int[]{R.id.rating_recensione,R.id.testo_recensione}//agli id delle view
+                new String[]{"voto","recensione", "quota", "up", "down"}, //dai valori contenuti in queste chiavi
+                new int[]{R.id.rating_recensione,R.id.testo_recensione, R.id.quota, R.id.rec_up, R.id.rec_down}//agli id delle view
         );
         adapter.setViewBinder(new RecensioniBinder());
         ((ListView)findViewById(R.id.lista_recensioni)).setAdapter(adapter);
