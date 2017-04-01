@@ -35,8 +35,12 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.1'
     compile 'com.airbnb.android:lottie:2.0.0-beta2'
     compile 'com.pacioianu.david:ink-page-indicator:1.2.0'
-    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.17'
+<<<<<<< HEAD
 //    compile 'com.github.JakeWharton:ViewPagerIndicator:2.4.1'
+=======
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.17'
+    compile 'com.github.JakeWharton:ViewPagerIndicator:2.4.1'
+>>>>>>> ca7b69e83e9e02ab51e78f4d8f9a62ef96d39201
     testCompile 'junit:junit:4.12'
     compile project(path: ':pagerIndicatorLibrary')
 }
