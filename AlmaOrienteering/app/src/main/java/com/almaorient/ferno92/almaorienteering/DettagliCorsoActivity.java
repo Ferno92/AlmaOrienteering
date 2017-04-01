@@ -26,10 +26,11 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TabHost;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.PianoStudi.ExpandableListAdapter1;
 import com.almaorient.ferno92.almaorienteering.PianoStudi.NewPianoStudiModel;
-import com.almaorient.ferno92.almaorienteering.PianoStudi.PianoStudiModel2;
+import com.almaorient.ferno92.almaorienteering.PianoStudi.ThreeLevelExpandableListView;
 import com.almaorient.ferno92.almaorienteering.recensioni.ListaRecensioniActivity;
 import com.almaorient.ferno92.almaorienteering.strutturaUnibo.Scuola;
 import com.almaorient.ferno92.almaorienteering.versus.VersusActivity;
@@ -41,43 +42,25 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
+import static android.R.attr.breadCrumbShortTitle;
 import static android.R.attr.data;
 import static android.R.attr.logo;
 import static android.R.drawable.btn_minus;
 import static android.R.drawable.btn_plus;
 import static com.almaorient.ferno92.almaorienteering.R.id.agrariaplus;
+import static com.almaorient.ferno92.almaorienteering.R.id.all;
 import static com.almaorient.ferno92.almaorienteering.R.id.default_activity_button;
-import static com.almaorient.ferno92.almaorienteering.R.id.primoannolistview;
-import static com.almaorient.ferno92.almaorienteering.R.id.primoannoplus;
 import static com.almaorient.ferno92.almaorienteering.R.id.tab1;
 import static com.almaorient.ferno92.almaorienteering.R.id.tab_host;
-import static com.almaorient.ferno92.almaorienteering.R.id.terzoannolayout;
 import static com.almaorient.ferno92.almaorienteering.R.id.window;
+import static java.lang.Math.round;
 
 public class DettagliCorsoActivity extends BaseActivity {
-
-    public static void setListViewHeightBasedOnChildren(ListView listView) {
-        ListAdapter listAdapter = listView.getAdapter();
-        if (listAdapter == null) {
-            // pre-condition
-            return;
-        }
-
-        int totalHeight = 0;
-        for (int i = 0; i < listAdapter.getCount(); i++) {
-            View listItem = listAdapter.getView(i, null, listView);
-            listItem.measure(0, 0);
-            totalHeight += listItem.getMeasuredHeight();
-        }
-
-        ViewGroup.LayoutParams params = listView.getLayoutParams();
-        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1));
-        listView.setLayoutParams(params);
-    }
 
     public static final Scuola[] mScuolaadatt = new Scuola[]{
             new Scuola("", "Seleziona scuola"),
@@ -94,7 +77,6 @@ public class DettagliCorsoActivity extends BaseActivity {
             new Scuola("scienze_politiche", "Scienze politiche")
     };
 
-    //////BROWSER
     private void richiamoBrowser(String url) {
         Intent browser = new Intent(this, EmbedBrowser.class);
         browser.putExtra("url", url);
@@ -118,20 +100,61 @@ public class DettagliCorsoActivity extends BaseActivity {
         startActivity(maps);
     }
 
-    TabHost tabhost;
+    public void threelevellistview(Integer durata, ArrayList<NewPianoStudiModel> elencoinsegnamenti) {
+        Integer b=-1;
+        Integer k=0;
+        Integer c=-1;
+        Integer f=0;
+        for (int i = 1; i <= durata; i++) {
+            for (c = c + 1; c < elencoinsegnamenti.size(); c++) {
+                b = b + 1;
+                k = f;
+                for (int a = 0; a < elencoinsegnamenti.size(); a++) {
+                    if (elencoinsegnamenti.get(a).getPadre().equals(elencoinsegnamenti.get(c).getRadice())) {
+                        mSecondoTerzoLivello.add(elencoinsegnamenti.get(a).getCorsoNome());
+                        f += 1;
+                    }
+                    if (!k.equals(f)) {
+                        mTerzoLivello2sublist = new ArrayList<String>(mSecondoTerzoLivello.subList(k, f));
+                        mThirdlevelmap.put(elencoinsegnamenti.get(c).getCorsoNome(), mTerzoLivello2sublist);
+                    } else {
+                        List<String> vuoto = new ArrayList<String>();
+                        //vuoto.add(elencoinsegnamenti.get(c).getCorsoNome());
+                        mThirdlevelmap.put(elencoinsegnamenti.get(c).getCorsoNome(), vuoto);
+                    }
 
+                }
 
-    private ExpandableListView listView;
-    private ExpandableListAdapter1 listAdapter;
-    private List<String> listDataHeader;
-    private HashMap<String,List<String>> listHash;
+            }
+        }
+    }
+
+    List<String> listDataHeader;
+
+    List<String> mSecondoLivelloElencoAnno;
+
+    List<String> mSecondoLivelloUrl;
+    List<String> mSecondoTerzoLivello;
+    HashMap<String, List<String>> mSeconlevelmap;
+    HashMap<String, List<String>> mThirdlevelmap;
+
+    List<String> mAnno1;
+    List<String> mAnno2;
+    List<String> mAnno3;
+    List<String> mAnno4;
+    List<String> mAnno5;
+    List<String> mAnno6;
+
+    List <String> mTerzoLivello2sublist;
+
+    HashMap<String, String> mMapUrlSecondLevel;
+    HashMap<String, String> mMapUrlThirdLevel;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dettagli_corso);
-
-
 
         //TextView nomecorsoText = (TextView) findViewById(R.id.nomecorso);
         TextView tipocorsoText = (TextView) findViewById(R.id.tipotxtview);
@@ -148,14 +171,13 @@ public class DettagliCorsoActivity extends BaseActivity {
         String campus = getIntent().getExtras().getString("Campus");
         String accesso = getIntent().getExtras().getString("Accesso");
         final Long scuolaid = getIntent().getExtras().getLong("IdScuola");
+        final Long durata1=getIntent().getExtras().getLong("Durata");
 
+        final Integer durata = (int) (long) durata1;
 
-        Resources res = getResources();
         TabHost tab = (TabHost) findViewById(R.id.tab_host);
         tab.setup();
         TabHost.TabSpec spec;
-
-//        tab.setup();
 
         //Tab 1
         spec=tab.newTabSpec("Tab 1");
@@ -163,19 +185,13 @@ public class DettagliCorsoActivity extends BaseActivity {
         spec.setIndicator("Info");
         tab.addTab(spec);
 
-        //Tab 1
-        spec=tab.newTabSpec("Tab 2");
-        spec.setContent(R.id.tab2);
-        spec.setIndicator("Descrizione");
-        tab.addTab(spec);
-
-        //Tab 1
+        //Tab 2
         spec=tab.newTabSpec("Tab 3");
         spec.setContent(R.id.tab3);
         spec.setIndicator("Piano didattico");
         tab.addTab(spec);
 
-        //Tab 1
+        //Tab 3
         spec=tab.newTabSpec("Tab 4");
         spec.setContent(R.id.tab4);
         spec.setIndicator("Sbocchi");
@@ -191,14 +207,11 @@ public class DettagliCorsoActivity extends BaseActivity {
 
         tab.setCurrentTab(0);
 
-
-
         setTitle(corso);
 
         tipocorsoText.setText(tipo);
         campuscorsoText.setText(campus);
         accessoText.setText(accesso);
-
 
         sitocorsobtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -248,8 +261,6 @@ public class DettagliCorsoActivity extends BaseActivity {
             }
         });
 
-        final ImageButton descrplus = (ImageButton) findViewById(R.id.descrizioneplus);
-        final TextView descrizione = (TextView) findViewById(R.id.introduziontetxt);
 //        descrplus.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
@@ -296,350 +307,12 @@ public class DettagliCorsoActivity extends BaseActivity {
             }
         });
 
-
-
-        final ListView esamiprimoanno = (ListView) findViewById(R.id.primoannolistview);
-        final ListView esamisecondoanno = (ListView) findViewById(R.id.secondoannolistview);
-        final ListView esamiterzoanno = (ListView) findViewById(R.id.terzoannolistview);
-        final ListView esamiquartoanno = (ListView) findViewById(R.id.quartoannolistview);
-        final ListView esamiquintoanno = (ListView) findViewById(R.id.quintoannolistview);
-
-
-//PIANI DI STUDIO FIREBASE
-
-        final ArrayList<PianoStudiModel2> mListaEsami1 = new ArrayList<PianoStudiModel2>();
-
-
-
-        Query query =  ref.child("esami/"+scuola);
-
-        query.addListenerForSingleValueEvent(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                for (DataSnapshot data : dataSnapshot.getChildren()) {
-                    String codicedelcorso = (String) String.valueOf(data.child("corso_codice").getValue());
-                    String materia = (String) data.child("materia_descrizione").getValue();
-                    String sito = (String) data.child("url").getValue();
-
-
-                    PianoStudiModel2 corso = new PianoStudiModel2(codicedelcorso, materia, sito);
-                    mListaEsami1.add(corso);
-
-                }
-
-
-                final ArrayList<String> listtotcorso = new ArrayList<String>();
-
-
-
-                for (int i=0; i<mListaEsami1.size(); i++) {
-                    if (mListaEsami1.get(i).getCodiceCorso().equals(corsocodice)) {
-                        listtotcorso.add(mListaEsami1.get(i).getNomeMateria());
-                    }
-                }
-
-                final ArrayList<String> listannouno = new ArrayList<String>();
-                for (int i=0; i<5; i++) {
-                        listannouno.add(listtotcorso.get(i));
-                }
-
-                final ArrayList<String> listannodue = new ArrayList<String>();
-                for (int i=5; i<10; i++) {
-                    listannodue.add(listtotcorso.get(i));
-                }
-
-                final ArrayList<String> listannotre = new ArrayList<String>();
-                if (tipo.equals("Laurea") || tipo.equals("Laurea Magistrale a ciclo unico")) {
-
-                    for (int i = 10; i < 15; i++) {
-                        listannotre.add(listtotcorso.get(i));
-                    }
-                }
-
-                final ArrayList<String> listannoquattro = new ArrayList<String>();
-                final ArrayList<String> listannocinque = new ArrayList<String>();
-
-                if(tipo.equals("Laurea Magistrale a ciclo unico")) {
-
-                    for (int i = 15; i < 20; i++) {
-                        listannoquattro.add(listtotcorso.get(i));
-                    }
-
-                    for (int i = 20; i < 25; i++) {
-                        listannocinque.add(listtotcorso.get(i));
-                    }
-                }
-
-
-                final ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, listannouno);
-                final ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, listannodue);
-                final ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, listannotre);
-                final ArrayAdapter<String> adapter4 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, listannoquattro);
-                final ArrayAdapter<String> adapter5 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, listannocinque);
-
-                //inietto i dati
-                esamiprimoanno.setAdapter(adapter1);
-                setListViewHeightBasedOnChildren(esamiprimoanno);
-                esamisecondoanno.setAdapter(adapter2);
-                setListViewHeightBasedOnChildren(esamisecondoanno);
-                esamiterzoanno.setAdapter(adapter3);
-                setListViewHeightBasedOnChildren(esamiterzoanno);
-                esamiquartoanno.setAdapter(adapter4);
-                setListViewHeightBasedOnChildren(esamiquartoanno);
-                esamiquintoanno.setAdapter(adapter5);
-                setListViewHeightBasedOnChildren(esamiquintoanno);
-            }
-
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-            }
-        });
-
-        final ImageButton primoannoplusbtn = (ImageButton) findViewById(primoannoplus);
-        primoannoplusbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (esamiprimoanno.getVisibility() == View.GONE) {
-                    esamiprimoanno.setVisibility(view.VISIBLE);
-                    primoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
-
-                } else {
-                    esamiprimoanno.setVisibility(view.GONE);
-                    primoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
-                }
-            }
-
-        });
-
-        esamiprimoanno.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adattatore, View view, int pos, long l) {
-                // recupero il titolo memorizzato nella riga tramite l'ArrayAdapter
-                final String esamecliccato = (String) adattatore.getItemAtPosition(pos);
-                for (int i=0; i<mListaEsami1.size(); i++) {
-                    if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato)) {
-                        if(mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                            richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
-                        }
-                        break;
-                    }
-                }
-
-            }
-
-        });
-
-        final ImageButton secondoannoplusbtn = (ImageButton) findViewById(R.id.secondoannoplus);
-        secondoannoplusbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (esamisecondoanno.getVisibility() == View.GONE) {
-                    esamisecondoanno.setVisibility(view.VISIBLE);
-                    secondoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
-
-                } else {
-                    esamisecondoanno.setVisibility(view.GONE);
-                    secondoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
-                }
-            }
-
-        });
-
-        esamisecondoanno.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adattatore, View view, int pos, long l) {
-                // recupero il titolo memorizzato nella riga tramite l'ArrayAdapter
-                final String esamecliccato2 = (String) adattatore.getItemAtPosition(pos);
-                for (int i=5; i<mListaEsami1.size(); i++) {
-                    if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato2)) {
-                        if(mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                            richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
-                        }
-                        break;
-                    }
-                }
-
-            }
-
-        });
-
-        if (tipo.equals("Laurea" )|| tipo.equals("Laurea Magistrale a ciclo unico")) {
-            RelativeLayout terzoanno = (RelativeLayout) findViewById(R.id.terzoannolayout);
-            terzoanno.setVisibility(View.VISIBLE);
-
-
-            final ImageButton terzoannoplusbtn = (ImageButton) findViewById(R.id.terzoannoplus);
-            terzoannoplusbtn.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    if (esamiterzoanno.getVisibility() == View.GONE) {
-                        esamiterzoanno.setVisibility(view.VISIBLE);
-                        terzoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
-
-                    } else {
-                        esamiterzoanno.setVisibility(view.GONE);
-                        terzoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
-                    }
-                }
-
-            });
-
-
-            esamiterzoanno.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> adattatore, View view, int pos, long l) {
-                    // recupero il titolo memorizzato nella riga tramite l'ArrayAdapter
-                    final String esamecliccato3 = (String) adattatore.getItemAtPosition(pos);
-                    for (int i = 10; i < mListaEsami1.size(); i++) {
-                        if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato3)) {
-                            if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
-                            }
-                            break;
-                        }
-                    }
-
-                }
-
-            });
-        }
-
-        if (tipo.equals("Laurea Magistrale a ciclo unico")) {
-            RelativeLayout quartoanno = (RelativeLayout) findViewById(R.id.quartoannolayout);
-            quartoanno.setVisibility(View.VISIBLE);
-
-            RelativeLayout quintoanno = (RelativeLayout) findViewById(R.id.quintoannolayout);
-            quintoanno.setVisibility(View.VISIBLE);
-
-            final ImageButton quartoannoplusbtn = (ImageButton) findViewById(R.id.quartoannoplus);
-            quartoannoplusbtn.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    if (esamiquartoanno.getVisibility() == View.GONE) {
-                        esamiquartoanno.setVisibility(view.VISIBLE);
-                        quartoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
-
-                    } else {
-                        esamiquartoanno.setVisibility(view.GONE);
-                        quartoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
-                    }
-                }
-
-            });
-
-            esamiquartoanno.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> adattatore, View view, int pos, long l) {
-                    // recupero il titolo memorizzato nella riga tramite l'ArrayAdapter
-                    final String esamecliccato4 = (String) adattatore.getItemAtPosition(pos);
-                    for (int i = 15; i < mListaEsami1.size(); i++) {
-                        if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato4)) {
-                            if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
-                            }
-                            break;
-                        }
-                    }
-
-                }
-
-            });
-
-            final ImageButton quintoannoplusbtn = (ImageButton) findViewById(R.id.quintoannoplus);
-            quintoannoplusbtn.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    if (esamiquintoanno.getVisibility() == View.GONE) {
-                        esamiquintoanno.setVisibility(view.VISIBLE);
-                        quintoannoplusbtn.setImageResource(R.drawable.ic_expand_less);
-
-                    } else {
-                        esamiquintoanno.setVisibility(view.GONE);
-                        quintoannoplusbtn.setImageResource(R.drawable.ic_expand_more);
-                    }
-                }
-
-            });
-
-            esamiquintoanno.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> adattatore, View view, int pos, long l) {
-                    // recupero il titolo memorizzato nella riga tramite l'ArrayAdapter
-                    final String esamecliccato5 = (String) adattatore.getItemAtPosition(pos);
-                    for (int i = 20; i < mListaEsami1.size(); i++) {
-                        if (mListaEsami1.get(i).getNomeMateria().equals(esamecliccato5)) {
-                            if (mListaEsami1.get(i).getIndirizzoWeb().contains("http://")) {
-                                richiamoBrowser(mListaEsami1.get(i).getIndirizzoWeb());
-                            }
-                            break;
-                        }
-                    }
-
-                }
-
-            });
-        }
-
-
-//FINE PARTE PIANI DI STUDIO FIREBASE
-
-        ///PIANI STUDIO CON TABHOST
-
-        final ArrayList <String> nomicurriculum = new ArrayList();
-            ///mScuolaadatt[(int) (long) scuolaid].getScuolaId()+"/"+Integer.parseInt(corsocodice)+
-        final Integer[] a = {0};
-        final Query query5 = ref.child("piani_studio/economia/9202/curriculum");
-        query5.addListenerForSingleValueEvent(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                //int i = 0;
-                for (DataSnapshot data : dataSnapshot.getChildren()) {
-                    String curriculum = (String) data.child("nomecurr").getValue();
-
-                    //prendo dal database i nomi dei diversi curriculum
-//                    if(nomicurriculum.isEmpty() || !nomicurriculum.contains(curriculum)){
-//                        nomicurriculum.add(curriculum);
-//                    }
-//
-                }
-
-//                TextView prova = (TextView) findViewById(R.id.prova);
-//                prova.setText(String.valueOf(nomicurriculum.size()));
-
-                for (int i=0; i<nomicurriculum.size(); i++){
-                    int a=i+1;
-//                    String buttonIDname = "curr" + String.valueOf(a);
-//                    int buttonID = getResources().getIdentifier(buttonIDname, "id", getPackageName());
-//                    final Button curr = (Button) findViewById(buttonID);
-//                    curr.setVisibility(View.VISIBLE);
-//                    curr.setText(nomicurriculum.get(i));
-//                    curr.setOnClickListener(new View.OnClickListener() {
-//                        @Override
-//                        public void onClick(View view) {
-//                            ExpandableListView curr1anno1 = (ExpandableListView) findViewById(R.id.curr1anno1);
-//                            curr1anno1.setVisibility(View.VISIBLE);
-//                        }
-//                    });
-                }
-            }
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-                if (databaseError != null) {
-
-                }
-            }
-        });
-
-
-
+        //Piani studio
+        mSecondoTerzoLivello= new ArrayList<String>();
 
         final ArrayList <NewPianoStudiModel> elencoinsegnamenti = new ArrayList<>();
 
-        //HashMap<Integer,>
-
-        final Query query6 = ref.child("piani_studio/ingegneria/").child(corsocodice);
+        final Query query6 = ref.child("piani_studio/").child(scuola).child(corsocodice).orderByKey();
         query6.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -678,54 +351,132 @@ public class DettagliCorsoActivity extends BaseActivity {
                     elencoinsegnamenti.add(insegnamento);
                 }
 
-                ListView prova = (ListView) findViewById(R.id.listviewprova);
-                ArrayAdapter<NewPianoStudiModel> provaadapter = new ArrayAdapter<NewPianoStudiModel>(getApplicationContext(), R.layout.simple_list_item_long_corsi, elencoinsegnamenti);
 
-                prova.setAdapter(provaadapter);
+                mSeconlevelmap = new HashMap<String, List<String>>();
+                mThirdlevelmap = new HashMap<String, List<String>>();
+                mSecondoLivelloElencoAnno=new ArrayList<String>();
+                mSecondoLivelloUrl=new ArrayList<String>();
 
-                ArrayList <String> corsipadrititle = new ArrayList<String>();
-                ArrayList <NewPianoStudiModel> corsipadri = new ArrayList<NewPianoStudiModel>();
-
-                HashMap mappa = new HashMap<>();
-                Integer b=-1;
-
-                for (int i=0; i<elencoinsegnamenti.size();i++){
-                    if (elencoinsegnamenti.get(i).getPadre()==0){
-                        corsipadrititle.add(elencoinsegnamenti.get(i).getCorsoNome());
-                        corsipadri.add(elencoinsegnamenti.get(i));
-                        b=b+1;
-                        List <String> listafigli = new ArrayList<String>();
-                        for (int a=0; a<elencoinsegnamenti.size(); a++){
-                            if (elencoinsegnamenti.get(a).getPadre().equals(elencoinsegnamenti.get(i).getRadice())){
-                                listafigli.add(elencoinsegnamenti.get(a).getCorsoNome());
-                                TextView prova2 = (TextView) findViewById(R.id.prova);
-                                prova2.setText(String.valueOf(listafigli.size()));
-                            }
-                        }
-                        mappa.put(corsipadrititle.get(b),listafigli);
-
-
+                Integer d=0; //mi dice quanti insegnamenti mettere ogni anno
+                Integer numeroinsegnamenti =0;
+                mMapUrlSecondLevel=new HashMap<String, String>();
+                mMapUrlThirdLevel=new HashMap<String, String>();
+                for (int i=0; i<elencoinsegnamenti.size();i++) {
+                    if (elencoinsegnamenti.get(i).getPadre() == 0) {
+                        numeroinsegnamenti = numeroinsegnamenti + 1;
+                        mSecondoLivelloElencoAnno.add(elencoinsegnamenti.get(i).getCorsoNome());
+                        mSecondoLivelloUrl.add(elencoinsegnamenti.get(i).getUrl());
+                        mMapUrlSecondLevel.put(elencoinsegnamenti.get(i).getCorsoNome(), elencoinsegnamenti.get(i).getUrl());
+                    }
+                    else{
+                        mMapUrlThirdLevel.put(elencoinsegnamenti.get(i).getCorsoNome(),elencoinsegnamenti.get(i).getUrl());
                     }
                 }
+                d=numeroinsegnamenti/durata;
+                Integer e=0;
 
-                listView = (ExpandableListView)findViewById(R.id.anno2);
-                //initData();
-                listAdapter = new ExpandableListAdapter1(getApplicationContext(),corsipadrititle,mappa);
-                listView.setAdapter(listAdapter);
+                if (numeroinsegnamenti>(d*durata)){
+                    e=numeroinsegnamenti-d*durata;
+                }
+
+                listDataHeader=new ArrayList<String>();
+
+                for (int i=1; i<=durata;i++) {
+                    listDataHeader.add(String.valueOf(i)+"° anno di corso");
+                }
+
+                switch (durata){
+                    case 2:
+                        mAnno1 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(0,d-1));
+                        mAnno2 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(d,2*d-1+e));
+
+                        mSeconlevelmap.put(listDataHeader.get(0), mAnno1);
+                        mSeconlevelmap.put(listDataHeader.get(1), mAnno2);
+
+                        threelevellistview(durata,elencoinsegnamenti);
+                        break;
+
+                    case 3:
+                        mAnno1 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(0,d-1));
+                        mAnno2 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(d,2*d-1));
+                        mAnno3 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(2*d,3*d+e));
+
+                        mSeconlevelmap.put(listDataHeader.get(0), mAnno1);
+                        mSeconlevelmap.put(listDataHeader.get(1), mAnno2);
+                        mSeconlevelmap.put(listDataHeader.get(2), mAnno3);
+
+                        threelevellistview(durata,elencoinsegnamenti);
+                        break;
+
+                    case 5:
+                        mAnno1 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(0,d-1));
+                        mAnno2 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(d,2*d-1));
+                        mAnno3 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(2*d,3*d-1));
+                        mAnno4 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(3*d,4*d-1));
+                        mAnno5 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,5*d-1+e));
+
+                        mSeconlevelmap.put(listDataHeader.get(0), mAnno1);
+                        mSeconlevelmap.put(listDataHeader.get(1), mAnno2);
+                        mSeconlevelmap.put(listDataHeader.get(2), mAnno3);
+                        mSeconlevelmap.put(listDataHeader.get(3), mAnno4);
+                        mSeconlevelmap.put(listDataHeader.get(4), mAnno5);
+
+                        threelevellistview(durata,elencoinsegnamenti);
+                        break;
+
+                    case 6:
+                        mAnno1 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(0,d-1));
+                        mAnno2 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(d,2*d-1));
+                        mAnno3 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(2*d,3*d-1));
+                        mAnno4 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(3*d,4*d-1));
+                        mAnno5 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,4*d-1));
+                        mAnno6 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,5*d-1+e));
+
+                        mSeconlevelmap.put(listDataHeader.get(0), mAnno1);
+                        mSeconlevelmap.put(listDataHeader.get(1), mAnno2);
+                        mSeconlevelmap.put(listDataHeader.get(2), mAnno3);
+                        mSeconlevelmap.put(listDataHeader.get(3), mAnno4);
+                        mSeconlevelmap.put(listDataHeader.get(4), mAnno5);
+                        mSeconlevelmap.put(listDataHeader.get(5), mAnno6);
+
+                        threelevellistview(durata,elencoinsegnamenti);
+                        break;
+
+                }
+
+
+                final ExpandableListView mExpandableListView = (ExpandableListView) findViewById(R.id.anno1);
+
+
+                if (mExpandableListView != null) {
+                    final ThreeLevelExpandableListView parentLevelAdapter = new ThreeLevelExpandableListView (getBaseContext(), listDataHeader,
+                            mSeconlevelmap,mThirdlevelmap,mMapUrlSecondLevel,mMapUrlThirdLevel);
+                    mExpandableListView.setAdapter(parentLevelAdapter);
+                    mExpandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
+                        @Override
+                        public boolean onChildClick(ExpandableListView expandableListView, View view, int i, int i1, long l) {
+                            String seletectText = ((TextView) view).getText().toString().toLowerCase();
+
+                            // /String seletectText = String.valueOf(expandableListView.getc);
+                            Toast.makeText(getApplicationContext(), seletectText, Toast.LENGTH_SHORT).show();
+
+                            return false;
+                        }
+                    });
+                    // display only one expand item
+//            mExpandableListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
+//                int previousGroup = -1;
+//                @Override
+//                public void onGroupExpand(int groupPosition) {
+//                    if (groupPosition != previousGroup)
+//                        mExpandableListView.collapseGroup(previousGroup);
+//                    previousGroup = groupPosition;
+//                }
+//            });
+                }
 
 
             }
-
-
-//                    ExpandableListView anno1 = (ExpandableListView) findViewById(R.id.anno1);
-//
-//                    ArrayAdapter <NewPianoStudiModel> esami1 = new ArrayAdapter<NewPianoStudiModel>(getApplicationContext(),R.layout.simple_list_item,elencoinsegnamenti);
-//
-//                    anno1.setAdapter(esami1);
-
-                //}
-
-
 
 
             @Override
@@ -736,49 +487,6 @@ public class DettagliCorsoActivity extends BaseActivity {
             }
         });
 
-
-
-
     }
 
-//    private void initData(ArrayList<String> Arraylist, List<String> list, HashMap hashmap) {
-//        listDataHeader = Arraylist;
-//        listHash = hashmap;
-//
-////        listDataHeader.add("EDMTDev");
-////        listDataHeader.add("Android");
-////        listDataHeader.add("Xamarin");
-////        listDataHeader.add("UWP");
-//
-//        List<String> edmtDev = new ArrayList<>();
-//        edmtDev.add("This is Expandable ListView");
-//
-//        List<String> androidStudio = new ArrayList<>();
-//        androidStudio.add("Expandable ListView");
-//        androidStudio.add("Google Map");
-//        androidStudio.add("Chat Application");
-//        androidStudio.add("Firebase ");
-//
-//        List<String> xamarin = new ArrayList<>();
-//        xamarin.add("Xamarin Expandable ListView");
-//        xamarin.add("Xamarin Google Map");
-//        xamarin.add("Xamarin Chat Application");
-//        xamarin.add("Xamarin Firebase ");
-//
-//        List<String> uwp = new ArrayList<>();
-//        uwp.add("UWP Expandable ListView");
-//        uwp.add("UWP Google Map");
-//        uwp.add("UWP Chat Application");
-//        uwp.add("UWP Firebase ");
-//
-//        listHash.put(listDataHeader.get(0),edmtDev);
-//        listHash.put(listDataHeader.get(1),androidStudio);
-//        listHash.put(listDataHeader.get(2),xamarin);
-//        listHash.put(listDataHeader.get(3),uwp);
-//    }
 }
-
-
-
-
-

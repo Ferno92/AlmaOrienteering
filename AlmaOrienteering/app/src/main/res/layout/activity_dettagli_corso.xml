@@ -86,22 +86,32 @@
                         android:layout_height="wrap_content"
                         android:orientation="horizontal">
 
-                        <TextView
-                            android:id="@+id/textView8"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="1"
-                            android:text="Tipologia accesso:"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic" />
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1">
 
-                        <TextView
-                            android:id="@+id/tipoaccessoview"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:minLines="2"
-                            android:text="TextView"
-                            android:textSize="16sp" />
+                            <TextView
+                                android:id="@+id/tipoaccessoview"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:minLines="2"
+                                android:text="TextView"
+                                android:textSize="16sp"
+                                android:layout_alignParentRight="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_toRightOf="@+id/textView8"
+                                android:layout_toEndOf="@+id/textView8" />
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Tipologia accesso:"
+                                android:textSize="20sp"
+                                android:textStyle="bold|italic" />
+                        </RelativeLayout>
 
                     </LinearLayout>
 
@@ -145,282 +155,19 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/tab2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:id="@+id/textView6"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentLeft="true"
-                        android:layout_alignParentStart="true"
-                        android:layout_centerVertical="true"
-                        android:layout_toLeftOf="@+id/descrizioneplus"
-                        android:layout_toStartOf="@+id/descrizioneplus"
-                        android:text="Breve introduzione"
-                        android:textAllCaps="false"
-                        android:textSize="20sp"
-                        android:textStyle="bold|italic" />
-
-                    <TextView
-                        android:id="@+id/introduziontetxt"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="La Laurea in Ingegneria biomedica si pone l’obiettivo di fornire agli studenti la padronanza di contenuti scientifici e metodi generali per acquisire specifiche conoscenze professionali negli ambiti multidisciplinari afferenti all’ ingegneria biomedica. Il processo di formazione è quindi progettato in modo da preparare figure professionali polivalenti in possesso di una solida cultura tecnico-biologica, basata sull’integrazione tra ingegneria dell’ informazione, ingegneria industriale e cultura medico-biologica. Su queste basi si intende costruire una figura professionale in grado di inserirsi nel variegato mondo del lavoro e delle professioni, ed abbia gli strumenti per orientarsi tra le successive possibilità di approfondimento culturale. è prevista infatti anche una consistente ed articolata offerta didattica di tipo avanzato (Laurea Magistrale, Master, Dottorato di Ricerca) con particolare attenzione alla collaborazione con il mondo industriale,"
-                        android:textSize="16sp"
-                        android:visibility="visible" />
-                </LinearLayout>
-
-                <LinearLayout
                     android:id="@+id/tab3"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:scrollbars="none">
 
-                    <ScrollView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent">
-
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:orientation="vertical" >
-
-                            <ExpandableListView
-                                android:id="@+id/anno2"
-                                android:layout_width="match_parent"
-                                android:layout_height="900dp" />
-
-                            <Button
-                                android:id="@+id/curr2"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Button"
-                                android:visibility="gone" />
-
-                            <TextView
-                                android:id="@+id/prova"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="TextView" />
-
-                            <ListView
-                                android:id="@+id/listviewprova"
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent" />
-
-                            <TextView
-                                android:id="@+id/textView15"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Curriculm:"
-                                android:textSize="20sp"
-                                android:textStyle="bold|italic" />
-
-                            <ExpandableListView
-                                android:id="@+id/anno1"
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:visibility="gone" />
-
-                            <Button
-                                android:id="@+id/curr1"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Button"
-                                android:visibility="gone" />
-
-                            <TextView
-                                android:id="@+id/textView10"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Piano degli studi"
-                                android:textSize="20sp"
-                                android:textStyle="bold|italic" />
-
-                            <Button
-                                android:id="@+id/curr3"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:text="Button"
-                                android:visibility="gone" />
-                        </LinearLayout>
-                    </ScrollView>
-
-                    <RelativeLayout
+                    <ExpandableListView
+                        android:id="@+id/anno1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:visibility="gone">
-
-                        <ImageButton
-                            android:id="@+id/primoannoplus"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_alignParentRight="true"
-                            android:layout_alignParentTop="true"
-                            android:visibility="gone"
-                            app:srcCompat="@drawable/ic_expand_more" />
-
-                        <TextView
-                            android:id="@+id/textView9"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentLeft="true"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:text="1° anno"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic"
-                            android:visibility="gone" />
-                    </RelativeLayout>
-
-                    <ListView
-                        android:id="@+id/primoannolistview"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:visibility="gone">
-
-                        <ImageButton
-                            android:id="@+id/secondoannoplus"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_alignParentRight="true"
-                            android:layout_alignParentTop="true"
-                            android:visibility="gone"
-                            app:srcCompat="@drawable/ic_expand_more" />
-
-                        <TextView
-                            android:id="@+id/textView10"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentLeft="true"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:text="2° anno"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic"
-                            android:visibility="gone" />
-                    </RelativeLayout>
-
-                    <ListView
-                        android:id="@+id/secondoannolistview"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
-
-                    <RelativeLayout
-                        android:id="@+id/terzoannolayout"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:visibility="gone">
-
-                        <ImageButton
-                            android:id="@+id/terzoannoplus"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_alignParentRight="true"
-                            android:layout_alignParentTop="true"
-                            android:visibility="gone"
-                            app:srcCompat="@drawable/piu" />
-
-                        <TextView
-                            android:id="@+id/textView11"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentLeft="true"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:text="3° anno"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic"
-                            android:visibility="gone" />
-                    </RelativeLayout>
-
-                    <ListView
-                        android:id="@+id/terzoannolistview"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
-
-                    <RelativeLayout
-                        android:id="@+id/quartoannolayout"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:visibility="gone">
-
-                        <ImageButton
-                            android:id="@+id/quartoannoplus"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_alignParentRight="true"
-                            android:layout_alignParentTop="true"
-                            android:visibility="gone"
-                            app:srcCompat="@drawable/piu" />
-
-                        <TextView
-                            android:id="@+id/textView11"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentLeft="true"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:text="4° anno"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic"
-                            android:visibility="gone" />
-                    </RelativeLayout>
-
-                    <ListView
-                        android:id="@+id/quartoannolistview"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
-
-                    <RelativeLayout
-                        android:id="@+id/quintoannolayout"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:visibility="gone">
-
-                        <ImageButton
-                            android:id="@+id/quintoannoplus"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_alignParentRight="true"
-                            android:layout_alignParentTop="true"
-                            android:visibility="gone"
-                            app:srcCompat="@drawable/piu" />
-
-                        <TextView
-                            android:id="@+id/textView11"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentLeft="true"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:text="5° anno"
-                            android:textSize="20sp"
-                            android:textStyle="bold|italic"
-                            android:visibility="gone" />
-                    </RelativeLayout>
-
-                    <ListView
-                        android:id="@+id/quintoannolistview"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:visibility="gone" />
+                        android:groupIndicator="@drawable/arrow_up"
+                        android:scrollbars="none"
+                        android:visibility="visible" />
 
                 </LinearLayout>
 
