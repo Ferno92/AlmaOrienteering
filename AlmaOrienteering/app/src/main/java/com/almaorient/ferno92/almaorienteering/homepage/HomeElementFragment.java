@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.CalendarActivity;
@@ -28,7 +29,7 @@ import com.almaorient.ferno92.almaorienteering.versus.VersusSelectorActivity;
 public class HomeElementFragment extends Fragment {
     private View mRootView;
     private int mPosition;
-    private HomeElementModel[] mElementList = new HomeElementModel[]{
+    public static HomeElementModel[] mElementList = new HomeElementModel[]{
             new HomeElementModel(0, "L'unibo si presenta", "Informatevi sul funzionamento dell'ateneo e sui vari aspetti che lo caratterizzano.", "ic_unibo_big"),
             new HomeElementModel(1, "Offerta formativa", "Accedete alle 11 Scuole presenti all'interno dell'Università di Bologna", "ic_elenco_scuole_big"),
             new HomeElementModel(2, "Mappa", "Prendete visione della posizione delle aule dell'Ateneo. Per evidenziare le aule di un corso specifico, utilizzate l'apposito filtro.", "ic_mappa_big"),
@@ -55,8 +56,9 @@ public class HomeElementFragment extends Fragment {
         descrizioneView.setText(mElementList[mPosition].getDescription());
         ImageView imageView = (ImageView)mRootView.findViewById(R.id.image_elemento);
         int resourceId = getResources().getIdentifier(mElementList[mPosition].getImgSource() , "drawable", getContext().getPackageName());
+        LinearLayout linearView = (LinearLayout) mRootView.findViewById(R.id.container_elemento);
         imageView.setImageResource(resourceId);
-        imageView.setOnClickListener(new View.OnClickListener() {
+        linearView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i;

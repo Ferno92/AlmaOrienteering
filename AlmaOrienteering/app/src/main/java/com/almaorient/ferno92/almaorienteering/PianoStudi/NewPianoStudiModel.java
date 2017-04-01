@@ -66,5 +66,4 @@ public class NewPianoStudiModel {
         return this.mCorsoNome;
     }
 
-
 }
