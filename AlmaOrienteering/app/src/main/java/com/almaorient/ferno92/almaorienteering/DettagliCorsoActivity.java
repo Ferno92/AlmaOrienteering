@@ -175,8 +175,6 @@ public class DettagliCorsoActivity extends BaseActivity {
 
         final Integer durata = (int) (long) durata1;
 
-
-        Resources res = getResources();
         TabHost tab = (TabHost) findViewById(R.id.tab_host);
         tab.setup();
         TabHost.TabSpec spec;
