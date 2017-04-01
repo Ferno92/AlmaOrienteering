@@ -1,0 +1,1020 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+8005;66600;FISICA E STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366357;;15792;Sartorelli Gabriella;Italiano;;366357;0;366357;
+8005;66600;FISICA E STATISTICA (1);;modulo;15792;Sartorelli Gabriella;Italiano;;366358;366357;366357;
+8005;66600;FISICA E STATISTICA (2);;modulo;;;;;369164;366357;366357;
+8005;66600;FISICA E STATISTICA (3);;modulo;;;;;405135;366357;366357;
+8005;66601;CHIMICA (C.I.);;;;;;;366361;0;366361;
+8005;65931;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366364;modulo;39137;Musiani Francesco;Italiano;;366364;366361;366361;
+8005;55393;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366365;modulo;31626;Gentilucci Luca;Italiano;;366365;366361;366361;
+8005;55393;CHIMICA ORGANICA (1);;modulo;31626;Gentilucci Luca;Italiano;;366366;366365;366361;
+8005;55393;CHIMICA ORGANICA (2);;modulo;40480;Gualandi Andrea;;;366367;366365;366361;
+8005;55393;CHIMICA ORGANICA (3);;modulo;;;;;425375;366365;366361;
+8005;66607;MORFOLOGIA CELLULARE E D'ORGANO (C.I.);;;;;;;366389;0;366389;
+8005;65683;BIOLOGIA CELLULARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366390;modulo;14436;Marini Marina;Italiano;;366390;366389;366389;
+8005;65683;BIOLOGIA CELLULARE (1);;modulo;14436;Marini Marina;Italiano;;366392;366390;366389;
+8005;65683;BIOLOGIA CELLULARE (2);;modulo;30733;Forni Monica;;;366393;366390;366389;
+8005;66606;ANATOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366391;modulo;43609;Follo Matilde Yung;Italiano;;366391;366389;366389;
+8005;66606;ANATOMIA (1);;modulo;43609;Follo Matilde Yung;Italiano;;380897;366391;366389;
+8005;66606;ANATOMIA (2);;modulo;43732;Ramazzotti Giulia;;;380898;366391;366389;
+8005;66606;ANATOMIA (3);;modulo;43609;Follo Matilde Yung;;;414692;366391;366389;
+8005;66606;ANATOMIA (4);;modulo;;;;;414693;366391;366389;
+8005;66608;PROPRIETA' INTELLETTUALE E BIOETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366395;;31203;Musso Alberto;Italiano;;366395;0;366395;
+8005;66608;PROPRIETA' INTELLETTUALE E BIOETICA (1);;modulo;31203;Musso Alberto;Italiano;;369475;366395;366395;
+8005;66608;PROPRIETA' INTELLETTUALE E BIOETICA (2);;modulo;37530;Zullo Silvia;;;369476;366395;366395;
+8005;66609;BIOCHIMICA;;;;;;;366396;0;366396;
+8005;66609;BIOCHIMICA (A) (1);;modulo;30026;Fato Romana;Italiano;;405685;405684;366396;405685
+8005;66609;BIOCHIMICA (A) (2);;modulo;16915;Farruggia Giovanna;;;405686;405684;366396;
+8005;66609;BIOCHIMICA (B) (1);;modulo;30026;Fato Romana;Italiano;;405688;405687;366396;405685
+8005;66609;BIOCHIMICA (B) (2);;modulo;32846;Cappadone Concettina;;;405689;405687;366396;
+8005;66610;CHIMICA BIOANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366399;;15271;Roda Aldo;Italiano;;366399;0;366399;
+8005;66611;BIOLOGIA MOLECOLARE (C.I.);;;;;;;366400;0;366400;
+8005;66612;BIOLOGIA MOLECOLARE GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366401;modulo;31839;Scarlato Vincenzo;Italiano;;366401;366400;366400;
+8005;66613;BIOLOGIA MOLECOLARE EUCARIOTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366402;modulo;31847;Capranico Giovanni;Italiano;;366402;366400;366400;
+8005;66613;BIOLOGIA MOLECOLARE EUCARIOTICA (1);;modulo;31847;Capranico Giovanni;Italiano;;375959;366402;366400;
+8005;66613;BIOLOGIA MOLECOLARE EUCARIOTICA (2);;modulo;42392;Marinello Jessica;;;375960;366402;366400;
+8005;66614;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366403;;14227;Zannoni Davide;Italiano;;366403;0;366403;
+8005;66614;MICROBIOLOGIA (1);;modulo;14227;Zannoni Davide;Italiano;;375963;366403;366403;
+8005;66614;MICROBIOLOGIA (2);;modulo;35394;Menotti Laura;;;375964;366403;366403;
+8005;66614;MICROBIOLOGIA (3);;modulo;35394;Menotti Laura;;;375965;366403;366403;
+8005;66615;GENETICA (C.I.);;;;;;;366404;0;366404;
+8005;66616;GENETICA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366406;modulo;31822;Maestrini Elena;Italiano;;366406;366404;366404;
+8005;66619;GENETICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366407;modulo;31895;Perini Giovanni;Italiano;;366407;366404;366404;
+8005;66620;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366410;;38563;Gamberini Michela;Italiano;;366410;0;366410;
+8005;66622;BIOTECNOLOGIE DELLE FERMENTAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366412;;15889;Brigidi Patrizia;Italiano;;366412;0;366412;
+8005;66622;BIOTECNOLOGIE DELLE FERMENTAZIONI (1);;modulo;15889;Brigidi Patrizia;Italiano;;414680;366412;366412;
+8005;66622;BIOTECNOLOGIE DELLE FERMENTAZIONI (2);;modulo;35581;Candela Marco;;;414681;366412;366412;
+8005;66625;BIOLOGIA STRUTTURALE (C.I.);;;;;;;366417;0;366417;
+8005;66626;BIOCHIMICA DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366418;modulo;33397;Sartor Giorgio;Italiano;;366418;366417;366417;
+8005;66627;BIOLOGIA COMPUTAZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366419;modulo;51132;Ferr?¿ Fabrizio;Italiano;;366419;366417;366417;
+8005;66627;BIOLOGIA COMPUTAZIONALE (1);;modulo;51132;Ferr?¿ Fabrizio;Italiano;;386375;366419;366417;
+8005;66627;BIOLOGIA COMPUTAZIONALE (2);;modulo;38989;Francia Francesco;;;386376;366419;366417;
+8005;66629;PATOLOGIA GENERALE E IMMUNOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366422;;14791;Pession Annalisa;Italiano;;366422;0;366422;
+8005;66629;PATOLOGIA GENERALE E IMMUNOLOGIA (1);;modulo;14791;Pession Annalisa;Italiano;;386551;366422;366422;
+8005;66629;PATOLOGIA GENERALE E IMMUNOLOGIA (2);;modulo;35387;Salvioli Stefano;;;386552;366422;366422;
+8005;66631;BIOTECNOLOGIE FARMACOLOGICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366423;;15669;Spampinato Santi Mario;Italiano;;366423;0;366423;
+8005;66631;BIOTECNOLOGIE FARMACOLOGICHE (1);;modulo;15669;Spampinato Santi Mario;Italiano;;386554;366423;366423;
+8005;66631;BIOTECNOLOGIE FARMACOLOGICHE (2);;modulo;15669;Spampinato Santi Mario;;;386555;366423;366423;
+8005;66631;BIOTECNOLOGIE FARMACOLOGICHE (3);;modulo;40029;Bedini Andrea;;;403554;366423;366423;
+8005;66632;BIOTECNOLOGIE GENETICHE VEGETALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366427;;15392;Tuberosa Roberto;Italiano;;366427;0;366427;
+8005;66633;BIOTECNOLOGIE E MODELLI ANIMALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366428;;30733;Forni Monica;Italiano;;366428;0;366428;
+8005;66633;BIOTECNOLOGIE E MODELLI ANIMALI (1);;modulo;30733;Forni Monica;Italiano;;386572;366428;366428;
+8005;66633;BIOTECNOLOGIE E MODELLI ANIMALI (2);;modulo;16879;Bacci Maria Laura;Italiano;;386573;366428;366428;
+8005;66642;BIOTECNOLOGIE CELLULARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366445;;32661;Calz?á Laura;Italiano;;366445;0;366445;
+8005;66644;BIOTECNOLOGIE VIRALI E MICROBICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366447;;32637;Brandimarti Renato;Italiano;;366447;0;366447;
+8005;66644;BIOTECNOLOGIE VIRALI E MICROBICHE (1);;modulo;32425;Fedi Stefano;;;386574;366447;366447;
+8005;66644;BIOTECNOLOGIE VIRALI E MICROBICHE (2);;modulo;32637;Brandimarti Renato;Italiano;;386575;366447;366447;
+8005;66645;MICROBIOLOGIA MEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366449;;31620;Gallinella Giorgio;Italiano;;366449;0;366449;
+8005;66647;CHIMICA FARMACEUTICA E TECNOLOGIE PER LA PROTEOMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366450;;15947;Recanatini Maurizio;Italiano;;366450;0;366450;
+8005;66647;CHIMICA FARMACEUTICA E TECNOLOGIE PER LA PROTEOMICA (1);;modulo;36867;Bartolini Manuela;;;386576;366450;366450;
+8005;66647;CHIMICA FARMACEUTICA E TECNOLOGIE PER LA PROTEOMICA (2);;modulo;15947;Recanatini Maurizio;Italiano;;386577;366450;366450;
+8005;61682;DIAGNOSTICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366463;;30523;D'Errico Antonietta;Italiano;;366463;0;366463;
+8005;66654;BIOTECNOLOGIE AGROAMBIENTALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366464;;13956;Sgorbati Barbara;Italiano;;366464;0;366464;
+8005;66654;BIOTECNOLOGIE AGROAMBIENTALI (1);;modulo;13956;Sgorbati Barbara;Italiano;;386580;366464;366464;
+8005;66654;BIOTECNOLOGIE AGROAMBIENTALI (2);;modulo;16018;Rubies Autonell Concepcion;;;386581;366464;366464;
+8005;66656;BIOTECNOLOGIE IN VITRO DEI TESSUTI UMANI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366466;;22553;Bonsi Laura;Italiano;;366466;0;366466;
+8005;66657;BIOTECNOLOGIE DELLA PRODUZIONE ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/366467;;32412;Fontanesi Luca;Italiano;;366467;0;366467;
+8005;12942;FISIOLOGIA MOLECOLARE DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369489;;39294;Sparla Francesca;Italiano;;369489;0;369489;
+8005;78783;BIODIVERSITA' ED EVOLUZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402294;;30589;Trost Paolo Bernardo;Italiano;;402294;0;402294;
+8005;78783;BIODIVERSITA' ED EVOLUZIONE (1);;modulo;24227;Falconi Rosanna;;;402303;402294;402294;
+8005;78783;BIODIVERSITA' ED EVOLUZIONE (2);;modulo;30589;Trost Paolo Bernardo;Italiano;;402304;402294;402294;
+8005;78785;MATEMATICA E INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402296;;14293;Desalvo Fausto;Italiano;;402296;0;402296;
+8005;78785;MATEMATICA E INFORMATICA (1);;modulo;14293;Desalvo Fausto;Italiano;;402305;402296;402296;
+8005;78785;MATEMATICA E INFORMATICA (2);;modulo;32041;Brini Francesca;;;402306;402296;402296;
+8005;78785;MATEMATICA E INFORMATICA (3);;modulo;50111;Bresolin Davide;;;402307;402296;402296;
+8005;78785;MATEMATICA E INFORMATICA (4);;modulo;41449;Di Iorio Angelo;;;403542;402296;402296;
+8005;78788;GENOMICA E MEDICINA PERSONALIZZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402299;;51132;Ferr?¿ Fabrizio;Italiano;;402299;0;402299;
+8005;72822;RIDUZIONE MEMBRI SENATO ACCADEMICO O CONSIGLIO DI AMMINISTRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420893;;14227;Zannoni Davide;;;420893;0;420893;
+8012;54576;CITOLOGIA E ISTOLOGIA;;;;;;;324243;0;324243;
+8012;451;GENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324287;;30323;Gargiulo Giuseppe;Italiano;;324287;0;324287;
+8012;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324294;;24181;Virgili Marco;Italiano;;324294;0;324294;
+8012;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324297;;15968;Rugolo Michela;Italiano;;324297;0;324297;
+8012;61;BIOCHIMICA (1);;modulo;15968;Rugolo Michela;Italiano;;377814;324297;324297;
+8012;61;BIOCHIMICA (2);;modulo;31027;Turina Maria Paola;;;377815;324297;324297;
+8012;248;ECOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324369;;39448;Goffredo Stefano;Italiano;;324369;0;324369;
+8012;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324460;;39305;Cristino Sandra;Italiano;;324460;0;324460;
+8012;8632;ECOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/324510;;15005;Pettener Davide;Italiano;;324510;0;324510;324510
+8012;58157;ABILITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/328022;;35695;Martini Simone;Italiano;;328022;0;328022;
+8012;58157;ABILITA' INFORMATICHE (1);;modulo;35695;Martini Simone;Italiano;;338772;328022;328022;
+8012;58157;ABILITA' INFORMATICHE (2);;modulo;35695;Martini Simone;;;338773;328022;328022;
+8012;26338;IDONEITA' LINGUA INGLESE B - 1;;;;;;;328053;0;328053;370034
+8012;13395;BOTANICA EVOLUZIONISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349855;;16846;Conte Lucia;Italiano;;349855;0;349855;
+8012;37637;ZOOLOGIA EVOLUZIONISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349857;;47345;Plazzi Federico;Italiano;;349857;0;349857;
+8012;7970;ZOOLOGIA DEI VERTEBRATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349877;;24227;Falconi Rosanna;Italiano;;349877;0;349877;
+8012;66955;ZOOLOGIA;;;;;;;367372;0;367372;
+8012;66907;CHIMICA GENERALE;;;;;;;367403;0;367403;
+8012;66907;CHIMICA GENERALE (A-L) (1);;modulo;15279;Sabatino Piera;Italiano;;367423;367422;367403;
+8012;66907;CHIMICA GENERALE (A-L) (2);;modulo;36742;Soavi Francesca;;;367424;367422;367403;
+8012;66907;CHIMICA GENERALE (M-Z) (1);;modulo;32589;Panzavolta Silvia;Italiano;;416506;367425;367403;
+8012;66907;CHIMICA GENERALE (M-Z) (2);;modulo;39870;Maini Lucia;;;416507;367425;367403;
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA;;;;;;;367520;0;367520;
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA (A-L) (1);;modulo;30244;Degli Esposti Mirko;Italiano;;386935;386897;367520;386935
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA (A-L) (2);;modulo;43060;Cristadoro Giampaolo;;;386936;386897;367520;386936
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA (M-Z) (1);;modulo;30244;Degli Esposti Mirko;Italiano;;386938;386898;367520;386935
+8012;66979;FONDAMENTI DI MATEMATICA, PROBABILITA' E STATISTICA (M-Z) (2);;modulo;43060;Cristadoro Giampaolo;;;386939;386898;367520;386936
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE;;;;;;;367541;0;367541;
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE (A-L) (1);;modulo;16870;Biondi Stefania;Italiano;;367548;367547;367541;
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE (A-L) (2);;modulo;42021;Podda Licia;;;367549;367547;367541;367549
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE (M-Z) (1);;modulo;30835;Del Duca Stefano;Italiano;;367551;367550;367541;
+8012;66989;BIOLOGIA E DIVERSITA' VEGETALE (M-Z) (2);;modulo;42021;Podda Licia;;;367552;367550;367541;367549
+8012;66992;CHIMICA ORGANICA;;;;;;;367554;0;367554;
+8012;66992;CHIMICA ORGANICA (A-L) (1);;modulo;30752;Cozzi Pier Giorgio;Italiano;;399191;367556;367554;
+8012;66992;CHIMICA ORGANICA (A-L) (2);;modulo;39533;Amorati Riccardo;;;399192;367556;367554;
+8012;66992;CHIMICA ORGANICA (M-Z) (1);;modulo;16847;Tomasini Claudia;Italiano;;367558;367557;367554;
+8012;66992;CHIMICA ORGANICA (M-Z) (2);;modulo;39533;Amorati Riccardo;;;367559;367557;367554;
+8012;66993;FISICA;;;;;;;367564;0;367564;
+8012;66993;FISICA (A-L) (1);;modulo;23249;Venturoli Giovanni;Italiano;;367575;367574;367564;
+8012;66993;FISICA (A-L) (2);;modulo;45711;Marulli Federico;;;367576;367574;367564;
+8012;66993;FISICA (A-L) (3);;modulo;45711;Marulli Federico;;;367577;367574;367564;
+8012;66993;FISICA (M-Z) (1);;modulo;39297;Braibant Sylvie;Italiano;;367579;367578;367564;
+8012;66993;FISICA (M-Z) (2);;modulo;41872;Bonacorsi Daniele;;;367580;367578;367564;
+8012;66993;FISICA (M-Z) (3);;modulo;38506;Vignali Cristian;;;367581;367578;367564;
+8012;67002;ANATOMIA COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367623;;30231;Lazzari Maurizio;Italiano;;367623;0;367623;
+8012;67004;BIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367639;;31839;Scarlato Vincenzo;Italiano;;367639;0;367639;
+8012;67004;BIOLOGIA MOLECOLARE (1);;modulo;31839;Scarlato Vincenzo;Italiano;;376674;367639;367639;
+8012;67004;BIOLOGIA MOLECOLARE (2);;modulo;31771;Ambrosetti Davide Carlo;;;376675;367639;367639;
+8012;67006;MICROBIOLOGIA E VIROLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367640;;14227;Zannoni Davide;Italiano;;367640;0;367640;
+8012;67006;MICROBIOLOGIA E VIROLOGIA GENERALE (1);;modulo;14227;Zannoni Davide;Italiano;;376676;367640;367640;
+8012;67006;MICROBIOLOGIA E VIROLOGIA GENERALE (2);;modulo;24445;Avitabile Elisa;;;376677;367640;367640;
+8012;67006;MICROBIOLOGIA E VIROLOGIA GENERALE (3);;modulo;32425;Fedi Stefano;;;376678;367640;367640;
+8012;67008;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367657;;42316;Fiume Roberta;Italiano;;367657;0;367657;
+8012;67017;BIOCHIMICA CELLULARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367687;;31748;Ghelli Anna Maria;Italiano;;367687;0;367687;
+8012;67020;BIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367690;;23955;Luiselli Donata;Italiano;;367690;0;367690;
+8012;67022;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367692;;24254;Paolini Moreno;Inglese;;367692;0;367692;
+8012;66619;GENETICA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367698;;31895;Perini Giovanni;Italiano;;367698;0;367698;
+8012;67025;METODI MOLECOLARI IN SISTEMATICA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/367700;;15916;Mantovani Barbara;Italiano;;367700;0;367700;
+8012;67120;PIANTE, ALIMENTAZIONE E AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368271;;30835;Del Duca Stefano;Italiano;;368271;0;368271;
+8012;68586;FILOSOFIA DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373944;;14776;Matteuzzi Maurizio;Italiano;;373944;0;373944;
+8012;69576;PRODUTTIVITA' PRIMARIA E SVILUPPO SOSTENIBILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376679;;46020;Zaffagnini Mirko;Italiano;;376679;0;376679;
+8012;69577;PRINCIPI DI CONSERVAZIONE BIOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376680;;51133;Chiarucci Alessandro;Italiano;;376680;0;376680;
+8012;70136;IGIENE AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378019;;34121;Colacci Annamaria;Italiano;;378019;0;378019;
+8012;61431;QUALITA' E SICUREZZA IN LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385147;;42132;Bucci Maria Antonietta;Italiano;;385147;0;385147;
+8012;61431;QUALITA' E SICUREZZA IN LABORATORIO (1);;modulo;42132;Bucci Maria Antonietta;Italiano;;385148;385147;385147;
+8012;61431;QUALITA' E SICUREZZA IN LABORATORIO (2);;modulo;47721;Horn Wolfango;;;385149;385147;385147;
+8012;61431;QUALITA' E SICUREZZA IN LABORATORIO (3);;modulo;48067;Pel?á Maddalena;;;385150;385147;385147;
+8012;445;FISIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385151;;30589;Trost Paolo Bernardo;Italiano;;385151;0;385151;
+8012;72830;ZOOLOGIA MARINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385152;;30350;Vallisneri Maria;Italiano;;385152;0;385152;
+8012;72831;AMBIENTE MARINO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385153;;31831;Abbiati Marco;Italiano;;385153;0;385153;
+8012;72831;AMBIENTE MARINO (1);;modulo;31831;Abbiati Marco;Italiano;;385780;385153;385153;
+8012;72831;AMBIENTE MARINO (2);;modulo;43073;Gamberi Fabiano;;;385781;385153;385153;
+8012;72832;FISIOLOGIA UMANA CON ELEMENTI DI FISIOPATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385154;;24361;Guarnieri Tiziana;Italiano;;385154;0;385154;
+8012;72834;IMMUNOLOGIA E PATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385156;;30278;Farabegoli Fulvia;Italiano;;385156;0;385156;
+8021;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322718;;39894;Monti Barbara;Italiano;;322718;0;322718;322718
+8021;26912;ATTIVITA' PRATICA DI LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/323603;;15968;Rugolo Michela;Italiano;;323603;0;323603;
+8021;65820;MICROBIOLOGIA E VIROLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364221;;32637;Brandimarti Renato;Italiano;;364221;0;364221;
+8021;65820;MICROBIOLOGIA E VIROLOGIA MOLECOLARE (1);;modulo;46024;Cappelletti Martina;;;376165;364221;364221;
+8021;65820;MICROBIOLOGIA E VIROLOGIA MOLECOLARE (2);;modulo;32637;Brandimarti Renato;Italiano;;376166;364221;364221;
+8021;65822;EPIGENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364225;;31895;Perini Giovanni;Italiano;;364225;0;364225;
+8021;26337;IDONEITA' LINGUA INGLESE B - 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364226;;;;;;364226;0;364226;370032
+8021;65824;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364228;;23249;Venturoli Giovanni;Italiano;;364228;0;364228;364228
+8021;65825;FISIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364230;;39894;Monti Barbara;Italiano;;364230;0;364230;364230
+8021;69341;BIOLOGIA MOLECOLARE DEI PROCARIOTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376168;;37633;Roncarati Davide;Italiano;;376168;0;376168;
+8021;69348;METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/376173;;40749;Zambelli Barbara;Italiano;;376173;0;376173;376173
+8021;72568;BIOCHIMICA DELLA SEGNALAZIONE CELLULARE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384347;;15968;Rugolo Michela;Italiano;;384347;0;384347;
+8021;72569;BIOLOGIA MOLECOLARE DEGLI EUCARIOTI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384349;;31771;Ambrosetti Davide Carlo;Italiano;;384349;0;384349;
+8021;72570;BIOLOGIA E METODOLOGIE MORFOLOGICHE CELLULARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384351;;15906;Franceschini Valeria;Italiano;;384351;0;384351;
+8021;72575;FISIOLOGIA DEGLI STRESS E DINAMICHE REDOX NELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384356;;30589;Trost Paolo Bernardo;Italiano;;384356;0;384356;
+8021;72575;FISIOLOGIA DEGLI STRESS E DINAMICHE REDOX NELLE PIANTE (1);;modulo;30589;Trost Paolo Bernardo;Italiano;;384357;384356;384356;
+8021;72575;FISIOLOGIA DEGLI STRESS E DINAMICHE REDOX NELLE PIANTE (2);;modulo;39294;Sparla Francesca;;;384358;384356;384356;
+8021;18756;BIOLOGIA DELLO SVILUPPO DELLE PIANTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384359;;16870;Biondi Stefania;Italiano;;384359;0;384359;385214
+8021;72576;CHIMICA FISICA PER BIOLOGIA CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384360;;45312;Rapino Stefania;Italiano;;384360;0;384360;
+8021;72579;GENETICA MOLECOLARE DELLO SVILUPPO CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384363;;32582;Cavaliere Valeria;Italiano;;384363;0;384363;
+8021;32492;ATTIVITA' PROPEDEUTICA ALLA PROVA FINALE;;;;;;;417520;0;417520;
+8021;3033;TOSSICOLOGIA;;;;;;;424299;0;424299;
+8022;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326031;;39894;Monti Barbara;Italiano;;326031;0;326031;322718
+8022;46668;PEPTIDI ED ANALOGHI DI INTERESSE BIOLOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/326933;;31626;Gentilucci Luca;Italiano;;326933;0;326933;
+8022;37416;PRODOTTI E PRODUZIONI NELL'INDUSTRIA CHIMICA/BIOTECNOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350596;;15966;Zani Paolo;Italiano;;350596;0;350596;
+8022;66364;NANOBIOTECNOLOGIE E APPLICAZIONI BIOCATALITICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365541;;35840;Zuccheri Giampaolo;Italiano;;365541;0;365541;
+8022;66364;NANOBIOTECNOLOGIE E APPLICAZIONI BIOCATALITICHE (1);;modulo;35840;Zuccheri Giampaolo;Italiano;;365542;365541;365541;
+8022;66364;NANOBIOTECNOLOGIE E APPLICAZIONI BIOCATALITICHE (2);;modulo;32569;Tolomelli Alessandra;Italiano;;365543;365541;365541;
+8022;66366;BIOINORGANICA, BIOELETTRONICA E BIOSENSORI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365548;;32586;Marcaccio Massimo;Italiano;;365548;0;365548;
+8022;66366;BIOINORGANICA, BIOELETTRONICA E BIOSENSORI CON LABORATORIO (1);;modulo;40749;Zambelli Barbara;;;365549;365548;365548;
+8022;66366;BIOINORGANICA, BIOELETTRONICA E BIOSENSORI CON LABORATORIO (2);;modulo;32586;Marcaccio Massimo;Italiano;;365550;365548;365548;
+8022;66371;ONCOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365563;;30293;Lollini Pier Luigi;Italiano;;365563;0;365563;
+8022;66371;ONCOLOGIA MOLECOLARE (1);;modulo;30293;Lollini Pier Luigi;Italiano;;365566;365563;365563;
+8022;66371;ONCOLOGIA MOLECOLARE (2);;modulo;15349;Nanni Patrizia;;;365567;365563;365563;
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365586;;14227;Zannoni Davide;Italiano;;365586;0;365586;
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (1);;modulo;14227;Zannoni Davide;Italiano;;376798;365586;365586;
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (2);;modulo;32425;Fedi Stefano;;;376799;365586;365586;
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (4);;modulo;;;;;394187;365586;365586;
+8022;66375;MICROBIOLOGIA APPLICATA E VIROLOGIA MOLECOLARE CON LABORATORI (3);;modulo;13944;Campadelli Maria Gabriella;;;376800;365586;365586;
+8022;66479;CELLULE STAMINALI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365835;;22553;Bonsi Laura;Italiano;;365835;0;365835;
+8022;66479;CELLULE STAMINALI CON LABORATORIO (1);;modulo;22553;Bonsi Laura;Italiano;;384320;365835;365835;
+8022;66479;CELLULE STAMINALI CON LABORATORIO (2);;modulo;38651;Alviano Francesco;;;384321;365835;365835;
+8022;72547;MICROBIOLOGIA INDUSTRIALE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384306;;31749;Gonzalez Vara Rodriguez Antonio;Italiano;;384306;0;384306;
+8022;69348;METODI CHIMICO-MOLECOLARI PER LO STUDIO DELLE PROTEINE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388353;;40749;Zambelli Barbara;Italiano;;388353;0;388353;376173
+8022;75652;BIOCHIMICA INDUSTRIALE E INGEGNERIA PROTEICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392203;;31512;Hochkoeppler Alejandro;Italiano;;392203;0;392203;
+8022;75653;PRINCIPI DI INGEGNERIA BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392242;;15203;Gostoli Carlo;Italiano;;392242;0;392242;
+8022;75655;IMPIANTI CHIMICI (BIOREATTORI E BIOSEPARAZIONI);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/392260;;30298;Pinelli Davide;Italiano;;392260;0;392260;
+8022;75655;IMPIANTI CHIMICI (BIOREATTORI E BIOSEPARAZIONI) (1);;modulo;30298;Pinelli Davide;Italiano;;394185;392260;392260;
+8022;75655;IMPIANTI CHIMICI (BIOREATTORI E BIOSEPARAZIONI) (2);;modulo;40311;Boi Cristiana;;;394186;392260;392260;
+8022;82318;BIOCHIMICA CELLULARE E STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413821;;33570;Porcelli Anna Maria;Italiano;;413821;0;413821;
+8022;82318;BIOCHIMICA CELLULARE E STRUTTURALE (1);;modulo;33570;Porcelli Anna Maria;Italiano;;414789;413821;413821;
+8022;82318;BIOCHIMICA CELLULARE E STRUTTURALE (2);;modulo;38989;Francia Francesco;;;414790;413821;413821;
+8022;65684;BIOLOGIA MOLECOLARE AVANZATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413822;;38016;Danielli Alberto;Italiano;;413822;0;413822;
+8022;65684;BIOLOGIA MOLECOLARE AVANZATA (1);;modulo;38016;Danielli Alberto;Italiano;;414797;413822;413822;
+8022;65684;BIOLOGIA MOLECOLARE AVANZATA (2);;modulo;35347;Scotlandi Katia;;;414798;413822;413822;
+8022;82319;GENETICA FUNZIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413823;;36899;Bernardoni Roberto;Italiano;;413823;0;413823;
+8022;82320;STRUTTURISTICA PROTEICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413824;;30310;Ciurli Stefano Luciano;Italiano;;413824;0;413824;
+8022;82320;STRUTTURISTICA PROTEICA (1);;modulo;15279;Sabatino Piera;;;414813;413824;413824;
+8022;82320;STRUTTURISTICA PROTEICA (2);;modulo;30310;Ciurli Stefano Luciano;Italiano;;414814;413824;413824;
+8022;82329;TIROCINIO LM (10 CFU);;;;;;;413833;0;413833;
+8023;46270;GENETICA UMANA E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320676;;31822;Maestrini Elena;Italiano;;320676;0;320676;
+8023;46110;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320700;;23249;Venturoli Giovanni;Italiano;;320700;0;320700;364228
+8023;7936;NEUROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320701;;39894;Monti Barbara;Italiano;;320701;0;320701;322718
+8023;18773;RADIAZIONI IONIZZANTI E MATERIA VIVENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320702;;14403;Venturi Margherita;Italiano;;320702;0;320702;
+8023;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320703;;39479;Canistro Donatella;Italiano;;320703;0;320703;
+8023;743;ONCOLOGIA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/320705;;30293;Lollini Pier Luigi;Italiano;;320705;0;320705;402589
+8023;46107;FISIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/322439;;39894;Monti Barbara;Italiano;;322439;0;322439;364230
+8023;66413;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365698;;36900;Zattoni Andrea;Italiano;;365698;0;365698;
+8023;66416;IGIENE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365706;;39305;Cristino Sandra;Italiano;;365706;0;365706;
+8023;66424;CHIMICA DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365715;;33163;Rodriguez Estrada Maria Teresa;;;365715;0;365715;
+8023;66424;CHIMICA DEGLI ALIMENTI (1);;modulo;33163;Rodriguez Estrada Maria Teresa;;;426581;365715;365715;
+8023;66424;CHIMICA DEGLI ALIMENTI (2);;modulo;13765;Lercker Giovanni;;;426582;365715;365715;
+8023;72701;BIOCHIMICA IN VIVO E SISTEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384840;;31153;Iotti Stefano;Italiano;;384840;0;384840;
+8023;72701;BIOCHIMICA IN VIVO E SISTEMATICA (1);;modulo;31153;Iotti Stefano;Italiano;;394146;384840;384840;
+8023;72701;BIOCHIMICA IN VIVO E SISTEMATICA (2);;modulo;39478;Malucelli Emil;;;394147;384840;384840;
+8023;72702;IL SISTEMA QUALITA' IN LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384841;;37347;Capelli Maurizio;Italiano;;384841;0;384841;
+8023;768;PATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386032;;14791;Pession Annalisa;Italiano;;386032;0;386032;
+8023;768;PATOLOGIA GENERALE (1);;modulo;14791;Pession Annalisa;Italiano;;402363;386032;386032;
+8023;768;PATOLOGIA GENERALE (2);;modulo;36035;Grifoni Daniela;;;402364;386032;386032;
+8023;76545;BIOLOGIA FORENSE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395455;;24384;Pelotti Susi;Italiano;;395455;0;395455;
+8023;76545;BIOLOGIA FORENSE (1);;modulo;24384;Pelotti Susi;Italiano;;402366;395455;395455;
+8023;76545;BIOLOGIA FORENSE (2);;modulo;;;;;402367;395455;395455;
+8023;78797;BASI ANATOMICHE E FUNZIONALI DELLA SCIENZA DELL'ALIMENTAZIONE C. I.;;;;;;;402315;0;402315;
+8023;78798;ANATOMIA ULTRASTRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402320;modulo;23763;Martelli Alberto Maria;Italiano;;402320;402315;402315;
+8023;78798;ANATOMIA ULTRASTRUTTURALE (1);;modulo;23763;Martelli Alberto Maria;Italiano;;414823;402320;402315;
+8023;78798;ANATOMIA ULTRASTRUTTURALE (2);;modulo;40477;Quaranta Marilisa;;;414824;402320;402315;
+8023;78799;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402321;modulo;33064;Spisni Enzo;Italiano;;402321;402315;402315;
+8023;78800;MICROBIOLOGIA E VIROLOGIA CLINICA APPLICATE C. I.;;;;;;;402332;0;402332;
+8023;78801;MICROBIOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402339;modulo;32892;Lazzarotto Tiziana;Italiano;;402339;402332;402332;
+8023;78801;MICROBIOLOGIA CLINICA (1);;modulo;48233;Chiereghin Angela;Italiano;;402342;402339;402332;
+8023;78801;MICROBIOLOGIA CLINICA (2);;modulo;32892;Lazzarotto Tiziana;Italiano;;402343;402339;402332;
+8023;66412;VIROLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402340;modulo;24445;Avitabile Elisa;Italiano;;402340;402332;402332;
+8023;66412;VIROLOGIA APPLICATA (1);;modulo;24445;Avitabile Elisa;Italiano;;402348;402340;402332;
+8023;66412;VIROLOGIA APPLICATA (2);;modulo;32637;Brandimarti Renato;;;402349;402340;402332;
+8023;78803;PARASSITOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402358;;912396;Marini Mario;Italiano;;402358;0;402358;366752
+8023;78805;SCIENZA DEL FARMACO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402369;;24254;Paolini Moreno;Italiano;;402369;0;402369;
+8023;78805;SCIENZA DEL FARMACO (1);;modulo;24254;Paolini Moreno;Italiano;;402370;402369;402369;
+8023;78805;SCIENZA DEL FARMACO (2);;modulo;24254;Paolini Moreno;;;402371;402369;402369;
+8023;66812;BIODIVERSITA' UMANA, NUTRIZIONE, SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402580;;23955;Luiselli Donata;Italiano;;402580;0;402580;366886
+8023;78935;FISIOLOGIA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402584;;24361;Guarnieri Tiziana;Italiano;;402584;0;402584;
+8023;78936;METODI SPETTROSCOPICI IN BIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402586;;23249;Venturoli Giovanni;Italiano;;402586;0;402586;364228
+8023;82302;ANTROPOLOGIA MOLECOLARE APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413799;;23955;Luiselli Donata;Italiano;;413799;0;413799;
+8023;82306;PROVA FINALE LM (30 CFU);;;;;;;413806;0;413806;
+8023;82317;PREPARAZIONE PROVA FINALE ALL'ESTERO LM (20CFU);;;;;;;413828;0;413828;
+8036;68407;BIOCHIMICA DELL'ATTIVIT?Ç SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346461;;23797;Stefanelli Claudio;Italiano;;346461;0;346461;346461
+8036;68405;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373247;;34161;Merni Franco;Italiano;;373247;0;373247;346184
+8036;9454;BIOINGEGNERIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384819;;39191;Fantozzi Silvia;Italiano;;384819;0;384819;
+8036;72692;CINESIOLOGIA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384821;;34978;Maietta Latessa Pasqualino;Italiano;;384821;0;384821;
+8036;72692;CINESIOLOGIA SPECIALE (1);;modulo;34978;Maietta Latessa Pasqualino;Italiano;;401497;384821;384821;
+8036;72692;CINESIOLOGIA SPECIALE (2);;modulo;15449;Squatrito Salvatore;;;414673;384821;384821;
+8036;72692;CINESIOLOGIA SPECIALE (3);;modulo;40476;Belli Guido;;;401498;384821;384821;
+8036;30889;FISIOLOGIA APPLICATA ALL'ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384822;;15449;Squatrito Salvatore;Italiano;;384822;0;384822;
+8036;30889;FISIOLOGIA APPLICATA ALL'ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA (1);;modulo;15449;Squatrito Salvatore;Italiano;;387033;384822;384822;
+8036;30889;FISIOLOGIA APPLICATA ALL'ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA (2);;modulo;42636;Piras Alessandro;;;387034;384822;384822;
+8036;72693;FISIOPATOLOGIA DELLE ATTIVIT?Ç MOTORIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384823;;34994;Salvioli Beatrice;Italiano;;384823;0;384823;
+8036;72693;FISIOPATOLOGIA DELLE ATTIVIT?Ç MOTORIE (1);;modulo;34994;Salvioli Beatrice;Italiano;;387035;384823;384823;
+8036;72693;FISIOPATOLOGIA DELLE ATTIVIT?Ç MOTORIE (2);;modulo;41653;Domenicali Marco;;;387036;384823;384823;
+8036;1228;CARDIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384825;;15755;Bugiardini Raffaele;Italiano;;384825;0;384825;
+8036;72694;ATTIVIT?Ç MOTORIA PREVENTIVA E ADATTATA E NEUROLOGIA C.I.;;;;;;;384826;0;384826;
+8036;30935;T.T.D. DELL'ATTIVIT?Ç MOTORIA ADATTATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384827;modulo;36623;Milani Melissa Angela;Italiano;;384827;384826;384826;
+8036;30935;T.T.D. DELL'ATTIVIT?Ç MOTORIA ADATTATA (1);;modulo;36623;Milani Melissa Angela;Italiano;;387916;384827;384826;
+8036;30935;T.T.D. DELL'ATTIVIT?Ç MOTORIA ADATTATA (2);;modulo;40430;Grilli Maria Teresa;;;387918;384827;384826;
+8036;39666;NEUROLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384828;modulo;43790;Valentino Maria Lucia;Italiano;;384828;384826;384826;
+8036;72696;SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384831;;39293;Martelli Stefano;Italiano;;384831;0;384831;
+8036;72698;EPIDEMIOLOGIA E FARMACOLOGIA C.I.;;;;;;;384835;0;384835;
+8036;351;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384836;modulo;31755;Maffei Francesca;Italiano;;384836;384835;384835;
+8036;30924;METODOLOGIA EPIDEMIOLOGICA E IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384837;modulo;15963;Leoni Erica;Italiano;;384837;384835;384835;
+8036;30924;METODOLOGIA EPIDEMIOLOGICA E IGIENE (1);;modulo;15963;Leoni Erica;Italiano;;416339;384837;384835;
+8036;30924;METODOLOGIA EPIDEMIOLOGICA E IGIENE (2);;modulo;39683;Dallolio Laura;;;416340;384837;384835;
+8036;72700;PEDAGOGIA SPECIALE E PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384839;;34967;Bortolotti Alessandro;Italiano;;384839;0;384839;
+8036;72700;PEDAGOGIA SPECIALE E PSICOLOGIA SOCIALE (1);;modulo;34967;Bortolotti Alessandro;Italiano;;387037;384839;384839;
+8036;72700;PEDAGOGIA SPECIALE E PSICOLOGIA SOCIALE (2);;modulo;64734;Fraboni Federico;;;387038;384839;384839;
+8036;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387942;;43244;Manners David Neil;Inglese;;387942;0;387942;387942
+8036;736;NEUROPSICHIATRIA INFANTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393922;;24252;Parmeggiani Antonia;Italiano;;393922;0;393922;386786
+8036;78151;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400919;;34967;Bortolotti Alessandro;Italiano;;400919;0;400919;400922
+8036;78152;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400920;;38717;Tessari Alessia;Italiano;;400920;0;400920;
+8036;78152;PSICOLOGIA COGNITIVA DELLO SPORT (1);;modulo;38717;Tessari Alessia;Italiano;;426774;400920;400920;426774
+8036;78152;PSICOLOGIA COGNITIVA DELLO SPORT (2);;modulo;;;;;426775;400920;400920;426775
+8036;78153;PSICOLOGIA COGNITIVA DELLO SPORT E PRASSEOLOGIA MOTORIA C.I.;;;;;;;400921;0;400921;
+8036;78154;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400922;modulo;34967;Bortolotti Alessandro;Italiano;;400922;400921;400921;400922
+8036;26124;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400923;modulo;38717;Tessari Alessia;Italiano;;400923;400921;400921;
+8036;26124;PSICOLOGIA COGNITIVA DELLO SPORT (1);;modulo;38717;Tessari Alessia;Italiano;;426779;400923;400921;426774
+8036;26124;PSICOLOGIA COGNITIVA DELLO SPORT (2);;modulo;;;;;426780;400923;400921;426775
+8036;78458;MALATTIE DELL'APPARATO LOCOMOTORE E MEDICINA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401424;;35687;Moroni Antonio;Italiano;;401424;0;401424;
+8036;78458;MALATTIE DELL'APPARATO LOCOMOTORE E MEDICINA FISICA (1);;modulo;35687;Moroni Antonio;Italiano;;414707;401424;401424;
+8036;78458;MALATTIE DELL'APPARATO LOCOMOTORE E MEDICINA FISICA (2);;modulo;601276;Micera Giovanni;;;414708;401424;401424;
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401430;;34978;Maietta Latessa Pasqualino;Italiano;;401430;0;401430;
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO (1);;modulo;34978;Maietta Latessa Pasqualino;Italiano;;414712;401430;401430;
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO (2);;modulo;40476;Belli Guido;;;414713;401430;401430;
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO (3);;modulo;40476;Belli Guido;;;414714;401430;401430;
+8036;78492;T.T. DELL'ESERCIZIO FISICO ADATTATO (4);;modulo;40590;Foschi Elia;;;414715;401430;401430;
+8036;82337;Tirocinio 2 LM (10 CFU);;;;;;;413844;0;413844;
+8036;82344;Prova finale LM (4 CFU);;;;;;;413850;0;413850;
+8036;82308;PREPARAZIONE PROVA FINALE LM (12 CFU);;;;;;;413856;0;413856;
+8037;27083;PROVA FINALE LM;;;;;;;329301;0;329301;
+8037;68405;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/346184;;34161;Merni Franco;Italiano;;346184;0;346184;346184
+8037;68407;BIOCHIMICA DELL'ATTIVIT?Ç SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372193;;23797;Stefanelli Claudio;Italiano;;372193;0;372193;346461
+8037;40224;BIOINGEGNERIA ELETTRONICA E INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384842;;39191;Fantozzi Silvia;Italiano;;384842;0;384842;
+8037;72704;NUTRIZIONE E FARMACOLOGIA NELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384844;;40588;Lorenzini Antonello;Italiano;;384844;0;384844;
+8037;72704;NUTRIZIONE E FARMACOLOGIA NELLO SPORT (1);;modulo;40588;Lorenzini Antonello;Italiano;;387111;384844;384844;
+8037;72704;NUTRIZIONE E FARMACOLOGIA NELLO SPORT (2);;modulo;46119;Turrini Eleonora;;;387112;384844;384844;
+8037;11050;FISIOLOGIA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384845;;15449;Squatrito Salvatore;Italiano;;384845;0;384845;
+8037;11050;FISIOLOGIA DELLO SPORT (1);;modulo;15449;Squatrito Salvatore;Italiano;;387104;384845;384845;
+8037;11050;FISIOLOGIA DELLO SPORT (2);;modulo;42636;Piras Alessandro;;;387105;384845;384845;
+8037;72706;SCIENZA E TECNICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384851;;38393;Gatta Giorgio;Italiano;;384851;0;384851;
+8037;72706;SCIENZA E TECNICA DEGLI SPORT NATATORI (1);;modulo;38393;Gatta Giorgio;Italiano;;388331;384851;384851;
+8037;72706;SCIENZA E TECNICA DEGLI SPORT NATATORI (2);;modulo;42593;Cortesi Matteo;;;388332;384851;384851;
+8037;31998;MEDICINA DELLO SPORT LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384852;;41653;Domenicali Marco;Italiano;;384852;0;384852;
+8037;31998;MEDICINA DELLO SPORT LM (1);;modulo;41653;Domenicali Marco;Italiano;;387099;384852;384852;
+8037;31998;MEDICINA DELLO SPORT LM (2);;modulo;38809;Nanni Gianni;;;387100;384852;384852;
+8037;72707;DIRITTO PRIVATO DELLO SPORT E GESTIONE DELLE IMPRESE SPORTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384853;;39332;Raimondo Pierluigi;Italiano;;384853;0;384853;
+8037;65962;SCIENZA E TECNICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384854;;39788;Di Michele Rocco;Italiano;;384854;0;384854;
+8037;65963;SCIENZA E TECNICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384855;;34968;Ciacci Simone;Italiano;;384855;0;384855;
+8037;65963;SCIENZA E TECNICA DEGLI SPORT INDIVIDUALI (1);;modulo;34968;Ciacci Simone;Italiano;;393906;384855;384855;
+8037;65963;SCIENZA E TECNICA DEGLI SPORT INDIVIDUALI (2);;modulo;34374;Semprini Gabriele;;;393907;384855;384855;
+8037;72708;SCIENZA E TECNICA DELLO SPORT PER DISABILI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384856;;33957;Ceciliani Andrea;Italiano;;384856;0;384856;
+8037;72708;SCIENZA E TECNICA DELLO SPORT PER DISABILI (1);;modulo;33957;Ceciliani Andrea;Italiano;;393908;384856;384856;
+8037;72708;SCIENZA E TECNICA DELLO SPORT PER DISABILI (2);;modulo;36623;Milani Melissa Angela;;;414744;384856;384856;
+8037;72708;SCIENZA E TECNICA DELLO SPORT PER DISABILI (3);;modulo;42663;Lo Vecchio Roberta;;;393909;384856;384856;
+8037;736;NEUROPSICHIATRIA INFANTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386786;;24252;Parmeggiani Antonia;Italiano;;386786;0;386786;386786
+8037;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388403;;43244;Manners David Neil;Inglese;;388403;0;388403;387942
+8037;73877;ANALISI DELLA PRESTAZIONE DI GARA E METODOLOGIA DELLA RICERCA C. I.;;;;;;;388404;0;388404;
+8037;36312;ANALISI DELLA PRESTAZIONE DI GARA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388405;modulo;34161;Merni Franco;Italiano;;388405;388404;388404;346184
+8037;73886;RESEARCH METHODOLOGY APPLIED TO EXERCISE AND SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388406;modulo;43244;Manners David Neil;Inglese;;388406;388404;388404;387942
+8037;77999;EDUCAZIONE SPORTIVA E PSICOLOGIA DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400747;;15944;Farn?¿ Roberto;Italiano;;400747;0;400747;
+8037;77999;EDUCAZIONE SPORTIVA E PSICOLOGIA DELLA COMUNICAZIONE (1);;modulo;15944;Farn?¿ Roberto;Italiano;;400748;400747;400747;
+8037;77999;EDUCAZIONE SPORTIVA E PSICOLOGIA DELLA COMUNICAZIONE (2);;modulo;23256;Tuozzi Giovanni;;;400749;400747;400747;
+8037;78157;PRASSEOLOGIA MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400930;;34967;Bortolotti Alessandro;Italiano;;400930;0;400930;400922
+8037;78158;PSICOLOGIA COGNITIVA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400931;;38717;Tessari Alessia;Italiano;;400931;0;400931;
+8037;78158;PSICOLOGIA COGNITIVA DELLO SPORT (1);;modulo;38717;Tessari Alessia;Italiano;;426777;400931;400931;426774
+8037;78158;PSICOLOGIA COGNITIVA DELLO SPORT (2);;modulo;;;;;426778;400931;400931;426775
+8037;65671;MISURAZIONE E VALUTAZIONE NELLO SPORT C. I.;;;;;;;412535;0;412535;
+8037;81871;ANTROPOMETRIA SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412536;modulo;34686;Toselli Stefania;Italiano;;412536;412535;412535;
+8037;73918;PROGRAMMAZIONE DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412537;modulo;34161;Merni Franco;Italiano;;412537;412535;412535;
+8037;73909;VALUTAZIONE NELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412538;modulo;34161;Merni Franco;Italiano;;412538;412535;412535;
+8037;73909;VALUTAZIONE NELLO SPORT (1);;modulo;34161;Merni Franco;Italiano;;414728;412538;412535;
+8037;73909;VALUTAZIONE NELLO SPORT (2);;modulo;39788;Di Michele Rocco;;;414729;412538;412535;
+8037;82352;Tirocinio 1 LM (9 CFU);;;;;;;413922;0;413922;
+8037;82335;Tirocinio 1a LM (5 CFU);;;;;;;413924;0;413924;
+8037;82353;Tirocinio 1b LM (4 CFU);;;;;;;413925;0;413925;
+8037;82342;Prova finale LM (16 CFU);;;;;;;413929;0;413929;
+8037;82344;Prova finale LM (4 CFU);;;;;;;413930;0;413930;
+8037;82308;PREPARAZIONE PROVA FINALE LM (12 CFU);;;;;;;413934;0;413934;
+8210;34472;CONTRATTI APPALTI E SERVIZI PUBBLICI C. I.;;;;;;;340353;0;340353;
+8210;19938;OBBLIGAZIONI E CONTRATTI NEL SETTORE SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340355;modulo;31444;Pittalis Margherita;Italiano;;340355;340353;340353;
+8210;34473;SERVIZI PUBBLICI E GESTIONE DEGLI APPALTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340356;modulo;34158;Santi Giacomo;Italiano;;340356;340353;340353;
+8210;34477;IDONEIT?Ç LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340361;;;;;;340361;0;340361;
+8210;34513;ISTITUZIONI E MERCATO NELLE ATTIVIT?Ç MOTORIE E SPORTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340414;;41874;D'Onofrio Paco;Italiano;;340414;0;340414;
+8210;34514;SISTEMATICA DELLE ATTIVIT?Ç MOTORIE PER L'EFFICIENZA FISICA E LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340415;;38775;Nerozzi Erika;;;340415;0;340415;
+8210;34514;SISTEMATICA DELLE ATTIVIT?Ç MOTORIE PER L'EFFICIENZA FISICA E LA SALUTE (1);;modulo;38775;Nerozzi Erika;;;357429;340415;340415;
+8210;34514;SISTEMATICA DELLE ATTIVIT?Ç MOTORIE PER L'EFFICIENZA FISICA E LA SALUTE (2);;modulo;42775;Vittori Leydi Natalia;;;357430;340415;340415;
+8210;34521;ORGANIZZAZIONE E GESTIONE DELLO SPORT: PROFILI GIURIDICO-AMMINISTRATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340425;;50129;Tronconi Livio Pietro;Italiano;;340425;0;340425;
+8210;27090;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/340434;;15963;Leoni Erica;;;340434;0;340434;
+8210;37227;IGIENE DEGLI IMPIANTI SPORTIVI E TUTELA DELLA SALUTE NELLO SPORT C.I.;;;;;;;349962;0;349962;
+8210;20615;IGIENE E SICUREZZA DEGLI IMPIANTI SPORTIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349967;modulo;39683;Dallolio Laura;Italiano;;349967;349962;349962;
+8210;37231;TOSSICOLOGIA E PREVENZIONE DEL DOPING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349968;modulo;31755;Maffei Francesca;Italiano;;349968;349962;349962;
+8210;65778;ECONOMIA E GESTIONE DELLE IMPRESE SPORTIVE C. I.;;;;;;;364109;0;364109;
+8210;12512;ECONOMIA E GESTIONE DELLE IMPRESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364112;modulo;36984;Cappiello Giuseppe;Italiano;;364112;364109;364109;
+8210;67915;STRATEGIA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364113;modulo;32923;Lago Umberto;Italiano;;364113;364109;364109;
+8210;65895;ISTITUZIONI DI ECONOMIA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364115;;40784;Feliziani Daniela;Italiano;;364115;0;364115;
+8210;70404;SOCIOLOGIA DELLA WELLNESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379014;;36571;Guizzardi Luca;Italiano;;379014;0;379014;402753
+8210;72713;SOCIOLOGIA DELLO SPORT E DELLA COMUNICAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384859;;39293;Martelli Stefano;Italiano;;384859;0;384859;
+8210;72713;SOCIOLOGIA DELLO SPORT E DELLA COMUNICAZIONE (1);;modulo;39293;Martelli Stefano;Italiano;;386775;384859;384859;
+8210;72713;SOCIOLOGIA DELLO SPORT E DELLA COMUNICAZIONE (2);;modulo;41680;Russo Giovanna;;;386777;384859;384859;
+8210;72715;ORGANIZZAZIONE DELL'ATTIVIT?Ç MOTORIA E DEGLI EVENTI SPORTIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384863;;33652;Cicchella Antonio;Italiano;;384863;0;384863;
+8210;72715;ORGANIZZAZIONE DELL'ATTIVIT?Ç MOTORIA E DEGLI EVENTI SPORTIVI (1);;modulo;33124;Franceschetti Francesco;;;394514;384863;384863;
+8210;72715;ORGANIZZAZIONE DELL'ATTIVIT?Ç MOTORIA E DEGLI EVENTI SPORTIVI (2);;modulo;33652;Cicchella Antonio;Italiano;;394515;384863;384863;
+8210;72715;ORGANIZZAZIONE DELL'ATTIVIT?Ç MOTORIA E DEGLI EVENTI SPORTIVI (3);;modulo;23034;Paruto Giovanni;;;394516;384863;384863;
+8210;34516;ECONOMIA AZIENDALE C. I.;;;;;;;394138;0;394138;
+8210;65781;BILANCI AZIENDALI E CONTROLLO DI GESTIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394139;modulo;30755;Travaglini Claudio;Italiano;;394139;394138;394138;
+8210;65781;BILANCI AZIENDALI E CONTROLLO DI GESTIONE (1);;modulo;30755;Travaglini Claudio;Italiano;;419850;394139;394138;
+8210;65781;BILANCI AZIENDALI E CONTROLLO DI GESTIONE (2);;modulo;42114;Medei Renato;;;419851;394139;394138;
+8210;42492;MARKETING AVANZATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394140;modulo;35719;Cenci Roberto;Italiano;;394140;394138;394138;
+8210;66140;FINANZA AZIENDALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394141;;34398;Cervellati Enrico Maria;Italiano;;394141;0;394141;392720
+8210;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394142;;33652;Cicchella Antonio;Italiano;;394142;0;394142;402772
+8210;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394143;;34374;Semprini Gabriele;Italiano;;394143;0;394143;
+8210;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (1);;modulo;34374;Semprini Gabriele;Italiano;;394663;394143;394143;394429
+8210;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (2);;modulo;42632;Malagoli Lanzoni Ivan;;;394664;394143;394143;394430
+8210;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394144;;34165;Palladino Leonardo;Italiano;;394144;0;394144;
+8210;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (1);;modulo;34165;Palladino Leonardo;;;394672;394144;394144;394410
+8210;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (2);;modulo;34165;Palladino Leonardo;Italiano;;394673;394144;394144;394411
+8210;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (3);;modulo;42319;Ansaloni Matteo;;;394674;394144;394144;394412
+8210;77947;PSICOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400688;;38717;Tessari Alessia;Italiano;;400688;0;400688;
+8210;77947;PSICOLOGIA COGNITIVA (1);;modulo;38717;Tessari Alessia;Italiano;;426614;400688;400688;
+8210;77947;PSICOLOGIA COGNITIVA (2);;modulo;;;;;426615;400688;400688;
+8210;15540;GIORNALISMO SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402743;;;;Italiano;;402743;0;402743;402754
+8210;78987;SOCIOLOGIA DELLA WELLNESS E GIORNALISMO SPORTIVO C.I.;;;;;;;402751;0;402751;
+8210;70404;SOCIOLOGIA DELLA WELLNESS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402753;modulo;36571;Guizzardi Luca;Italiano;;402753;402751;402751;402753
+8210;15540;GIORNALISMO SPORTIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402754;modulo;;;Italiano;;402754;402751;402751;402754
+8210;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406072;;36984;Cappiello Giuseppe;Italiano;;406072;0;406072;402766
+8210;37807;LABORATORIO DI MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412747;;43279;Cesari Alberto;Italiano;;412747;0;412747;
+8412;36073;ACQUISIZIONE DI CAPACIT?Ç INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349243;;24257;Rovelli Tiziano;Italiano;;349243;0;349243;
+8412;49754;BIOLOGIA VEGETALE CON ELEMENTI DI BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349723;;31459;Poli Ferruccio;Italiano;;349723;0;349723;
+8412;49754;BIOLOGIA VEGETALE CON ELEMENTI DI BOTANICA FARMACEUTICA (1);;modulo;31459;Poli Ferruccio;;;353828;349723;349723;
+8412;49754;BIOLOGIA VEGETALE CON ELEMENTI DI BOTANICA FARMACEUTICA (2);;modulo;31459;Poli Ferruccio;Italiano;;353829;349723;349723;
+8412;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349724;;30310;Ciurli Stefano Luciano;Italiano;;349724;0;349724;
+8412;150;CHIMICA ORGANICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349728;;31887;Guernelli Susanna;Italiano;;349728;0;349728;
+8412;150;CHIMICA ORGANICA I (1);;modulo;31887;Guernelli Susanna;Italiano;;378795;349728;349728;
+8412;150;CHIMICA ORGANICA I (2);;modulo;39533;Amorati Riccardo;;;378796;349728;349728;
+8412;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349729;;13400;Navarria Francesco Luigi;Italiano;;349729;0;349729;
+8412;405;FISICA (1);;modulo;13400;Navarria Francesco Luigi;Italiano;;394629;349729;349729;
+8412;405;FISICA (2);;modulo;35427;Lanconelli Nico;;;394630;349729;349729;
+8412;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349737;;38226;Gambini Alessandro;Italiano;;349737;0;349737;
+8412;57359;ANALISI DEI MEDICINALI I;;;;;;;349739;0;349739;
+8412;18039;CARATTERIZZAZIONE STRUTTURALE DI COMPOSTI ORGANICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349748;;30110;Lucarini Marco;Italiano;;349748;0;349748;
+8412;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349751;;31622;Guardigli Massimo;Italiano;;349751;0;349751;
+8412;122;CHIMICA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349752;;30226;Paolucci Francesco;Italiano;;349752;0;349752;
+8412;122;CHIMICA FISICA (1);;modulo;30226;Paolucci Francesco;Italiano;;398472;349752;349752;
+8412;122;CHIMICA FISICA (2);;modulo;38786;Puzzarini Cristina;;;398473;349752;349752;
+8412;152;CHIMICA ORGANICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349754;;30684;Masiero Stefano;Italiano;;349754;0;349754;
+8412;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349755;;31620;Gallinella Giorgio;Italiano;;349755;0;349755;
+8412;11438;ANALISI DEI MEDICINALI II;;;;;;;349757;0;349757;
+8412;11438;ANALISI DEI MEDICINALI II (GR.A) (1);;modulo;30954;Gotti Roberto;Italiano;;402624;378813;349757;402624
+8412;11438;ANALISI DEI MEDICINALI II (GR.A) (2);;modulo;30954;Gotti Roberto;;;402625;378813;349757;
+8412;11438;ANALISI DEI MEDICINALI II (GR.B) (1);;modulo;30954;Gotti Roberto;Italiano;;402626;378814;349757;402624
+8412;11438;ANALISI DEI MEDICINALI II (GR.B) (2);;modulo;30954;Gotti Roberto;;;402627;378814;349757;
+8412;11784;ANALISI DEI MEDICINALI III;;;;;;;349759;0;349759;
+8412;11784;ANALISI DEI MEDICINALI III (GR_A) (1);;modulo;31753;Locatelli Alessandra;Italiano;;421180;378815;349759;
+8412;11784;ANALISI DEI MEDICINALI III (GR_A) (2);;modulo;31753;Locatelli Alessandra;;;421181;378815;349759;
+8412;11784;ANALISI DEI MEDICINALI III (GR_B) (1);;modulo;31753;Locatelli Alessandra;Italiano;;421183;378816;349759;
+8412;11784;ANALISI DEI MEDICINALI III (GR_B) (2);;modulo;31753;Locatelli Alessandra;;;421184;378816;349759;
+8412;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349761;;30026;Fato Romana;Italiano;;349761;0;349761;
+8412;62;BIOCHIMICA APPLICATA (1);;modulo;41654;Prata Cecilia;Italiano;;378797;349761;349761;
+8412;62;BIOCHIMICA APPLICATA (2);;modulo;30026;Fato Romana;Italiano;;378798;349761;349761;
+8412;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349781;;15947;Recanatini Maurizio;Italiano;;349781;0;349781;
+8412;18040;FARMACOLOGIA GENERALE E FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349788;;16903;Romualdi Patrizia;Italiano;;349788;0;349788;
+8412;5181;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349793;;30663;Fattori Patrizia;Italiano;;349793;0;349793;
+8412;5181;FISIOLOGIA (1);;modulo;38112;Breveglieri Rossella;;;402614;349793;349793;
+8412;5181;FISIOLOGIA (2);;modulo;30663;Fattori Patrizia;Italiano;;402615;349793;349793;
+8412;37722;METODOLOGIE SPERIMENTALI PER LA PREPARAZIONE DI FARMACI;;;;;;;349796;0;349796;
+8412;18041;PATOLOGIA GENERALE E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349797;;45951;De Biase Dario;Italiano;;349797;0;349797;
+8412;37187;ANALISI STRUMENTALE DI FARMACI;;;;;;;349798;0;349798;
+8412;37187;ANALISI STRUMENTALE DI FARMACI (GR.A) (1);;modulo;36867;Bartolini Manuela;Italiano;;421197;385402;349798;
+8412;37187;ANALISI STRUMENTALE DI FARMACI (GR.A) (2);;modulo;36867;Bartolini Manuela;;;421198;385402;349798;421198
+8412;37187;ANALISI STRUMENTALE DI FARMACI (GR.B) (1);;modulo;36867;Bartolini Manuela;Italiano;;421199;385403;349798;
+8412;37187;ANALISI STRUMENTALE DI FARMACI (GR.B) (2);;modulo;36867;Bartolini Manuela;;;421200;385403;349798;421198
+8412;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349800;;30218;Minarini Anna;Italiano;;349800;0;349800;
+8412;37189;FABBRICAZIONE INDUSTRIALE DEI MEDICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349802;;36868;Albertini Beatrice;Italiano;;349802;0;349802;
+8412;37189;FABBRICAZIONE INDUSTRIALE DEI MEDICINALI (1);;modulo;36868;Albertini Beatrice;Italiano;;387602;349802;349802;
+8412;37189;FABBRICAZIONE INDUSTRIALE DEI MEDICINALI (2);;modulo;32585;Passerini Nadia;;;387604;349802;349802;
+8412;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349858;;16903;Romualdi Patrizia;Italiano;;349858;0;349858;
+8412;37259;SISTEMI FARMACEUTICI A RILASCIO MODIFICATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350122;;31885;Luppi Barbara;Italiano;;350122;0;350122;
+8412;37259;SISTEMI FARMACEUTICI A RILASCIO MODIFICATO (1);;modulo;31885;Luppi Barbara;Italiano;;387560;350122;350122;
+8412;37259;SISTEMI FARMACEUTICI A RILASCIO MODIFICATO (2);;modulo;31885;Luppi Barbara;;;387561;350122;350122;
+8412;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350151;;16906;Hrelia Patrizia;Italiano;;350151;0;350151;
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE;;;;;;;351358;0;351358;
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-A) (1);;modulo;32585;Passerini Nadia;Italiano;;387596;387594;351358;387596
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-A) (2);;modulo;36868;Albertini Beatrice;;;387597;387594;351358;387597
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-A) (3);;modulo;32585;Passerini Nadia;;;387598;387594;351358;
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-B) (1);;modulo;32585;Passerini Nadia;Italiano;;387599;387595;351358;387596
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-B) (2);;modulo;36868;Albertini Beatrice;;;387600;387595;351358;387597
+8412;18047;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE (GR-B) (3);;modulo;36868;Albertini Beatrice;;;387601;387595;351358;
+8412;66117;ANATOMIA UMANA E BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365007;;15916;Mantovani Barbara;Italiano;;365007;0;365007;
+8412;66117;ANATOMIA UMANA E BIOLOGIA ANIMALE (1);;modulo;42969;Evangelisti Camilla;;;367487;365007;365007;
+8412;66117;ANATOMIA UMANA E BIOLOGIA ANIMALE (2);;modulo;34094;Falconi Mirella;;;425194;365007;365007;
+8412;66117;ANATOMIA UMANA E BIOLOGIA ANIMALE (3);;modulo;15916;Mantovani Barbara;Italiano;;367488;365007;365007;
+8412;44113;BIOCHIMICA E BIOLOGIA MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365014;;31627;Calonghi Natalia;Italiano;;365014;0;365014;
+8412;44113;BIOCHIMICA E BIOLOGIA MOLECOLARE (1);;modulo;31627;Calonghi Natalia;Italiano;;367664;365014;365014;
+8412;44113;BIOCHIMICA E BIOLOGIA MOLECOLARE (2);;modulo;30026;Fato Romana;;;367665;365014;365014;
+8412;66123;METODI AVANZATI IN CHIMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/365019;;33829;Cavalli Andrea;Italiano;;365019;0;365019;
+8412;66123;METODI AVANZATI IN CHIMICA FARMACEUTICA (1);;modulo;32654;Bertucci Carlo;Italiano;;394445;365019;365019;
+8412;66123;METODI AVANZATI IN CHIMICA FARMACEUTICA (2);;modulo;33829;Cavalli Andrea;Italiano;;394446;365019;365019;
+8412;72966;RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388627;;15889;Brigidi Patrizia;Italiano;;388627;0;388627;388627
+8412;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388628;;31792;Bolognesi Maria Laura;Italiano;;388628;0;388628;388628
+8412;73056;METODI PER LO STUDIO DELLA CHIRALIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388629;;30684;Masiero Stefano;Italiano;;388629;0;388629;388629
+8412;73057;METODI DI CARATTERIZZAZIONE STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388630;;30002;Mezzina Elisabetta;Italiano;;388630;0;388630;388630
+8412;1651;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388631;;31622;Guardigli Massimo;Italiano;;388631;0;388631;388631
+8412;55954;CHIMICA ANALITICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388632;;35802;Mirasoli Mara;Italiano;;388632;0;388632;388632
+8412;74458;SOCIO-ECONOMIA E BREVETTISTICA FARMACEUTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394129;;36785;Rampinelli Patrizia;Italiano;;394129;0;394129;
+8412;72961;RICERCA E SVILUPPO DI FARMACI E BIOLOGICI C.I.;;;;;;;394327;0;394327;
+8412;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394328;modulo;31792;Bolognesi Maria Laura;Italiano;;394328;394327;394327;388628
+8412;72966;RICERCA E SVILUPPO DI FARMACI RICOMBINANTI E BIOLOGICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394329;modulo;15889;Brigidi Patrizia;Italiano;;394329;394327;394327;388627
+8412;73055;METODI INNOVATIVI DELLA CHIMICA ORGANICA NELLO STUDIO DEL FARMACO C.I.;;;;;;;394330;0;394330;
+8412;73056;METODI PER LO STUDIO DELLA CHIRALIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394331;modulo;30684;Masiero Stefano;Italiano;;394331;394330;394330;388629
+8412;73057;METODI DI CARATTERIZZAZIONE STRUTTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394332;modulo;30002;Mezzina Elisabetta;Italiano;;394332;394330;394330;388630
+8412;73060;CHIMICA ANALITICA CLINICA ED AMBIENTALE C.I.;;;;;;;394337;0;394337;
+8412;1651;CHIMICA ANALITICA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394338;modulo;31622;Guardigli Massimo;Italiano;;394338;394337;394337;388631
+8412;55954;CHIMICA ANALITICA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394339;modulo;35802;Mirasoli Mara;Italiano;;394339;394337;394337;388632
+8413;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349705;;43045;Ferrari Luca;Italiano;;349705;0;349705;
+8413;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349706;;23763;Martelli Alberto Maria;Italiano;;349706;0;349706;
+8413;13520;BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349711;;24226;Bonfitto Antonio;Italiano;;349711;0;349711;
+8413;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349712;;30351;Prodi Luca;Italiano;;349712;0;349712;
+8413;37179;BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.);;;;;;;349713;0;349713;
+8413;12818;BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349714;modulo;39294;Sparla Francesca;Italiano;;349714;349713;349713;
+8413;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349715;modulo;31459;Poli Ferruccio;Italiano;;349715;349713;349713;
+8413;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349716;;24257;Rovelli Tiziano;Italiano;;349716;0;349716;
+8413;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349717;;34002;Campana Gabriele;Italiano;;349717;0;349717;
+8413;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349726;;15769;Girotti Stefano;Italiano;;349726;0;349726;
+8413;90;CHIMICA ANALITICA (1);;modulo;15769;Girotti Stefano;Italiano;;367419;349726;349726;
+8413;90;CHIMICA ANALITICA (2);;modulo;35802;Mirasoli Mara;;;367420;349726;349726;
+8413;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349727;;30002;Mezzina Elisabetta;Italiano;;349727;0;349727;
+8413;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349730;;30230;Gentilomi Giovanna Angela;Italiano;;349730;0;349730;
+8413;57359;ANALISI DEI MEDICINALI I;;;;;;;349731;0;349731;
+8413;57359;ANALISI DEI MEDICINALI I (GR-A) (1);;modulo;13783;Ferranti Anna;Italiano;;385595;367432;349731;
+8413;57359;ANALISI DEI MEDICINALI I (GR-A) (2);;modulo;13783;Ferranti Anna;;;385596;367432;349731;
+8413;57359;ANALISI DEI MEDICINALI I (GR-B) (1);;modulo;14569;Garuti Laura;Italiano;;385598;367433;349731;
+8413;57359;ANALISI DEI MEDICINALI I (GR-B) (2);;modulo;36870;Rosini Michela;;;385599;367433;349731;
+8413;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349735;;31023;Fiorentini Diana;Italiano;;349735;0;349735;
+8413;61;BIOCHIMICA (1);;modulo;;;Italiano;;367438;349735;349735;
+8413;61;BIOCHIMICA (3);;modulo;32846;Cappadone Concettina;;;426160;349735;349735;
+8413;61;BIOCHIMICA (2);;modulo;31023;Fiorentini Diana;Italiano;;367439;349735;349735;
+8413;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349736;;13879;Galletti Claudio;Italiano;;349736;0;349736;
+8413;443;FISIOLOGIA GENERALE (1);;modulo;13879;Galletti Claudio;Italiano;;376104;349736;349736;
+8413;443;FISIOLOGIA GENERALE (2);;modulo;38112;Breveglieri Rossella;;;376105;349736;349736;
+8413;443;FISIOLOGIA GENERALE (3);;modulo;13879;Galletti Claudio;;;376106;349736;349736;
+8413;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349738;;30313;Neyroz Paolo;Italiano;;349738;0;349738;
+8413;62;BIOCHIMICA APPLICATA (1);;modulo;30313;Neyroz Paolo;Italiano;;385659;349738;349738;
+8413;62;BIOCHIMICA APPLICATA (2);;modulo;44586;Bergamini Christian;;;385660;349738;349738;
+8413;1234;FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349740;;39573;Angelini Sabrina;Italiano;;349740;0;349740;
+8413;1234;FARMACOGNOSIA (1);;modulo;34002;Campana Gabriele;Italiano;;376101;349740;349740;
+8413;1234;FARMACOGNOSIA (2);;modulo;22826;Candeletti Sanzio;;;376102;349740;349740;
+8413;1234;FARMACOGNOSIA (3);;modulo;39573;Angelini Sabrina;Italiano;;402686;349740;349740;
+8413;11438;ANALISI DEI MEDICINALI II;;;;;;;349741;0;349741;
+8413;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349744;;15816;Rambaldi Mirella;Italiano;;349744;0;349744;
+8413;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA;;;;;;;349747;0;349747;
+8413;2359;PATOLOGIA E FISIOPATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349750;;14791;Pession Annalisa;Italiano;;349750;0;349750;
+8413;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349760;;14839;Zanetti Franca;Italiano;;349760;0;349760;
+8413;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349762;;31792;Bolognesi Maria Laura;Italiano;;349762;0;349762;
+8413;37182;FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.);;;;;;;349766;0;349766;
+8413;2715;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349775;modulo;38112;Breveglieri Rossella;Italiano;;349775;349766;349766;
+8413;13952;BIOCHIMICA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349776;modulo;23486;Hrelia Silvana;Italiano;;349776;349766;349766;
+8413;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349784;;15669;Spampinato Santi Mario;Italiano;;349784;0;349784;
+8413;13880;FARMACOLOGIA E FARMACOTERAPIA (1);;modulo;15669;Spampinato Santi Mario;Italiano;;385646;349784;349784;
+8413;13880;FARMACOLOGIA E FARMACOTERAPIA (2);;modulo;40029;Bedini Andrea;;;385647;349784;349784;
+8413;13880;FARMACOLOGIA E FARMACOTERAPIA (3);;modulo;39479;Canistro Donatella;;;385648;349784;349784;
+8413;32481;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349792;;34002;Campana Gabriele;Italiano;;349792;0;349792;
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I;;;;;;;349799;0;349799;
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-A) (1);;modulo;15147;Cini Maurizio;Italiano;;385619;385602;349799;385619
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-A) (2);;modulo;15147;Cini Maurizio;;;385620;385602;349799;385620
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-A) (3);;modulo;15147;Cini Maurizio;;;385621;385602;349799;
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-B) (1);;modulo;15147;Cini Maurizio;Italiano;;385622;385603;349799;385619
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-B) (2);;modulo;15147;Cini Maurizio;;;385623;385603;349799;385620
+8413;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (GR-B) (3);;modulo;31879;Cavallari Cristina;;;385624;385603;349799;
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II;;;;;;;349801;0;349801;
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.A.) (1);;modulo;16905;Orienti Isabella;Italiano;;394613;394611;349801;394613
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.A.) (2);;modulo;31879;Cavallari Cristina;;;394614;394611;349801;394614
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.A.) (3);;modulo;16905;Orienti Isabella;;;394617;394611;349801;
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.B.) (1);;modulo;16905;Orienti Isabella;Italiano;;394615;394612;349801;394613
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.B.) (2);;modulo;31879;Cavallari Cristina;;;394616;394612;349801;394614
+8413;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (G.B.) (3);;modulo;31879;Cavallari Cristina;;;394618;394612;349801;
+8413;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349804;;16906;Hrelia Patrizia;Italiano;;349804;0;349804;
+8413;3033;TOSSICOLOGIA (1);;modulo;16906;Hrelia Patrizia;Italiano;;394608;349804;349804;
+8413;3033;TOSSICOLOGIA (2);;modulo;39144;Morroni Fabiana;;;394609;349804;349804;
+8413;3033;TOSSICOLOGIA (3);;modulo;39144;Morroni Fabiana;;;394610;349804;349804;
+8413;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349806;;15669;Spampinato Santi Mario;Italiano;;349806;0;349806;
+8413;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI (1);;modulo;50942;Salvato Giuseppe;;;394603;349806;349806;
+8413;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI (2);;modulo;37242;Cantagalli Franco;;;394604;349806;349806;
+8413;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI (3);;modulo;15669;Spampinato Santi Mario;Italiano;;394605;349806;349806;
+8413;20629;PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354447;;34094;Falconi Mirella;Italiano;;354447;0;354447;
+8413;20629;PRIMO SOCCORSO (1);;modulo;34094;Falconi Mirella;Italiano;;354449;354447;354447;
+8413;20629;PRIMO SOCCORSO (2);;modulo;36745;Menarini Maurizio;;;354450;354447;354447;
+8413;47942;FISIOLOGIA DELLA SENESCENZA E DELLA LONGEVITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385665;;39724;Caprini Marco;Italiano;;385665;0;385665;
+8413;73078;CHIMICA E TECNOLOGIE NUTRACEUTICO-ALIMENTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385666;;24280;Budriesi Roberta;Italiano;;385666;0;385666;
+8413;14513;FARMACOLOGIA CELLULARE E MOLECOLARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385669;;16903;Romualdi Patrizia;Italiano;;385669;0;385669;
+8413;47941;FARMACOTERAPIA DEI DISTURBI METABOLICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385670;;15669;Spampinato Santi Mario;Italiano;;385670;0;385670;
+8413;47946;NEUROFISIOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385675;;30663;Fattori Patrizia;Italiano;;385675;0;385675;
+8413;57338;PRECORSO DI MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/420932;;15654;Gualandri Luciano;;;420932;0;420932;
+8414;674;MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349896;;48151;Bordoni Stefano;;;349896;0;349896;349896
+8414;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349899;;34094;Falconi Mirella;Italiano;;349899;0;349899;
+8414;10083;ANATOMIA UMANA (1);;modulo;34094;Falconi Mirella;Italiano;;353992;349899;349899;
+8414;10083;ANATOMIA UMANA (2);;modulo;34094;Falconi Mirella;Italiano;;353993;349899;349899;
+8414;13520;BIOLOGIA ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349904;;39579;Passamonti Marco;Italiano;;349904;0;349904;
+8414;37179;BIOLOGIA VEGETALE, BOTANICA FARMACEUTICA (C.I.);;;;;;;349907;0;349907;
+8414;12818;BIOLOGIA VEGETALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349908;modulo;36034;Antognoni Fabiana;Italiano;;349908;349907;349907;
+8414;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349909;modulo;36034;Antognoni Fabiana;Italiano;;349909;349907;349907;
+8414;130;CHIMICA GENERALE ED INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349912;;31891;Zaccheroni Nelsi;Italiano;;349912;0;349912;
+8414;130;CHIMICA GENERALE ED INORGANICA (1);;modulo;48127;Rampazzo Enrico;;;353830;349912;349912;
+8414;130;CHIMICA GENERALE ED INORGANICA (2);;modulo;31891;Zaccheroni Nelsi;Italiano;;353831;349912;349912;
+8414;130;CHIMICA GENERALE ED INORGANICA (3);;modulo;36742;Soavi Francesca;;;378799;349912;349912;
+8414;405;FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349915;;73998;Patrignani Claudia;Italiano;;349915;0;349915;
+8414;405;FISICA (1);;modulo;73998;Patrignani Claudia;Italiano;;353832;349915;349915;353832
+8414;405;FISICA (2);;modulo;73998;Patrignani Claudia;;;353833;349915;349915;
+8414;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349916;;73998;Patrignani Claudia;Italiano;;349916;0;349916;
+8414;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349920;;15769;Girotti Stefano;Italiano;;349920;0;349920;
+8414;90;CHIMICA ANALITICA (1);;modulo;15769;Girotti Stefano;Italiano;;367283;349920;349920;
+8414;90;CHIMICA ANALITICA (2);;modulo;35802;Mirasoli Mara;;;367284;349920;349920;
+8414;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349923;;30110;Lucarini Marco;Italiano;;349923;0;349923;
+8414;148;CHIMICA ORGANICA (1);;modulo;30110;Lucarini Marco;Italiano;;367266;349923;349923;
+8414;148;CHIMICA ORGANICA (2);;modulo;38709;Franchi Paola;;;367267;349923;349923;
+8414;714;MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349924;;35406;Bonvicini Francesca;Italiano;;349924;0;349924;
+8414;57359;ANALISI DEI MEDICINALI I;;;;;;;349925;0;349925;
+8414;57359;ANALISI DEI MEDICINALI I (GR.A) (1);;modulo;38231;Mandrioli Roberto;;;402852;402851;349925;
+8414;57359;ANALISI DEI MEDICINALI I (GR.A) (2);;modulo;38231;Mandrioli Roberto;Italiano;;402853;402851;349925;402853
+8414;57359;ANALISI DEI MEDICINALI I (GR.B) (1);;modulo;32525;Gobbi Silvia;;;402855;402854;349925;
+8414;57359;ANALISI DEI MEDICINALI I (GR.B) (2);;modulo;36872;Morigi Rita;Italiano;;402856;402854;349925;
+8414;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349931;;23486;Hrelia Silvana;Italiano;;349931;0;349931;
+8414;61;BIOCHIMICA (1);;modulo;23486;Hrelia Silvana;Italiano;;402823;349931;349931;
+8414;61;BIOCHIMICA (2);;modulo;34490;Angeloni Cristina;;;402824;349931;349931;
+8414;62;BIOCHIMICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349960;;23486;Hrelia Silvana;Italiano;;349960;0;349960;
+8414;62;BIOCHIMICA APPLICATA (1);;modulo;23486;Hrelia Silvana;Italiano;;376113;349960;349960;
+8414;62;BIOCHIMICA APPLICATA (2);;modulo;43410;Malaguti Marco;;;376114;349960;349960;
+8414;1234;FARMACOGNOSIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349961;;22826;Candeletti Sanzio;Italiano;;349961;0;349961;
+8414;1234;FARMACOGNOSIA (1);;modulo;22826;Candeletti Sanzio;Italiano;;376133;349961;349961;
+8414;1234;FARMACOGNOSIA (2);;modulo;31793;Fimognari Carmela;;;376134;349961;349961;
+8414;11438;ANALISI DEI MEDICINALI II;;;;;;;349963;0;349963;
+8414;11777;CHIMICA FARMACEUTICA E TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349964;;30690;Bisi Alessandra;Italiano;;349964;0;349964;
+8414;126;CHIMICA FARMACEUTICA E TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349965;;16874;Tumiatti Vincenzo;Italiano;;349965;0;349965;
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA;;;;;;;349966;0;349966;
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA (GR.B) (1);;modulo;23965;Andrisano Vincenza;Italiano;;419854;386982;349966;419809
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA (GR.B) (2);;modulo;23965;Andrisano Vincenza;;;419855;386982;349966;
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA (GR.A) (1);;modulo;23965;Andrisano Vincenza;Italiano;;419852;386983;349966;419809
+8414;11961;METODOLOGIE SPECIALI IN ANALISI FARMACEUTICA (GR.A) (2);;modulo;42379;De Simone Angela;;;419853;386983;349966;419810
+8414;2359;PATOLOGIA E FISIOPATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349969;;33133;Bonaf?¿ Massimiliano;Italiano;;349969;0;349969;
+8414;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349970;;40179;Bertozzi Nicoletta;Italiano;;349970;0;349970;
+8414;37182;FISIOLOGIA DELLA NUTRIZIONE, BIOCHIMICA DELLA NUTRIZIONE (C.I.);;;;;;;349973;0;349973;
+8414;2715;FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349976;modulo;38563;Gamberini Michela;Italiano;;349976;349973;349973;349976
+8414;13952;BIOCHIMICA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349977;modulo;23486;Hrelia Silvana;Italiano;;349977;349973;349973;
+8414;13880;FARMACOLOGIA E FARMACOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349981;;34013;Tarozzi Andrea;Italiano;;349981;0;349981;
+8414;13880;FARMACOLOGIA E FARMACOTERAPIA (1);;modulo;34013;Tarozzi Andrea;Italiano;;386987;349981;349981;
+8414;13880;FARMACOLOGIA E FARMACOTERAPIA (2);;modulo;34013;Tarozzi Andrea;;;386988;349981;349981;
+8414;13880;FARMACOLOGIA E FARMACOTERAPIA (3);;modulo;34013;Tarozzi Andrea;;;388533;349981;349981;
+8414;32481;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349982;;23965;Andrisano Vincenza;Italiano;;349982;0;349982;
+8414;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349983;;36873;Bigucci Federica;Italiano;;349983;0;349983;
+8414;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (1);;modulo;36873;Bigucci Federica;Italiano;;394679;349983;349983;
+8414;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (2);;modulo;36785;Rampinelli Patrizia;;;394680;349983;349983;
+8414;32044;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE I (3);;modulo;36873;Bigucci Federica;;;394681;349983;349983;
+8414;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349984;;16905;Orienti Isabella;Italiano;;349984;0;349984;
+8414;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (1);;modulo;16905;Orienti Isabella;Italiano;;394349;349984;349984;
+8414;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (2);;modulo;50460;Marchitto Leonardo;Italiano;;402848;349984;349984;
+8414;32046;TECNOLOGIA E LEGISLAZIONE FARMACEUTICHE II (3);;modulo;50650;Mazzucco Antonio;;;394350;349984;349984;
+8414;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349985;;31793;Fimognari Carmela;Italiano;;349985;0;349985;
+8414;3033;TOSSICOLOGIA (1);;modulo;31793;Fimognari Carmela;Italiano;;394352;349985;349985;
+8414;3033;TOSSICOLOGIA (2);;modulo;41368;Manucra Davide;;;394353;349985;349985;
+8414;41663;ACQUISIZIONE DI CAPACITA' GESTIONALI E RELAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/349986;;38902;Romagnoli Roberto;Italiano;;349986;0;349986;
+8414;443;FISIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/351311;;15880;Aicardi Giorgio;Italiano;;351311;0;351311;
+8414;443;FISIOLOGIA GENERALE (1);;modulo;39724;Caprini Marco;;;376115;351311;351311;
+8414;443;FISIOLOGIA GENERALE (2);;modulo;15880;Aicardi Giorgio;Italiano;;376116;351311;351311;
+8414;443;FISIOLOGIA GENERALE (3);;modulo;15880;Aicardi Giorgio;;;376117;351311;351311;
+8414;20629;PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/354432;;34094;Falconi Mirella;Italiano;;354432;0;354432;
+8414;20629;PRIMO SOCCORSO (1);;modulo;34094;Falconi Mirella;Italiano;;354433;354432;354432;
+8414;20629;PRIMO SOCCORSO (2);;modulo;42803;Bigi Elena;;;354434;354432;354432;
+8414;41667;FINALITA' E GESTIONE DELLA FARMACIA OSPEDALIERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387515;;40084;Minguzzi Martina;Italiano;;387515;0;387515;
+8414;36420;ACQUISIZIONE DI CAPACIT?Ç GESTIONALI ED INFORMATICHE IN FARMACIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387516;;39271;Castellari Monica;Italiano;;387516;0;387516;
+8414;76274;RADIOFARMACI PER IMAGING MOLECOLARE CLINICO E SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394145;;37312;Boschi Stefano;Italiano;;394145;0;394145;
+8414;79013;COMPLEMENTI DI GALENICA IN FARMACIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402863;;55224;Carbini Gianfrancesco;Italiano;;402863;0;402863;
+8414;644;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403380;;;;;;403380;0;403380;370083
+8414;82103;ADVANCED ANALYTICAL METHODOLOGIES FOR BIOTECHNOLOGICAL/BIOLOGICAL MEDICINAL PRODUCTS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413138;;23965;Andrisano Vincenza;Inglese;;413138;0;413138;
+8414;6944;COMPLEMENTI DI CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421007;;15874;Grossi Loris;Italiano;;421007;0;421007;
+8414;3599;METODI FISICI IN CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/421015;;15874;Grossi Loris;Italiano;;421015;0;421015;
+8512;30595;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;;;;;363980;0;363980;
+8512;61;BIOCHIMICA;;modulo;;;;;363982;363980;363980;
+8512;24234;NUTRIZIONE UMANA;;modulo;;;;;363981;363980;363980;
+8512;30748;ANATOMIA UMANA C. I.;;;;;;;363983;0;363983;
+8512;66052;ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363985;modulo;34180;Franchi Marco;Italiano;;363985;363983;363983;
+8512;65787;ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363984;modulo;34094;Falconi Mirella;Italiano;;363984;363983;363983;
+8512;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/363995;;38393;Gatta Giorgio;Italiano;;363995;0;363995;
+8512;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI (1);;modulo;38393;Gatta Giorgio;Italiano;;378825;363995;363995;
+8512;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI (2);;modulo;42593;Cortesi Matteo;;;378826;363995;363995;
+8512;30643;PEDAGOGIA GENERALE E DEL GIOCO C. I.;;;;;;;364000;0;364000;
+8512;5760;PEDAGOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364002;modulo;35644;Cuconato Morena;Italiano;;364002;364000;364000;
+8512;22367;PEDAGOGIA DEL GIOCO E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364001;modulo;15944;Farn?¿ Roberto;Italiano;;364001;364000;364000;
+8512;14030;ANTROPOMETRIA ED ERGONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364004;;34686;Toselli Stefania;Italiano;;364004;0;364004;
+8512;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364837;;23256;Tuozzi Giovanni;Italiano;;364837;0;364837;
+8512;7309;DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364839;;14277;Bottari Carlo;Italiano;;364839;0;364839;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364844;;36053;Ferrante Christian;Italiano;;364844;0;364844;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (1);;modulo;36053;Ferrante Christian;Italiano;;380524;364844;364844;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (2);;modulo;34165;Palladino Leonardo;;;380525;364844;364844;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (3);;modulo;36053;Ferrante Christian;;;380526;364844;364844;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4);;modulo;42319;Ansaloni Matteo;;;380527;364844;364844;
+8512;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (5);;modulo;38783;Dadati Mario;;;380528;364844;364844;
+8512;66060;TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.;;;;;;;364863;0;364863;
+8512;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364873;modulo;34968;Ciacci Simone;Italiano;;364873;364863;364863;
+8512;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (1);;modulo;34968;Ciacci Simone;Italiano;;378503;364873;364863;
+8512;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (2);;modulo;34968;Ciacci Simone;;;378504;364873;364863;
+8512;66064;DIDATTICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364874;modulo;34968;Ciacci Simone;Italiano;;364874;364863;364863;
+8512;66064;DIDATTICA DEGLI SPORT INDIVIDUALI (1);;modulo;34968;Ciacci Simone;Italiano;;378501;364874;364863;
+8512;66064;DIDATTICA DEGLI SPORT INDIVIDUALI (2);;modulo;50458;Liviotti Gaia;;;378502;364874;364863;
+8512;30830;IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.;;;;;;;364892;0;364892;
+8512;57138;IGIENE GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364895;modulo;15963;Leoni Erica;Italiano;;364895;364892;364892;
+8512;30832;TRAUMATOLOGIA E PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/364896;modulo;32664;Marcacci Maurilio;Italiano;;364896;364892;364892;
+8512;30832;TRAUMATOLOGIA E PRIMO SOCCORSO (1);;modulo;32664;Marcacci Maurilio;Italiano;;386877;364896;364892;
+8512;30832;TRAUMATOLOGIA E PRIMO SOCCORSO (2);;modulo;600950;Miscione Maria Teresa;;;386878;364896;364892;
+8512;72533;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;;;;;384281;0;384281;
+8512;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384282;modulo;23797;Stefanelli Claudio;Italiano;;384282;384281;384281;
+8512;24234;NUTRIZIONE UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384284;modulo;40588;Lorenzini Antonello;Italiano;;384284;384281;384281;
+8512;37201;BIOCHIMICA METABOLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384283;modulo;23797;Stefanelli Claudio;Italiano;;384283;384281;384281;
+8512;57113;BIOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384285;;34299;Canaider Silvia;Italiano;;384285;0;384285;
+8512;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384330;;39293;Martelli Stefano;Italiano;;384330;0;384330;
+8512;72562;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.;;;;;;;384332;0;384332;
+8512;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384333;modulo;47860;Bragonzoni Laura;Italiano;;384333;384332;384332;
+8512;72563;CINESIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384334;modulo;47860;Bragonzoni Laura;Italiano;;384334;384332;384332;
+8512;72565;TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?Ç MOTORIA PREVENTIVA E PER L'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384336;;33957;Ceciliani Andrea;Italiano;;384336;0;384336;
+8512;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384338;;34161;Merni Franco;Italiano;;384338;0;384338;
+8512;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO (1);;modulo;34161;Merni Franco;Italiano;;401503;384338;384338;
+8512;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO (2);;modulo;34374;Semprini Gabriele;;;401504;384338;384338;
+8512;72567;ATTIVIT?Ç MOTORIA E SALUTE C.I.;;;;;;;384340;0;384340;
+8512;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384345;modulo;34978;Maietta Latessa Pasqualino;Italiano;;384345;384340;384340;
+8512;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE (1);;modulo;34978;Maietta Latessa Pasqualino;Italiano;;401501;384345;384340;
+8512;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE (2);;modulo;40476;Belli Guido;;;401502;384345;384340;
+8512;9151;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384346;modulo;38721;Veronesi Maddalena;Italiano;;384346;384340;384340;
+8512;46248;FARMACOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384348;modulo;31755;Maffei Francesca;Italiano;;384348;384340;384340;
+8512;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384350;;39332;Raimondo Pierluigi;Italiano;;384350;0;384350;
+8512;70471;ULTIMATE FRISBEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386678;;33124;Franceschetti Francesco;Italiano;;386678;0;386678;
+8512;914;STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386679;;24370;Lubisco Alessandro;Italiano;;386679;0;386679;
+8512;914;STATISTICA (1);;modulo;24370;Lubisco Alessandro;Italiano;;388182;386679;386679;
+8512;914;STATISTICA (2);;modulo;24370;Lubisco Alessandro;;;388183;386679;386679;
+8512;38650;BASEBALL;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386684;;39384;Negrini Loredana;Italiano;;386684;0;386684;
+8512;38700;TENNIS TAVOLO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386687;;42632;Malagoli Lanzoni Ivan;Italiano;;386687;0;386687;
+8512;70512;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386688;;35644;Cuconato Morena;Italiano;;386688;0;386688;
+8512;1992;STORIA DELL'EDUCAZIONE FISICA E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386698;;47859;Cicognani Olga;Italiano;;386698;0;386698;
+8512;12513;PSICOLOGIA COGNITIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401362;;38717;Tessari Alessia;Italiano;;401362;0;401362;
+8512;30761;FISIOLOGIA UMANA C. I.;;;;;;;401363;0;401363;
+8512;78450;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401364;modulo;35982;Raffi Milena;Italiano;;401364;401363;401363;
+8512;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401365;modulo;15449;Squatrito Salvatore;Italiano;;401365;401363;401363;
+8512;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI (1);;modulo;15449;Squatrito Salvatore;Italiano;;414749;401365;401363;
+8512;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI (2);;modulo;35982;Raffi Milena;;;414750;401365;401363;
+8517;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368458;;73998;Patrignani Claudia;Italiano;;368458;0;368458;
+8517;67136;ANALISI DEI PRODOTTI PER LA SALUTE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368461;;38231;Mandrioli Roberto;Italiano;;368461;0;368461;
+8517;67136;ANALISI DEI PRODOTTI PER LA SALUTE I (1);;modulo;38231;Mandrioli Roberto;Italiano;;369652;368461;368461;402853
+8517;67136;ANALISI DEI PRODOTTI PER LA SALUTE I (2);;modulo;38231;Mandrioli Roberto;Italiano;;369653;368461;368461;402853
+8517;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368463;;39548;Teti Gabriella;Italiano;;368463;0;368463;
+8517;10083;ANATOMIA UMANA (1);;modulo;39548;Teti Gabriella;Italiano;;370138;368463;368463;
+8517;10083;ANATOMIA UMANA (2);;modulo;43428;Nicolini Benedetta;;;370139;368463;368463;
+8517;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368464;;35802;Mirasoli Mara;Italiano;;368464;0;368464;
+8517;90;CHIMICA ANALITICA (1);;modulo;36900;Zattoni Andrea;;;370141;368464;368464;
+8517;90;CHIMICA ANALITICA (2);;modulo;35802;Mirasoli Mara;Italiano;;370142;368464;368464;
+8517;67320;CHIMICA GENERALE E INORGANICA, CHIMICA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368468;;24273;Arbizzani Catia;Italiano;;368468;0;368468;
+8517;67320;CHIMICA GENERALE E INORGANICA, CHIMICA FISICA (1);;modulo;35342;Fermani Simona;;;369641;368468;368468;
+8517;67320;CHIMICA GENERALE E INORGANICA, CHIMICA FISICA (2);;modulo;24273;Arbizzani Catia;Italiano;;369642;368468;368468;
+8517;644;LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368512;;;;;;368512;0;368512;370083
+8517;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368518;;73998;Patrignani Claudia;Italiano;;368518;0;368518;
+8517;15968;FISICA E MATEMATICA (1);;modulo;48151;Bordoni Stefano;;;370146;368518;368518;349896
+8517;15968;FISICA E MATEMATICA (2);;modulo;73998;Patrignani Claudia;Italiano;;370147;368518;368518;353832
+8517;67138;ANALISI DEI PRODOTTI PER LA SALUTE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368520;;23965;Andrisano Vincenza;Italiano;;368520;0;368520;
+8517;67138;ANALISI DEI PRODOTTI PER LA SALUTE II (1);;modulo;23965;Andrisano Vincenza;Italiano;;419809;368520;368520;419809
+8517;67138;ANALISI DEI PRODOTTI PER LA SALUTE II (2);;modulo;42379;De Simone Angela;;;419810;368520;368520;419810
+8517;67174;BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368755;;30313;Neyroz Paolo;Italiano;;368755;0;368755;
+8517;67174;BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE (1);;modulo;46096;Righi Valeria;;;376980;368755;368755;
+8517;67174;BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE (2);;modulo;30313;Neyroz Paolo;Italiano;;376981;368755;368755;
+8517;67174;BIOCHIMICA GENERALE, APPLICATA E DELLA NUTRIZIONE (3);;modulo;39141;Leoncini Emanuela;;;376982;368755;368755;
+8517;67176;FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368766;;15880;Aicardi Giorgio;Italiano;;368766;0;368766;
+8517;67176;FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE (1);;modulo;39724;Caprini Marco;;;376972;368766;368766;
+8517;67176;FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE (2);;modulo;15880;Aicardi Giorgio;Italiano;;376973;368766;368766;
+8517;67176;FISIOLOGIA E FISIOLOGIA DELLA NUTRIZIONE (3);;modulo;38563;Gamberini Michela;Italiano;;376975;368766;368766;349976
+8517;4318;CHIMICA FARMACEUTICA E TOSSICOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368769;;16874;Tumiatti Vincenzo;Italiano;;368769;0;368769;
+8517;4318;CHIMICA FARMACEUTICA E TOSSICOLOGICA (1);;modulo;16874;Tumiatti Vincenzo;;;413113;368769;368769;
+8517;4318;CHIMICA FARMACEUTICA E TOSSICOLOGICA (2);;modulo;16874;Tumiatti Vincenzo;Italiano;;413114;368769;368769;
+8517;67022;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368772;;34002;Campana Gabriele;Italiano;;368772;0;368772;
+8517;67022;FARMACOLOGIA (1);;modulo;34002;Campana Gabriele;Italiano;;376983;368772;368772;
+8517;67022;FARMACOLOGIA (2);;modulo;46835;Carboni Lucia;;;376984;368772;368772;
+8517;46203;MICROBIOLOGIA E ANALISI MICROBIOLOGICA;;;;;;;368781;0;368781;
+8517;46203;MICROBIOLOGIA E ANALISI MICROBIOLOGICA (G.A) (1);;modulo;30230;Gentilomi Giovanna Angela;Italiano;;376986;376985;368781;
+8517;46203;MICROBIOLOGIA E ANALISI MICROBIOLOGICA (G.A) (2);;modulo;34152;Manaresi Elisabetta;;;376987;376985;368781;
+8517;67178;IGIENE E PATOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368785;;15963;Leoni Erica;Italiano;;368785;0;368785;
+8517;67178;IGIENE E PATOLOGIA GENERALE (1);;modulo;15963;Leoni Erica;Italiano;;376995;368785;368785;384972
+8517;67178;IGIENE E PATOLOGIA GENERALE (2);;modulo;33133;Bonaf?¿ Massimiliano;;;376996;368785;368785;
+8517;67188;ANALISI DEI PRODOTTI PER LA SALUTE III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368825;;23965;Andrisano Vincenza;Italiano;;368825;0;368825;
+8517;67190;GESTIONE DEL SISTEMA QUALITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368831;;15769;Girotti Stefano;Italiano;;368831;0;368831;
+8517;67190;GESTIONE DEL SISTEMA QUALITA' (1);;modulo;15769;Girotti Stefano;Italiano;;385005;368831;368831;
+8517;67190;GESTIONE DEL SISTEMA QUALITA' (2);;modulo;48152;Pugli?¿ Diego;;;385006;368831;368831;
+8517;35074;PROVA FINALE L;;;;;;;368832;0;368832;
+8517;18622;TIROCINIO L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368836;;31886;Valgimigli Luca;Italiano;;368836;0;368836;
+8517;3033;TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368839;;31793;Fimognari Carmela;Italiano;;368839;0;368839;
+8517;3033;TOSSICOLOGIA (1);;modulo;31793;Fimognari Carmela;Italiano;;385431;368839;368839;
+8517;3033;TOSSICOLOGIA (2);;modulo;38152;Marchesi Alessandra;;;385432;368839;368839;
+8517;3033;TOSSICOLOGIA (3);;modulo;46119;Turrini Eleonora;;;403273;368839;368839;
+8517;67193;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368840;;50460;Marchitto Leonardo;Italiano;;368840;0;368840;
+8517;67193;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE II (1);;modulo;50460;Marchitto Leonardo;Italiano;;394517;368840;368840;
+8517;67193;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE II (2);;modulo;76225;Zocchi Roberta;;;394518;368840;368840;
+8517;67194;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368843;;50460;Marchitto Leonardo;Italiano;;368843;0;368843;
+8517;67194;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I (1);;modulo;50460;Marchitto Leonardo;Italiano;;385421;368843;368843;
+8517;67194;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I (2);;modulo;50650;Mazzucco Antonio;;;385422;368843;368843;
+8517;67194;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI PER LA SALUTE I (3);;modulo;36873;Bigucci Federica;;;402688;368843;368843;
+8517;73741;CHIMICA DEGLI ALIMENTI E DEGLI ANTIOSSIDANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387517;;31886;Valgimigli Luca;Italiano;;387517;0;387517;
+8517;73741;CHIMICA DEGLI ALIMENTI E DEGLI ANTIOSSIDANTI (1);;modulo;47049;Scarponi Franco;Italiano;;387519;387517;387517;
+8517;73741;CHIMICA DEGLI ALIMENTI E DEGLI ANTIOSSIDANTI (2);;modulo;31886;Valgimigli Luca;Italiano;;387520;387517;387517;
+8517;21336;MALATTIE CUTANEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387518;;39135;Catrani Stefano;Italiano;;387518;0;387518;
+8517;75931;IDONEIT?Ç DI LINGUA INGLESE B2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394157;;;;;;394157;0;394157;370081
+8517;79054;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402992;;31886;Valgimigli Luca;Italiano;;402992;0;402992;
+8517;79054;CHIMICA ORGANICA (1);;modulo;31886;Valgimigli Luca;Italiano;;402995;402992;402992;
+8517;79054;CHIMICA ORGANICA (2);;modulo;15874;Grossi Loris;;;402996;402992;402992;
+8518;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368207;;24257;Rovelli Tiziano;Italiano;;368207;0;368207;368207
+8518;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368235;;23763;Martelli Alberto Maria;Italiano;;368235;0;368235;
+8518;10083;ANATOMIA UMANA (1);;modulo;23763;Martelli Alberto Maria;Italiano;;414710;368235;368235;414710
+8518;10083;ANATOMIA UMANA (2);;modulo;23763;Martelli Alberto Maria;;;414711;368235;368235;414711
+8518;10083;ANATOMIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368236;;23763;Martelli Alberto Maria;Italiano;;368236;0;368236;
+8518;10083;ANATOMIA UMANA (1);;modulo;23763;Martelli Alberto Maria;Italiano;;414716;368236;368236;414710
+8518;10083;ANATOMIA UMANA (2);;modulo;23763;Martelli Alberto Maria;;;414717;368236;368236;414711
+8518;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368238;;36900;Zattoni Andrea;Italiano;;368238;0;368238;
+8518;90;CHIMICA ANALITICA (1);;modulo;36900;Zattoni Andrea;Italiano;;388550;368238;368238;388550
+8518;90;CHIMICA ANALITICA (2);;modulo;36900;Zattoni Andrea;;;388551;368238;368238;388551
+8518;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368245;;31887;Guernelli Susanna;Italiano;;368245;0;368245;368245
+8518;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368259;;24257;Rovelli Tiziano;Italiano;;368259;0;368259;
+8518;15968;FISICA E MATEMATICA (1);;modulo;16902;Cagliari Francesca;Italiano;;369627;368259;368259;369607
+8518;15968;FISICA E MATEMATICA (2);;modulo;24257;Rovelli Tiziano;Italiano;;369628;368259;368259;369628
+8518;31567;ANALISI DEI FITODERIVATI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368260;;33829;Cavalli Andrea;Italiano;;368260;0;368260;
+8518;31571;ANALISI DEI FITODERIVATI II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368262;;36405;Belluti Federica;Italiano;;368262;0;368262;
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368263;;31023;Fiorentini Diana;Italiano;;368263;0;368263;
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE (1);;modulo;31023;Fiorentini Diana;Italiano;;376940;368263;368263;
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE (2);;modulo;41654;Prata Cecilia;;;376941;368263;368263;376941
+8518;67119;CHIMICA FARMACEUTICA E DELLE SOSTANZE NATURALI (C.I.);;;;;;;368267;0;368267;
+8518;118;CHIMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368269;modulo;42977;Masetti Matteo;Italiano;;368269;368267;368267;
+8518;118;CHIMICA FARMACEUTICA (1);;modulo;16875;Roberti Marinella;Italiano;;376930;368269;368267;
+8518;118;CHIMICA FARMACEUTICA (2);;modulo;42977;Masetti Matteo;Italiano;;376931;368269;368267;
+8518;111;CHIMICA DELLE SOSTANZE ORGANICHE NATURALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368270;modulo;30684;Masiero Stefano;Italiano;;368270;368267;368267;
+8518;111;CHIMICA DELLE SOSTANZE ORGANICHE NATURALI (1);;modulo;30684;Masiero Stefano;Italiano;;402816;368270;368267;
+8518;111;CHIMICA DELLE SOSTANZE ORGANICHE NATURALI (2);;modulo;31886;Valgimigli Luca;;;402817;368270;368267;
+8518;31578;FARMACOGNOSIA E FITOTERAPIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368273;;46835;Carboni Lucia;Italiano;;368273;0;368273;
+8518;31578;FARMACOGNOSIA E FITOTERAPIA (1);;modulo;14473;Speroni Ester;Italiano;;376935;368273;368273;
+8518;31578;FARMACOGNOSIA E FITOTERAPIA (2);;modulo;14473;Speroni Ester;;;376936;368273;368273;
+8518;31578;FARMACOGNOSIA E FITOTERAPIA (3);;modulo;46835;Carboni Lucia;Italiano;;376937;368273;368273;
+8518;59620;PATOLOGIA E MICROBIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368274;;31440;Brigotti Maurizio;Italiano;;368274;0;368274;
+8518;59620;PATOLOGIA E MICROBIOLOGIA (1);;modulo;31440;Brigotti Maurizio;Italiano;;376938;368274;368274;376938
+8518;59620;PATOLOGIA E MICROBIOLOGIA (2);;modulo;34152;Manaresi Elisabetta;Italiano;;376939;368274;368274;376944
+8518;5181;FISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368275;;30201;Ferroni Stefano;Italiano;;368275;0;368275;
+8518;3469;FARMACOLOGIA E TOSSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368286;;39479;Canistro Donatella;Italiano;;368286;0;368286;
+8518;3469;FARMACOLOGIA E TOSSICOLOGIA (1);;modulo;33080;Tonelli Roberto;;;387605;368286;368286;
+8518;3469;FARMACOLOGIA E TOSSICOLOGIA (2);;modulo;39479;Canistro Donatella;Italiano;;387606;368286;368286;
+8518;17952;CONTROLLO E VALIDAZIONE DEI FITODERIVATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368288;;35580;Vitali Beatrice;Italiano;;368288;0;368288;
+8518;17952;CONTROLLO E VALIDAZIONE DEI FITODERIVATI (1);;modulo;35580;Vitali Beatrice;Italiano;;388556;368288;368288;
+8518;17952;CONTROLLO E VALIDAZIONE DEI FITODERIVATI (2);;modulo;;;;;388557;368288;368288;
+8518;67121;FORMULAZIONI FITOCOSMETICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368289;;36062;Cerchiara Teresa;Italiano;;368289;0;368289;
+8518;67121;FORMULAZIONI FITOCOSMETICHE (1);;modulo;36062;Cerchiara Teresa;Italiano;;414734;368289;368289;
+8518;67121;FORMULAZIONI FITOCOSMETICHE (2);;modulo;36062;Cerchiara Teresa;;;414735;368289;368289;
+8518;67123;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI ERBORISTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368317;;36062;Cerchiara Teresa;Italiano;;368317;0;368317;
+8518;67123;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI ERBORISTICI (1);;modulo;36062;Cerchiara Teresa;Italiano;;386859;368317;368317;
+8518;67123;TECNOLOGIA E LEGISLAZIONE DEI PRODOTTI ERBORISTICI (2);;modulo;31885;Luppi Barbara;;;386860;368317;368317;
+8518;35074;PROVA FINALE L;;;;;;;368319;0;368319;
+8518;18034;ACQUISIZIONE DI CAPACITA' INFORMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368322;;24257;Rovelli Tiziano;Italiano;;368322;0;368322;368207
+8518;13622;BIOLOGIA VEGETALE E ANIMALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368325;;36034;Antognoni Fabiana;Italiano;;368325;0;368325;
+8518;13622;BIOLOGIA VEGETALE E ANIMALE (1);;modulo;36034;Antognoni Fabiana;Italiano;;370301;368325;368325;414720
+8518;13622;BIOLOGIA VEGETALE E ANIMALE (2);;modulo;36445;Marescalchi Ombretta;;;370302;368325;368325;414721
+8518;90;CHIMICA ANALITICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368326;;36900;Zattoni Andrea;Italiano;;368326;0;368326;
+8518;90;CHIMICA ANALITICA (1);;modulo;36900;Zattoni Andrea;Italiano;;388554;368326;368326;388550
+8518;90;CHIMICA ANALITICA (2);;modulo;36900;Zattoni Andrea;;;388555;368326;368326;388551
+8518;148;CHIMICA ORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368330;;31887;Guernelli Susanna;Italiano;;368330;0;368330;368245
+8518;15968;FISICA E MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368340;;24257;Rovelli Tiziano;Italiano;;368340;0;368340;
+8518;15968;FISICA E MATEMATICA (1);;modulo;16902;Cagliari Francesca;Italiano;;369629;368340;368340;369607
+8518;15968;FISICA E MATEMATICA (2);;modulo;24257;Rovelli Tiziano;Italiano;;369630;368340;368340;369628
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368341;;31627;Calonghi Natalia;Italiano;;368341;0;368341;
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE (1);;modulo;31627;Calonghi Natalia;Italiano;;376942;368341;368341;
+8518;67117;BIOCHIMICA GENERALE E DELLA NUTRIZIONE (2);;modulo;41654;Prata Cecilia;;;376943;368341;368341;376941
+8518;31930;CHIMICA DEGLI INQUINANTI (C.I.);;;;;;;368343;0;368343;
+8518;11268;CHIMICA ANALITICA DEGLI INQUINANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368344;modulo;31622;Guardigli Massimo;Italiano;;368344;368343;368343;
+8518;55002;CHIMICA DELLE SOSTANZE ORGANICHE INQUINANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368345;modulo;38712;Pieraccini Silvia;Italiano;;368345;368343;368343;
+8518;67128;FONDAMENTI DI FISIOLOGIA GENERALE E DELLA NUTRIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368357;;30201;Ferroni Stefano;Italiano;;368357;0;368357;
+8518;67130;MICROBIOLOGIA E PATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368408;;34152;Manaresi Elisabetta;Italiano;;368408;0;368408;
+8518;67130;MICROBIOLOGIA E PATOLOGIA (1);;modulo;34152;Manaresi Elisabetta;Italiano;;376944;368408;368408;376944
+8518;67130;MICROBIOLOGIA E PATOLOGIA (2);;modulo;31440;Brigotti Maurizio;Italiano;;376945;368408;368408;376938
+8518;67131;CHIMICA E ANALISI DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368409;;24280;Budriesi Roberta;Italiano;;368409;0;368409;
+8518;67131;CHIMICA E ANALISI DEGLI ALIMENTI (1);;modulo;24280;Budriesi Roberta;Italiano;;378994;368409;368409;
+8518;67131;CHIMICA E ANALISI DEGLI ALIMENTI (2);;modulo;24280;Budriesi Roberta;;;378995;368409;368409;
+8518;55007;ANALISI CHIMICO TOSSICOLOGICA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368410;;36870;Rosini Michela;Italiano;;368410;0;368410;
+8518;55007;ANALISI CHIMICO TOSSICOLOGICA II (1);;modulo;36870;Rosini Michela;Italiano;;385584;368410;368410;
+8518;55007;ANALISI CHIMICO TOSSICOLOGICA II (2);;modulo;36870;Rosini Michela;;;385585;368410;368410;
+8518;67132;BIOTECNOLOGIE MICROBICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368412;;35580;Vitali Beatrice;Italiano;;368412;0;368412;
+8518;11967;TOSSICOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368413;;39573;Angelini Sabrina;Italiano;;368413;0;368413;
+8518;11967;TOSSICOLOGIA APPLICATA (1);;modulo;42227;Lenzi Monia;;;387566;368413;368413;
+8518;11967;TOSSICOLOGIA APPLICATA (2);;modulo;39144;Morroni Fabiana;;;387567;368413;368413;
+8518;11967;TOSSICOLOGIA APPLICATA (3);;modulo;39573;Angelini Sabrina;Italiano;;414745;368413;368413;
+8518;67133;NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368414;;31879;Cavallari Cristina;Italiano;;368414;0;368414;
+8518;67133;NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE (1);;modulo;43425;Mortera Gabriella;;;388415;368414;368414;
+8518;67133;NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE (2);;modulo;81517;Autore Lorenzo;;;388416;368414;368414;
+8518;67133;NORMATIVA DELL'AMBIENTE E DELLA PRODUZIONE INDUSTRIALE (3);;modulo;31879;Cavallari Cristina;Italiano;;389137;368414;368414;
+8518;35074;PROVA FINALE L;;;;;;;368417;0;368417;
+8518;31867;FARMACOLOGIA (C.I.);;;;;;;368425;0;368425;
+8518;14163;FARMACOLOGIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368426;modulo;22826;Candeletti Sanzio;Italiano;;368426;368425;368425;
+8518;14163;FARMACOLOGIA I (1);;modulo;22826;Candeletti Sanzio;Italiano;;414732;368426;368425;
+8518;14163;FARMACOLOGIA I (2);;modulo;34002;Campana Gabriele;;;414733;368426;368425;
+8518;14159;FARMACOLOGIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368427;modulo;39573;Angelini Sabrina;Italiano;;368427;368425;368425;
+8518;31864;ESTRAZIONE DEI FITODERIVATI (C.I.);;;;;;;368446;0;368446;
+8518;31865;ESTRAZIONE DEI FITODERIVATI I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368448;modulo;30438;Leoni Alberto;Italiano;;368448;368446;368446;
+8518;31866;ESTRAZIONE DEI FITODERIVATI II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368449;modulo;23756;Rampa Angela;Italiano;;368449;368446;368446;
+8518;43049;CHIMICA GENERALE E INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368984;;31089;Ferri Elida Nora;Italiano;;368984;0;368984;368984
+8518;43049;CHIMICA GENERALE E INORGANICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368990;;31089;Ferri Elida Nora;Italiano;;368990;0;368990;368984
+8518;55006;ANALISI CHIMICO TOSSICOLOGICA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369052;;41170;Mercolini Laura;Italiano;;369052;0;369052;
+8518;2307;CHIMICA TOSSICOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/369055;;15816;Rambaldi Mirella;Italiano;;369055;0;369055;
+8518;2307;CHIMICA TOSSICOLOGICA (1);;modulo;15816;Rambaldi Mirella;Italiano;;389497;369055;369055;
+8518;2307;CHIMICA TOSSICOLOGICA (2);;modulo;15816;Rambaldi Mirella;;;389498;369055;369055;
+8518;17944;MARKETING DEI PRODOTTI ERBORISTICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385783;;33165;Spadoni Roberta;Italiano;;385783;0;385783;
+8518;73101;ERBORISTERIA APPLICATA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385785;;41372;Tavazzi Sandra;Italiano;;385785;0;385785;
+8518;73102;ERBORISTERIA APPLICATA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385787;;47891;Borsari Giuseppina;Italiano;;385787;0;385787;
+8518;55003;CHIMICA FISICA PER L'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385788;;24273;Arbizzani Catia;Italiano;;385788;0;385788;385788
+8518;49236;ECONOMIA E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385791;;42806;Ferrari Patrizio;Italiano;;385791;0;385791;385791
+8518;73819;APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388181;;14023;Raggi Maria Augusta;Italiano;;388181;0;388181;388181
+8518;76364;DISCIPLINE PROFESSIONALIZZANTI DEL SETTORE TOSSICOLOGICO-AMBIENTALE (C.I.);;;;;;;394287;0;394287;
+8518;55003;CHIMICA FISICA PER L'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394288;modulo;24273;Arbizzani Catia;Italiano;;394288;394287;394287;385788
+8518;73103;SOSTANZE TOSSICHE DELLA MATRICE ACQUA;;modulo;;;;;394289;394287;394287;
+8518;73819;APPROCCIO ANALITICO-TOSSICOLOGICO ALLE SOSTANZE D'ABUSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394290;modulo;14023;Raggi Maria Augusta;Italiano;;394290;394287;394287;388181
+8518;49236;ECONOMIA E MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394291;modulo;42806;Ferrari Patrizio;Italiano;;394291;394287;394287;385791
+8518;76365;COLTIVAZIONE, RACCOLTA E TRASFORMAZIONE DELLE PIANTE OFFICINALI (C.I.);;;;;;;394292;0;394292;
+8518;76337;COLTIVAZIONE DELLE PIANTE OFFICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394293;modulo;35602;Barbanti Lorenzo;Italiano;;394293;394292;394292;
+8518;76363;RACCOLTA E PRIMA TRASFORMAZIONE DELLE PIANTE OFFICINALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394294;modulo;31884;Dinelli Giovanni;Italiano;;394294;394292;394292;
+8518;41669;TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402581;;16906;Hrelia Patrizia;Italiano;;402581;0;402581;
+8518;41669;TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI (1);;modulo;39573;Angelini Sabrina;;;414738;402581;402581;
+8518;41669;TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI (2);;modulo;16906;Hrelia Patrizia;Italiano;;414739;402581;402581;
+8518;41669;TOSSICOLOGIA DELL'AMBIENTE E DEGLI ALIMENTI (3);;modulo;40707;Savini Saverio;;;414740;402581;402581;
+8518;82695;biologia vegetale e animale;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413886;;36034;Antognoni Fabiana;Italiano;;413886;0;413886;
+8518;82695;biologia vegetale e animale (1);;modulo;36034;Antognoni Fabiana;Italiano;;414720;413886;413886;414720
+8518;82695;biologia vegetale e animale (2);;modulo;36445;Marescalchi Ombretta;;;414721;413886;413886;414721
+8518;73;BOTANICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413887;;31459;Poli Ferruccio;Italiano;;413887;0;413887;
+8518;73;BOTANICA FARMACEUTICA (1);;modulo;31459;Poli Ferruccio;Italiano;;414724;413887;413887;
+8518;73;BOTANICA FARMACEUTICA (2);;modulo;42289;Calandriello Francesca;;;414725;413887;413887;
+8518;82777;SICUREZZA ALIMENTARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416160;;46981;Menotta Simonetta;Italiano;;416160;0;416160;
+8518;82778;SOSTANZE TOSSICHE DELLA MATRICE ARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416161;;40706;Poluzzi Vanes;Italiano;;416161;0;416161;
+8519;67161;BASI MOLECOLARI E GENETICHE DELLE MALATTIE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368698;;31847;Capranico Giovanni;Italiano;;368698;0;368698;
+8519;67161;BASI MOLECOLARI E GENETICHE DELLE MALATTIE CON LABORATORIO (1);;modulo;31847;Capranico Giovanni;Italiano;;369661;368698;368698;
+8519;67161;BASI MOLECOLARI E GENETICHE DELLE MALATTIE CON LABORATORIO (2);;modulo;31847;Capranico Giovanni;;;369662;368698;368698;
+8519;35345;BIOCHIMICA E FISIOLOGIA CELLULARI (C.I.);;;;;;;368699;0;368699;
+8519;67321;BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368700;modulo;33570;Porcelli Anna Maria;Italiano;;368700;368699;368699;
+8519;67321;BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE (1);;modulo;33570;Porcelli Anna Maria;;;369657;368700;368699;
+8519;67321;BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE (2);;modulo;16915;Farruggia Giovanna;;;369658;368700;368699;
+8519;67321;BIOCHIMICA DI SISTEMI CELLULARI COMPLESSI CON ESERCITAZIONI E ANALISI DI RETI DI INTERAZIONI PROTEICHE (3);;modulo;33570;Porcelli Anna Maria;Italiano;;369659;368700;368699;
+8519;35461;FISIOLOGIA CELLULARE CON ESERCITAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368701;modulo;30201;Ferroni Stefano;Italiano;;368701;368699;368699;
+8519;67163;BIOSENSORI (C.I.);;;;;;;368704;0;368704;
+8519;67164;BIOSENSORI OTTICI E LUMINESCENTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368705;modulo;15271;Roda Aldo;Italiano;;368705;368704;368704;
+8519;67165;BIOSENSORI ELETTROCHIMICI E PIEZOELETTRICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368706;modulo;24273;Arbizzani Catia;Italiano;;368706;368704;368704;
+8519;35499;BIOTECNOLOGIE DI MICROORGANISMI INDUSTRIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368707;;15889;Brigidi Patrizia;Italiano;;368707;0;368707;
+8519;35499;BIOTECNOLOGIE DI MICROORGANISMI INDUSTRIALI (1);;modulo;15889;Brigidi Patrizia;Italiano;;384409;368707;368707;
+8519;35499;BIOTECNOLOGIE DI MICROORGANISMI INDUSTRIALI (2);;modulo;15889;Brigidi Patrizia;;;384410;368707;368707;
+8519;67166;BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368708;;15669;Spampinato Santi Mario;Italiano;;368708;0;368708;
+8519;67166;BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO (1);;modulo;15669;Spampinato Santi Mario;Italiano;;369665;368708;368708;
+8519;67166;BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO (2);;modulo;40029;Bedini Andrea;;;369666;368708;368708;
+8519;67166;BIOTECNOLOGIE FARMACOLOGICHE E TOSSICOLOGICHE CON LABORATORIO (3);;modulo;33080;Tonelli Roberto;;;369667;368708;368708;
+8519;67167;GENOMICA FUNZIONALE CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368714;;51132;Ferr?¿ Fabrizio;Italiano;;368714;0;368714;
+8519;67167;GENOMICA FUNZIONALE CON LABORATORIO (1);;modulo;51132;Ferr?¿ Fabrizio;Italiano;;414850;368714;368714;
+8519;67167;GENOMICA FUNZIONALE CON LABORATORIO (2);;modulo;37633;Roncarati Davide;;;414852;368714;368714;
+8519;35477;NANOTECNOLOGIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368715;;35840;Zuccheri Giampaolo;Italiano;;368715;0;368715;
+8519;35491;SVILUPPO DI VACCINI (C.I.);;;;;;;368717;0;368717;
+8519;3377;IMMUNOGENETICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368718;modulo;35387;Salvioli Stefano;Italiano;;368718;368717;368717;
+8519;67168;MICROBIOLOGIA GENOMICA E VACCINI CON LABORATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368719;modulo;31620;Gallinella Giorgio;Italiano;;368719;368717;368717;
+8519;67168;MICROBIOLOGIA GENOMICA E VACCINI CON LABORATORIO (1);;modulo;31620;Gallinella Giorgio;Italiano;;369672;368719;368717;
+8519;67168;MICROBIOLOGIA GENOMICA E VACCINI CON LABORATORIO (2);;modulo;31620;Gallinella Giorgio;;;369673;368719;368717;
+8519;67172;PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/368734;;15947;Recanatini Maurizio;Italiano;;368734;0;368734;
+8519;67172;PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA (1);;modulo;15947;Recanatini Maurizio;Italiano;;377019;368734;368734;
+8519;67172;PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA (3);;modulo;36867;Bartolini Manuela;;;377020;368734;368734;
+8519;67172;PROGETTAZIONE RAZIONALE DEI FARMACI E PROTEOMICA FARMACEUTICA (2);;modulo;42977;Masetti Matteo;;;377021;368734;368734;
+8519;70385;CHEMICAL AND GENOMICS-BASED STRATEGIES IN THE DISCOVERY OF NOVEL DRUG TARGETS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378958;;15669;Spampinato Santi Mario;Inglese;;378958;0;378958;
+8519;70387;ATTIVIT?Ç FORMATIVA IN AZIENDA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378959;;15669;Spampinato Santi Mario;Italiano;;378959;0;378959;
+8519;71166;METODI E STRUMENTI DI RICERCA PER LA TESI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/381034;;31620;Gallinella Giorgio;Italiano;;381034;0;381034;
+8519;32731;NEUROFARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/388434;;15669;Spampinato Santi Mario;Italiano;;388434;0;388434;
+8519;6551;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/389286;;30663;Fattori Patrizia;Italiano;;389286;0;389286;
+8519;72964;RICERCA E SVILUPPO DI FARMACI E PICCOLE MOLECOLE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402777;;31792;Bolognesi Maria Laura;Italiano;;402777;0;402777;388628
+8519;67169;NANO E MICRO-SISTEMI FARMACEUTICI CON ESERCITAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415286;;31885;Luppi Barbara;Italiano;;415286;0;415286;
+8766;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384920;;36571;Guizzardi Luca;Italiano;;384920;0;384920;
+8766;72562;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO C.I.;;;;;;;384921;0;384921;
+8766;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384922;modulo;43244;Manners David Neil;Italiano;;384922;384921;384921;
+8766;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO (1);;modulo;43244;Manners David Neil;Italiano;;385093;384922;384921;
+8766;31670;TEORIA E METODOLOGIA DEL MOVIMENTO UMANO (2);;modulo;41955;Pegreffi Francesco;;;385094;384922;384921;
+8766;72563;CINESIOLOGIA UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384923;modulo;47860;Bragonzoni Laura;Italiano;;384923;384921;384921;
+8766;72565;TEORIA TECNICA E DIDATTICA DELL'ATTIVIT?Ç MOTORIA PREVENTIVA E PER L'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384924;;33957;Ceciliani Andrea;Italiano;;384924;0;384924;
+8766;72567;ATTIVIT?Ç MOTORIA E SALUTE C.I.;;;;;;;384925;0;384925;
+8766;31337;FITNESS E ATTIVIT?Ç MOTORIE PER LA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384926;modulo;34978;Maietta Latessa Pasqualino;Italiano;;384926;384925;384925;
+8766;9151;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384927;modulo;16052;Strocchi Enrico;Italiano;;384927;384925;384925;
+8766;46248;FARMACOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384928;modulo;31755;Maffei Francesca;Italiano;;384928;384925;384925;
+8766;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384929;;33652;Cicchella Antonio;Italiano;;384929;0;384929;
+8766;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO (1);;modulo;33652;Cicchella Antonio;Italiano;;402772;384929;384929;402772
+8766;15548;TEORIA E METODOLOGIA DELL'ALLENAMENTO (2);;modulo;33652;Cicchella Antonio;;;402773;384929;384929;
+8766;11316;DIRITTO PRIVATO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384930;;38114;Calvello Stefania;Italiano;;384930;0;384930;
+8766;72533;BIOCHIMICA E NUTRIZIONE UMANA C. I.;;;;;;;384931;0;384931;
+8766;61;BIOCHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384932;modulo;23797;Stefanelli Claudio;Italiano;;384932;384931;384931;
+8766;24234;NUTRIZIONE UMANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384933;modulo;43410;Malaguti Marco;Italiano;;384933;384931;384931;
+8766;37201;BIOCHIMICA METABOLICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384934;modulo;23797;Stefanelli Claudio;Italiano;;384934;384931;384931;
+8766;57113;BIOLOGIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384935;;38816;Casadei Raffaella;Italiano;;384935;0;384935;
+8766;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384937;;23256;Tuozzi Giovanni;Italiano;;384937;0;384937;
+8766;66060;TEORIA E DIDATTICA DEGLI SPORT INDIVIDUALI C.I.;;;;;;;384938;0;384938;
+8766;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384939;modulo;34374;Semprini Gabriele;Italiano;;384939;384938;384938;
+8766;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (1);;modulo;34374;Semprini Gabriele;Italiano;;394429;384939;384938;394429
+8766;66062;TEORIA DEGLI SPORT INDIVIDUALI E DIDATTICA DELL'ATLETICA LEGGERA (2);;modulo;42632;Malagoli Lanzoni Ivan;;;394430;384939;384938;394430
+8766;66064;DIDATTICA DEGLI SPORT INDIVIDUALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384940;modulo;34374;Semprini Gabriele;Italiano;;384940;384938;384938;
+8766;66064;DIDATTICA DEGLI SPORT INDIVIDUALI (1);;modulo;34374;Semprini Gabriele;Italiano;;394431;384940;384938;
+8766;66064;DIDATTICA DEGLI SPORT INDIVIDUALI (2);;modulo;38457;Sartini Renzo;;;394432;384940;384938;
+8766;30748;ANATOMIA UMANA C. I.;;;;;;;384947;0;384947;
+8766;66052;ANATOMIA APPLICATA ALL'ATTIVITA' MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384948;modulo;34180;Franchi Marco;Italiano;;384948;384947;384947;
+8766;65787;ANATOMIA DEGLI ORGANI E DEL SISTEMA NERVOSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384949;modulo;43428;Nicolini Benedetta;Italiano;;384949;384947;384947;
+8766;31354;TEORIA E DIDATTICA DEGLI SPORT NATATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384955;;38393;Gatta Giorgio;Italiano;;384955;0;384955;
+8766;30851;TIROCINIO 1 L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384959;;15963;Leoni Erica;;;384959;0;384959;
+8766;30643;PEDAGOGIA GENERALE E DEL GIOCO C. I.;;;;;;;384960;0;384960;
+8766;5760;PEDAGOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384961;modulo;35926;Tarozzi Massimiliano;Italiano;;384961;384960;384960;
+8766;22367;PEDAGOGIA DEL GIOCO E DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384962;modulo;15944;Farn?¿ Roberto;Italiano;;384962;384960;384960;
+8766;14030;ANTROPOMETRIA ED ERGONOMIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384963;;43118;Spiga Federico;Italiano;;384963;0;384963;
+8766;30852;TIROCINIO 2 L;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384965;;15963;Leoni Erica;;;384965;0;384965;
+8766;30830;IGIENE TRAUMATOLOGIA E PRIMO SOCCORSO C. I.;;;;;;;384971;0;384971;
+8766;57138;IGIENE GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384972;modulo;15963;Leoni Erica;Italiano;;384972;384971;384971;384972
+8766;30832;TRAUMATOLOGIA E PRIMO SOCCORSO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384973;modulo;38468;Zaffagnini Stefano;Italiano;;384973;384971;384971;
+8766;30832;TRAUMATOLOGIA E PRIMO SOCCORSO (1);;modulo;38468;Zaffagnini Stefano;Italiano;;402768;384973;384971;
+8766;30832;TRAUMATOLOGIA E PRIMO SOCCORSO (2);;modulo;600763;Marcheggiani Muccioli Giulio Maria;;;402769;384973;384971;
+8766;7309;DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384974;;41874;D'Onofrio Paco;Italiano;;384974;0;384974;
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384976;;34165;Palladino Leonardo;Italiano;;384976;0;384976;
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (1);;modulo;34165;Palladino Leonardo;;;394410;384976;384976;394410
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (2);;modulo;34165;Palladino Leonardo;Italiano;;394411;384976;384976;394411
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (3);;modulo;42319;Ansaloni Matteo;;;394412;384976;384976;394412
+8766;31446;TEORIA E DIDATTICA DEGLI SPORT DI SQUADRA (4);;modulo;57368;Bosi Nicola;;;394413;384976;384976;
+8766;73899;OUTDOOR EDUCATION;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394115;;34967;Bortolotti Alessandro;Italiano;;394115;0;394115;
+8766;68468;MANAGEMENT DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394116;;41015;Nicolai Renato;Italiano;;394116;0;394116;402765
+8766;33595;GIUSTIZIA SPORTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394121;;34298;Iovino Massimiliano;Italiano;;394121;0;394121;
+8766;70471;ULTIMATE FRISBEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394125;;33124;Franceschetti Francesco;Italiano;;394125;0;394125;
+8766;30761;FISIOLOGIA UMANA C. I.;;;;;;;402757;0;402757;
+8766;43533;FISIOLOGIA DEGLI ORGANI E DEGLI APPARATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402758;modulo;38112;Breveglieri Rossella;Italiano;;402758;402757;402757;
+8766;78450;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402759;modulo;15880;Aicardi Giorgio;Italiano;;402759;402757;402757;
+8766;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402763;;36984;Cappiello Giuseppe;Italiano;;402763;0;402763;402766
+8766;78990;MANAGEMENT E MARKETING DELLO SPORT C.I.;;;;;;;402764;0;402764;
+8766;68468;MANAGEMENT DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402765;modulo;41015;Nicolai Renato;Italiano;;402765;402764;402764;402765
+8766;70113;MARKETING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402766;modulo;36984;Cappiello Giuseppe;Italiano;;402766;402764;402764;402766
+8766;70512;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402767;;35926;Tarozzi Massimiliano;Italiano;;402767;0;402767;
+8766;70474;TENNIS E BEACH TENNIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402795;;39378;Camorani Martina;Italiano;;402795;0;402795;414005
+8766;81864;TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413980;;42632;Malagoli Lanzoni Ivan;Italiano;;413980;0;413980;414006
+8766;82375;SPORT DI RACCHETTA C.I.;;;;;;;414004;0;414004;
+8766;70474;TENNIS E BEACH TENNIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414005;modulo;39378;Camorani Martina;Italiano;;414005;414004;414004;414005
+8766;81864;TENNIS TAVOLO E ALTRI SPORT DI RACCHETTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414006;modulo;42632;Malagoli Lanzoni Ivan;Italiano;;414006;414004;414004;414006
