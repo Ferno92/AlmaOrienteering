@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.almaorient.ferno92.almaorienteering.CalendarActivity;
@@ -55,8 +56,9 @@ public class HomeElementFragment extends Fragment {
         descrizioneView.setText(mElementList[mPosition].getDescription());
         ImageView imageView = (ImageView)mRootView.findViewById(R.id.image_elemento);
         int resourceId = getResources().getIdentifier(mElementList[mPosition].getImgSource() , "drawable", getContext().getPackageName());
+        LinearLayout linearView = (LinearLayout) mRootView.findViewById(R.id.container_elemento);
         imageView.setImageResource(resourceId);
-        imageView.setOnClickListener(new View.OnClickListener() {
+        linearView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i;
