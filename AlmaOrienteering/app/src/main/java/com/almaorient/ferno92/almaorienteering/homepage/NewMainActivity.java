@@ -5,6 +5,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.NavigationView;
@@ -36,6 +37,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.pixelcan.inkpageindicator.InkPageIndicator;
+import com.viewpagerindicator.IconPageIndicator;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -52,6 +54,7 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
     private String mCorsoId;
     private String mScuola;
     private Toolbar mToolbar;
+    boolean doubleBackToExitPressedOnce = false;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -67,7 +70,7 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
         setSupportActionBar(mToolbar);
 
         mViewPager = (ViewPager) findViewById(R.id.vpPager);
-        mPagerAdapter = new HomePagerAdapter(getSupportFragmentManager());
+        mPagerAdapter = new HomePagerAdapter(getSupportFragmentManager(), getApplicationContext());
 
         mPagerAdapter.setNumItems(7);
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -157,9 +160,13 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
         int pager_position = sp.getInt("pager_position", 0);
         mViewPager.setAdapter(mPagerAdapter);
         mViewPager.setCurrentItem(pager_position);
+//
+//        final InkPageIndicator inkPageIndicator = (InkPageIndicator) findViewById(R.id.indicator);
+//        inkPageIndicator.setViewPager(mViewPager);
 
-        InkPageIndicator inkPageIndicator = (InkPageIndicator) findViewById(R.id.indicator);
-        inkPageIndicator.setViewPager(mViewPager);
+//Bind the title indicator to the adapter
+        IconPageIndicator iconIndicator = (IconPageIndicator)findViewById(R.id.indicator);
+        iconIndicator.setViewPager(mViewPager);
 
     }
 
@@ -184,6 +191,18 @@ public class NewMainActivity extends AppCompatActivity implements NavigationView
             // Otherwise, select the previous step.
             mViewPager.setCurrentItem(mViewPager.getCurrentItem() - 1);
         }
+        if (doubleBackToExitPressedOnce) {
+            super.onBackPressed();
+            return;
+        }
+        this.doubleBackToExitPressedOnce = true;
+        new Handler().postDelayed(new Runnable() {
+
+            @Override
+            public void run() {
+                doubleBackToExitPressedOnce=false;
+            }
+        }, 2000);
     }
 
     @Override
