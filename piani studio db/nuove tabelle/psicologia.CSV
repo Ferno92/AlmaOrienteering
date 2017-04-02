@@ -1,0 +1,599 @@
+corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_nome;lingua;e-learning;componente_id;componente_padre;componente_radice;componente_mutuazione
+989;42457;TECNICHE PSICOMETRICHE E DI ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331514;;38825;Benassi Mariagrazia;Italiano;;331514;0;331514;
+989;70245;SVILUPPO COGNITIVO E DISTURBI SPECIFICI DELL'APPRENDIMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/350451;;31436;Sansavini Alessandra;Italiano;;350451;0;350451;
+989;70245;SVILUPPO COGNITIVO E DISTURBI SPECIFICI DELL'APPRENDIMENTO (1);;modulo;31436;Sansavini Alessandra;Italiano;;403163;350451;350451;
+989;70245;SVILUPPO COGNITIVO E DISTURBI SPECIFICI DELL'APPRENDIMENTO (2);;modulo;39920;Biancardi Andrea;;;403164;350451;350451;
+989;69949;LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377617;;;;;;377617;0;377617;411257
+989;70008;RIABILITAZIONE NEUROPSICOLOGICA IN ETA' EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378448;;46121;Bertini Caterina;Italiano;;378448;0;378448;
+989;70008;RIABILITAZIONE NEUROPSICOLOGICA IN ETA' EVOLUTIVA (1);;modulo;46121;Bertini Caterina;Italiano;;385366;378448;378448;
+989;70008;RIABILITAZIONE NEUROPSICOLOGICA IN ETA' EVOLUTIVA (2);;modulo;34151;Frassinetti Francesca;;;385367;378448;378448;
+989;70008;RIABILITAZIONE NEUROPSICOLOGICA IN ETA' EVOLUTIVA (3);;modulo;39920;Biancardi Andrea;;;415149;378448;378448;
+989;70009;RIABILITAZIONE NEUROPSICOLOGICA NELL'ADULTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378449;;15396;Ladavas Elisabetta;Italiano;;378449;0;378449;
+989;70009;RIABILITAZIONE NEUROPSICOLOGICA NELL'ADULTO (1);;modulo;15396;Ladavas Elisabetta;Italiano;;385368;378449;378449;
+989;70009;RIABILITAZIONE NEUROPSICOLOGICA NELL'ADULTO (2);;modulo;46121;Bertini Caterina;;;385369;378449;378449;
+989;72580;SEMIOTICA E DIAGNOSI DIFFERENZIALE IN NEUROPSICOLOGIA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384364;;34151;Frassinetti Francesca;Italiano;;384364;0;384364;
+989;72580;SEMIOTICA E DIAGNOSI DIFFERENZIALE IN NEUROPSICOLOGIA. (1);;modulo;34151;Frassinetti Francesca;Italiano;;385370;384364;384364;
+989;72580;SEMIOTICA E DIAGNOSI DIFFERENZIALE IN NEUROPSICOLOGIA. (2);;modulo;54591;Molinari Maria Angela;;;385371;384364;384364;
+989;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384366;;31919;Chattat Rabih;Italiano;;384366;0;384366;
+989;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO. (1);;modulo;31919;Chattat Rabih;Italiano;;394983;384366;384366;
+989;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO. (2);;modulo;39288;Ruini Chiara;;;394984;384366;384366;
+989;72583;NEUROSCIENZE SOCIALI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384367;;39873;Avenanti Alessio;Italiano;;384367;0;384367;
+989;72600;METODOLOGIA DELLA RICERCA IN NEUROSCIENZE;;;;;;;384439;0;384439;
+989;72600;METODOLOGIA DELLA RICERCA IN NEUROSCIENZE (A) (1);;modulo;39873;Avenanti Alessio;Italiano;;403152;403151;384439;
+989;72600;METODOLOGIA DELLA RICERCA IN NEUROSCIENZE (A) (2);;modulo;31078;Di Pellegrino Giuseppe;;;403153;403151;384439;403153
+989;72600;METODOLOGIA DELLA RICERCA IN NEUROSCIENZE (B) (1);;modulo;39873;Avenanti Alessio;Italiano;;403155;403154;384439;
+989;72600;METODOLOGIA DELLA RICERCA IN NEUROSCIENZE (B) (2);;modulo;31078;Di Pellegrino Giuseppe;;;403156;403154;384439;403153
+989;73391;DISTURBI COGNITIVI IN ETA' EVOLUTIVA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386644;;38931;Millepiedi Stefania;Italiano;;386644;0;386644;
+989;78193;NEUROSCIENZE AFFETTIVE E COGNITIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400985;;31078;Di Pellegrino Giuseppe;Italiano;;400985;0;400985;
+989;78193;NEUROSCIENZE AFFETTIVE E COGNITIVE (1);;modulo;31078;Di Pellegrino Giuseppe;Italiano;;403158;400985;400985;
+989;78193;NEUROSCIENZE AFFETTIVE E COGNITIVE (2);;modulo;38119;Ciaramelli Elisa;;;403159;400985;400985;
+989;78193;NEUROSCIENZE AFFETTIVE E COGNITIVE (3);;modulo;39873;Avenanti Alessio;;;403160;400985;400985;
+989;78194;NEUROPSICOLOGIA IN AMBITO FORENSE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/400986;;38119;Ciaramelli Elisa;Italiano;;400986;0;400986;
+989;78194;NEUROPSICOLOGIA IN AMBITO FORENSE. (1);;modulo;38119;Ciaramelli Elisa;Italiano;;413085;400986;400986;
+989;78194;NEUROPSICOLOGIA IN AMBITO FORENSE. (2);;modulo;42107;Sammicheli Luca;;;413086;400986;400986;
+989;78597;PSICOLOGIA SOCIALE DELLA MORALITA' E DEL PREGIUDIZIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401830;;34365;Moscatelli Silvia;Italiano;;401830;0;401830;
+989;78598;NEUROPSICOLOGIA DEI DISTURBI PSICHIATRICI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401831;;916692;Di Sarro Rita;Italiano;;401831;0;401831;
+989;78996;LABORATORIO DI NEUROPSICOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402818;;36853;Di Santantonio Anna;Italiano;;402818;0;402818;
+989;78996;LABORATORIO DI NEUROPSICOLOGIA (1);;modulo;36853;Di Santantonio Anna;Italiano;;418347;402818;402818;
+989;78996;LABORATORIO DI NEUROPSICOLOGIA (2);;modulo;15396;Ladavas Elisabetta;;;418348;402818;402818;
+990;69988;MODELLI TEORICI ED OPERATIVI DELLA PSICOLOGIA DI COMUNITA'.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331577;;14767;Zani Bruna;Italiano;;331577;0;331577;
+990;69989;PSICOPATOLOGIA DIFFERENZIALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331586;;35821;Rafanelli Chiara;Italiano;;331586;0;331586;
+990;6140;PSICOSOMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331589;;30576;Grandi Silvana;Italiano;;331589;0;331589;
+990;6140;PSICOSOMATICA (1);;modulo;30576;Grandi Silvana;Italiano;;415020;331589;331589;
+990;6140;PSICOSOMATICA (2);;modulo;36205;Tossani Eliana;;;415021;331589;331589;
+990;32152;LABORATORI I;;;;;;;331591;0;331591;
+990;32152;LABORATORI I (A) (1/1);;modulo;39288;Ruini Chiara;;;353625;353624;331591;
+990;32152;LABORATORI I (A) (1/2);;modulo;31421;Baldoni Franco;Italiano;;353626;353624;331591;
+990;32152;LABORATORI I (A) (2);;modulo;31433;Cicognani Elvira;;;353627;353624;331591;
+990;32152;LABORATORI I (B) (1);;modulo;43418;Sirri Laura;Italiano;;353631;353628;331591;
+990;32152;LABORATORI I (B) (2);;modulo;34362;Albanesi Cinzia;;;353632;353628;331591;
+990;32152;LABORATORI I (C) (1);;modulo;16661;Fava Giovanni Andrea;Italiano;;353633;353629;331591;
+990;32152;LABORATORI I (C) (2/1);;modulo;34362;Albanesi Cinzia;;;353634;353629;331591;
+990;32152;LABORATORI I (C) (2/2);;modulo;46334;Mazzoni Davide;;;386758;353629;331591;
+990;32152;LABORATORI I (D) (1);;modulo;41745;Tomba Elena;Inglese;;353635;353630;331591;
+990;32152;LABORATORI I (D) (2);;modulo;14767;Zani Bruna;Italiano;;353636;353630;331591;402095
+990;32152;LABORATORI I (E) (1);;modulo;35821;Rafanelli Chiara;Italiano;;402091;402090;331591;
+990;32152;LABORATORI I (E) (2);;modulo;14767;Zani Bruna;Italiano;;402092;402090;331591;402095
+990;32152;LABORATORI I (F) (1/1);;modulo;50259;Gostoli Sara;;;402094;402093;331591;
+990;32152;LABORATORI I (F) (1/2);;modulo;40048;Guidi Jenny;;;419176;402093;331591;
+990;32152;LABORATORI I (F) (2);;modulo;14767;Zani Bruna;Italiano;;402095;402093;331591;402095
+990;8704;METODOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377586;;31421;Baldoni Franco;Italiano;;377586;0;377586;
+990;69949;LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377589;;;;;;377589;0;377589;411257
+990;7298;TECNICHE DI ANALISI DEI DATI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377594;;34369;Gremigni Paola;Italiano;;377594;0;377594;
+990;23265;CLINIMETRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377595;;41745;Tomba Elena;Italiano;;377595;0;377595;
+990;70244;CLINICAL APPLICATIONS OF POSITIVE PSYCHOLOGY.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378359;;39288;Ruini Chiara;Inglese;;378359;0;378359;
+990;70249;PSICOLOGIA CLINICA DELLA RIABILITAZIONE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378386;;36205;Tossani Eliana;Italiano;;378386;0;378386;
+990;69990;LABORATORI II.;;;;;;;378467;0;378467;
+990;69990;LABORATORI II. (A) (1);;modulo;30576;Grandi Silvana;Italiano;;402098;402097;378467;
+990;69990;LABORATORI II. (A) (2);;modulo;41376;Giovagnoli Sara;;;402099;402097;378467;
+990;69990;LABORATORI II. (B) (1/1);;modulo;30576;Grandi Silvana;Italiano;;402101;402100;378467;
+990;69990;LABORATORI II. (B) (1/2);;modulo;42671;Giannopoulos Ioannis;;;415032;402100;378467;
+990;69990;LABORATORI II. (B) (2);;modulo;41376;Giovagnoli Sara;;;402102;402100;378467;402102
+990;69990;LABORATORI II. (C) (1);;modulo;39288;Ruini Chiara;Inglese;;402104;402103;378467;
+990;69990;LABORATORI II. (C) (2);;modulo;43404;Casu Giulia;;;402105;402103;378467;
+990;69990;LABORATORI II. (D) (1/1);;modulo;41745;Tomba Elena;Inglese;;402107;402106;378467;
+990;69990;LABORATORI II. (D) (1/2);;modulo;43418;Sirri Laura;;;402108;402106;378467;
+990;69990;LABORATORI II. (D) (2);;modulo;41376;Giovagnoli Sara;;;402109;402106;378467;402102
+990;69990;LABORATORI II. (E) (1/1);;modulo;40048;Guidi Jenny;Italiano;;402111;402110;378467;
+990;69990;LABORATORI II. (E) (1/2);;modulo;81263;Pinto Antonio;;;402112;402110;378467;
+990;69990;LABORATORI II. (E) (2);;modulo;43404;Casu Giulia;;;402113;402110;378467;
+990;69990;LABORATORI II. (F) (1);;modulo;15024;Rossi Nicolino Cesare Franco;Italiano;;402115;402114;378467;
+990;69990;LABORATORI II. (F) (2);;modulo;41376;Giovagnoli Sara;;;402116;402114;378467;402102
+990;69991;PSICOPATOLOGIA DELL'ETA' EVOLUTIVA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378468;;54589;Fabbri Daniela;Italiano;;378468;0;378468;
+990;69991;PSICOPATOLOGIA DELL'ETA' EVOLUTIVA. (1);;modulo;55485;D'Angelo Riccarda;;;406143;378468;378468;
+990;69991;PSICOPATOLOGIA DELL'ETA' EVOLUTIVA. (2);;modulo;54589;Fabbri Daniela;Italiano;;406144;378468;378468;
+990;69991;PSICOPATOLOGIA DELL'ETA' EVOLUTIVA. (3);;modulo;54596;Pari Cinzia;;;409699;378468;378468;
+990;69992;TERAPIA PSICOLOGICA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378470;;16661;Fava Giovanni Andrea;Italiano;;378470;0;378470;
+990;69992;TERAPIA PSICOLOGICA. (1);;modulo;16661;Fava Giovanni Andrea;Italiano;;385625;378470;378470;
+990;69992;TERAPIA PSICOLOGICA. (2);;modulo;30436;Baldaro Bruno;;;385626;378470;378470;
+990;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385398;;40048;Guidi Jenny;Italiano;;385398;0;385398;
+990;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO. (2);;modulo;50357;Izzicupo Fabio;;;419179;385398;385398;
+990;72582;METODI DI INTERVENTO NEL DISAGIO DELL'ANZIANO. (1);;modulo;40048;Guidi Jenny;Italiano;;419180;385398;385398;
+990;82158;PSYCHOLOGY AND PSYCHOPATHOLOGY OF SEXUAL BEHAVIOR;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413129;;41745;Tomba Elena;Inglese;;413129;0;413129;
+990;82158;PSYCHOLOGY AND PSYCHOPATHOLOGY OF SEXUAL BEHAVIOR (1);;modulo;41745;Tomba Elena;Inglese;;415024;413129;413129;
+990;82158;PSYCHOLOGY AND PSYCHOPATHOLOGY OF SEXUAL BEHAVIOR (2);;modulo;48657;Staccini Laura;;;415025;413129;413129;
+990;71990;PSICOFISIOLOGIA CLINICA (C.I.).;;;;;;;413451;0;413451;
+990;71991;PSICOFISIOLOGIA CLINICA I .;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413452;modulo;16661;Fava Giovanni Andrea;Italiano;;413452;413451;413451;
+990;71992;PSICOFISIOLOGIA CLINICA II .;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413453;modulo;38946;Luppi Marco;Italiano;;413453;413451;413451;
+991;70021;PSICOLOGIA SOCIALE COGNITIVA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331762;;30931;Rubini Monica;Italiano;;331762;0;331762;
+991;42444;PROCESSI E DISTURBI DELL'APPRENDIMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331783;;34756;Bonifacci Paola;Italiano;;331783;0;331783;
+991;45271;RITMI DEL COMPORTAMENTO E CICLO VEGLIA-SONNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331793;;31209;Natale Vincenzo;Italiano;;331793;0;331793;
+991;72599;DISFUNZIONI COGNITIVE E DISAGIO PSICOLOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384438;;14977;Brighetti Gianni;Italiano;;384438;0;384438;
+991;40838;NEUROSCIENZE COGNITIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384441;;24264;Zoccoli Giovanna;Italiano;;384441;0;384441;
+991;72601;LABORATORI STAGE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384443;;44729;De Cesarei Andrea;Italiano;;384443;0;384443;
+991;72601;LABORATORI STAGE. (1);;modulo;50358;Lazzerini Ruben;Italiano;;415635;384443;384443;
+991;72601;LABORATORI STAGE. (2);;modulo;36215;Bensi Luca;;;415636;384443;384443;
+991;72601;LABORATORI STAGE. (3);;modulo;44897;Gambetti Elisa;;;415637;384443;384443;
+991;72601;LABORATORI STAGE. (4);;modulo;39706;Melani Paolo;;;415642;384443;384443;
+991;72601;LABORATORI STAGE. (5);;modulo;46732;Prati Francesca;;;415641;384443;384443;
+991;72601;LABORATORI STAGE. (6);;modulo;46710;Desideri Lorenzo;;;415640;384443;384443;
+991;72601;LABORATORI STAGE. (7);;modulo;34428;Borlimi Rosita;;;415639;384443;384443;
+991;72601;LABORATORI STAGE. (8);;modulo;44729;De Cesarei Andrea;Italiano;;415638;384443;384443;
+991;72604;LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384453;;;;;;384453;0;384453;
+991;72605;PSICOPATOLOGIA DEI DISTURBI EMOTIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384458;;37092;Menchetti Marco;Italiano;;384458;0;384458;
+991;7283;PSICOLOGIA AMBIENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384461;;33511;Costa Marco;Italiano;;384461;0;384461;
+991;7291;PSICOLOGIA GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384466;;15201;Giusberti Fiorella;Italiano;;384466;0;384466;
+991;72609;APPLICAZIONI DELLA REALTA' VIRTUALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384486;;34759;Nori Raffaella;Italiano;;384486;0;384486;
+991;72610;PSICOLOGIA DELL'INVECCHIAMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384492;;31919;Chattat Rabih;Italiano;;384492;0;384492;
+991;72610;PSICOLOGIA DELL'INVECCHIAMENTO (1);;modulo;43438;Fabbo Andrea;;;415275;384492;384492;
+991;72610;PSICOLOGIA DELL'INVECCHIAMENTO (2);;modulo;31919;Chattat Rabih;Italiano;;415276;384492;384492;
+991;72612;PSICOLOGIA DELLA SALUTE E COMUNICAZIONE INTERPERSONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384494;;24124;Garotti Pier Luigi;Italiano;;384494;0;384494;
+991;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385733;;24384;Pelotti Susi;Italiano;;385733;0;385733;415096
+991;24634;LOGICA E ARGOMENTAZIONE GIURIDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385743;;15992;Artosi Alberto;Italiano;;385743;0;385743;361391
+991;37469;ETICA APPLICATA: BIOETICA E ETICA DELLE PROFESSIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385745;;15172;Faralli Carla;Italiano;;385745;0;385745;369951
+991;3120;PSICOLOGIA DELLO SPORT;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387527;;24124;Garotti Pier Luigi;Italiano;;387527;0;387527;
+991;3120;PSICOLOGIA DELLO SPORT (1);;modulo;24124;Garotti Pier Luigi;Italiano;;415293;387527;387527;
+991;3120;PSICOLOGIA DELLO SPORT (2);;modulo;64118;Ricci Stefano;;;415294;387527;387527;
+991;9382;PSICOLOGIA ANIMALE E COMPARATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387528;;31209;Natale Vincenzo;Italiano;;387528;0;387528;
+991;9382;PSICOLOGIA ANIMALE E COMPARATA (1);;modulo;80693;Carloni Elena;;;415291;387528;387528;
+991;9382;PSICOLOGIA ANIMALE E COMPARATA (2);;modulo;31209;Natale Vincenzo;Italiano;;415292;387528;387528;
+992;23121;INDIVIDUI, GRUPPI E ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/330231;;14722;Sarchielli Guido;Italiano;;330231;0;330231;
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/332070;;34366;Pietrantoni Luca;Italiano;;332070;0;332070;
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (1);;modulo;34366;Pietrantoni Luca;Italiano;;334293;332070;332070;378505
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (2);;modulo;42837;Massei Fabio;;;334294;332070;332070;378506
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (3);;modulo;45882;Donati Simone;;;334296;332070;332070;378507
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (4);;modulo;34366;Pietrantoni Luca;;;334297;332070;332070;
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (5);;modulo;42837;Massei Fabio;;;378511;332070;332070;378510
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (6);;modulo;34366;Pietrantoni Luca;;;405151;332070;332070;405150
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (7);;modulo;16624;Depolo Marco;;;406440;332070;332070;406439
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (8);;modulo;16624;Depolo Marco;;;378512;332070;332070;
+992;70019;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE WOP-P I) (9);;modulo;;;;;416320;332070;332070;
+992;56579;PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/337906;;38111;Bresciani Pier Giovanni;Italiano;;337906;0;337906;337906
+992;4487;SOCIOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345497;;38699;Chicchi Federico;Italiano;;345497;0;345497;
+992;4487;SOCIOLOGIA DEL LAVORO (1);;modulo;38699;Chicchi Federico;Italiano;;415318;345497;345497;415318
+992;4487;SOCIOLOGIA DEL LAVORO (2);;modulo;49312;De Angelis Gianluca;;;415319;345497;345497;415319
+992;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/345499;;601078;Farioli Andrea;Italiano;;345499;0;345499;345499
+992;69949;LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377619;;;;;;377619;0;377619;411257
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I).;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377625;;34366;Pietrantoni Luca;Italiano;;377625;0;377625;
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (1);;modulo;34366;Pietrantoni Luca;Italiano;;378505;377625;377625;378505
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (2);;modulo;42837;Massei Fabio;;;378506;377625;377625;378506
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (3);;modulo;45882;Donati Simone;;;378507;377625;377625;378507
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (4);;modulo;38213;Toderi Stefano;;;416321;377625;377625;
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (5);;modulo;42837;Massei Fabio;;;378510;377625;377625;378510
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (6);;modulo;34366;Pietrantoni Luca;;;405150;377625;377625;405150
+992;70011;METODI E STRUMENTI DI RICERCA PER LA TESI (PROVA FINALE I). (7);;modulo;16624;Depolo Marco;;;406439;377625;377625;406439
+992;70026;LIFELONG LEARNING;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377634;;34752;Mazzoni Elvis;Italiano;;377634;0;377634;
+992;70030;JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) (C.I.).;;;;;;;377640;0;377640;
+992;66418;JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) - I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377642;modulo;31410;Zappal?á Salvatore;Inglese;;377642;377640;377640;
+992;66420;JOINT INTENSIVE LEARNING UNIT (WINTER SCHOOL) - II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377643;modulo;31410;Zappal?á Salvatore;Inglese;;377643;377640;377640;
+992;70031;INTEGRAZIONE, RICERCA E PROFESSIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377645;;16624;Depolo Marco;Italiano;;377645;0;377645;
+992;70029;STAGE PROFESSIONALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378500;;31410;Zappal?á Salvatore;Italiano;;378500;0;378500;
+992;70269;NEW TRENDS IN WOP PSYCHOLOGY (C.I.).;;;;;;;378564;0;378564;
+992;70270;EMERGENCY AND RISK PSYCHOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378565;modulo;34366;Pietrantoni Luca;Inglese;;378565;378564;378564;378565
+992;70271;STATE-OF-THE-ART IN WOP PSYCHOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378566;modulo;16624;Depolo Marco;Inglese;;378566;378564;378564;378566
+992;70270;EMERGENCY AND RISK PSYCHOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378568;;34366;Pietrantoni Luca;Inglese;;378568;0;378568;378565
+992;70271;STATE-OF-THE-ART IN WOP PSYCHOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/379903;;16624;Depolo Marco;Inglese;;379903;0;379903;378566
+992;2523;PSICOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384520;;45437;Zaniboni Sara;Italiano;;384520;0;384520;
+992;72621;PSICOLOGIA DELLE RISORSE UMANE E METODOLOGIA (C.I.);;;;;;;384526;0;384526;
+992;70014;PSICOLOGIA DELLE RISORSE UMANE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384527;modulo;32306;Mariani Marco Giovanni;Italiano;;384527;384526;384526;
+992;2038;STATISTICA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384528;modulo;34369;Gremigni Paola;Italiano;;384528;384526;384526;
+992;72623;COMUNICAZIONE ORGANIZZATIVA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384530;;37981;Cavallo Marino;Italiano;;384530;0;384530;
+992;72626;METODI E TECNICHE DEGLI INTERVENTI (ERGONOMIA E ANALISI DEL LAVORO);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384531;;38213;Toderi Stefano;Italiano;;384531;0;384531;
+992;72629;METODI E TECNICHE DEGLI INTERVENTI (ORGANIZZAZIONI);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384532;;31410;Zappal?á Salvatore;Italiano;;384532;0;384532;
+992;72629;METODI E TECNICHE DEGLI INTERVENTI (ORGANIZZAZIONI) (1);;modulo;31410;Zappal?á Salvatore;Italiano;;385839;384532;384532;
+992;72629;METODI E TECNICHE DEGLI INTERVENTI (ORGANIZZAZIONI) (2);;modulo;31410;Zappal?á Salvatore;;;385840;384532;384532;
+992;72630;METODI E TECNICHE DEGLI INTERVENTI (RISORSE UMANE);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384535;;41489;Chiesa Rita;Italiano;;384535;0;384535;
+992;72630;METODI E TECNICHE DEGLI INTERVENTI (RISORSE UMANE) (1);;modulo;41489;Chiesa Rita;Italiano;;385843;384535;384535;
+992;72630;METODI E TECNICHE DEGLI INTERVENTI (RISORSE UMANE) (2);;modulo;32306;Mariani Marco Giovanni;;;385844;384535;384535;
+992;73131;SCIENZE DEL LAVORO (C.I.)/A;;;;;;;385886;0;385886;
+992;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385891;modulo;601078;Farioli Andrea;Italiano;;385891;385886;385886;345499
+992;4487;SOCIOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385892;modulo;38699;Chicchi Federico;Italiano;;385892;385886;385886;
+992;4487;SOCIOLOGIA DEL LAVORO (1);;modulo;38699;Chicchi Federico;Italiano;;419822;385892;385886;415318
+992;4487;SOCIOLOGIA DEL LAVORO (2);;modulo;49312;De Angelis Gianluca;;;419823;385892;385886;415319
+992;73134;SCIENZE DEL LAVORO (C.I.)/B;;;;;;;385898;0;385898;
+992;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385901;modulo;;;;;385901;385898;385898;
+992;699;MEDICINA DEL LAVORO (2);;modulo;;;;;385903;385901;385898;
+992;56579;PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385904;modulo;38111;Bresciani Pier Giovanni;Italiano;;385904;385898;385898;337906
+992;73135;SCIENZE DEL LAVORO (C.I.)/C;;;;;;;385908;0;385908;
+992;4487;SOCIOLOGIA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385909;modulo;38699;Chicchi Federico;Italiano;;385909;385908;385908;
+992;4487;SOCIOLOGIA DEL LAVORO (1);;modulo;38699;Chicchi Federico;Italiano;;419820;385909;385908;415318
+992;4487;SOCIOLOGIA DEL LAVORO (2);;modulo;49312;De Angelis Gianluca;;;419821;385909;385908;415319
+992;56579;PROGETTAZIONE FORMATIVA NELLA FORMAZIONE PROFESSIONALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/385910;modulo;38111;Bresciani Pier Giovanni;Italiano;;385910;385908;385908;337906
+992;78297;PSICOLOGIA DELLE ORGANIZZAZIONI (C.I.) 1;;;;;;;401104;0;401104;
+992;70013;PROCESSI DI GRUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401105;modulo;30931;Rubini Monica;Italiano;;401105;401104;401104;
+992;7269;PSICOLOGIA DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401106;modulo;16624;Depolo Marco;Italiano;;401106;401104;401104;401106
+992;78298;PSICOLOGIA DELLE ORGANIZZAZIONI (C.I.) 2;;;;;;;401108;0;401108;
+992;70270;EMERGENCY AND RISK PSYCHOLOGY;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401109;modulo;34366;Pietrantoni Luca;Inglese;;401109;401108;401108;378565
+992;7269;PSICOLOGIA DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401110;modulo;16624;Depolo Marco;Italiano;;401110;401108;401108;401106
+993;42437;DINAMICHE SOCIALI E APPRENDIMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331316;;31652;Selleri Patrizia;Italiano;;331316;0;331316;
+993;32037;TEORIE E METODI DI PSICOLOGIA DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331321;;14767;Zani Bruna;Italiano;;331321;0;331321;
+993;32037;TEORIE E METODI DI PSICOLOGIA DI COMUNITA' (1);;modulo;14767;Zani Bruna;Italiano;;386096;331321;331321;
+993;32037;TEORIE E METODI DI PSICOLOGIA DI COMUNITA' (2);;modulo;34362;Albanesi Cinzia;;;386097;331321;331321;
+993;32094;METODI E TECNICHE DI VALUTAZIONE DEI DISTURBI DELL'APPRENDIMENTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331476;;34756;Bonifacci Paola;Italiano;;331476;0;331476;
+993;32094;METODI E TECNICHE DI VALUTAZIONE DEI DISTURBI DELL'APPRENDIMENTO (1);;modulo;34756;Bonifacci Paola;Italiano;;358714;331476;331476;
+993;32094;METODI E TECNICHE DI VALUTAZIONE DEI DISTURBI DELL'APPRENDIMENTO (2);;modulo;50359;Pizzoli Claudia;;;358715;331476;331476;
+993;32097;METODOLOGIE E STRUMENTI PER L'ORIENTAMENTO SCOLASTICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331482;;41491;Ruffini Carla Maria;Italiano;;331482;0;331482;
+993;32097;METODOLOGIE E STRUMENTI PER L'ORIENTAMENTO SCOLASTICO (1);;modulo;41491;Ruffini Carla Maria;Italiano;;386117;331482;331482;
+993;32097;METODOLOGIE E STRUMENTI PER L'ORIENTAMENTO SCOLASTICO (2);;modulo;41489;Chiesa Rita;;;386118;331482;331482;
+993;32108;METODOLOGIE E STRUMENTI DI INTERVENTO PEDAGOGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331484;;35523;Sandri Patrizia;Italiano;;331484;0;331484;
+993;32109;TECNICHE DI INDAGINE E DI INTERVENTO NEI CONTESTI EDUCATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331503;;34753;Matteucci Maria Cristina;Italiano;;331503;0;331503;
+993;32110;DIAGNOSI FUNZIONALE E DISABILITA' IN AMBITO SCOLASTICO E DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331504;;37583;Costa Stefano;Italiano;;331504;0;331504;
+993;32110;DIAGNOSI FUNZIONALE E DISABILITA' IN AMBITO SCOLASTICO E DI COMUNITA' (2);;modulo;46982;Tullini Andrea;;;342749;331504;331504;
+993;32110;DIAGNOSI FUNZIONALE E DISABILITA' IN AMBITO SCOLASTICO E DI COMUNITA' (1);;modulo;37583;Costa Stefano;Italiano;;342750;331504;331504;
+993;32111;METODI DI VALUTAZIONE ED INTERVENTI IN PSICOPATOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331505;;15246;Monti Fiorella;Italiano;;331505;0;331505;
+993;32112;METODI DI VALUTAZIONE ED INTERVENTI IN PSICOLOGIA CLINICA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/331507;;36204;Montebarocci Ornella;Italiano;;331507;0;331507;
+993;69949;LABORATORIO DI INGLESE SPECIALISTICO PER PSICOLOGI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/377530;;;;;;377530;0;377530;411257
+993;69987;LABORATORI.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/378514;;34752;Mazzoni Elvis;Italiano;;378514;0;378514;
+993;69987;LABORATORI. (1);;modulo;34366;Pietrantoni Luca;Italiano;;386100;378514;378514;
+993;69987;LABORATORI. (2);;modulo;40698;Severini Andrea;;;386101;378514;378514;
+993;69987;LABORATORI. (3);;modulo;34752;Mazzoni Elvis;Italiano;;386102;378514;378514;
+993;69987;LABORATORI. (4);;modulo;52969;Franchomme Laura;;;386103;378514;378514;
+993;48927;PSICOLOGIA DELLO SVILUPPO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413100;;38831;Tomasetto Carlo;Italiano;;413100;0;413100;
+993;82057;Teorie e metodi per l'empowerment dei giovani;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413194;;34362;Albanesi Cinzia;Italiano;;413194;0;413194;
+993;82057;Teorie e metodi per l'empowerment dei giovani (2);;modulo;34362;Albanesi Cinzia;Italiano;;414993;413194;413194;
+993;82057;Teorie e metodi per l'empowerment dei giovani (1);;modulo;31433;Cicognani Elvira;;;414994;413194;413194;
+8540;13220;PEDAGOGIA GENERALE E SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372398;;33158;Fabbri Maurizio;Italiano;;372398;0;372398;
+8540;978;STORIA DELLA PEDAGOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372399;;31502;Pironi Tiziana;Italiano;;372399;0;372399;
+8540;67996;DIDATTICA GENERALE E TECNOLOGIE EDUCATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372400;;36548;Pacetti Elena;Italiano;;372400;0;372400;
+8540;67997;GEOMETRIA E MATEMATICA DI BASE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372407;;30303;Gimigliano Alessandro;Italiano;;372407;0;372407;
+8540;67998;LETTERATURA E LINGUA ITALIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372408;;14758;Marri Fabio;Italiano;;372408;0;372408;
+8540;6396;STORIA DELLA SOCIETA' CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372409;;30324;Greco Giovanni;Italiano;;372409;0;372409;
+8540;67999;PEDAGOGIA SPECIALE PER L'INCLUSIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372411;;35523;Sandri Patrizia;Italiano;;372411;0;372411;
+8540;67999;PEDAGOGIA SPECIALE PER L'INCLUSIONE (1);;modulo;35523;Sandri Patrizia;Italiano;;421393;372411;372411;386599
+8540;67999;PEDAGOGIA SPECIALE PER L'INCLUSIONE (2);;modulo;35523;Sandri Patrizia;;;421394;372411;372411;
+8540;47431;LABORATORIO DI LINGUA INGLESE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372416;;32860;Azzaro Gabriele;Italiano;;372416;0;372416;415945
+8540;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372419;;31436;Sansavini Alessandra;Italiano;;372419;0;372419;
+8540;68000;PROGETTAZIONE E SPERIMENTAZIONE SCOLASTICA (C.I.);;;;;;;372421;0;372421;
+8540;68001;INNOVAZIONE E SPERIMENTAZIONE SCOLASTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372424;modulo;33788;Vannini Ira;Italiano;;372424;372421;372421;
+8540;68002;MODELLI DI PROGRAMMAZIONE DIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372425;modulo;15209;Guerra Luigi;Italiano;;372425;372421;372421;
+8540;68003;METODOLOGIE E DIDATTICHE ATTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372426;;15193;Gherardi Vanna;Italiano;;372426;0;372426;
+8540;789;LINGUISTICA ITALIANA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372427;;15975;Chiantera Angela;Italiano;;372427;0;372427;
+8540;12244;ICONOGRAFIA E ICONOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372428;;15345;Milani Raffaele;Italiano;;372428;0;372428;
+8540;12244;ICONOGRAFIA E ICONOLOGIA (1);;modulo;15345;Milani Raffaele;Italiano;;415901;372428;372428;
+8540;12244;ICONOGRAFIA E ICONOLOGIA (2);;modulo;38864;Panciroli Chiara;;;415902;372428;372428;
+8540;455;GEOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372429;;40336;Piastra Stefano;Italiano;;372429;0;372429;
+8540;47432;LABORATORIO DI LINGUA INGLESE II;;;;;;;372430;0;372430;
+8540;13960;TIROCINIO II ANNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372431;;33788;Vannini Ira;;;372431;0;372431;372461
+8540;15579;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372432;;38868;Bolognesi Ivana;Italiano;;372432;0;372432;
+8540;68004;ANTROPOLOGIA E SOCIOLOGIA DELL'EDUCAZIONE (C.I.);;;;;;;372433;0;372433;
+8540;2517;SOCIOLOGIA DELL'EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372434;modulo;35109;Tagliaventi Maria Teresa;Italiano;;372434;372433;372433;
+8540;45;ANTROPOLOGIA CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372435;modulo;38500;Tarabusi Federica;Italiano;;372435;372433;372433;
+8540;68005;FONDAMENTI DI MATEMATICA E DIDATTICA DELLA MATEMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372436;;38197;Bolondi Giorgio;;;372436;0;372436;
+8540;68005;FONDAMENTI DI MATEMATICA E DIDATTICA DELLA MATEMATICA (1);;modulo;38197;Bolondi Giorgio;;;426364;372436;372436;
+8540;68005;FONDAMENTI DI MATEMATICA E DIDATTICA DELLA MATEMATICA (2);;modulo;48364;Ferretti Federica;;;426365;372436;372436;
+8540;68006;ELEMENTI DI FISICA E DIDATTICA DELLA FISICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372437;;15257;Pecori Barbara;Italiano;;372437;0;372437;
+8540;6386;LETTERATURA PER L'INFANZIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372438;;32350;Grilli Giorgia;Italiano;;372438;0;372438;
+8540;6386;LETTERATURA PER L'INFANZIA (1);;modulo;32350;Grilli Giorgia;Italiano;;416089;372438;372438;
+8540;6386;LETTERATURA PER L'INFANZIA (2);;modulo;35909;Grandi William;;;416090;372438;372438;
+8540;68007;PSICOLOGIA DELLA DISABILITA' E DELL'INTEGRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372439;;36599;Guarini Annalisa;Italiano;;372439;0;372439;
+8540;68008;LABORATORIO DI LINGUA INGLESE III;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372440;;32860;Azzaro Gabriele;Italiano;;372440;0;372440;
+8540;18130;TIROCINIO III ANNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372441;;33788;Vannini Ira;;;372441;0;372441;372461
+8540;68009;TEORIE E PROCEDURE DI VALUTAZIONE SCOLASTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372442;;33788;Vannini Ira;Italiano;;372442;0;372442;
+8540;68010;ELEMENTI DI CHIMICA ED ECOLOGIA (C.I.);;;;;;;372443;0;372443;
+8540;68011;ELEMENTI DI CHIMICA E DIDATTICA DELLA CHIMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372444;modulo;14403;Venturi Margherita;Italiano;;372444;372443;372443;
+8540;7943;ELEMENTI DI ECOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372445;modulo;15994;Salmoiraghi Gianpaolo;Italiano;;372445;372443;372443;
+8540;6504;METODOLOGIA DELL'EDUCAZIONE MUSICALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372446;;33828;Addessi Anna Rita;Italiano;;372446;0;372446;
+8540;68012;DIDATTICA DELL'ITALIANO E DELLA LETTERATURA ITALIANA (C.I.);;;;;;;372447;0;372447;
+8540;4163;DIDATTICA DELL'ITALIANO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372448;modulo;15975;Chiantera Angela;Italiano;;372448;372447;372447;
+8540;68013;ESERCIZI DI ANALISI DELLA LETTERATURA MODERNA E CONTEMPORANEA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372449;modulo;38742;De Santis Cristiana;Italiano;;372449;372447;372447;
+8540;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372450;;32509;Sacchetti Rossella;Italiano;;372450;0;372450;
+8540;68014;LABORATORIO DI TECNOLOGIE DIDATTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372452;;36548;Pacetti Elena;Italiano;;372452;0;372452;
+8540;68015;LABORATORIO DI LINGUA INGLESE IV;;;;;;;372453;0;372453;
+8540;41017;TIROCINIO IV ANNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372454;;33788;Vannini Ira;;;372454;0;372454;372461
+8540;68016;DIDATTICA DELLA MATEMATICA CON ELEMENTI DI STATISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372455;;38197;Bolondi Giorgio;Italiano;;372455;0;372455;
+8540;68017;METODOLOGIA E DIDATTICA DELL'ATTIVITA' MOTORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372456;;33957;Ceciliani Andrea;Italiano;;372456;0;372456;
+8540;68017;METODOLOGIA E DIDATTICA DELL'ATTIVITA' MOTORIA (1);;modulo;33957;Ceciliani Andrea;Italiano;;416152;372456;372456;
+8540;68017;METODOLOGIA E DIDATTICA DELL'ATTIVITA' MOTORIA (2);;modulo;35053;Balduzzi Lucia;;;416153;372456;372456;
+8540;68018;STORIA ANTICA E MEDIEVALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372457;;36393;Borghi Beatrice;Italiano;;372457;0;372457;
+8540;68019;ELEMENTI DI BIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372458;;15916;Mantovani Barbara;Italiano;;372458;0;372458;
+8540;12612;PSICOPATOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372459;;48209;Mancini Giacomo;Italiano;;372459;0;372459;
+8540;68020;LABORATORIO DI LINGUA INGLESE V;;;;;;;372460;0;372460;
+8540;68021;TIROCINIO V ANNO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372461;;33788;Vannini Ira;;;372461;0;372461;372461
+8540;68022;IDONEITA' DI LINGUA INGLESE (LIVELLO B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/372462;;;;;;372462;0;372462;
+8540;35199;PROVA FINALE;;;;;;;372463;0;372463;
+8540;76119;CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395785;;15975;Chiantera Angela;;;395785;0;395785;
+8540;76684;TEORIA E STORIA DELL'EDITORIA PER RAGAZZI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395905;;39853;Bernardi Milena;Italiano;;395905;0;395905;
+8540;3554;STORIA DELLA SCUOLA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395906;;33820;D'Ascenzo Mirella;Italiano;;395906;0;395906;
+8540;13726;DIDATTICA DELLA LINGUA INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404383;;36299;Rice Richard;Inglese;;404383;0;404383;
+8540;81993;PREPARAZIONE PROVA FINALE ALL'?Ç?ÖESTERO (3 CFU);;;;;;;412890;0;412890;
+8540;81689;PROVA FINALE (6 CFU);;;;;;;412891;0;412891;
+8540;81989;PREPARAZIONE PROVA FINALE ALL'?Ç?ÖESTERO (6 CFU);;;;;;;412892;0;412892;
+8540;81688;Prova finale (3 CFU);;;;;;;412893;0;412893;
+8540;455;GEOGRAFIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415895;;40336;Piastra Stefano;Italiano;;415895;0;415895;
+8540;12244;ICONOGRAFIA E ICONOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415897;;15345;Milani Raffaele;Italiano;;415897;0;415897;
+8540;12244;ICONOGRAFIA E ICONOLOGIA (1);;modulo;15345;Milani Raffaele;Italiano;;415899;415897;415897;
+8540;12244;ICONOGRAFIA E ICONOLOGIA (2);;modulo;38864;Panciroli Chiara;;;415900;415897;415897;
+8540;82722;LABORATORIO DI LINGUA INGLESE I -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/415945;;32860;Azzaro Gabriele;Italiano;;415945;0;415945;415945
+8540;82680;GENERE E STUDI SOCIALI DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/419856;;35194;Govoni Paola;Italiano;;419856;0;419856;386612
+8540;75252;ATTIVITA' DI SUPPORTO ALLA DIDATTICA: GEOGRAFIA;;;;;;;420215;0;420215;
+8774;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384529;;38831;Tomasetto Carlo;Italiano;;384529;0;384529;
+8774;7269;PSICOLOGIA DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384545;;16624;Depolo Marco;Italiano;;384545;0;384545;
+8774;2505;PSICOLOGIA DINAMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384547;;36851;Agostini Francesca;Italiano;;384547;0;384547;
+8774;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384550;;30931;Rubini Monica;Italiano;;384550;0;384550;
+8774;870;PSICOLOGIA SOCIALE (1);;modulo;30931;Rubini Monica;Italiano;;390528;384550;384550;
+8774;870;PSICOLOGIA SOCIALE (2);;modulo;41377;Menegatti Michela;;;390529;384550;384550;
+8774;72637;AFP IN AMBITO PSICOLOGICO;;;;;;;384551;0;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (0);;modulo;31433;Cicognani Elvira;Italiano;;403478;403477;384551;403478
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (1);;modulo;34743;Frati Fulvio;;;403479;403477;384551;403479
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (2);;modulo;47530;Neri Erica;;;403480;403477;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (3);;modulo;50209;Zanon Marco;;;403481;403477;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (4);;modulo;15396;Ladavas Elisabetta;;;403482;403477;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (5);;modulo;34362;Albanesi Cinzia;;;403483;403477;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C1) (6);;modulo;15246;Monti Fiorella;;;403484;403477;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (0);;modulo;31433;Cicognani Elvira;Italiano;;403486;403485;384551;403478
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (1);;modulo;34743;Frati Fulvio;;;403487;403485;384551;403479
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (7);;modulo;46334;Mazzoni Davide;;;403488;403485;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (8);;modulo;46121;Bertini Caterina;;;403489;403485;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (9);;modulo;45882;Donati Simone;;;403490;403485;384551;403490
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (10);;modulo;39989;Tonetti Lorenzo;;;403491;403485;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C2) (11);;modulo;34759;Nori Raffaella;;;403492;403485;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (0);;modulo;31433;Cicognani Elvira;Italiano;;403494;403493;384551;403478
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (1);;modulo;34743;Frati Fulvio;;;406466;403493;384551;403479
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (12);;modulo;46439;Borgomaneri Sara;;;403495;403493;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (13);;modulo;39288;Ruini Chiara;;;403496;403493;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (14);;modulo;41379;Valerio Sara;;;403497;403493;384551;
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (9);;modulo;45882;Donati Simone;;;403498;403493;384551;403490
+8774;72637;AFP IN AMBITO PSICOLOGICO (C3) (15);;modulo;45236;Ricci Aurora;;;403499;403493;384551;
+8774;72639;PSICOLOGIA DELLO SVILUPPO SOCIO-COGNITIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384553;;31652;Selleri Patrizia;Italiano;;384553;0;384553;
+8774;72639;PSICOLOGIA DELLO SVILUPPO SOCIO-COGNITIVO (1);;modulo;31652;Selleri Patrizia;Italiano;;415343;384553;384553;
+8774;72639;PSICOLOGIA DELLO SVILUPPO SOCIO-COGNITIVO (2);;modulo;34753;Matteucci Maria Cristina;;;415344;384553;384553;
+8774;3084;PSICOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384556;;30436;Baldaro Bruno;Italiano;;384556;0;384556;
+8774;905;SOCIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384699;;38572;Guarino Francesca;Italiano;;384699;0;384699;
+8774;70025;ANTROPOLOGIA CULTURALE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384701;;32977;Riccio Bruno;Italiano;;384701;0;384701;
+8774;2225;STATISTICA PSICOMETRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384703;;38825;Benassi Mariagrazia;Italiano;;384703;0;384703;384703
+8774;867;PSICHIATRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384704;;23962;Berardi Domenico;Italiano;;384704;0;384704;
+8774;867;PSICHIATRIA (1);;modulo;23962;Berardi Domenico;Italiano;;403258;384704;384704;
+8774;867;PSICHIATRIA (2);;modulo;917102;Sanza Michele;;;403259;384704;384704;
+8774;17305;PSICOLOGIA DELLE RELAZIONI DI GRUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384706;;34365;Moscatelli Silvia;Italiano;;384706;0;384706;
+8774;17305;PSICOLOGIA DELLE RELAZIONI DI GRUPPO (1);;modulo;34365;Moscatelli Silvia;Italiano;;419824;384706;384706;
+8774;17305;PSICOLOGIA DELLE RELAZIONI DI GRUPPO (2);;modulo;47893;Crocetti Elisabetta;;;419825;384706;384706;
+8774;7103;METODOLOGIA DELLA RICERCA PSICOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384707;;41376;Giovagnoli Sara;Italiano;;384707;0;384707;
+8774;6551;NEUROFISIOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384710;;32067;Domeniconi Rosa;Italiano;;384710;0;384710;
+8774;1230;PSICOLOGIA GENERALE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384712;;33511;Costa Marco;Italiano;;384712;0;384712;
+8774;1230;PSICOLOGIA GENERALE I (1);;modulo;44897;Gambetti Elisa;Italiano;;409640;384712;384712;
+8774;1230;PSICOLOGIA GENERALE I (2);;modulo;33511;Costa Marco;Italiano;;409641;384712;384712;
+8774;7276;INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384726;;38049;Sebartoli Alessandro;Italiano;;384726;0;384726;
+8774;7276;INFORMATICA (1);;modulo;38049;Sebartoli Alessandro;Italiano;;388220;384726;384726;
+8774;7276;INFORMATICA (2);;modulo;38199;Romagnoli Simone;;;388221;384726;384726;
+8774;7276;INFORMATICA (3);;modulo;32024;Cusimano Giuseppe;;;395642;384726;384726;
+8774;32035;NEUROSCIENZE COGNITIVE E SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384727;;31078;Di Pellegrino Giuseppe;Italiano;;384727;0;384727;
+8774;32035;NEUROSCIENZE COGNITIVE E SOCIALI (1);;modulo;31078;Di Pellegrino Giuseppe;Italiano;;390524;384727;384727;
+8774;32035;NEUROSCIENZE COGNITIVE E SOCIALI (2);;modulo;34151;Frassinetti Francesca;;;390525;384727;384727;
+8774;1231;PSICOLOGIA GENERALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/384728;;14977;Brighetti Gianni;Italiano;;384728;0;384728;
+8774;1231;PSICOLOGIA GENERALE II (1);;modulo;14977;Brighetti Gianni;Italiano;;390526;384728;384728;
+8774;1231;PSICOLOGIA GENERALE II (2);;modulo;33511;Costa Marco;;;390527;384728;384728;
+8774;26338;IDONEITA' LINGUA INGLESE B - 1;;;;;;;384738;0;384738;
+8774;76292;NEUROPSICOLOGIA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394944;;38119;Ciaramelli Elisa;Italiano;;394944;0;394944;
+8774;76290;CRIMINOLOGIA.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394947;;32718;Sette Raffaella;Italiano;;394947;0;394947;
+8774;76290;CRIMINOLOGIA. (1);;modulo;32718;Sette Raffaella;Italiano;;403260;394947;394947;
+8774;76290;CRIMINOLOGIA. (2);;modulo;24279;Bisi Roberta;;;403261;394947;394947;
+8774;76291;NEUROPSICHIATRIA INFANTILE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394948;;46982;Tullini Andrea;Italiano;;394948;0;394948;
+8774;76293;PSICOLOGIA CLINICA DELL'ETA' EVOLUTIVA E DELLE RELAZIONI FAMILIARI.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394949;;15246;Monti Fiorella;Italiano;;394949;0;394949;
+8774;76295;PSICOLOGIA DELLA COMUNICAZIONE.;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/394950;;24124;Garotti Pier Luigi;Italiano;;394950;0;394950;
+8774;82073;PEDAGOGIA (C.I.);;;;;;;413061;0;413061;
+8774;792;PEDAGOGIA I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413062;modulo;38495;Malaguti Elena;Italiano;;413062;413061;413061;
+8774;794;PEDAGOGIA II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413063;modulo;36726;Leonelli Silvia;Italiano;;413063;413061;413061;
+8774;82074;Psychology of adolescence;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413067;;31433;Cicognani Elvira;Inglese;;413067;0;413067;
+8774;82511;AFP RESEARCH PROJECT IN PSYCHOMETRICS (ERASMUS);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/423928;;38825;Benassi Mariagrazia;Italiano;;423928;0;423928;384703
+8775;388;FILOSOFIA DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373074;;14776;Matteuzzi Maurizio;Italiano;;373074;0;373074;373069
+8775;13220;PEDAGOGIA GENERALE E SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386474;;33158;Fabbri Maurizio;Italiano;;386474;0;386474;
+8775;32860;STORIA DELLE TEORIE DELL'INFANZIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386475;;31502;Pironi Tiziana;Italiano;;386475;0;386475;
+8775;31733;MODELLI DI MEDIAZIONE DIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386476;;39665;Schenetti Michela;Italiano;;386476;0;386476;
+8775;45;ANTROPOLOGIA CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386477;;31623;Guerzoni Giovanna;Italiano;;386477;0;386477;
+8775;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386478;;33637;Occhionero Miranda;Italiano;;386478;0;386478;
+8775;2207;PSICOLOGIA GENERALE (1);;modulo;33637;Occhionero Miranda;Italiano;;416868;386478;386478;
+8775;2207;PSICOLOGIA GENERALE (2);;modulo;44729;De Cesarei Andrea;;;416869;386478;386478;
+8775;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386479;;14805;Russo Alessandro;Italiano;;386479;0;386479;
+8775;6386;LETTERATURA PER L'INFANZIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386481;;39853;Bernardi Milena;Italiano;;386481;0;386481;
+8775;73334;EDUCAZIONE ALLA CORPOREITA' E METODOLOGIA DEL GIOCO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386482;;35053;Balduzzi Lucia;Italiano;;386482;0;386482;
+8775;73335;PROGETTAZIONE, DOCUMENTAZIONE E VALUTAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386483;;38501;Truffelli Elisa;Italiano;;386483;0;386483;
+8775;73336;SOCIOLOGIA DELLE ORGANIZZAZIONI E PROGETTAZIONE PEDAGOGICA DEI SERVIZI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386484;;33339;Trentini Marco;Italiano;;386484;0;386484;
+8775;73336;SOCIOLOGIA DELLE ORGANIZZAZIONI E PROGETTAZIONE PEDAGOGICA DEI SERVIZI (1);;modulo;33339;Trentini Marco;Italiano;;395345;386484;386484;
+8775;73336;SOCIOLOGIA DELLE ORGANIZZAZIONI E PROGETTAZIONE PEDAGOGICA DEI SERVIZI (2);;modulo;35147;Gigli Alessandra;;;395346;386484;386484;
+8775;187;EDUCAZIONE AL SONORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386485;;33828;Addessi Anna Rita;Italiano;;386485;0;386485;
+8775;31771;EDUCAZIONE ALLA COMUNICAZIONE VERBALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386486;;15975;Chiantera Angela;Italiano;;386486;0;386486;
+8775;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386487;;31436;Sansavini Alessandra;Italiano;;386487;0;386487;
+8775;498;IGIENE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386488;;32509;Sacchetti Rossella;Italiano;;386488;0;386488;
+8775;15579;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386491;;36567;Lorenzini Stefania;Italiano;;386491;0;386491;
+8775;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386494;;33147;Villano Paola;Italiano;;386494;0;386494;
+8775;797;PEDAGOGIA SPECIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386495;;38495;Malaguti Elena;Italiano;;386495;0;386495;
+8775;797;PEDAGOGIA SPECIALE (1);;modulo;38495;Malaguti Elena;Italiano;;419434;386495;386495;
+8775;797;PEDAGOGIA SPECIALE (2);;modulo;38495;Malaguti Elena;;;419435;386495;386495;
+8775;73337;PEDAGOGIA DELLE FAMIGLIE E DELLE DIFFERENZE DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386496;;36726;Leonelli Silvia;Italiano;;386496;0;386496;
+8775;73337;PEDAGOGIA DELLE FAMIGLIE E DELLE DIFFERENZE DI GENERE (1);;modulo;36726;Leonelli Silvia;Italiano;;403370;386496;386496;
+8775;73337;PEDAGOGIA DELLE FAMIGLIE E DELLE DIFFERENZE DI GENERE (2);;modulo;35147;Gigli Alessandra;;;403371;386496;386496;
+8775;73338;STORIA DELL'ILLUSTRAZIONE PER L'INFANZIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386497;;15121;Beseghi Emma;Italiano;;386497;0;386497;
+8775;12612;PSICOPATOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386499;;36851;Agostini Francesca;Italiano;;386499;0;386499;
+8775;12612;PSICOPATOLOGIA DELLO SVILUPPO (1);;modulo;36851;Agostini Francesca;Italiano;;420717;386499;386499;
+8775;12612;PSICOPATOLOGIA DELLO SVILUPPO (2);;modulo;47530;Neri Erica;;;420718;386499;386499;
+8775;17268;PROVA FINALE;;;;;;;386502;0;386502;
+8775;73341;LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1);;;;;;;386504;0;386504;394998
+8775;16692;LABORATORIO DI INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386505;;36548;Pacetti Elena;Italiano;blended learning;386505;0;386505;386505
+8775;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386509;;31502;Pironi Tiziana;;;386509;0;386509;
+8775;73347;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE NEI SERVIZI PER L'INFANZIA I;;;;;;;386513;0;386513;
+8775;73349;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE NEI SERVIZI PER L'INFANZIA II;;;;;;;386515;0;386515;
+8775;76119;CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395787;;14776;Matteuzzi Maurizio;Italiano;;395787;0;395787;395788
+8776;388;FILOSOFIA DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/373069;;14776;Matteuzzi Maurizio;Italiano;;373069;0;373069;373069
+8776;13220;PEDAGOGIA GENERALE E SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386584;;35618;Gallerani Manuela;Italiano;;386584;0;386584;
+8776;16764;STORIA DELL'EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386586;;33820;D'Ascenzo Mirella;Italiano;;386586;0;386586;
+8776;31733;MODELLI DI MEDIAZIONE DIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386587;;36548;Pacetti Elena;Italiano;;386587;0;386587;
+8776;31733;MODELLI DI MEDIAZIONE DIDATTICA (1);;modulo;36548;Pacetti Elena;Italiano;;415302;386587;386587;
+8776;31733;MODELLI DI MEDIAZIONE DIDATTICA (2);;modulo;35053;Balduzzi Lucia;;;415303;386587;386587;
+8776;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386588;;33637;Occhionero Miranda;Italiano;;386588;0;386588;
+8776;2207;PSICOLOGIA GENERALE (1);;modulo;33637;Occhionero Miranda;Italiano;;405539;386588;386588;
+8776;2207;PSICOLOGIA GENERALE (2);;modulo;37856;Esposito Maria Jos?¿;;;405540;386588;386588;
+8776;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386589;;35460;Brighi Antonella;Italiano;;386589;0;386589;
+8776;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386590;;14805;Russo Alessandro;Italiano;;386590;0;386590;
+8776;73373;SOCIOLOGIA DELLA FAMIGLIA E DELLE DIFFERENZE DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386591;;39864;Ghigi Rossella;Italiano;;386591;0;386591;
+8776;15579;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386592;;36567;Lorenzini Stefania;Italiano;;386592;0;386592;
+8776;15579;PEDAGOGIA INTERCULTURALE (1);;modulo;36567;Lorenzini Stefania;Italiano;;404346;386592;386592;
+8776;15579;PEDAGOGIA INTERCULTURALE (2);;modulo;36567;Lorenzini Stefania;;;404347;386592;386592;
+8776;31675;PROGETTAZIONE E VALUTAZIONE DEGLI INTERVENTI EDUCATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386593;;36396;Luppi Elena;Italiano;;386593;0;386593;
+8776;28599;TECNOLOGIE DELLA CONOSCENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386594;;38863;Fabbri Manuela;Italiano;;386594;0;386594;
+8776;32890;STORIA DEI CULTI E DELLE RELIGIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386596;;16856;Dondarini Rolando;Italiano;;386596;0;386596;
+8776;73375;PEDAGOGIA SPECIALE, DELLA MARGINALITA' E DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386599;;35523;Sandri Patrizia;Italiano;;386599;0;386599;386599
+8776;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386600;;15295;Speltini Giuseppina;Italiano;;386600;0;386600;
+8776;3084;PSICOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386601;;30436;Baldaro Bruno;Italiano;;386601;0;386601;
+8776;3084;PSICOLOGIA CLINICA (1);;modulo;30436;Baldaro Bruno;Italiano;;404344;386601;386601;
+8776;3084;PSICOLOGIA CLINICA (2);;modulo;43418;Sirri Laura;;;404345;386601;386601;
+8776;45;ANTROPOLOGIA CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386602;;31623;Guerzoni Giovanna;Italiano;;386602;0;386602;
+8776;12078;SOCIOLOGIA DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386603;;41898;Colloca Pasquale;Italiano;;386603;0;386603;
+8776;12078;SOCIOLOGIA DELLA DEVIANZA (1);;modulo;41898;Colloca Pasquale;Italiano;;415415;386603;386603;
+8776;12078;SOCIOLOGIA DELLA DEVIANZA (2);;modulo;38479;Tuorto Dario;;;415416;386603;386603;
+8776;73376;SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386604;;38479;Tuorto Dario;Italiano;;386604;0;386604;
+8776;73376;SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE (1);;modulo;38479;Tuorto Dario;Italiano;;415409;386604;386604;
+8776;73376;SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE (2);;modulo;41898;Colloca Pasquale;;;415410;386604;386604;
+8776;73377;FILOSOFIA DEL PAESAGGIO E DELL'AMBIENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386605;;15345;Milani Raffaele;Italiano;;386605;0;386605;
+8776;42972;DIRITTO DEI SERVIZI SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386606;;36776;Nicodemo Silvia;Italiano;;386606;0;386606;
+8776;54769;PEDAGOGIA DELLA NARRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386607;;35909;Grandi William;Italiano;;386607;0;386607;
+8776;4875;PSICOLOGIA DEI GRUPPI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386608;;35249;Passini Stefano;Italiano;;386608;0;386608;
+8776;73252;EDUCAZIONE ALLE RELAZIONI DI COPPIA E DI FAMIGLIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386610;;41055;Demozzi Silvia;Italiano;;386610;0;386610;
+8776;69407;STORIA COMPARATA DELLE CITTA' EUROPEE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386611;;40897;Smurra Rosa;Italiano;;386611;0;386611;
+8776;73378;GENERE E CULTURE DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386612;;35194;Govoni Paola;Italiano;;386612;0;386612;386612
+8776;56128;PSICOLOGIA DELL'ADOLESCENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386613;;15295;Speltini Giuseppina;Italiano;;386613;0;386613;
+8776;17268;PROVA FINALE;;;;;;;386615;0;386615;
+8776;73341;LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1);;;;;;;386616;0;386616;394998
+8776;16692;LABORATORIO DI INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386617;;15209;Guerra Luigi;Italiano;blended learning;386617;0;386617;
+8776;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386618;;;;;;386618;0;386618;
+8776;73380;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE I;;;;;;;386619;0;386619;
+8776;73382;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE II;;;;;;;386620;0;386620;
+8776;54763;DIDATTICA MUSEALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386990;;38864;Panciroli Chiara;Italiano;;386990;0;386990;
+8776;76119;CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395788;;14776;Matteuzzi Maurizio;Italiano;;395788;0;395788;395788
+8777;13220;PEDAGOGIA GENERALE E SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386794;;35148;Tolomelli Alessandro;Italiano;;386794;0;386794;
+8777;16764;STORIA DELL'EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386795;;33820;D'Ascenzo Mirella;Italiano;;386795;0;386795;
+8777;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386796;;37856;Esposito Maria Jos?¿;Italiano;;386796;0;386796;
+8777;2207;PSICOLOGIA GENERALE (1);;modulo;37856;Esposito Maria Jos?¿;Italiano;;404375;386796;386796;
+8777;2207;PSICOLOGIA GENERALE (2);;modulo;33637;Occhionero Miranda;;;404376;386796;386796;
+8777;3857;SOCIOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386797;;24433;Scappini Ettore;Italiano;;386797;0;386797;
+8777;73373;SOCIOLOGIA DELLA FAMIGLIA E DELLE DIFFERENZE DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386798;;39864;Ghigi Rossella;Italiano;;386798;0;386798;
+8777;3079;PSICOLOGIA DELLO SVILUPPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386799;;35460;Brighi Antonella;Italiano;;386799;0;386799;
+8777;3079;PSICOLOGIA DELLO SVILUPPO (1);;modulo;35460;Brighi Antonella;Italiano;;395337;386799;386799;
+8777;3079;PSICOLOGIA DELLO SVILUPPO (2);;modulo;36599;Guarini Annalisa;;;395338;386799;386799;
+8777;31733;MODELLI DI MEDIAZIONE DIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386800;;15209;Guerra Luigi;Italiano;;386800;0;386800;
+8777;31733;MODELLI DI MEDIAZIONE DIDATTICA (1);;modulo;15209;Guerra Luigi;Italiano;;395846;386800;386800;
+8777;31733;MODELLI DI MEDIAZIONE DIDATTICA (2);;modulo;48415;Taddei Arianna;;;395847;386800;386800;
+8777;28599;TECNOLOGIE DELLA CONOSCENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386801;;38863;Fabbri Manuela;Italiano;;386801;0;386801;
+8777;15579;PEDAGOGIA INTERCULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386803;;38868;Bolognesi Ivana;Italiano;;386803;0;386803;
+8777;31675;PROGETTAZIONE E VALUTAZIONE DEGLI INTERVENTI EDUCATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386804;;47657;Marcuccio Massimo;Italiano;;386804;0;386804;
+8777;32890;STORIA DEI CULTI E DELLE RELIGIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386805;;16856;Dondarini Rolando;Italiano;;386805;0;386805;
+8777;59288;STORIA DELLO STATO SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386807;;14598;Preti Alberto;Italiano;;386807;0;386807;
+8777;59288;STORIA DELLO STATO SOCIALE (1);;modulo;14598;Preti Alberto;Italiano;;398769;386807;386807;
+8777;59288;STORIA DELLO STATO SOCIALE (2);;modulo;36453;Venturoli Cinzia;;;398770;386807;386807;
+8777;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386808;;35034;Melotti Giannino;Italiano;;386808;0;386808;
+8777;73375;PEDAGOGIA SPECIALE, DELLA MARGINALITA' E DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386809;;47566;Dainese Roberto;Italiano;;386809;0;386809;
+8777;3084;PSICOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386810;;48209;Mancini Giacomo;Italiano;;386810;0;386810;
+8777;3084;PSICOLOGIA CLINICA (1);;modulo;48209;Mancini Giacomo;Italiano;;415591;386810;386810;
+8777;3084;PSICOLOGIA CLINICA (2);;modulo;47771;Cani Diana;;;415592;386810;386810;
+8777;45;ANTROPOLOGIA CULTURALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386811;;38500;Tarabusi Federica;Italiano;;386811;0;386811;
+8777;73376;SOCIOLOGIA DEI PROCESSI DI INCLUSIONE ED ESCLUSIONE SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386813;;38479;Tuorto Dario;Italiano;;386813;0;386813;
+8777;42972;DIRITTO DEI SERVIZI SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386815;;14277;Bottari Carlo;Italiano;;386815;0;386815;
+8777;42972;DIRITTO DEI SERVIZI SOCIALI (1);;modulo;14277;Bottari Carlo;Italiano;;406397;386815;386815;
+8777;42972;DIRITTO DEI SERVIZI SOCIALI (2);;modulo;48874;Dimasi Luca;;;406398;386815;386815;
+8777;73378;GENERE E CULTURE DELLA SCIENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386817;;35194;Govoni Paola;Italiano;;386817;0;386817;
+8777;54769;PEDAGOGIA DELLA NARRAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386818;;35909;Grandi William;Italiano;;386818;0;386818;
+8777;56128;PSICOLOGIA DELL'ADOLESCENZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386821;;15295;Speltini Giuseppina;Italiano;;386821;0;386821;
+8777;56128;PSICOLOGIA DELL'ADOLESCENZA (1);;modulo;15295;Speltini Giuseppina;Italiano;;395335;386821;386821;
+8777;56128;PSICOLOGIA DELL'ADOLESCENZA (2);;modulo;35249;Passini Stefano;;;395336;386821;386821;
+8777;17268;PROVA FINALE;;;;;;;386823;0;386823;
+8777;16692;LABORATORIO DI INFORMATICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386824;;36548;Pacetti Elena;Italiano;blended learning;386824;0;386824;386505
+8777;73382;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE II;;;;;;;386825;0;386825;
+8777;73341;LINGUA INGLESE (CON ACCERTAMENTO LIVELLO B1);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386826;;;;;;386826;0;386826;370086
+8777;15349;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386827;;;;;;386827;0;386827;
+8777;73380;LABORATORIO DI FORMAZIONE PROFESSIONALE PER L'EDUCATORE SOCIALE E CULTURALE I;;;;;;;386828;0;386828;
+8777;32855;TEORIE E MODELLI EDUCATIVI DELLE DIFFERENZE DI GENERE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/387004;;36726;Leonelli Silvia;Italiano;;387004;0;387004;
+8777;76119;CONOSCENZE DI NATURA LINGUISTICO-COMUNICATIVA, LOGICO-INDUTTIVA E DEDUTTIVA (OFA);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/395789;;33820;D'Ascenzo Mirella;Italiano;;395789;0;395789;
+8778;73320;TECNICHE DI INTERVENTO NELLE DIPENDENZE PATOLOGICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386433;;34765;Biolcati Roberta;Italiano;;386433;0;386433;
+8778;73321;PROCESSI COGNITIVI DISFUNZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386440;;33637;Occhionero Miranda;Italiano;;386440;0;386440;
+8778;73322;SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386441;;38479;Tuorto Dario;Italiano;;386441;0;386441;
+8778;73322;SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI (1);;modulo;38479;Tuorto Dario;Italiano;;395398;386441;386441;
+8778;73322;SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI (2);;modulo;41898;Colloca Pasquale;;;395399;386441;386441;
+8778;8829;METODOLOGIA DELLA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386442;;15419;Rossi Maurizio;Italiano;;386442;0;386442;
+8778;32535;ANTROPOLOGIA DEI PROCESSI MIGRATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386443;;32977;Riccio Bruno;Italiano;;386443;0;386443;386443
+8778;73324;MEDITERRANEO: CROCEVIA DI STORIE E DI CULTURE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386445;;36393;Borghi Beatrice;Italiano;;386445;0;386445;
+8778;33534;WELFARE E POLITICHE DI TRATTAMENTO DELLE DIPENDENZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386447;;35036;Dondi Mario;Italiano;;386447;0;386447;
+8778;73326;PROBLEMATICHE SOCIALI DELLE DIVERSITA' CULTURALI E RELIGIOSE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386451;;39293;Martelli Stefano;Italiano;;386451;0;386451;
+8778;38809;I PARADIGMI DELLE DIPENDENZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386452;;41358;Pavarin Raimondo Maria;Italiano;;386452;0;386452;
+8778;73301;LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386454;;;;;;386454;0;386454;370032
+8778;73327;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE I;;;;;;;386455;0;386455;
+8778;73328;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE II;;;;;;;386456;0;386456;
+8778;27083;PROVA FINALE LM;;;;;;;386457;0;386457;
+8778;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386458;;34364;Guglielmi Dina;;;386458;0;386458;
+8778;73329;PEDAGOGIA DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386459;;14882;Cavana Laura;Italiano;;386459;0;386459;
+8778;73330;PEDAGOGIA DELLE MIGRAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386460;;31875;Caronia Letizia;Italiano;;386460;0;386460;386460
+8778;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386461;;37285;Palareti Laura;Italiano;;386461;0;386461;
+8778;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA' (1);;modulo;37285;Palareti Laura;Italiano;;415793;386461;386461;
+8778;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA' (2);;modulo;35249;Passini Stefano;;;415794;386461;386461;
+8778;73332;STRATEGIE E STRUMENTI DELL'EMPOWERMENT E DELLA CITTADINANZA ATTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386463;;35320;Zanetti Federica;Italiano;;386463;0;386463;
+8778;32436;EDUCAZIONE E RIABILITAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386464;;41661;Caldin Roberta;Italiano;;386464;0;386464;
+8778;73144;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386466;;36396;Luppi Elena;Italiano;;386466;0;386466;
+8778;32462;FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386469;;31034;Franchi Scarselli Guido;Italiano;;386469;0;386469;
+8778;32462;FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE (1);;modulo;31034;Franchi Scarselli Guido;Italiano;;404975;386469;386469;
+8778;32462;FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE (2);;modulo;47785;Unguendoli Paolo;;;404976;386469;386469;
+8778;1353;PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/412428;;34364;Guglielmi Dina;Italiano;;412428;0;412428;414450
+8778;81989;PREPARAZIONE PROVA FINALE ALL'?Ç?ÖESTERO (6 CFU);;;;;;;412878;0;412878;
+8778;81990;PROVA FINALE LM (12 CFU);;;;;;;412879;0;412879;
+8778;81991;PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU);;;;;;;412880;0;412880;
+8778;81992;PROVA FINALE LM (6 CFU);;;;;;;412881;0;412881;
+8778;81837;PROCESSI PSICOLOGICI DELL'ESCLUSIONE SOCIALE E DELLA MEDIAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/416163;;33147;Villano Paola;Italiano;;416163;0;416163;
+8779;73329;PEDAGOGIA DELLA DEVIANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386830;;35201;Casadei Rita;Italiano;;386830;0;386830;
+8779;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386831;;37285;Palareti Laura;Italiano;;386831;0;386831;
+8779;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA' (1);;modulo;37285;Palareti Laura;Italiano;;415829;386831;386831;
+8779;73331;MODELLI E TECNICHE D'INTERVENTO NEI SERVIZI DI COMUNITA' (2);;modulo;35249;Passini Stefano;;;415830;386831;386831;
+8779;73332;STRATEGIE E STRUMENTI DELL'EMPOWERMENT E DELLA CITTADINANZA ATTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386833;;35320;Zanetti Federica;Italiano;;386833;0;386833;
+8779;32436;EDUCAZIONE E RIABILITAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386834;;38495;Malaguti Elena;Italiano;;386834;0;386834;
+8779;73144;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386835;;33788;Vannini Ira;Italiano;;386835;0;386835;
+8779;73144;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI (1);;modulo;33788;Vannini Ira;Italiano;;399203;386835;386835;
+8779;73144;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI EDUCATIVI (2);;modulo;47657;Marcuccio Massimo;;;399204;386835;386835;
+8779;32462;FONDAMENTI DI DIRITTO DEI SISTEMI DI WELFARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386836;;31034;Franchi Scarselli Guido;Italiano;;386836;0;386836;
+8779;73321;PROCESSI COGNITIVI DISFUNZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386837;;44729;De Cesarei Andrea;Italiano;;386837;0;386837;
+8779;73322;SOCIOLOGIA DEL WELFARE E DELLE POLITICHE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386838;;33339;Trentini Marco;Italiano;;386838;0;386838;
+8779;32535;ANTROPOLOGIA DEI PROCESSI MIGRATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386840;;32977;Riccio Bruno;Italiano;;386840;0;386840;
+8779;73320;TECNICHE DI INTERVENTO NELLE DIPENDENZE PATOLOGICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386841;;34765;Biolcati Roberta;Italiano;;386841;0;386841;
+8779;73326;PROBLEMATICHE SOCIALI DELLE DIVERSITA' CULTURALI E RELIGIOSE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386847;;39293;Martelli Stefano;Italiano;;386847;0;386847;
+8779;73326;PROBLEMATICHE SOCIALI DELLE DIVERSITA' CULTURALI E RELIGIOSE (1);;modulo;39293;Martelli Stefano;Italiano;;416270;386847;386847;
+8779;73326;PROBLEMATICHE SOCIALI DELLE DIVERSITA' CULTURALI E RELIGIOSE (2);;modulo;41680;Russo Giovanna;;;416271;386847;386847;
+8779;38809;I PARADIGMI DELLE DIPENDENZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386848;;74311;Polidori Edoardo;Italiano;;386848;0;386848;
+8779;27083;PROVA FINALE LM;;;;;;;386849;0;386849;
+8779;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386850;;34364;Guglielmi Dina;;;386850;0;386850;
+8779;73301;LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386851;;;;;;386851;0;386851;370081
+8779;73327;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE I;;;;;;;386852;0;386852;
+8779;73328;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PREVENZIONE E CURA EDUCATIVA DEL DISAGIO SOCIALE II;;;;;;;386853;0;386853;
+8779;81989;PREPARAZIONE PROVA FINALE ALL'?Ç?ÖESTERO (6 CFU);;;;;;;412882;0;412882;
+8779;81990;PROVA FINALE LM (12 CFU);;;;;;;412883;0;412883;
+8779;81991;PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU);;;;;;;412884;0;412884;
+8779;81992;PROVA FINALE LM (6 CFU);;;;;;;412885;0;412885;
+8780;73217;METODOLOGIA DELLA RICERCA EMPIRICA IN EDUCAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386302;;14933;Giovannini Maria Lucia;Italiano;;386302;0;386302;
+8780;73301;LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386306;;;;;;386306;0;386306;370032
+8780;31125;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN SCIENZE DELLA EDUCAZIONE PERMANENTE E DELLA FORMAZIONE CONTINUA II;;;;;;;386310;0;386310;
+8780;73253;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN SCIENZE DELLA EDUCAZIONE PERMANENTE E DELLA FORMAZIONE CONTINUA I;;;;;;;386312;0;386312;
+8780;67739;TIROCINIO LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386316;;47657;Marcuccio Massimo;;;386316;0;386316;
+8780;27083;PROVA FINALE LM;;;;;;;386317;0;386317;
+8780;73259;TEORIE E MODELLI DI EDUCAZIONE PERMANENTE E DI FORMAZIONE CONTINUA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386362;;35618;Gallerani Manuela;Italiano;;386362;0;386362;386362
+8780;30943;ANALISI COMPARATA DEI MODELLI FORMATIVI DELL'EDUCAZIONE PERMANENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386365;;15371;Ziglio Corrado;Italiano;;386365;0;386365;
+8780;73304;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI FORMATIVI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386398;;47657;Marcuccio Massimo;Italiano;;386398;0;386398;
+8780;73304;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI FORMATIVI (1);;modulo;47657;Marcuccio Massimo;Italiano;;399197;386398;386398;
+8780;73304;TEORIE E METODI DI PROGETTAZIONE E VALUTAZIONE DEI PROCESSI FORMATIVI (2);;modulo;38501;Truffelli Elisa;Italiano;;399198;386398;386398;
+8780;73308;STRATEGIE DIDATTICHE E DI COMUNICAZIONE PER GLI ADULTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386405;;35320;Zanetti Federica;Italiano;;386405;0;386405;
+8780;73308;STRATEGIE DIDATTICHE E DI COMUNICAZIONE PER GLI ADULTI (1);;modulo;35320;Zanetti Federica;Italiano;;395402;386405;386405;
+8780;73308;STRATEGIE DIDATTICHE E DI COMUNICAZIONE PER GLI ADULTI (2);;modulo;15209;Guerra Luigi;;;395403;386405;386405;
+8780;30996;VALUTAZIONE DEGLI APPRENDIMENTI FORMALI E NON FORMALI E CERTIFICAZIONE DELLE COMPETENZE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386406;;14933;Giovannini Maria Lucia;Italiano;;386406;0;386406;
+8780;30996;VALUTAZIONE DEGLI APPRENDIMENTI FORMALI E NON FORMALI E CERTIFICAZIONE DELLE COMPETENZE (1);;modulo;14933;Giovannini Maria Lucia;Italiano;;415727;386406;386406;
+8780;30996;VALUTAZIONE DEGLI APPRENDIMENTI FORMALI E NON FORMALI E CERTIFICAZIONE DELLE COMPETENZE (2);;modulo;41166;Rosa Alessandra;;;415728;386406;386406;
+8780;73309;PSICOLOGIA DELL'ORIENTAMENTO E DELLE TRANSIZIONI IN ETA' ADULTA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386407;;34364;Guglielmi Dina;Italiano;;386407;0;386407;
+8780;73311;SOCIOLOGIA DEL LAVORO E DELL'ORGANIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386409;;33339;Trentini Marco;Italiano;;386409;0;386409;
+8780;30977;DIRITTO EUROPEO E ITALIANO NEL CAMPO DELLE POLITICHE DEL LAVORO E DELLA FORMAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386412;;37517;Caliandro Stefano;Italiano;;386412;0;386412;
+8780;8829;METODOLOGIA DELLA RICERCA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386414;;15419;Rossi Maurizio;Italiano;;386414;0;386414;
+8780;73313;SOCIOLOGIA DEL WELFARE E DELLA FORMAZIONE CONTINUA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/386415;;39864;Ghigi Rossella;Italiano;;386415;0;386415;
+8780;73313;SOCIOLOGIA DEL WELFARE E DELLA FORMAZIONE CONTINUA (1);;modulo;39864;Ghigi Rossella;Italiano;;387358;386415;386415;
+8780;73313;SOCIOLOGIA DEL WELFARE E DELLA FORMAZIONE CONTINUA (2);;modulo;15419;Rossi Maurizio;;;387359;386415;386415;
+8780;81989;PREPARAZIONE PROVA FINALE ALL'?Ç?ÖESTERO (6 CFU);;;;;;;412886;0;412886;
+8780;81990;PROVA FINALE LM (12 CFU);;;;;;;412887;0;412887;
+8780;81991;PREPARAZIONE PROVA FINALE ALL'ESTERO (12 CFU);;;;;;;412888;0;412888;
+8780;81992;PROVA FINALE LM (6 CFU);;;;;;;412889;0;412889;
+9206;59231;PEDAGOGIA DELL'INFANZIA E DELLE FAMIGLIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414443;;35147;Gigli Alessandra;Italiano;;414443;0;414443;
+9206;59231;PEDAGOGIA DELL'INFANZIA E DELLE FAMIGLIE (1);;modulo;35147;Gigli Alessandra;Italiano;;415623;414443;414443;
+9206;59231;PEDAGOGIA DELL'INFANZIA E DELLE FAMIGLIE (2);;modulo;41055;Demozzi Silvia;;;415624;414443;414443;
+9206;73141;TEORIE E STRUMENTI DELLA MEDIAZIONE DIDATTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414444;;38864;Panciroli Chiara;Italiano;;414444;0;414444;
+9206;73139;STORIA DEI SERVIZI EDUCATIVI E DELL'IMMAGINARIO INFANTILE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414445;;31502;Pironi Tiziana;Italiano;;414445;0;414445;
+9206;73139;STORIA DEI SERVIZI EDUCATIVI E DELL'IMMAGINARIO INFANTILE (1);;modulo;31502;Pironi Tiziana;Italiano;;415715;414445;414445;
+9206;73139;STORIA DEI SERVIZI EDUCATIVI E DELL'IMMAGINARIO INFANTILE (2);;modulo;15121;Beseghi Emma;;;415716;414445;414445;
+9206;73374;STORIA DELLO STATO SOCIALE LM;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414448;;14598;Preti Alberto;Italiano;;414448;0;414448;
+9206;73152;SOCIOLOGIA DELL'EDUCAZIONE EXTRASCOLASTICA E DELLE POLITICHE SOCIALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414449;;35109;Tagliaventi Maria Teresa;Italiano;;414449;0;414449;
+9206;1353;PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414450;;34364;Guglielmi Dina;Italiano;;414450;0;414450;414450
+9206;82100;PSICOLOGIA DELL'INTERAZIONE E DEI CONTESTI DI SOCIALIZZAZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414451;;32748;Galatolo Renata;Italiano;;414451;0;414451;
+9206;82100;PSICOLOGIA DELL'INTERAZIONE E DEI CONTESTI DI SOCIALIZZAZIONE (1);;modulo;32748;Galatolo Renata;Italiano;;415610;414451;414451;402559
+9206;82100;PSICOLOGIA DELL'INTERAZIONE E DEI CONTESTI DI SOCIALIZZAZIONE (2);;modulo;47793;Vassallo Erika;;;415611;414451;414451;
+9206;30847;PSICOPATOLOGIA DEL CICLO DI VITA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414452;;31207;Trombini Elena;Italiano;;414452;0;414452;
+9206;73301;LINGUA INGLESE LM (CON ACCERTAMENTO LIVELLO B2);http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414461;;;;;;414461;0;414461;370032
+9206;73218;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PEDAGOGIA I;;;;;;;414462;0;414462;
+9206;30803;LABORATORIO DI SPECIALIZZAZIONE PROFESSIONALE IN PEDAGOGIA II;;;;;;;414463;0;414463;

@@ -95,6 +95,7 @@ public class VersusActivity extends BaseActivity {
                                 LinearLayout stat3 = (LinearLayout) findViewById(R.id.stat_3);
                                 TextView esamiText3 = (TextView) stat3.getChildAt(0);
                                 esamiText3.setText(value);
+
                                 break;
                             case StatCorsoModel.ERASMUS:
                                 LinearLayout stat5 = (LinearLayout) findViewById(R.id.stat_5);

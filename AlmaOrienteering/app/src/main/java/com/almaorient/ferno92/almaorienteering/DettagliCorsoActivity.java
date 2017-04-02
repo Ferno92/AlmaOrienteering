@@ -429,8 +429,8 @@ public class DettagliCorsoActivity extends BaseActivity {
                         mAnno2 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(d,2*d-1));
                         mAnno3 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(2*d,3*d-1));
                         mAnno4 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(3*d,4*d-1));
-                        mAnno5 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,4*d-1));
-                        mAnno6 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,5*d-1+e));
+                        mAnno5 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(4*d,5*d-1));
+                        mAnno6 = new ArrayList<String>(mSecondoLivelloElencoAnno.subList(5*d,6*d-1+e));
 
                         mSeconlevelmap.put(listDataHeader.get(0), mAnno1);
                         mSeconlevelmap.put(listDataHeader.get(1), mAnno2);
