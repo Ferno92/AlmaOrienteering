@@ -163,9 +163,9 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8204;278;MICROBIOLOGIA E MICROBIOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/362129;;32892;Lazzarotto Tiziana;Italiano;;362129;0;362129;
 8204;278;MICROBIOLOGIA E MICROBIOLOGIA CLINICA (1);;modulo;32892;Lazzarotto Tiziana;Italiano;;420821;362129;362129;
 8204;278;MICROBIOLOGIA E MICROBIOLOGIA CLINICA (2);;modulo;601297;Foschi Claudio;;;420822;362129;362129;
-8204;74423;APPROCCIO COMPORTAMENTALE NEL TRATTAMENTO DEI PAZIENTI CON PARTICOLARI NECESSIT?Ç C.I.;;;;;;;390246;0;390246;
+8204;74423;APPROCCIO COMPORTAMENTALE NEL TRATTAMENTO DEI PAZIENTI CON PARTICOLARI NECESSITA' C.I.;;;;;;;390246;0;390246;
 8204;74424;LA PSICOMETRIA APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390247;modulo;34155;Mazzetti Michela;Italiano;;390247;390246;390246;
-8204;74425;ODONTOIATRIA PER PAZIENTI CON PARTICOLARI NECESSIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390248;modulo;15930;Piana Gabriela;Italiano;;390248;390246;390246;
+8204;74425;ODONTOIATRIA PER PAZIENTI CON PARTICOLARI NECESSITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390248;modulo;15930;Piana Gabriela;Italiano;;390248;390246;390246;
 8204;79605;PROTESI MAXILLO-FACCIALE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404945;;31184;Scotti Roberto;Italiano;;404945;0;404945;
 8204;79605;PROTESI MAXILLO-FACCIALE - (1);;modulo;31184;Scotti Roberto;Italiano;;410779;404945;404945;
 8204;79605;PROTESI MAXILLO-FACCIALE - (2);;modulo;35288;Ciocca Leonardo;;;410780;404945;404945;
@@ -358,7 +358,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;70731;LA COMPETENZA CULTURALE NELLA RELAZIONE MEDICO PAZIENTE C.I.;;;;;;;380242;0;380242;
 8415;70733;LA COMPETENZA CULTURALE: RAZIONALE, CONTESTO E DEFINIZIONE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380245;modulo;40012;Tarricone Ilaria;Italiano;;380245;380242;380242;
 8415;70736;COMPRENDERE L`INFLUENZA DELLO STIGMA SOCIALE E DEGLI STEREOTIPI INDIVIDUALI NEL PROCESSO DI DECISION MAKING IN MEDICINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380246;modulo;32566;Scudellari Paolo;Italiano;;380246;380242;380242;
-8415;70737;ABILIT?Ç CLINICHE TRANS-CULTURALI E ORGANIZZAZIONE DEI SERVIZI CULTURALMENTE COMPETENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380247;modulo;30778;Faldella Giacomo;Italiano;;380247;380242;380242;
+8415;70737;ABILITA' CLINICHE TRANS-CULTURALI E ORGANIZZAZIONE DEI SERVIZI CULTURALMENTE COMPETENTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380247;modulo;30778;Faldella Giacomo;Italiano;;380247;380242;380242;
 8415;70776;MEDICINA PALLIATIVA IN ONCOLOGIA - (C.I.);;;;;;;380323;0;380323;
 8415;70777;STORIA E DIFFUSIONE DELLE CURE PALLIATIVE. CARATTERISTICHE CULTURALI E SOCIALI DI UN APPROCCIO MULTIDISCIPLINARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380324;modulo;14980;Biasco Guido;Italiano;;380324;380323;380323;
 8415;70778;SOSTEGNO PSICOLOGICO AL MALATO, AI FAMILIARI E ALL'EQUIPE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380325;modulo;15029;Zamagni Maria Paola;Italiano;;380325;380323;380323;
@@ -388,15 +388,15 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;70826;CLINICAL FEATURES AND DIAGNOSIS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380399;modulo;38716;Muratori Paolo;Italiano;;380399;380397;380397;
 8415;70827;THERAPEUTIC OPTIONS;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380400;modulo;32996;Muratori Luigi;Italiano;;380400;380397;380397;
 8415;70859;TERAPIA FARMACOLOGICA IN GERIATRIA C.I.;;;;;;;380441;0;380441;
-8415;70860;IL PAZIENTE GERIATRICO: BASI FISIOPATOLOGICHE DELLA FRAGILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380442;modulo;15408;Zoli Marco;Italiano;;380442;380441;380441;
-8415;70861;STRUMENTI DI SCREENING PER LA SINDROME DELLA FRAGILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380443;modulo;39862;Forti Paola;Italiano;;380443;380441;380441;
+8415;70860;IL PAZIENTE GERIATRICO: BASI FISIOPATOLOGICHE DELLA FRAGILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380442;modulo;15408;Zoli Marco;Italiano;;380442;380441;380441;
+8415;70861;STRUMENTI DI SCREENING PER LA SINDROME DELLA FRAGILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380443;modulo;39862;Forti Paola;Italiano;;380443;380441;380441;
 8415;70862;APPROPRIATEZZA PRESCRITTIVA NEL PAZIENTE GERIATRICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380444;modulo;39590;Poluzzi Elisabetta;Italiano;;380444;380441;380441;
 8415;70889;IL CONTROLLO DELLA GRAVIDANZA FISIOLOGICA C.I.;;;;;;;380493;0;380493;
 8415;70890;LO SVILUPPO EMBRIO-FETALE E DEGLI ANNESSI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380494;modulo;38651;Alviano Francesco;Italiano;;380494;380493;380493;
 8415;70891;GLI ADATTAMENTI MATERNI E IL CONTROLLO CLINICO-LABORATORISTICO DELLA GRAVIDANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380495;modulo;15061;Rizzo Nicola;Italiano;;380495;380493;380493;
 8415;70892;LO SCREENING E LA GESTIONE DELLE INFEZIONI IN GRAVIDANZA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380496;modulo;45516;Simonazzi Giuliana;Italiano;;380496;380493;380493;
 8415;70893;APPROFONDIMENTI IN OTORINOLARINGOIATRIA E AUDIOLOGIA C.I.;;;;;;;380497;0;380497;
-8415;70894;PRINCIPI DI TRATTAMENTO DELLE AFFEZIONI OTOLOGICHE E DELLA SORDIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380498;modulo;15932;Pirodda Antonio;Italiano;;380498;380497;380497;
+8415;70894;PRINCIPI DI TRATTAMENTO DELLE AFFEZIONI OTOLOGICHE E DELLA SORDITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380498;modulo;15932;Pirodda Antonio;Italiano;;380498;380497;380497;
 8415;24131;ONCOLOGIA CERVICO-FACCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380499;modulo;35509;Caliceti Umberto;Italiano;;380499;380497;380497;
 8415;70895;VERTIGINE E CLINICA DEL NERVO FACCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380500;modulo;31629;Ferri Gian Gaetano;Italiano;;380500;380497;380497;
 8415;70942;CHIRURGIA MAXILLO-FACCIALE C.I.;;;;;;;380609;0;380609;
@@ -440,10 +440,10 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;71002;TECNOLOGIE INNOVATIVE NELLA CHIRURGIA COMPUTER ASSISTITA E VALUTAZIONE INTRA-OPERATORIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380711;modulo;38468;Zaffagnini Stefano;Italiano;;380711;380709;380709;
 8415;71003;METODOLOGIE CHIRURGICHE MINI-INVASIVE NELLA CHIRURGIA ORTOPEDICA ARTICOLARE DELLE GRANDI ARTICOLAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380712;modulo;38468;Zaffagnini Stefano;Italiano;;380712;380709;380709;
 8415;71004;LA NEUROPSICHIATRIA INFANTILE E LA PEDIATRIA AL SERVIZIO DEL BAMBINO E DELL'ADOLESCENTE C.I.;;;;;;;380713;0;380713;
-8415;71005;NEUROSVILUPPO E ASPETTI PATOLOGICI IN ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380714;modulo;15781;Mazzanti Laura;;;380714;380713;380713;
-8415;71006;NEUROLOGIA DELL'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380715;modulo;24252;Parmeggiani Antonia;Italiano;;380715;380713;380713;
-8415;71007;PSICHIATRIA DELL'ET?Ç EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380716;modulo;15184;Franzoni Emilio;Italiano;;380716;380713;380713;
-8415;71016;ALIMENTAZIONE E STATO NUTRIZIONALE NELLE DIVERSE ET?Ç DELLA VITA C.I.;;;;;;;380725;0;380725;
+8415;71005;NEUROSVILUPPO E ASPETTI PATOLOGICI IN ETA' EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380714;modulo;15781;Mazzanti Laura;;;380714;380713;380713;
+8415;71006;NEUROLOGIA DELL'ETA' EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380715;modulo;24252;Parmeggiani Antonia;Italiano;;380715;380713;380713;
+8415;71007;PSICHIATRIA DELL'ETA' EVOLUTIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380716;modulo;15184;Franzoni Emilio;Italiano;;380716;380713;380713;
+8415;71016;ALIMENTAZIONE E STATO NUTRIZIONALE NELLE DIVERSE ETA' DELLA VITA C.I.;;;;;;;380725;0;380725;
 8415;71017;NUTRIZIONE IN ETA' PEDIATRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380726;modulo;31630;Forchielli Maria Luisa;Italiano;;380726;380725;380725;
 8415;71018;NUTRIZIONE CLINICA DELL'ADULTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380727;modulo;15227;Marchesini Reggiani Giulio;Italiano;;380727;380725;380725;
 8415;71019;ASPETTI NUTRIZIONALI IN GERIATRIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380728;modulo;24359;Bianchi Giampaolo;Italiano;;380728;380725;380725;
@@ -486,7 +486,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;71128;DIAGNOSI E TRATTAMENTO DELLE CARDIOPATIE CONGENITE C.I.;;;;;;;380957;0;380957;
 8415;71129;DIAGNOSI E TRATTAMENTO DELLE CARDIOPATIE CONGENITE: RUOLO DELLA CARDIOLOGIA PEDIATRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380958;modulo;14602;Bonvicini Marco;Italiano;;380958;380957;380957;
 8415;71130;TRATTAMENTO CHIRURGICO DELLE CARDIOPATIE CONGENITE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380959;modulo;38509;Gargiulo Gaetano Domenico;Italiano;;380959;380957;380957;
-8415;71131;TRAPIANTO CARDIACO IN ET?Ç PEDIATRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380960;modulo;38509;Gargiulo Gaetano Domenico;Italiano;;380960;380957;380957;
+8415;71131;TRAPIANTO CARDIACO IN ETA' PEDIATRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380960;modulo;38509;Gargiulo Gaetano Domenico;Italiano;;380960;380957;380957;
 8415;72397;TIROCINIO DI AREA CHIRURGICA 1 - CHIRURGIA GENERALE;;;;;;;384076;0;384076;
 8415;72399;TIROCINIO DI AREA CHIRURGICA 1 - CHIRURGIA PLASTICA;;;;;;;384077;0;384077;
 8415;72400;TIROCINIO DI AREA CHIRURGICA 1 - CHIRURGIA TORACICA;;;;;;;384079;0;384079;
@@ -660,8 +660,8 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;78603;DIAGNOSI E TERAPIA NON CHIRURGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401885;modulo;32432;Baldini Nicola;Italiano;;401885;401884;401884;
 8415;78605;LA CHIRURGIA DELLE LESIONI SCHELETRICHE NELL'ADULTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401889;modulo;23959;Donati Davide Maria;Italiano;;401889;401884;401884;
 8415;78606;LA CHIRURGIA DELLE LESIONI SCHELETRICHE NEL BAMBINO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401890;modulo;23959;Donati Davide Maria;Italiano;;401890;401884;401884;
-8415;78611;EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ADULTO E NELL'ET?Ç EVOLUTIVA C.I.-;;;;;;;401903;0;401903;
-8415;78612;EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ET?Ç EVOLUTIVA-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401905;modulo;14602;Bonvicini Marco;Italiano;;401905;401903;401903;
+8415;78611;EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ADULTO E NELL'ETA' EVOLUTIVA C.I.-;;;;;;;401903;0;401903;
+8415;78612;EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ETA' EVOLUTIVA-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401905;modulo;14602;Bonvicini Marco;Italiano;;401905;401903;401903;
 8415;78613;LINEE GUIDA NELLA CARDIOPATIA ISCHEMICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401906;modulo;15755;Bugiardini Raffaele;Italiano;;401906;401903;401903;
 8415;78614;EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ADULTO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401910;modulo;37389;Gali?¿ Nazzareno;;;401910;401903;401903;
 8415;78615;AGOPUNTURA: DAI PRINCIPI ALLA PRATICA NELLA MEDICINA INTEGRATA C.I.-;;;;;;;401911;0;401911;
@@ -673,16 +673,16 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;78631;GENETICA ONCO EMATOLOGICA E DELLE EMOPATIE-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401942;modulo;34123;Martinelli Giovanni;Italiano;;401942;401940;401940;
 8415;78632;BIOLOGIA MOLECOLARE DEGLI ONCOGENI E DELLE LESIONI DELLE EMOPATIE-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401943;modulo;45393;Soverini Simona;Italiano;;401943;401940;401940;
 8415;78633;APPROFONDIRE UNA TERAPIA POCO CONOSCIUTA MA MOLTO UTILIZZATA: LA NUTRIZIONE ARTIFICIALE NEL PAZIENTE OSPEDALIZZATO E A DOMICILIO C.I.;;;;;;;401945;0;401945;
-8415;78634;GENERALIT?Ç E NUTRIZIONE ARTIFICIALE NEL PAZIENTE IN TERAPIA INTENSIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401946;modulo;14441;Zanello Marco;Italiano;;401946;401945;401945;
-8415;78635;GENERALIT?Ç E NUTRIZIONE ARTIFICIALE NEL PAZIENTE INTERNISTICO E A DOMICILIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401947;modulo;16690;Pironi Loris;Italiano;;401947;401945;401945;
-8415;78636;GENERALIT?Ç E NUTRIZIONE ARTIFICIALE NEL PAZIENTE CHIRURGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401948;modulo;24271;Di Simone Massimo Pierluigi;Italiano;;401948;401945;401945;
+8415;78634;GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE IN TERAPIA INTENSIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401946;modulo;14441;Zanello Marco;Italiano;;401946;401945;401945;
+8415;78635;GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE INTERNISTICO E A DOMICILIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401947;modulo;16690;Pironi Loris;Italiano;;401947;401945;401945;
+8415;78636;GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE CHIRURGICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401948;modulo;24271;Di Simone Massimo Pierluigi;Italiano;;401948;401945;401945;
 8415;70810;PATOLOGIE NEURO-OFTALMOLOGICHE C.I.;;;;;;;406379;0;406379;
 8415;24090;STRABISMI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406380;modulo;30228;Campos Emilio;Italiano;;406380;406379;406379;
 8415;70811;PATOLOGIE DEGENERATIVE MUSCOLARI E NEUROLOGICHE E APPARATO VISIVO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406381;modulo;31880;Liguori Rocco;Italiano;;406381;406379;406379;
 8415;70812;PATOLOGIE CENTRALI DEI MOVIMENTI OCULARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/406382;modulo;30762;Schiavi Costantino;Italiano;;406382;406379;406379;
 8415;82365;IL CERVELLO PLASTICO: CONSEGUENZE DELLA MODIFICAZIONE E DELL'EVENTUALE RIPRISTINO DEI CIRCUITI NERVOSI C.I.-;;;;;;;413952;0;413952;
-8415;82366;PLASTICIT?Ç NERVOSA E COMPORTAMENTO-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413953;modulo;23248;Amici Roberto;Italiano;;413953;413952;413952;
-8415;82367;NEUROGENESI E PLASTICIT?Ç CEREBRALE-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413954;modulo;33774;Ciani Elisabetta;Italiano;;413954;413952;413952;
+8415;82366;PLASTICITA' NERVOSA E COMPORTAMENTO-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413953;modulo;23248;Amici Roberto;Italiano;;413953;413952;413952;
+8415;82367;NEUROGENESI E PLASTICITA' CEREBRALE-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413954;modulo;33774;Ciani Elisabetta;Italiano;;413954;413952;413952;
 8415;82368;PLASTICITA' NEURONALE: OLTRE IL PERIODO CRITICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413955;modulo;24264;Zoccoli Giovanna;Italiano;;413955;413952;413952;
 8415;82369;IL PAZIENTE AFFETTO DA PATOLOGIA TORACICA DI INTERESSE MEDICO E CHIRURGICO: FISIOPATOLOGIA, DIAGNOSI, TERAPIA C.I.;;;;;;;413972;0;413972;
 8415;82370;UPDATING DIAGNOSTICA DEL TORACE E DEL GIUNTO CERVICO MEDIASTINICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413975;modulo;50448;Daddi Niccol??;Italiano;;413975;413972;413972;
@@ -693,7 +693,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8415;82383;ASPETTI SOCIOLOGICI E STATISTICO-DEMOGRAFICI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413999;modulo;38708;Ferrari Barbara;Italiano;;413999;413997;413997;
 8415;82384;ASPETTI MEDICO-LEGALI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414000;modulo;24384;Pelotti Susi;Italiano;;414000;413997;413997;
 8415;82391;LA PREVENZIONE DELLE PATOLOGIE DA LAVORO: APPLICAZIONE PRATICA IN AMBITO INDUSTRIALE C.I.-;;;;;;;414016;0;414016;
-8415;82392;LA VALUTAZIONE DELLA IDONEIT?Ç AL LAVORO CON PARTICOLARE RIGUARDO ALLA CAPACIT?Ç FUNZIONALE MUSCOLO-SCHELETRICA NELL'INSERIMENTO AL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414017;modulo;36222;Bonfiglioli Roberta;Italiano;;414017;414016;414016;
+8415;82392;LA VALUTAZIONE DELLA IDONEITA' AL LAVORO CON PARTICOLARE RIGUARDO ALLA CAPACITA' FUNZIONALE MUSCOLO-SCHELETRICA NELL'INSERIMENTO AL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414017;modulo;36222;Bonfiglioli Roberta;Italiano;;414017;414016;414016;
 8415;82393;VALUTAZIONE DI EFFICACIA DEGLI INTERVENTI PREVENTIVI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414018;modulo;37424;Mattioli Stefano;Italiano;;414018;414016;414016;
 8415;82394;LA VALUTAZIONE DEL RISCHIO NEGLI AMBIENTI DI LAVORO: ESPERIENZA SUL CAMPO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414019;modulo;31171;Violante Francesco Saverio;Italiano;;414019;414016;414016;
 8470;39130;SCIENZE BIOMEDICHE I (C.I.);;;;;;;359816;0;359816;
@@ -739,7 +739,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8470;42960;SCIENZE MEDICHE II (C.I.);;;;;;;359947;0;359947;
 8470;8957;MALATTIE CARDIOVASCOLARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359950;modulo;34493;Rapezzi Claudio;Italiano;;359950;359947;359947;
 8470;5242;MALATTIE DELL'APPARATO RESPIRATORIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359951;modulo;31624;Pacilli Angela Maria Grazia;Italiano;;359951;359947;359947;
-8470;39175;METODI E DIDATTICHE DELLE ATTIVIT?Ç MOTORIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359956;modulo;34978;Maietta Latessa Pasqualino;Italiano;;359956;359947;359947;
+8470;39175;METODI E DIDATTICHE DELLE ATTIVITA' MOTORIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359956;modulo;34978;Maietta Latessa Pasqualino;Italiano;;359956;359947;359947;
 8470;42961;SCIENZE MEDICHE III (C.I.);;;;;;;359958;0;359958;
 8470;9151;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359959;modulo;24359;Bianchi Giampaolo;Italiano;;359959;359958;359958;
 8470;1594;CHIRURGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359960;modulo;23850;Cariani Stefano;Italiano;;359960;359958;359958;
@@ -803,9 +803,9 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8473;790;PEDAGOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360197;modulo;36541;Benini Stefano;Italiano;;360197;360195;360195;
 8473;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360198;modulo;34155;Mazzetti Michela;Italiano;;360198;360195;360195;
 8473;39266;TIROCINIO INFERMIERISTICO 1;;;;;;;360201;0;360201;
-8473;39276;SCIENZE INFERMIERISTICHE DELLA COMUNIT?Ç (C.I.);;;;;;;360228;0;360228;
-8473;21350;INFERMIERISTICA PREVENTIVA E DI COMUNIT?Ç;;modulo;;;;;360230;360228;360228;
-8473;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?Ç;;modulo;;;;;360231;360228;360228;
+8473;39276;SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.);;;;;;;360228;0;360228;
+8473;21350;INFERMIERISTICA PREVENTIVA E DI COMUNITA';;modulo;;;;;360230;360228;360228;
+8473;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA';;modulo;;;;;360231;360228;360228;
 8473;39279;EVIDENZE APPLICATE ALLA PRATICA INFERMIERISTICA;;modulo;;;;;360233;360228;360228;
 8473;39281;SCIENZE CLINICHE DELL'AREA CHIRURGICO-SPECIALISTICA (C.I.);;;;;;;360234;0;360234;
 8473;1594;CHIRURGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360238;modulo;24002;Giulietti Pierangelo;Italiano;;360238;360234;360234;
@@ -817,7 +817,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8473;39293;INFERMIERISTICA DELL'AREA MEDICA;;modulo;;;;;360264;360253;360253;
 8473;21348;INFERMIERISTICA DELL'AREA CHIRURGICA;;modulo;;;;;360265;360253;360253;
 8473;351;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360268;modulo;38822;Rimondini Giorgini Roberto;Italiano;;360268;360253;360253;
-8473;39298;SCIENZE DI SANIT?Ç PUBBLICA (C.I.);;;;;;;360272;0;360272;
+8473;39298;SCIENZE DI SANITA' PUBBLICA (C.I.);;;;;;;360272;0;360272;
 8473;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360277;modulo;39887;Ingravallo Francesca;Italiano;;360277;360272;360272;
 8473;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360278;modulo;31171;Violante Francesco Saverio;Italiano;;360278;360272;360272;
 8473;42628;MICROBIOLOGIA GENERALE E CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360282;modulo;42925;Marangoni Antonella;Italiano;;360282;360272;360272;
@@ -874,13 +874,13 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8473;82254;INFERMIERISTICA APPLICATA ALLA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413681;modulo;47500;Sist Luisa;Italiano;;413681;413678;413678;
 8473;82255;SOCIOLOGIA SANITARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413682;modulo;38466;Mantovani Debora;Italiano;;413682;413678;413678;
 8473;82256;DERMATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413683;modulo;38720;Varotti Elisa;Italiano;;413683;413678;413678;
-8473;82257;INFERMIERISTICA OLISTICA, CRONICIT?Ç E RIABILITAZIONE (C.I.);;;;;;;413684;0;413684;
+8473;82257;INFERMIERISTICA OLISTICA, CRONICITA' E RIABILITAZIONE (C.I.);;;;;;;413684;0;413684;
 8473;82258;PEDAGOGIA SANITARIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413685;modulo;36541;Benini Stefano;Italiano;;413685;413684;413684;
 8473;82259;MEDICINA RIABILITATIVA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413686;modulo;40239;Andreoli Ernesto;Italiano;;413686;413684;413684;
 8473;82260;URGENZE MEDICHE E PRIMO SOCCORSO-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413687;modulo;41740;Granito Alessandro;Italiano;;413687;413684;413684;
-8473;82261;ASSISTENZA INFERMIERISTICA NELLE DISABILIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413688;modulo;55399;De Rosa Manuela;Italiano;;413688;413684;413684;
+8473;82261;ASSISTENZA INFERMIERISTICA NELLE DISABILITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413688;modulo;55399;De Rosa Manuela;Italiano;;413688;413684;413684;
 8473;82406;INFERMIERISTICA OLISTICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414118;modulo;37956;Burrai Francesco;Italiano;;414118;413684;413684;
-8473;82407;INNOVAZIONE IN SANIT?Ç E PROBLEMI PRIORITARI DI SALUTE (C.I.);;;;;;;414119;0;414119;
+8473;82407;INNOVAZIONE IN SANITA' E PROBLEMI PRIORITARI DI SALUTE (C.I.);;;;;;;414119;0;414119;
 8473;82408;ECONOMIA E ORGANIZZAZIONE SANITARIA-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414122;modulo;600891;Pieri Giulia;;;414122;414119;414119;
 8473;82410;INFERMIERISTICA APPLICATA ALL' INNOVAZIONE E ALLA RICERCA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414123;modulo;38107;Bianconcini Monica;Italiano;;414123;414119;414119;
 8473;82411;BIOETICA E MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414124;modulo;39887;Ingravallo Francesca;Italiano;;414124;414119;414119;
@@ -931,15 +931,15 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8474;790;PEDAGOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361143;modulo;35618;Gallerani Manuela;Italiano;;361143;361142;361142;360761
 8474;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361144;modulo;38384;Mattarozzi Katia;Italiano;;361144;361142;361142;
 8474;39266;TIROCINIO INFERMIERISTICO 1;;;;;;;361145;0;361145;
-8474;39276;SCIENZE INFERMIERISTICHE DELLA COMUNIT?Ç (C.I.);;;;;;;361155;0;361155;
-8474;21350;INFERMIERISTICA PREVENTIVA E DI COMUNIT?Ç;;modulo;;;;;361156;361155;361155;
-8474;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?Ç;;modulo;;;;;361157;361155;361155;
+8474;39276;SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.);;;;;;;361155;0;361155;
+8474;21350;INFERMIERISTICA PREVENTIVA E DI COMUNITA';;modulo;;;;;361156;361155;361155;
+8474;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA';;modulo;;;;;361157;361155;361155;
 8474;39279;EVIDENZE APPLICATE ALLA PRATICA INFERMIERISTICA;;modulo;;;;;361158;361155;361155;
 8474;39288;INFERMIERISTICA MEDICO-CHIRURGICA (C.I.);;;;;;;361159;0;361159;
 8474;39293;INFERMIERISTICA DELL'AREA MEDICA;;modulo;;;;;361160;361159;361159;
 8474;21348;INFERMIERISTICA DELL'AREA CHIRURGICA;;modulo;;;;;361161;361159;361159;
 8474;351;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361162;modulo;43738;Motola Domenico;Italiano;;361162;361159;361159;
-8474;39298;SCIENZE DI SANIT?Ç PUBBLICA (C.I.);;;;;;;361163;0;361163;
+8474;39298;SCIENZE DI SANITA' PUBBLICA (C.I.);;;;;;;361163;0;361163;
 8474;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361164;modulo;39887;Ingravallo Francesca;Italiano;;361164;361163;361163;
 8474;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361165;modulo;37424;Mattioli Stefano;Italiano;;361165;361163;361163;360886
 8474;42628;MICROBIOLOGIA GENERALE E CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361166;modulo;31744;Dal Monte Paola;Italiano;;361166;361163;361163;361166
@@ -976,10 +976,10 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8474;81477;ONCO-EMATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411672;modulo;39883;Di Marco Mariacristina;Italiano;;411672;411671;411671;
 8474;81494;INFERMIERISTICA ONCO-EMATOLOGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411673;modulo;65713;Balducci Sara;Italiano;;411673;411671;411671;
 8474;74390;CURE PALLIATIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411674;modulo;57556;Senni Marco;Italiano;;411674;411671;411671;
-8474;81479;LA CURA NELLA CRONICIT?Ç (C.I.);;;;;;;411675;0;411675;
-8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411676;modulo;31435;Gionchetti Paolo;Italiano;;411676;411675;411675;
-8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?Ç (1);;modulo;31435;Gionchetti Paolo;Italiano;;418810;411676;411675;
-8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?Ç (2);;modulo;32838;Caraceni Paolo;;;418811;411676;411675;
+8474;81479;LA CURA NELLA CRONICITA' (C.I.);;;;;;;411675;0;411675;
+8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411676;modulo;31435;Gionchetti Paolo;Italiano;;411676;411675;411675;
+8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA' (1);;modulo;31435;Gionchetti Paolo;Italiano;;418810;411676;411675;
+8474;81480;ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA' (2);;modulo;32838;Caraceni Paolo;;;418811;411676;411675;
 8474;81481;LA CURA DEL PAZIENTE DIABETICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411677;modulo;82667;Di Bartolo Paolo;;;411677;411675;411675;
 8474;81493;DERMATOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411678;modulo;38720;Varotti Elisa;Italiano;;411678;411675;411675;
 8474;81482;WOUND CARE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411679;modulo;82668;Di Fazio Barbara;;;411679;411675;411675;
@@ -1037,15 +1037,15 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8475;790;PEDAGOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361234;modulo;50528;Stefani Francesca;Italiano;;361234;361233;361233;
 8475;2207;PSICOLOGIA GENERALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361235;modulo;15029;Zamagni Maria Paola;Italiano;;361235;361233;361233;361235
 8475;39266;TIROCINIO INFERMIERISTICO 1;;;;;;;361236;0;361236;
-8475;39276;SCIENZE INFERMIERISTICHE DELLA COMUNIT?Ç (C.I.);;;;;;;361246;0;361246;
-8475;21350;INFERMIERISTICA PREVENTIVA E DI COMUNIT?Ç;;modulo;;;;;361247;361246;361246;
-8475;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?Ç;;modulo;;;;;361248;361246;361246;
+8475;39276;SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.);;;;;;;361246;0;361246;
+8475;21350;INFERMIERISTICA PREVENTIVA E DI COMUNITA';;modulo;;;;;361247;361246;361246;
+8475;39277;INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA';;modulo;;;;;361248;361246;361246;
 8475;39279;EVIDENZE APPLICATE ALLA PRATICA INFERMIERISTICA;;modulo;;;;;361249;361246;361246;
 8475;39288;INFERMIERISTICA MEDICO-CHIRURGICA (C.I.);;;;;;;361250;0;361250;
 8475;39293;INFERMIERISTICA DELL'AREA MEDICA;;modulo;;;;;361251;361250;361250;
 8475;21348;INFERMIERISTICA DELL'AREA CHIRURGICA;;modulo;;;;;361252;361250;361250;
 8475;351;FARMACOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361253;modulo;38822;Rimondini Giorgini Roberto;Italiano;;361253;361250;361250;
-8475;39298;SCIENZE DI SANIT?Ç PUBBLICA (C.I.);;;;;;;361254;0;361254;
+8475;39298;SCIENZE DI SANITA' PUBBLICA (C.I.);;;;;;;361254;0;361254;
 8475;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361255;modulo;74147;Bissi Gloria;Italiano;;361255;361254;361254;
 8475;699;MEDICINA DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361256;modulo;37424;Mattioli Stefano;Italiano;;361256;361254;361254;
 8475;42628;MICROBIOLOGIA GENERALE E CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361257;modulo;42925;Marangoni Antonella;Italiano;;361257;361254;361254;
@@ -1239,8 +1239,8 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8477;39688;SCIENZE INFERMIERISTICHE E TECNICHE NEURO-PSICHIATRICHE E RIABILITATIVE 4 (1);;modulo;38885;Sacchetti Cleta;Italiano;;383734;361615;361611;
 8477;39688;SCIENZE INFERMIERISTICHE E TECNICHE NEURO-PSICHIATRICHE E RIABILITATIVE 4 (2);;modulo;38886;Negretti Francesca Maria;;;383735;361615;361611;
 8477;701;MEDICINA LEGALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/371178;modulo;36540;Taroni Francesco;Italiano;;371178;361611;361611;
-8477;39705;ULTERIORI ATTIVIT?Ç FORMATIVE (C.I.);;;;;;;361625;0;361625;
-8477;39710;ABILIT?Ç INFORMATICHE E TELEMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361632;modulo;47642;Martinelli Stefano;Italiano;;361632;361625;361625;
+8477;39705;ULTERIORI ATTIVITA' FORMATIVE (C.I.);;;;;;;361625;0;361625;
+8477;39710;ABILITA' INFORMATICHE E TELEMATICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361632;modulo;47642;Martinelli Stefano;Italiano;;361632;361625;361625;
 8477;32121;LABORATORI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361633;modulo;38885;Sacchetti Cleta;Italiano;;361633;361625;361625;
 8477;67799;LE ARTI ESPRESSIVE TRA PSICOLOGIA E DIRITTO (C.I.);;;;;;;361635;0;361635;
 8477;870;PSICOLOGIA SOCIALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361637;modulo;39074;Gardenghi Stefano;Italiano;;361637;361635;361635;
@@ -1343,7 +1343,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8478;39611;PATOLOGIA CLINICA FONIATRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361431;modulo;35509;Caliceti Umberto;Italiano;;361431;361430;361430;
 8478;54816;PATOLOGIA AFASICA E DISARTRICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361432;modulo;39855;Bisulli Francesca;Italiano;;361432;361430;361430;
 8478;39612;RIABILITAZIONE DISFAGICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361433;modulo;82277;Montano Lucia;Italiano;;361433;361430;361430;
-8478;72186;ACQUISIZIONE DI ULTERIORI ABILIT?Ç NELLA RIABILITAZIONE (C.I.);;;;;;;383706;0;383706;
+8478;72186;ACQUISIZIONE DI ULTERIORI ABILITA' NELLA RIABILITAZIONE (C.I.);;;;;;;383706;0;383706;
 8478;72187;L'AFASIA NEL PAZIENTE AFFETTO DA ICTUS. STRATEGIE RELAZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383707;modulo;55408;Monti Ramona;Italiano;;383707;383706;383706;
 8478;72188;RIABILITAZIONE DEL DEFICIT ACQUISITO NEL PAZIENTE CON GRAVE TRAUMA CRANIOENCEFALICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383708;modulo;83810;Santellocco Cristina;Italiano;;383708;383706;383706;
 8478;72189;LA PRESA IN CARICO RIABILITATIVA DEL PAZIENTE AFFETTO DA GRAVE CEREBROLESIONE ACQUISITA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/383709;modulo;47643;Mecozzi Valentina;Italiano;;383709;383706;383706;
@@ -1376,9 +1376,9 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8479;76066;TECNOLOGIA DEI MATERIALI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393707;modulo;35178;Bettini Alessandro;Italiano;;393707;393705;393705;
 8479;76067;CALZATURE E ORTESI PLANTARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393708;modulo;42844;Fantini Massimiliano;Italiano;;393708;393705;393705;
 8479;76068;TIROCINIO 1 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393710;;32432;Baldini Nicola;Italiano;;393710;0;393710;
-8479;76069;ATTIVIT?Ç SEMINARIALI 1 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393711;;35491;Macciantelli Massimiliano;;;393711;0;393711;
-8479;76069;ATTIVIT?Ç SEMINARIALI 1 - (1);;modulo;35491;Macciantelli Massimiliano;;;395223;393711;393711;
-8479;76069;ATTIVIT?Ç SEMINARIALI 1 - (2);;modulo;51005;Finelli Marco;;;395224;393711;393711;
+8479;76069;ATTIVITA' SEMINARIALI 1 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393711;;35491;Macciantelli Massimiliano;;;393711;0;393711;
+8479;76069;ATTIVITA' SEMINARIALI 1 - (1);;modulo;35491;Macciantelli Massimiliano;;;395223;393711;393711;
+8479;76069;ATTIVITA' SEMINARIALI 1 - (2);;modulo;51005;Finelli Marco;;;395224;393711;393711;
 8479;76070;MEDICINA 1 C.I.;;;;;;;393712;0;393712;
 8479;76071;MEDICINA INTERNA ---;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393713;modulo;33789;D'Addato Sergio;Italiano;;393713;393712;393712;
 8479;76072;ENDOCRINOLOGIA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393714;modulo;43126;Gambineri Alessandra;Italiano;;393714;393712;393712;
@@ -1418,10 +1418,10 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8479;76109;MALATTIE INFETTIVE C.I.;;;;;;;393754;0;393754;
 8479;76110;MALATTIE INFETTIVE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393759;modulo;38381;Calza Leonardo;Italiano;;393759;393754;393754;
 8479;76111;MALATTIE CUTANEE E VENEREE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393760;modulo;32618;Piraccini Bianca Maria;Italiano;;393760;393754;393754;
-8479;76112;ATTIVIT?Ç SEMINARIALI 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393763;;32432;Baldini Nicola;Italiano;;393763;0;393763;
-8479;76112;ATTIVIT?Ç SEMINARIALI 2 (1);;modulo;32432;Baldini Nicola;Italiano;;412547;393763;393763;
-8479;76112;ATTIVIT?Ç SEMINARIALI 2 (2);;modulo;32432;Baldini Nicola;;;412548;393763;393763;
-8479;76112;ATTIVIT?Ç SEMINARIALI 2 (3);;modulo;32432;Baldini Nicola;;;412549;393763;393763;
+8479;76112;ATTIVITA' SEMINARIALI 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393763;;32432;Baldini Nicola;Italiano;;393763;0;393763;
+8479;76112;ATTIVITA' SEMINARIALI 2 (1);;modulo;32432;Baldini Nicola;Italiano;;412547;393763;393763;
+8479;76112;ATTIVITA' SEMINARIALI 2 (2);;modulo;32432;Baldini Nicola;;;412548;393763;393763;
+8479;76112;ATTIVITA' SEMINARIALI 2 (3);;modulo;32432;Baldini Nicola;;;412549;393763;393763;
 8479;76113;TIROCINIO 3 -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393764;;32432;Baldini Nicola;Italiano;;393764;0;393764;
 8479;76114;PROVA FINALE -;;;;;;;393765;0;393765;
 8479;78497;MANAGEMENT SANITARIO C.I. --;;;;;;;401449;0;401449;
@@ -1430,7 +1430,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8479;78502;ORGANIZZAZIONE DELLA PROFESSIONE --;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401455;modulo;51005;Finelli Marco;Italiano;;401455;401449;401449;
 8479;78503;GESTIONE AMMINISTRATIVA DELL'AMBULATORIO PODOLOGICO-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401456;modulo;51005;Finelli Marco;Italiano;;401456;401449;401449;
 8479;78510;INFORMATICA --;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401461;modulo;30055;Gorrieri Roberto;Italiano;;401461;401449;401449;
-8479;81472;ATTIVIT?Ç PRATICHE PODOLOGICHE (C.I.);;;;;;;411664;0;411664;
+8479;81472;ATTIVITA' PRATICHE PODOLOGICHE (C.I.);;;;;;;411664;0;411664;
 8479;81473;EVIDENCE BASED PRACTICE-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411668;modulo;36418;Chiari Paolo;Italiano;;411668;411664;411664;
 8479;81474;BENDAGGI FUNZIONALI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411669;modulo;35179;Buda Roberto Emanuele Cesare;Italiano;;411669;411664;411664;
 8479;81475;CAVIGLIA E PIEDE NELLO SPORT-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411670;modulo;35179;Buda Roberto Emanuele Cesare;Italiano;;411670;411664;411664;
@@ -1687,7 +1687,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8483;39172;LABORATORIO PROFESSIONALIZZANTE (2);;modulo;84534;Guidi Silvia;;;419060;360716;360716;
 8483;42395;TIROCINIO 3;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360717;;32664;Marcacci Maurilio;Italiano;;360717;0;360717;
 8483;35199;PROVA FINALE;;;;;;;360718;0;360718;
-8483;79598;ATTIVIT?Ç SPECIALISTICHE ORTOPEDICHE (C.I.)-;;;;;;;404937;0;404937;
+8483;79598;ATTIVITA' SPECIALISTICHE ORTOPEDICHE (C.I.)-;;;;;;;404937;0;404937;
 8483;79599;IL PIEDE DIABETICO --;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404938;modulo;43154;Bevoni Roberto;Italiano;;404938;404937;404937;
 8483;79600;ORTESI ONCOLOGICHE E PROTESI-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404939;modulo;53768;Errani Costantino;;;404939;404937;404937;
 8483;79601;ORTOPEDIA PEDIATRICA-;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404940;modulo;50943;Stilli Stefano;;;404940;404937;404937;
@@ -1776,7 +1776,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8484;41307;SEMINARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/371204;modulo;40245;Stancari Alessandra;Italiano;;371204;371202;371202;
 8484;81429;VALUTAZIONE DELLA QUALITA NEI LABORATORI (C.I.);;;;;;;411607;0;411607;
 8484;81430;ANALISI MICROSCOPICA DEI TESSUTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411608;modulo;14651;Caramelli Elisabetta;Italiano;;411608;411607;411607;
-8484;81431;SISTEMI QUALIT?Ç NEI LABORATORI ANALISI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411609;modulo;33680;Zanichelli Lucio;Italiano;;411609;411607;411607;
+8484;81431;SISTEMI QUALITA' NEI LABORATORI ANALISI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411609;modulo;33680;Zanichelli Lucio;Italiano;;411609;411607;411607;
 8484;81432;MEDICINA TRASFUSIONALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411610;modulo;39019;Bontadini Andrea;Italiano;;411610;411607;411607;
 8485;20906;FISICA, INFORMATICA E STATISTICA (C.I.);;;;;;;361685;0;361685;
 8485;3281;FISICA MEDICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361686;modulo;912110;Zannoli Romano;Italiano;;361686;361685;361685;359961
@@ -2018,13 +2018,13 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8487;75218;EPIDEMIOLOGIA OCCUPAZIONALE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391518;modulo;37424;Mattioli Stefano;Italiano;;391518;391516;391516;
 8487;75218;EPIDEMIOLOGIA OCCUPAZIONALE - (1);;modulo;37424;Mattioli Stefano;Italiano;;414087;391518;391516;
 8487;75218;EPIDEMIOLOGIA OCCUPAZIONALE - (2);;modulo;45832;Curti Stefania;;;414088;391518;391516;
-8487;75222;PRINCIPI DI INFETTIVOLOGIA - MODALIT?Ç DI TRASMISSIONE DELLE MALATTIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391519;modulo;35408;Cricca Monica;Italiano;;391519;391516;391516;
+8487;75222;PRINCIPI DI INFETTIVOLOGIA - MODALITA' DI TRASMISSIONE DELLE MALATTIE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391519;modulo;35408;Cricca Monica;Italiano;;391519;391516;391516;
 8487;75223;TOSSICOLOGIA GENERALE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391520;modulo;34013;Tarozzi Andrea;Italiano;;391520;391516;391516;
 8487;75224;LABORATORIO PROFESSIONALIZZANTE 1;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391521;;42792;Gaddoni Claudio;Italiano;;391521;0;391521;
 8487;75225;LABORATORIO PROFESSIONALIZZANTE 2;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391523;;42792;Gaddoni Claudio;Italiano;;391523;0;391523;
 8487;75228;SEMINARIO PREVENZIONE INCENDI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391531;;47654;Bertoncello Piermario;Italiano;;391531;0;391531;
-8487;79535;LA NORMATIVA SULLA SICUREZZA E L'ATTIVIT?Ç DI VIGILANZA C.I.-;;;;;;;404254;0;404254;
-8487;79536;ATTIVIT?Ç DI VIGILANZA E ISPEZIONE DEGLI OPERATORI DI VIGILANZA E CONTROLLO. FUNZIONI PREVENTIVE E REPRESSIVE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404257;modulo;39362;Botti Antonio;Italiano;;404257;404254;404254;
+8487;79535;LA NORMATIVA SULLA SICUREZZA E L'ATTIVITA' DI VIGILANZA C.I.-;;;;;;;404254;0;404254;
+8487;79536;ATTIVITA' DI VIGILANZA E ISPEZIONE DEGLI OPERATORI DI VIGILANZA E CONTROLLO. FUNZIONI PREVENTIVE E REPRESSIVE -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404257;modulo;39362;Botti Antonio;Italiano;;404257;404254;404254;
 8487;79537;LA SICUREZZA SUL LAVORO NEI CANTIERI EDILI -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404258;modulo;42792;Gaddoni Claudio;Italiano;;404258;404254;404254;
 8488;39360;TEORIE DELLE SCIENZE INFERMIERISTICHE ED OSTETRICHE (C.I.);;;;;;;360371;0;360371;
 8488;39361;FILOSOFIA E TEORIA DELLE SCIENZE INFERMIERISTICHE ED OSTETRICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/360372;modulo;46698;Tarlazzi Elena;Italiano;;360372;360371;360371;
@@ -2155,7 +2155,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8878;78826;ISTITUZIONI DI DIRITTO PUBBLICO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402423;modulo;14277;Bottari Carlo;Italiano;;402423;402417;402417;
 8878;78829;DIRITTO DEL LAVORO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402424;modulo;47480;Fusaro Luigi;Italiano;;402424;402417;402417;
 8878;78832;DIRITTO PENALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402430;modulo;15210;Insolera Gaetano;Italiano;;402430;402417;402417;
-8878;78834;SANIT?Ç PUBBLICA C.I.;;;;;;;402431;0;402431;
+8878;78834;SANITA' PUBBLICA C.I.;;;;;;;402431;0;402431;
 8878;78836;IGIENE GENERALE E APPLICATA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402435;modulo;31143;Fantini Maria Pia;Italiano;;402435;402431;402431;
 8878;78837;SCIENZE INFERMIERISTICHE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402436;modulo;36418;Chiari Paolo;Italiano;;402436;402431;402431;
 8878;78838;ORGANIZZAZIONE DEI SISTEMI SANITARI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402441;modulo;38466;Mantovani Debora;Italiano;;402441;402431;402431;
@@ -2174,7 +2174,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8878;78865;PEDAGOGIA SPERIMENTALE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/402483;modulo;36396;Luppi Elena;Italiano;;402483;402471;402471;
 8878;79234;TIROCINIO;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/403557;;42792;Gaddoni Claudio;;;403557;0;403557;
 8878;79467;EPISTEMOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404024;;39595;Campaner Raffaella;Italiano;;404024;0;404024;
-8878;79468;CAUSALIT?Ç IN MEDICINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404025;;31171;Violante Francesco Saverio;Italiano;;404025;0;404025;
+8878;79468;CAUSALITA' IN MEDICINA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404025;;31171;Violante Francesco Saverio;Italiano;;404025;0;404025;
 8878;2573;INGLESE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404274;;;;;;404274;0;404274;370032
 8878;79540;LABORATORIO DI INFORMATICA -;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404275;;36482;Amato Gabriele;;;404275;0;404275;
 8878;35199;PROVA FINALE;;;;;;;404280;0;404280;
@@ -2196,7 +2196,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8879;78508;LO SVILUPPO FISICO DEL BAMBINO E ASPETTI NUTRIZIONALI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401459;modulo;16054;Ricci Giampaolo;Italiano;;401459;401448;401448;
 8879;78513;LA SALUTE E I SUOI DETERMINANTI (C.I.);;;;;;;401460;0;401460;
 8879;78514;SALUTE GLOBALE E SUOI DETERMINANTI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401473;modulo;600020;Martino Ardig??;Italiano;;401473;401460;401460;
-8879;78515;ANALISI DEI BISOGNI DI COMUNIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401474;modulo;40179;Bertozzi Nicoletta;Italiano;;401474;401460;401460;
+8879;78515;ANALISI DEI BISOGNI DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401474;modulo;40179;Bertozzi Nicoletta;Italiano;;401474;401460;401460;
 8879;78516;METODOLOGIA DELLA PROFESSIONE DI ASSISTENTE SANITARIO I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401475;modulo;57367;Bastianini Vilma;Italiano;;401475;401460;401460;
 8879;78517;METODOLOGIA DELLA PROFESSIONE DI ASSISTENTE SANITARIO PER LA PREVENZIONE DELLE MALATTIE I;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401476;modulo;79789;Maini Simona;Italiano;;401476;401460;401460;
 8879;78571;FISIOLOGIA,PRINCIPI DI GENETICA MEDICA E SCIENZE DELLA NUTRIZIONE (C.I.);;;;;;;401478;0;401478;
@@ -2223,10 +2223,10 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8879;78934;MEDICINA INTERNA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401517;modulo;32996;Muratori Luigi;;;401517;401512;401512;
 8879;78934;MEDICINA INTERNA (1);;modulo;32996;Muratori Luigi;;;421395;401517;401512;
 8879;78934;MEDICINA INTERNA (2);;modulo;32838;Caraceni Paolo;;;421396;401517;401512;
-8879;78530;MEDICINA DI COMUNIT?Ç: PROMOZIONE DELLA SALUTE E PREVENZIONE (PRIMARIA, SECONDARIA) (C.I.);;;;;;;401519;0;401519;
-8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNIT?Ç;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401520;modulo;36211;Palazzi Mauro;Italiano;;401520;401519;401519;
-8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNIT?Ç (1);;modulo;36211;Palazzi Mauro;Italiano;;417664;401520;401519;
-8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNIT?Ç (2);;modulo;83155;Morri Michela;;;417665;401520;401519;
+8879;78530;MEDICINA DI COMUNITA': PROMOZIONE DELLA SALUTE E PREVENZIONE (PRIMARIA, SECONDARIA) (C.I.);;;;;;;401519;0;401519;
+8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNITA';http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401520;modulo;36211;Palazzi Mauro;Italiano;;401520;401519;401519;
+8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNITA' (1);;modulo;36211;Palazzi Mauro;Italiano;;417664;401520;401519;
+8879;78531;MEDICINA PREVENTIVA SOCIALE DI COMUNITA' (2);;modulo;83155;Morri Michela;;;417665;401520;401519;
 8879;78925;MALATTIE INFETTIVE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401521;modulo;51070;Ortolani Patrizia;Italiano;;401521;401519;401519;361259
 8879;78926;ONCOLOGIA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401523;modulo;600942;Nannini Margherita;Italiano;;401523;401519;401519;361219
 8879;78927;PSICOLOGIA CLINICA;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401525;modulo;81796;Valer Tiziana;;;401525;401519;401519;
@@ -2237,7 +2237,7 @@ corso_codice;materia_codice;materia_descrizione;url;tipo;docente_codice;docente_
 8879;78537;PEDAGOGIA GENERALE, SOCIALE ED ISTITUZIONALE (2);;modulo;;;;;424727;401528;401527;
 8879;78538;METODOLOGIA DELLA PROFESSIONE DI ASSISTENTE SANITARIO PER LA PROMOZIONE E L'EDUCAZIONE ALLA SALUTE;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401529;modulo;56045;Scarpellini Paola;;;401529;401527;401527;
 8879;78539;PROGETTAZIONE DI INTERVENTI PREVENTIVI E LORO IMPLEMENTAZIONE (C.I.);;;;;;;401530;0;401530;
-8879;78540;SALUTE DELLE COMUNIT?Ç E MEDICINA DELLE MIGRAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401531;modulo;82278;Pecci Anna;Italiano;;401531;401530;401530;
+8879;78540;SALUTE DELLE COMUNITA' E MEDICINA DELLE MIGRAZIONI;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401531;modulo;82278;Pecci Anna;Italiano;;401531;401530;401530;
 8879;78541;METODOLOGIA DELLA PROFESSIONE DI ASSISTENTE SANITARIO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401532;modulo;57367;Bastianini Vilma;Italiano;;401532;401530;401530;
 8879;78953;TIROCINIO II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401624;;40257;Campolattano Antonella;;;401624;0;401624;
 8879;78542;LABORATORIO PROFESSIONALE II;http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401626;;79789;Maini Simona;Italiano;;401626;0;401626;

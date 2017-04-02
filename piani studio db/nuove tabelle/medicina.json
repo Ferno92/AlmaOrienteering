@@ -2298,7 +2298,7 @@
       },
       {
          "materia_codice": 74423,
-         "materia_descrizione": "APPROCCIO COMPORTAMENTALE NEL TRATTAMENTO DEI PAZIENTI CON PARTICOLARI NECESSIT?� C.I.",
+         "materia_descrizione": "APPROCCIO COMPORTAMENTALE NEL TRATTAMENTO DEI PAZIENTI CON PARTICOLARI NECESSITA' C.I.",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -2326,7 +2326,7 @@
       },
       {
          "materia_codice": 74425,
-         "materia_descrizione": "ODONTOIATRIA PER PAZIENTI CON PARTICOLARI NECESSIT?�",
+         "materia_descrizione": "ODONTOIATRIA PER PAZIENTI CON PARTICOLARI NECESSITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/390248",
          "tipo": "modulo",
          "docente_codice": 15930,
@@ -5030,7 +5030,7 @@
       },
       {
          "materia_codice": 70737,
-         "materia_descrizione": "ABILIT?� CLINICHE TRANS-CULTURALI E ORGANIZZAZIONE DEI SERVIZI CULTURALMENTE COMPETENTE",
+         "materia_descrizione": "ABILITA' CLINICHE TRANS-CULTURALI E ORGANIZZAZIONE DEI SERVIZI CULTURALMENTE COMPETENTE",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380247",
          "tipo": "modulo",
          "docente_codice": 30778,
@@ -5450,7 +5450,7 @@
       },
       {
          "materia_codice": 70860,
-         "materia_descrizione": "IL PAZIENTE GERIATRICO: BASI FISIOPATOLOGICHE DELLA FRAGILIT?�",
+         "materia_descrizione": "IL PAZIENTE GERIATRICO: BASI FISIOPATOLOGICHE DELLA FRAGILITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380442",
          "tipo": "modulo",
          "docente_codice": 15408,
@@ -5464,7 +5464,7 @@
       },
       {
          "materia_codice": 70861,
-         "materia_descrizione": "STRUMENTI DI SCREENING PER LA SINDROME DELLA FRAGILIT?�",
+         "materia_descrizione": "STRUMENTI DI SCREENING PER LA SINDROME DELLA FRAGILITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380443",
          "tipo": "modulo",
          "docente_codice": 39862,
@@ -5562,7 +5562,7 @@
       },
       {
          "materia_codice": 70894,
-         "materia_descrizione": "PRINCIPI DI TRATTAMENTO DELLE AFFEZIONI OTOLOGICHE E DELLA SORDIT?�",
+         "materia_descrizione": "PRINCIPI DI TRATTAMENTO DELLE AFFEZIONI OTOLOGICHE E DELLA SORDITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380498",
          "tipo": "modulo",
          "docente_codice": 15932,
@@ -6178,7 +6178,7 @@
       },
       {
          "materia_codice": 71005,
-         "materia_descrizione": "NEUROSVILUPPO E ASPETTI PATOLOGICI IN ET?� EVOLUTIVA",
+         "materia_descrizione": "NEUROSVILUPPO E ASPETTI PATOLOGICI IN ETA' EVOLUTIVA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380714",
          "tipo": "modulo",
          "docente_codice": 15781,
@@ -6192,7 +6192,7 @@
       },
       {
          "materia_codice": 71006,
-         "materia_descrizione": "NEUROLOGIA DELL'ET?� EVOLUTIVA",
+         "materia_descrizione": "NEUROLOGIA DELL'ETA' EVOLUTIVA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380715",
          "tipo": "modulo",
          "docente_codice": 24252,
@@ -6206,7 +6206,7 @@
       },
       {
          "materia_codice": 71007,
-         "materia_descrizione": "PSICHIATRIA DELL'ET?� EVOLUTIVA",
+         "materia_descrizione": "PSICHIATRIA DELL'ETA' EVOLUTIVA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380716",
          "tipo": "modulo",
          "docente_codice": 15184,
@@ -6220,7 +6220,7 @@
       },
       {
          "materia_codice": 71016,
-         "materia_descrizione": "ALIMENTAZIONE E STATO NUTRIZIONALE NELLE DIVERSE ET?� DELLA VITA C.I.",
+         "materia_descrizione": "ALIMENTAZIONE E STATO NUTRIZIONALE NELLE DIVERSE ETA' DELLA VITA C.I.",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -6822,7 +6822,7 @@
       },
       {
          "materia_codice": 71131,
-         "materia_descrizione": "TRAPIANTO CARDIACO IN ET?� PEDIATRICA",
+         "materia_descrizione": "TRAPIANTO CARDIACO IN ETA' PEDIATRICA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/380960",
          "tipo": "modulo",
          "docente_codice": 38509,
@@ -9258,7 +9258,7 @@
       },
       {
          "materia_codice": 78611,
-         "materia_descrizione": "EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ADULTO E NELL'ET?� EVOLUTIVA C.I.-",
+         "materia_descrizione": "EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ADULTO E NELL'ETA' EVOLUTIVA C.I.-",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -9272,7 +9272,7 @@
       },
       {
          "materia_codice": 78612,
-         "materia_descrizione": "EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ET?� EVOLUTIVA-",
+         "materia_descrizione": "EMERGENZE E LINEE GUIDA CARDIOLOGICHE NELL'ETA' EVOLUTIVA-",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401905",
          "tipo": "modulo",
          "docente_codice": 14602,
@@ -9440,7 +9440,7 @@
       },
       {
          "materia_codice": 78634,
-         "materia_descrizione": "GENERALIT?� E NUTRIZIONE ARTIFICIALE NEL PAZIENTE IN TERAPIA INTENSIVA",
+         "materia_descrizione": "GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE IN TERAPIA INTENSIVA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401946",
          "tipo": "modulo",
          "docente_codice": 14441,
@@ -9454,7 +9454,7 @@
       },
       {
          "materia_codice": 78635,
-         "materia_descrizione": "GENERALIT?� E NUTRIZIONE ARTIFICIALE NEL PAZIENTE INTERNISTICO E A DOMICILIO",
+         "materia_descrizione": "GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE INTERNISTICO E A DOMICILIO",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401947",
          "tipo": "modulo",
          "docente_codice": 16690,
@@ -9468,7 +9468,7 @@
       },
       {
          "materia_codice": 78636,
-         "materia_descrizione": "GENERALIT?� E NUTRIZIONE ARTIFICIALE NEL PAZIENTE CHIRURGICO",
+         "materia_descrizione": "GENERALITA' E NUTRIZIONE ARTIFICIALE NEL PAZIENTE CHIRURGICO",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401948",
          "tipo": "modulo",
          "docente_codice": 24271,
@@ -9552,7 +9552,7 @@
       },
       {
          "materia_codice": 82366,
-         "materia_descrizione": "PLASTICIT?� NERVOSA E COMPORTAMENTO-",
+         "materia_descrizione": "PLASTICITA' NERVOSA E COMPORTAMENTO-",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413953",
          "tipo": "modulo",
          "docente_codice": 23248,
@@ -9566,7 +9566,7 @@
       },
       {
          "materia_codice": 82367,
-         "materia_descrizione": "NEUROGENESI E PLASTICIT?� CEREBRALE-",
+         "materia_descrizione": "NEUROGENESI E PLASTICITA' CEREBRALE-",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413954",
          "tipo": "modulo",
          "docente_codice": 33774,
@@ -9720,7 +9720,7 @@
       },
       {
          "materia_codice": 82392,
-         "materia_descrizione": "LA VALUTAZIONE DELLA IDONEIT?� AL LAVORO CON PARTICOLARE RIGUARDO ALLA CAPACIT?� FUNZIONALE MUSCOLO-SCHELETRICA NELL'INSERIMENTO AL LAVORO",
+         "materia_descrizione": "LA VALUTAZIONE DELLA IDONEITA' AL LAVORO CON PARTICOLARE RIGUARDO ALLA CAPACITA' FUNZIONALE MUSCOLO-SCHELETRICA NELL'INSERIMENTO AL LAVORO",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/414017",
          "tipo": "modulo",
          "docente_codice": 36222,
@@ -10366,7 +10366,7 @@
       },
       {
          "materia_codice": 39175,
-         "materia_descrizione": "METODI E DIDATTICHE DELLE ATTIVIT?� MOTORIE",
+         "materia_descrizione": "METODI E DIDATTICHE DELLE ATTIVITA' MOTORIE",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/359956",
          "tipo": "modulo",
          "docente_codice": 34978,
@@ -11264,7 +11264,7 @@
       },
       {
          "materia_codice": 39276,
-         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNIT?� (C.I.)",
+         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -11278,7 +11278,7 @@
       },
       {
          "materia_codice": 21350,
-         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNIT?�",
+         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -11292,7 +11292,7 @@
       },
       {
          "materia_codice": 39277,
-         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?�",
+         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -11460,7 +11460,7 @@
       },
       {
          "materia_codice": 39298,
-         "materia_descrizione": "SCIENZE DI SANIT?� PUBBLICA (C.I.)",
+         "materia_descrizione": "SCIENZE DI SANITA' PUBBLICA (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -12258,7 +12258,7 @@
       },
       {
          "materia_codice": 82257,
-         "materia_descrizione": "INFERMIERISTICA OLISTICA, CRONICIT?� E RIABILITAZIONE (C.I.)",
+         "materia_descrizione": "INFERMIERISTICA OLISTICA, CRONICITA' E RIABILITAZIONE (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -12314,7 +12314,7 @@
       },
       {
          "materia_codice": 82261,
-         "materia_descrizione": "ASSISTENZA INFERMIERISTICA NELLE DISABILIT?�",
+         "materia_descrizione": "ASSISTENZA INFERMIERISTICA NELLE DISABILITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/413688",
          "tipo": "modulo",
          "docente_codice": 55399,
@@ -12342,7 +12342,7 @@
       },
       {
          "materia_codice": 82407,
-         "materia_descrizione": "INNOVAZIONE IN SANIT?� E PROBLEMI PRIORITARI DI SALUTE (C.I.)",
+         "materia_descrizione": "INNOVAZIONE IN SANITA' E PROBLEMI PRIORITARI DI SALUTE (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -13058,7 +13058,7 @@
       },
       {
          "materia_codice": 39276,
-         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNIT?� (C.I.)",
+         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -13072,7 +13072,7 @@
       },
       {
          "materia_codice": 21350,
-         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNIT?�",
+         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -13086,7 +13086,7 @@
       },
       {
          "materia_codice": 39277,
-         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?�",
+         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -13170,7 +13170,7 @@
       },
       {
          "materia_codice": 39298,
-         "materia_descrizione": "SCIENZE DI SANIT?� PUBBLICA (C.I.)",
+         "materia_descrizione": "SCIENZE DI SANITA' PUBBLICA (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -13688,7 +13688,7 @@
       },
       {
          "materia_codice": 81479,
-         "materia_descrizione": "LA CURA NELLA CRONICIT?� (C.I.)",
+         "materia_descrizione": "LA CURA NELLA CRONICITA' (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -13702,7 +13702,7 @@
       },
       {
          "materia_codice": 81480,
-         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?�",
+         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411676",
          "tipo": "modulo",
          "docente_codice": 31435,
@@ -13716,7 +13716,7 @@
       },
       {
          "materia_codice": 81480,
-         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?� (1)",
+         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA' (1)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 31435,
@@ -13730,7 +13730,7 @@
       },
       {
          "materia_codice": 81480,
-         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICIT?� (2)",
+         "materia_descrizione": "ALIMENTAZIONE, NUTRIZIONE E CURA NELLA CRONICITA' (2)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 32838,
@@ -14544,7 +14544,7 @@
       },
       {
          "materia_codice": 39276,
-         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNIT?� (C.I.)",
+         "materia_descrizione": "SCIENZE INFERMIERISTICHE DELLA COMUNITA' (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -14558,7 +14558,7 @@
       },
       {
          "materia_codice": 21350,
-         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNIT?�",
+         "materia_descrizione": "INFERMIERISTICA PREVENTIVA E DI COMUNITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -14572,7 +14572,7 @@
       },
       {
          "materia_codice": 39277,
-         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICIT?�",
+         "materia_descrizione": "INFERMIERISTICA CLINICA E RIABILITATIVA NELLA CRONICITA'",
          "url": "",
          "tipo": "modulo",
          "docente_codice": null,
@@ -14656,7 +14656,7 @@
       },
       {
          "materia_codice": 39298,
-         "materia_descrizione": "SCIENZE DI SANIT?� PUBBLICA (C.I.)",
+         "materia_descrizione": "SCIENZE DI SANITA' PUBBLICA (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -17376,7 +17376,7 @@
       },
       {
          "materia_codice": 39705,
-         "materia_descrizione": "ULTERIORI ATTIVIT?� FORMATIVE (C.I.)",
+         "materia_descrizione": "ULTERIORI ATTIVITA' FORMATIVE (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -17390,7 +17390,7 @@
       },
       {
          "materia_codice": 39710,
-         "materia_descrizione": "ABILIT?� INFORMATICHE E TELEMATICHE",
+         "materia_descrizione": "ABILITA' INFORMATICHE E TELEMATICHE",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/361632",
          "tipo": "modulo",
          "docente_codice": 47642,
@@ -18834,7 +18834,7 @@
       },
       {
          "materia_codice": 72186,
-         "materia_descrizione": "ACQUISIZIONE DI ULTERIORI ABILIT?� NELLA RIABILITAZIONE (C.I.)",
+         "materia_descrizione": "ACQUISIZIONE DI ULTERIORI ABILITA' NELLA RIABILITAZIONE (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -19298,7 +19298,7 @@
       },
       {
          "materia_codice": 76069,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 1 -",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 1 -",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393711",
          "tipo": "",
          "docente_codice": 35491,
@@ -19312,7 +19312,7 @@
       },
       {
          "materia_codice": 76069,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 1 - (1)",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 1 - (1)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 35491,
@@ -19326,7 +19326,7 @@
       },
       {
          "materia_codice": 76069,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 1 - (2)",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 1 - (2)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 51005,
@@ -19886,7 +19886,7 @@
       },
       {
          "materia_codice": 76112,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 2",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 2",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/393763",
          "tipo": "",
          "docente_codice": 32432,
@@ -19900,7 +19900,7 @@
       },
       {
          "materia_codice": 76112,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 2 (1)",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 2 (1)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 32432,
@@ -19914,7 +19914,7 @@
       },
       {
          "materia_codice": 76112,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 2 (2)",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 2 (2)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 32432,
@@ -19928,7 +19928,7 @@
       },
       {
          "materia_codice": 76112,
-         "materia_descrizione": "ATTIVIT?� SEMINARIALI 2 (3)",
+         "materia_descrizione": "ATTIVITA' SEMINARIALI 2 (3)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 32432,
@@ -20054,7 +20054,7 @@
       },
       {
          "materia_codice": 81472,
-         "materia_descrizione": "ATTIVIT?� PRATICHE PODOLOGICHE (C.I.)",
+         "materia_descrizione": "ATTIVITA' PRATICHE PODOLOGICHE (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -23658,7 +23658,7 @@
       },
       {
          "materia_codice": 79598,
-         "materia_descrizione": "ATTIVIT?� SPECIALISTICHE ORTOPEDICHE (C.I.)-",
+         "materia_descrizione": "ATTIVITA' SPECIALISTICHE ORTOPEDICHE (C.I.)-",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -24906,7 +24906,7 @@
       },
       {
          "materia_codice": 81431,
-         "materia_descrizione": "SISTEMI QUALIT?� NEI LABORATORI ANALISI",
+         "materia_descrizione": "SISTEMI QUALITA' NEI LABORATORI ANALISI",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/411609",
          "tipo": "modulo",
          "docente_codice": 33680,
@@ -28300,7 +28300,7 @@
       },
       {
          "materia_codice": 75222,
-         "materia_descrizione": "PRINCIPI DI INFETTIVOLOGIA - MODALIT?� DI TRASMISSIONE DELLE MALATTIE",
+         "materia_descrizione": "PRINCIPI DI INFETTIVOLOGIA - MODALITA' DI TRASMISSIONE DELLE MALATTIE",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/391519",
          "tipo": "modulo",
          "docente_codice": 35408,
@@ -28370,7 +28370,7 @@
       },
       {
          "materia_codice": 79535,
-         "materia_descrizione": "LA NORMATIVA SULLA SICUREZZA E L'ATTIVIT?� DI VIGILANZA C.I.-",
+         "materia_descrizione": "LA NORMATIVA SULLA SICUREZZA E L'ATTIVITA' DI VIGILANZA C.I.-",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -28384,7 +28384,7 @@
       },
       {
          "materia_codice": 79536,
-         "materia_descrizione": "ATTIVIT?� DI VIGILANZA E ISPEZIONE DEGLI OPERATORI DI VIGILANZA E CONTROLLO. FUNZIONI PREVENTIVE E REPRESSIVE -",
+         "materia_descrizione": "ATTIVITA' DI VIGILANZA E ISPEZIONE DEGLI OPERATORI DI VIGILANZA E CONTROLLO. FUNZIONI PREVENTIVE E REPRESSIVE -",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404257",
          "tipo": "modulo",
          "docente_codice": 39362,
@@ -30224,7 +30224,7 @@
       },
       {
          "materia_codice": 78834,
-         "materia_descrizione": "SANIT?� PUBBLICA C.I.",
+         "materia_descrizione": "SANITA' PUBBLICA C.I.",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -30490,7 +30490,7 @@
       },
       {
          "materia_codice": 79468,
-         "materia_descrizione": "CAUSALIT?� IN MEDICINA",
+         "materia_descrizione": "CAUSALITA' IN MEDICINA",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/404025",
          "tipo": "",
          "docente_codice": 31171,
@@ -30800,7 +30800,7 @@
       },
       {
          "materia_codice": 78515,
-         "materia_descrizione": "ANALISI DEI BISOGNI DI COMUNIT?�",
+         "materia_descrizione": "ANALISI DEI BISOGNI DI COMUNITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401474",
          "tipo": "modulo",
          "docente_codice": 40179,
@@ -31178,7 +31178,7 @@
       },
       {
          "materia_codice": 78530,
-         "materia_descrizione": "MEDICINA DI COMUNIT?�: PROMOZIONE DELLA SALUTE E PREVENZIONE (PRIMARIA, SECONDARIA) (C.I.)",
+         "materia_descrizione": "MEDICINA DI COMUNITA': PROMOZIONE DELLA SALUTE E PREVENZIONE (PRIMARIA, SECONDARIA) (C.I.)",
          "url": "",
          "tipo": "",
          "docente_codice": null,
@@ -31192,7 +31192,7 @@
       },
       {
          "materia_codice": 78531,
-         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNIT?�",
+         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNITA'",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401520",
          "tipo": "modulo",
          "docente_codice": 36211,
@@ -31206,7 +31206,7 @@
       },
       {
          "materia_codice": 78531,
-         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNIT?� (1)",
+         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNITA' (1)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 36211,
@@ -31220,7 +31220,7 @@
       },
       {
          "materia_codice": 78531,
-         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNIT?� (2)",
+         "materia_descrizione": "MEDICINA PREVENTIVA SOCIALE DI COMUNITA' (2)",
          "url": "",
          "tipo": "modulo",
          "docente_codice": 83155,
@@ -31374,7 +31374,7 @@
       },
       {
          "materia_codice": 78540,
-         "materia_descrizione": "SALUTE DELLE COMUNIT?� E MEDICINA DELLE MIGRAZIONI",
+         "materia_descrizione": "SALUTE DELLE COMUNITA' E MEDICINA DELLE MIGRAZIONI",
          "url": "http://www.unibo.it/it/didattica/insegnamenti/insegnamento/2016/401531",
          "tipo": "modulo",
          "docente_codice": 82278,

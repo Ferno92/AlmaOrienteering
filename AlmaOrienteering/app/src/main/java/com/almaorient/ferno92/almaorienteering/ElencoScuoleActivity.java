@@ -215,6 +215,8 @@ public class ElencoScuoleActivity extends BaseActivity {
                     ArrayList<Corso> tempCorsoList2 = new ArrayList<Corso>();
                     ArrayList<Corso> defCorsoList = new ArrayList<Corso>();
 
+                    //Switch per dati passati dal filtro
+
                     switch (tipo_laurea) {
                         case "Laurea":
                             for (int i=0; i<tempCorsoList.size(); i++) {

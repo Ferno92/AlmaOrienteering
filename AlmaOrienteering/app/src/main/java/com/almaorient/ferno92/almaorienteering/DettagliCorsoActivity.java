@@ -11,6 +11,7 @@ import android.util.Log;
 import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AccelerateDecelerateInterpolator;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -21,6 +22,7 @@ import android.widget.Button;
 import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
@@ -119,7 +121,6 @@ public class DettagliCorsoActivity extends BaseActivity {
                         mThirdlevelmap.put(elencoinsegnamenti.get(c).getCorsoNome(), mTerzoLivello2sublist);
                     } else {
                         List<String> vuoto = new ArrayList<String>();
-                        //vuoto.add(elencoinsegnamenti.get(c).getCorsoNome());
                         mThirdlevelmap.put(elencoinsegnamenti.get(c).getCorsoNome(), vuoto);
                     }
 
@@ -455,10 +456,7 @@ public class DettagliCorsoActivity extends BaseActivity {
                     mExpandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
                         @Override
                         public boolean onChildClick(ExpandableListView expandableListView, View view, int i, int i1, long l) {
-                            String seletectText = ((TextView) view).getText().toString().toLowerCase();
-
-                            // /String seletectText = String.valueOf(expandableListView.getc);
-                            Toast.makeText(getApplicationContext(), seletectText, Toast.LENGTH_SHORT).show();
+                            parentLevelAdapter.notifyDataSetChanged();
 
                             return false;
                         }
@@ -475,9 +473,7 @@ public class DettagliCorsoActivity extends BaseActivity {
 //            });
                 }
 
-
             }
-
 
             @Override
             public void onCancelled(DatabaseError databaseError) {

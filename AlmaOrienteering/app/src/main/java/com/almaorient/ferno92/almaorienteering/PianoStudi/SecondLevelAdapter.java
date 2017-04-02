@@ -4,16 +4,13 @@ package com.almaorient.ferno92.almaorienteering.PianoStudi;
  * Created by ale96 on 30/03/2017.
  */
 import android.content.Context;
-import android.graphics.Color;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
-import android.widget.ExpandableListAdapter;
-import android.widget.ExpandableListView;
+import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.R;
 
@@ -50,7 +47,7 @@ public class SecondLevelAdapter extends BaseExpandableListAdapter {
         if (convertView == null) {
             LayoutInflater layoutInflater = (LayoutInflater) this.mContext
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = layoutInflater.inflate(R.layout.drawer_list_item_third_level, parent, false);
+            convertView = layoutInflater.inflate(R.layout.dettaglicorso_list_item_third_level, parent, false);
         }
         TextView txtListChild = (TextView) convertView
                 .findViewById(R.id.lblListItem);
@@ -91,12 +88,24 @@ public class SecondLevelAdapter extends BaseExpandableListAdapter {
         if (convertView == null) {
             LayoutInflater layoutInflater = (LayoutInflater) this.mContext
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = layoutInflater.inflate(R.layout.drawer_list_group_second_level, parent, false);
+            convertView = layoutInflater.inflate(R.layout.dettaglicorso_list_group_second_level, parent, false);
         }
         TextView lblListHeader = (TextView) convertView
                 .findViewById(R.id.lblListHeader);
         lblListHeader.setText(headerTitle);
 
+        if (!(getChildrenCount(groupPosition)==0)){
+            ImageView image = (ImageView) convertView
+                    .findViewById(R.id.frecciasecondlevel);
+
+            if (isExpanded){
+                image.setImageResource(R.drawable.ic_arrow_down_2ndlevelpianistudio);
+            }
+            else {
+                image.setImageResource(R.drawable.ic_expand_more);
+
+            }
+        }
 
         return convertView;
     }

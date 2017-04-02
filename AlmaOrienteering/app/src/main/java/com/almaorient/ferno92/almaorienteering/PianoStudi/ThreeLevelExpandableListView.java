@@ -4,30 +4,23 @@ package com.almaorient.ferno92.almaorienteering.PianoStudi;
 import android.content.Context;
 import android.content.Intent;
 import android.database.DataSetObserver;
-import android.graphics.Color;
-import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.BaseExpandableListAdapter;
-import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
+import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.almaorient.ferno92.almaorienteering.DettagliCorsoActivity;
 import com.almaorient.ferno92.almaorienteering.EmbedBrowser;
 import com.almaorient.ferno92.almaorienteering.R;
 
-import java.security.acl.Group;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import com.almaorient.ferno92.almaorienteering.EmbedBrowser;
 
 
-public class ThreeLevelExpandableListView implements ExpandableListAdapter {
+public class ThreeLevelExpandableListView extends BaseExpandableListAdapter {
     private final Context mContext;
     private final List<String> mListDataHeader;
     private final Map<String,String> mUrlSecondoLivello;
@@ -81,7 +74,7 @@ public class ThreeLevelExpandableListView implements ExpandableListAdapter {
 
     @Override
     public View getChildView(final int groupPosition, final int childPosition,
-                             boolean isLastChild, View convertView, final ViewGroup parent) {
+                             boolean isLastChild, final View convertView, final ViewGroup parent) {
         final CustomExpListView secondLevelExpListView = new CustomExpListView(this.mContext);
         final String parentNode = (String) getGroup(groupPosition);
         final SecondLevelAdapter adapter = new SecondLevelAdapter(this.mContext,mListData_SecondLevel_Map.get(parentNode),mListData_ThirdLevel_Map);
@@ -116,6 +109,13 @@ public class ThreeLevelExpandableListView implements ExpandableListAdapter {
                         richiamoBrowser(mUrlSecondoLivello.get((String)expandableListView.getExpandableListAdapter().getGroup(i)));
                     }
                 }
+
+
+//                final ImageButton arrowButton = (ImageButton) parent.findViewById(R.id.imageButton);
+
+//                float deg = arrowButton.getRotation() + 180F;
+//                arrowButton.animate().rotation(deg).setInterpolator(new AccelerateDecelerateInterpolator());
+
                 return false;
             }
 
@@ -156,17 +156,30 @@ public class ThreeLevelExpandableListView implements ExpandableListAdapter {
     }
 
     @Override
-    public View getGroupView(int groupPosition, boolean isExpanded,
+    public View getGroupView(int groupPosition, final boolean isExpanded,
                              View convertView, ViewGroup parent) {
         String headerTitle = (String) getGroup(groupPosition);
         if (convertView == null) {
             LayoutInflater layoutInflater = (LayoutInflater) this.mContext
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = layoutInflater.inflate(R.layout.drawer_list_group_first_level, parent, false);
+            convertView = layoutInflater.inflate(R.layout.dettaglicorso_list_group_first_level, parent, false);
         }
         TextView lblListHeader = (TextView) convertView
                 .findViewById(R.id.lblListHeader);
         lblListHeader.setText(headerTitle);
+
+        ImageView image = (ImageView) convertView
+                .findViewById(R.id.frecciafirstlevel);
+
+        if (isExpanded){
+            image.setImageResource(R.drawable.ic_expand_less);
+        }
+        else {
+            image.setImageResource(R.drawable.ic_expand_more);
+
+        }
+
+
 
         return convertView;
     }
