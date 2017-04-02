@@ -4,7 +4,12 @@
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
         "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+=======
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
     }
 ]

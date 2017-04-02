@@ -946,7 +946,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+=======
+        "outputFile": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
         "map": [
             {
                 "to": {
@@ -957,7 +961,11 @@
                     "endOffset": 95
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -976,7 +984,11 @@
                     "endOffset": 143
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -995,7 +1007,11 @@
                     "endOffset": 193
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1014,7 +1030,11 @@
                     "endOffset": 243
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1033,7 +1053,11 @@
                     "endOffset": 306
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1052,7 +1076,11 @@
                     "endOffset": 366
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1071,7 +1099,11 @@
                     "endOffset": 427
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1090,7 +1122,11 @@
                     "endOffset": 494
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1109,7 +1145,11 @@
                     "endOffset": 557
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1128,7 +1168,11 @@
                     "endOffset": 629
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1147,7 +1191,11 @@
                     "endOffset": 701
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1166,7 +1214,11 @@
                     "endOffset": 775
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1185,7 +1237,11 @@
                     "endOffset": 849
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1204,7 +1260,11 @@
                     "endOffset": 925
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1223,7 +1283,11 @@
                     "endOffset": 998
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1242,7 +1306,11 @@
                     "endOffset": 1073
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1261,7 +1329,11 @@
                     "endOffset": 1144
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1280,7 +1352,11 @@
                     "endOffset": 1223
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1299,7 +1375,11 @@
                     "endOffset": 1285
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1318,7 +1398,11 @@
                     "endOffset": 1348
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1337,7 +1421,11 @@
                     "endOffset": 1426
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1356,7 +1444,11 @@
                     "endOffset": 1505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1375,7 +1467,11 @@
                     "endOffset": 1598
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1394,7 +1490,11 @@
                     "endOffset": 1691
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1413,7 +1513,11 @@
                     "endOffset": 1799
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1432,7 +1536,11 @@
                     "endOffset": 1907
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1451,7 +1559,11 @@
                     "endOffset": 4274
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1470,7 +1582,11 @@
                     "endOffset": 4342
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -1489,7 +1605,11 @@
                     "endOffset": 4405
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -1508,7 +1628,11 @@
                     "endOffset": 4470
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -1527,7 +1651,11 @@
                     "endOffset": 4536
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -1546,7 +1674,11 @@
                     "endOffset": 4603
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -1565,7 +1697,11 @@
                     "endOffset": 4681
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -1584,7 +1720,11 @@
                     "endOffset": 4771
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -1603,7 +1743,11 @@
                     "endOffset": 4844
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -1622,7 +1766,11 @@
                     "endOffset": 4913
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -1641,7 +1789,11 @@
                     "endOffset": 4978
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -1660,7 +1812,11 @@
                     "endOffset": 5046
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -1679,7 +1835,11 @@
                     "endOffset": 5112
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -1698,7 +1858,11 @@
                     "endOffset": 5181
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -1717,7 +1881,11 @@
                     "endOffset": 5260
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -1736,7 +1904,11 @@
                     "endOffset": 5330
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -1755,7 +1927,11 @@
                     "endOffset": 5403
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -1774,7 +1950,11 @@
                     "endOffset": 5477
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -1794,7 +1974,11 @@
                     "endOffset": 5677
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -1815,7 +1999,11 @@
                     "endOffset": 5930
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -1836,7 +2024,11 @@
                     "endOffset": 5969
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -1857,7 +2049,11 @@
                     "endOffset": 6159
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -1878,7 +2074,11 @@
                     "endOffset": 6761
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+=======
+                    "file": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
