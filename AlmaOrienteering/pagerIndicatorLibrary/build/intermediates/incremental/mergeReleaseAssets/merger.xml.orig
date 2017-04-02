@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="C:\Users\ale96\Documents\AlmaOrienteering\AlmaOrienteering\pagerIndicatorLibrary\src\main\assets"/><source path="C:\Users\ale96\Documents\AlmaOrienteering\AlmaOrienteering\pagerIndicatorLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\ale96\Documents\AlmaOrienteering\AlmaOrienteering\pagerIndicatorLibrary\src\release\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Marco\Documents\Marco\Projects\Almaorienteering\AlmaOrienteering\pagerIndicatorLibrary\src\main\assets"/><source path="C:\Users\Marco\Documents\Marco\Projects\Almaorienteering\AlmaOrienteering\pagerIndicatorLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Marco\Documents\Marco\Projects\Almaorienteering\AlmaOrienteering\pagerIndicatorLibrary\src\release\assets"/></dataSet></merger>
+>>>>>>> 5915709f9ba5a9f970686da05a980b828c7e7c11

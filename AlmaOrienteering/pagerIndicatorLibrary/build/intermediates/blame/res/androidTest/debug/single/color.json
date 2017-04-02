@@ -4,7 +4,24 @@
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
     },
     {
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+=======
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
     }
 ]

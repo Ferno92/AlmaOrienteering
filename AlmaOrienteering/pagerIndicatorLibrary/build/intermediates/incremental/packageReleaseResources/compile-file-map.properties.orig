@@ -1,4 +1,9 @@
-#Sat Apr 01 19:17:24 CEST 2017
+<<<<<<< HEAD
+#Sun Apr 02 09:28:53 CEST 2017
+=======
+#Sun Apr 02 10:37:04 CEST 2017
+C\:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\color\\vpi__dark_theme.xml=C\:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml
+>>>>>>> 5915709f9ba5a9f970686da05a980b828c7e7c11
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png
@@ -32,6 +37,11 @@ C\:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicator
 C\:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable\\vpi__tab_indicator.xml=C\:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png
+<<<<<<< HEAD
+=======
+C\:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png=C\:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png
+>>>>>>> 5915709f9ba5a9f970686da05a980b828c7e7c11
+C\:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png=C\:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png
 C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\src\\main\\res\\color\\vpi__dark_theme.xml=C\:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml

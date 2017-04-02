@@ -1,10 +1,12 @@
 package com.almaorient.ferno92.almaorienteering.recensioni;
 
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RatingBar;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.almaorient.ferno92.almaorienteering.R;
 
@@ -32,24 +34,36 @@ class RecensioniBinder implements SimpleAdapter.ViewBinder {
             quotaText.setText(stringval);
             return true;
         }else if(view.getId() == R.id.rec_up){
+            final int resId = Integer.parseInt((String)data);
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
                     LinearLayout parentView = (LinearLayout) view.getParent();
                     TextView quotaText = (TextView) parentView.findViewById(R.id.quota);
-                    quotaText.setText(String.valueOf(Integer.parseInt(quotaText.getText().toString()) + 1));
+
+                    ImageView recUp = (ImageView)view;
+                    ImageView recDown = (ImageView)parentView.findViewById(R.id.rec_up);
+                    if(recUp.getTag() != resId && recDown.getTag() != resId){
+                        quotaText.setText(String.valueOf(Integer.parseInt(quotaText.getText().toString()) + 1));
+                        recUp.setImageResource(resId);
+                    }
                 }
             });
             return true;
 
         }else if(view.getId() == R.id.rec_down){
+            final int resId = Integer.parseInt((String)data);
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
                     LinearLayout parentView = (LinearLayout) view.getParent();
                     TextView quotaText = (TextView) parentView.findViewById(R.id.quota);
-                    if(Integer.parseInt(quotaText.getText().toString()) - 1 >= 0){
+                    ImageView recUp = (ImageView)parentView.findViewById(R.id.rec_up);
+                    ImageView recDown = (ImageView)view;
+                    if(Integer.parseInt(quotaText.getText().toString()) - 1 >= 0 &&
+                            recUp.getTag() != resId && recDown.getTag() != resId){
                         quotaText.setText(String.valueOf(Integer.parseInt(quotaText.getText().toString()) - 1));
+                        recDown.setImageResource(resId);
                     }
                 }
             });

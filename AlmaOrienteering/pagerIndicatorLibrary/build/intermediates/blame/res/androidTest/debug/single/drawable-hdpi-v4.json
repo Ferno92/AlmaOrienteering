@@ -1,11 +1,24 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+=======
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
+    },
+    {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
     },
     {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
@@ -16,11 +29,49 @@
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+=======
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
+    },
+    {
         "merged": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
         "source": "C:\\Users\\ale96\\Documents\\AlmaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\projects\\almaOrienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+=======
+        "merged": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Marco\\Documents\\Marco\\Projects\\Almaorienteering\\AlmaOrienteering\\pagerIndicatorLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+>>>>>>> 9cc55bf8cfaa9344ba9f3170bb699aeaff55bc89
     }
 ]
