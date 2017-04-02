@@ -132,6 +132,8 @@ public class ListaRecensioniActivity extends BaseActivity {
         //Questa è la lista che rappresenta la sorgente dei dati della listview
         //ogni elemento è una mappa(chiave->valore)
         ArrayList<HashMap<String, Object>> data=new ArrayList<HashMap<String,Object>>();
+        int resourceId = getResources().getIdentifier("ic_recensione_success" , "drawable", getPackageName());
+
 
 
         for(int i=0;i<mRecensioniList.size();i++){
@@ -142,8 +144,8 @@ public class ListaRecensioniActivity extends BaseActivity {
             recMap.put("voto", p.getVoto());
             recMap.put("recensione", p.getRecensione());
             recMap.put("quota", p.getQuota());
-            recMap.put("up", "");
-            recMap.put("down", "");
+            recMap.put("up", resourceId);
+            recMap.put("down", resourceId);
             data.add(recMap);  //aggiungiamo la mappa di valori alla sorgente dati
         }
 
